@@ -1,10 +1,12 @@
 ﻿# builder-slide-presentation
 
-2 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | anthropics | pptx | [SKILL.md](anthropics/pptx/SKILL.md) |
+| K-Dense-AI | pptx | [SKILL.md](K-Dense-AI/pptx/SKILL.md) |
+| K-Dense-AI | pptx-posters | [SKILL.md](K-Dense-AI/pptx-posters/SKILL.md) |
 | sickn33 | pptx-official | [SKILL.md](sickn33/pptx-official/SKILL.md) |
 
 ---

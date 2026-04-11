@@ -1,11 +1,12 @@
 ﻿# writer-technical
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | bmad-code-org | bmad-agent-tech-writer | [SKILL.md](bmad-code-org/bmad-agent-tech-writer/SKILL.md) |
 | github | documentation-writer | [SKILL.md](github/documentation-writer/SKILL.md) |
+| K-Dense-AI | scientific-writing | [SKILL.md](K-Dense-AI/scientific-writing/SKILL.md) |
 | mattnebr | technical-writing-style | [SKILL.md](mattnebr/technical-writing-style/SKILL.md) |
 
 ---

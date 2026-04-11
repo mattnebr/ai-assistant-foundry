@@ -1,12 +1,13 @@
 ﻿# data-scientist
 
-6 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | product-analytics | [SKILL.md](alirezarezvani/product-analytics/SKILL.md) |
 | alirezarezvani | senior-data-scientist | [SKILL.md](alirezarezvani/senior-data-scientist/SKILL.md) |
 | alirezarezvani | statistical-analyst | [SKILL.md](alirezarezvani/statistical-analyst/SKILL.md) |
+| K-Dense-AI | database-lookup | [SKILL.md](K-Dense-AI/database-lookup/SKILL.md) |
 | sickn33 | data-scientist | [SKILL.md](sickn33/data-scientist/SKILL.md) |
 | sickn33 | data-storytelling | [SKILL.md](sickn33/data-storytelling/SKILL.md) |
 | sickn33 | kpi-dashboard-design | [SKILL.md](sickn33/kpi-dashboard-design/SKILL.md) |

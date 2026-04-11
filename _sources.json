@@ -4171,6 +4171,55 @@
       "SkillFolder": "composio-skills/atlassian-automation",
       "GroupName": "jira",
       "ArchivedAt": "2026-04-11T21:28:40.347957Z"
+    },
+    {
+      "Owner": "K-Dense-AI",
+      "Repo": "scientific-agent-skills",
+      "SkillFolder": "scientific-skills/database-lookup",
+      "GroupName": "data-scientist",
+      "ArchivedAt": "2026-04-11T21:36:26.6220205Z"
+    },
+    {
+      "Owner": "K-Dense-AI",
+      "Repo": "scientific-agent-skills",
+      "SkillFolder": "scientific-skills/markdown-mermaid-writing",
+      "GroupName": "engineer-markdown",
+      "ArchivedAt": "2026-04-11T21:37:21.9029564Z"
+    },
+    {
+      "Owner": "K-Dense-AI",
+      "Repo": "scientific-agent-skills",
+      "SkillFolder": "scientific-skills/pptx-posters",
+      "GroupName": "builder-slide-presentation",
+      "ArchivedAt": "2026-04-11T21:38:38.1836027Z"
+    },
+    {
+      "Owner": "K-Dense-AI",
+      "Repo": "scientific-agent-skills",
+      "SkillFolder": "scientific-skills/pptx",
+      "GroupName": "builder-slide-presentation",
+      "ArchivedAt": "2026-04-11T21:38:47.4098146Z"
+    },
+    {
+      "Owner": "K-Dense-AI",
+      "Repo": "scientific-agent-skills",
+      "SkillFolder": "scientific-skills/scientific-critical-thinking",
+      "GroupName": "brainstorming",
+      "ArchivedAt": "2026-04-11T21:39:29.468462Z"
+    },
+    {
+      "Owner": "K-Dense-AI",
+      "Repo": "scientific-agent-skills",
+      "SkillFolder": "scientific-skills/scientific-writing",
+      "GroupName": "writer-technical",
+      "ArchivedAt": "2026-04-11T21:39:43.393745Z"
+    },
+    {
+      "Owner": "K-Dense-AI",
+      "Repo": "scientific-agent-skills",
+      "SkillFolder": "scientific-skills/xlsx",
+      "GroupName": "builder-spreadsheet",
+      "ArchivedAt": "2026-04-11T21:40:19.3904871Z"
     }
   ]
 }

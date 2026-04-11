@@ -1,12 +1,13 @@
 ﻿# jira
 
-5 skill variant(s).
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | atlassian-admin | [SKILL.md](alirezarezvani/atlassian-admin/SKILL.md) |
 | alirezarezvani | atlassian-templates | [SKILL.md](alirezarezvani/atlassian-templates/SKILL.md) |
 | alirezarezvani | jira-expert | [SKILL.md](alirezarezvani/jira-expert/SKILL.md) |
+| ComposioHQ | atlassian-automation | [SKILL.md](ComposioHQ/atlassian-automation/SKILL.md) |
 | langpingxue | atlassian-readonly-skills | [SKILL.md](langpingxue/atlassian-readonly-skills/SKILL.md) |
 | sickn33 | jira-automation | [SKILL.md](sickn33/jira-automation/SKILL.md) |
 

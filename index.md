@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*127 skill group(s) — 540 total variant(s)*
+*127 skill group(s) — 550 total variant(s)*
 
 ## agent-orchestration
 
@@ -103,6 +103,7 @@
 
 - [bmad-code-org/bmad-brainstorming](brainstorming/bmad-code-org/bmad-brainstorming/SKILL.md)
 - [cblecker/brainstorming](brainstorming/cblecker/brainstorming/SKILL.md)
+- [K-Dense-AI/scientific-critical-thinking](brainstorming/K-Dense-AI/scientific-critical-thinking/SKILL.md)
 - [sickn33/brainstorming](brainstorming/sickn33/brainstorming/SKILL.md)
 - [sickn33/idea-darwin](brainstorming/sickn33/idea-darwin/SKILL.md)
 
@@ -121,11 +122,14 @@
 ## builder-slide-presentation
 
 - [anthropics/pptx](builder-slide-presentation/anthropics/pptx/SKILL.md)
+- [K-Dense-AI/pptx](builder-slide-presentation/K-Dense-AI/pptx/SKILL.md)
+- [K-Dense-AI/pptx-posters](builder-slide-presentation/K-Dense-AI/pptx-posters/SKILL.md)
 - [sickn33/pptx-official](builder-slide-presentation/sickn33/pptx-official/SKILL.md)
 
 ## builder-spreadsheet
 
 - [anthropics/xlsx](builder-spreadsheet/anthropics/xlsx/SKILL.md)
+- [K-Dense-AI/xlsx](builder-spreadsheet/K-Dense-AI/xlsx/SKILL.md)
 - [sickn33/xlsx-official](builder-spreadsheet/sickn33/xlsx-official/SKILL.md)
 
 ## business-analysis
@@ -207,6 +211,7 @@
 - [alirezarezvani/product-analytics](data-scientist/alirezarezvani/product-analytics/SKILL.md)
 - [alirezarezvani/senior-data-scientist](data-scientist/alirezarezvani/senior-data-scientist/SKILL.md)
 - [alirezarezvani/statistical-analyst](data-scientist/alirezarezvani/statistical-analyst/SKILL.md)
+- [K-Dense-AI/database-lookup](data-scientist/K-Dense-AI/database-lookup/SKILL.md)
 - [sickn33/data-scientist](data-scientist/sickn33/data-scientist/SKILL.md)
 - [sickn33/data-storytelling](data-scientist/sickn33/data-storytelling/SKILL.md)
 - [sickn33/kpi-dashboard-design](data-scientist/sickn33/kpi-dashboard-design/SKILL.md)
@@ -220,6 +225,7 @@
 
 - [alirezarezvani/brand-guidelines](designer-branding/alirezarezvani/brand-guidelines/SKILL.md)
 - [anthropics/brand-guidelines](designer-branding/anthropics/brand-guidelines/SKILL.md)
+- [ComposioHQ/brand-guidelines](designer-branding/ComposioHQ/brand-guidelines/SKILL.md)
 - [sickn33/brand-guidelines](designer-branding/sickn33/brand-guidelines/SKILL.md)
 - [sickn33/brand-guidelines-anthropic](designer-branding/sickn33/brand-guidelines-anthropic/SKILL.md)
 - [sickn33/brand-perception-psychologist](designer-branding/sickn33/brand-perception-psychologist/SKILL.md)
@@ -286,6 +292,7 @@
 
 - [alirezarezvani/changelog](engineer-changelog/alirezarezvani/changelog/SKILL.md)
 - [alirezarezvani/changelog-generator](engineer-changelog/alirezarezvani/changelog-generator/SKILL.md)
+- [ComposioHQ/changelog-generator](engineer-changelog/ComposioHQ/changelog-generator/SKILL.md)
 - [sickn33/changelog-automation](engineer-changelog/sickn33/changelog-automation/SKILL.md)
 
 ## engineer-ci-cd
@@ -354,6 +361,7 @@
 - [github/convert-plaintext-to-md](engineer-markdown/github/convert-plaintext-to-md/SKILL.md)
 - [github/markdown-to-html](engineer-markdown/github/markdown-to-html/SKILL.md)
 - [github/update-markdown-file-index](engineer-markdown/github/update-markdown-file-index/SKILL.md)
+- [K-Dense-AI/markdown-mermaid-writing](engineer-markdown/K-Dense-AI/markdown-mermaid-writing/SKILL.md)
 - [SebastienDegodez/marp-presentations](engineer-markdown/SebastienDegodez/marp-presentations/marp-presentations.instructions.md)
 - [sickn33/agents-md](engineer-markdown/sickn33/agents-md/SKILL.md)
 - [sickn33/ai-md](engineer-markdown/sickn33/ai-md/SKILL.md)
@@ -574,6 +582,7 @@
 - [alirezarezvani/atlassian-admin](jira/alirezarezvani/atlassian-admin/SKILL.md)
 - [alirezarezvani/atlassian-templates](jira/alirezarezvani/atlassian-templates/SKILL.md)
 - [alirezarezvani/jira-expert](jira/alirezarezvani/jira-expert/SKILL.md)
+- [ComposioHQ/atlassian-automation](jira/ComposioHQ/atlassian-automation/SKILL.md)
 - [langpingxue/atlassian-readonly-skills](jira/langpingxue/atlassian-readonly-skills/SKILL.md)
 - [sickn33/jira-automation](jira/sickn33/jira-automation/SKILL.md)
 
@@ -911,6 +920,7 @@
 
 - [bmad-code-org/bmad-agent-tech-writer](writer-technical/bmad-code-org/bmad-agent-tech-writer/SKILL.md)
 - [github/documentation-writer](writer-technical/github/documentation-writer/SKILL.md)
+- [K-Dense-AI/scientific-writing](writer-technical/K-Dense-AI/scientific-writing/SKILL.md)
 - [mattnebr/technical-writing-style](writer-technical/mattnebr/technical-writing-style/SKILL.md)
 
 ## x

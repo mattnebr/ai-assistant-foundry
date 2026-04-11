@@ -1,4 +1,4 @@
-﻿# skill index
+# skill index
 
 *117 skill group(s) — 358 total variant(s)*
 

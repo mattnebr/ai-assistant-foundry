@@ -4738,6 +4738,41 @@
       "SkillFolder": "skills/ensue-memory",
       "GroupName": "ai-assistant-memory",
       "ArchivedAt": "2026-04-11T22:05:29.2732621Z"
+    },
+    {
+      "Owner": "sanjay3290",
+      "Repo": "ai-skills",
+      "SkillFolder": "skills/atlassian",
+      "GroupName": "jira",
+      "ArchivedAt": "2026-04-11T22:06:35.3595954Z"
+    },
+    {
+      "Owner": "sanjay3290",
+      "Repo": "ai-skills",
+      "SkillFolder": "skills/mssql",
+      "GroupName": "engineer-database",
+      "ArchivedAt": "2026-04-11T22:07:31.3837485Z"
+    },
+    {
+      "Owner": "sanjay3290",
+      "Repo": "ai-skills",
+      "SkillFolder": "skills/mysql",
+      "GroupName": "engineer-database",
+      "ArchivedAt": "2026-04-11T22:07:44.1297984Z"
+    },
+    {
+      "Owner": "sanjay3290",
+      "Repo": "ai-skills",
+      "SkillFolder": "skills/outline",
+      "GroupName": "manager-project",
+      "ArchivedAt": "2026-04-11T22:08:47.5618716Z"
+    },
+    {
+      "Owner": "sanjay3290",
+      "Repo": "ai-skills",
+      "SkillFolder": "skills/postgres",
+      "GroupName": "engineer-database",
+      "ArchivedAt": "2026-04-11T22:09:02.0747845Z"
     }
   ]
 }

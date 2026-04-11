@@ -1,6 +1,6 @@
 ﻿# engineer-database
 
-9 skill variant(s).
+12 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -10,6 +10,9 @@
 | alirezarezvani | sql-database-assistant | [SKILL.md](alirezarezvani/sql-database-assistant/SKILL.md) |
 | github | sql-code-review | [SKILL.md](github/sql-code-review/SKILL.md) |
 | github | sql-optimization | [SKILL.md](github/sql-optimization/SKILL.md) |
+| sanjay3290 | mssql | [SKILL.md](sanjay3290/mssql/SKILL.md) |
+| sanjay3290 | mysql | [SKILL.md](sanjay3290/mysql/SKILL.md) |
+| sanjay3290 | postgres | [SKILL.md](sanjay3290/postgres/SKILL.md) |
 | sickn33 | sql-optimization-patterns | [SKILL.md](sickn33/sql-optimization-patterns/SKILL.md) |
 | sickn33 | sql-pro | [SKILL.md](sickn33/sql-pro/SKILL.md) |
 | whawkinsiv | database | [SKILL.md](whawkinsiv/database/SKILL.md) |

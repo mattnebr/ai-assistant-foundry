@@ -1,6 +1,6 @@
 ﻿# manager-project
 
-12 skill variant(s).
+13 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -11,6 +11,7 @@
 | bmad-code-org | bmad-product-brief | [SKILL.md](bmad-code-org/bmad-product-brief/SKILL.md) |
 | NeoLabHQ | plan-do-check-act | [SKILL.md](NeoLabHQ/plan-do-check-act/SKILL.md) |
 | obra | writing-plans | [SKILL.md](obra/writing-plans/SKILL.md) |
+| sanjay3290 | outline | [SKILL.md](sanjay3290/outline/SKILL.md) |
 | sickn33 | progressive-estimation | [SKILL.md](sickn33/progressive-estimation/SKILL.md) |
 | sickn33 | project-development | [SKILL.md](sickn33/project-development/SKILL.md) |
 | sickn33 | projection-patterns | [SKILL.md](sickn33/projection-patterns/SKILL.md) |

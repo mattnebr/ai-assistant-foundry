@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*132 skill group(s) — 623 total variant(s)*
+*132 skill group(s) — 628 total variant(s)*
 
 ## agent-orchestration
 
@@ -370,6 +370,9 @@
 - [alirezarezvani/sql-database-assistant](engineer-database/alirezarezvani/sql-database-assistant/SKILL.md)
 - [github/sql-code-review](engineer-database/github/sql-code-review/SKILL.md)
 - [github/sql-optimization](engineer-database/github/sql-optimization/SKILL.md)
+- [sanjay3290/mssql](engineer-database/sanjay3290/mssql/SKILL.md)
+- [sanjay3290/mysql](engineer-database/sanjay3290/mysql/SKILL.md)
+- [sanjay3290/postgres](engineer-database/sanjay3290/postgres/SKILL.md)
 - [sickn33/sql-optimization-patterns](engineer-database/sickn33/sql-optimization-patterns/SKILL.md)
 - [sickn33/sql-pro](engineer-database/sickn33/sql-pro/SKILL.md)
 - [whawkinsiv/database](engineer-database/whawkinsiv/database/SKILL.md)
@@ -647,6 +650,7 @@
 - [alirezarezvani/jira-expert](jira/alirezarezvani/jira-expert/SKILL.md)
 - [ComposioHQ/atlassian-automation](jira/ComposioHQ/atlassian-automation/SKILL.md)
 - [langpingxue/atlassian-readonly-skills](jira/langpingxue/atlassian-readonly-skills/SKILL.md)
+- [sanjay3290/atlassian](jira/sanjay3290/atlassian/SKILL.md)
 - [sickn33/jira-automation](jira/sickn33/jira-automation/SKILL.md)
 
 ## legal-advisor
@@ -730,6 +734,7 @@
 - [bmad-code-org/bmad-product-brief](manager-project/bmad-code-org/bmad-product-brief/SKILL.md)
 - [NeoLabHQ/plan-do-check-act](manager-project/NeoLabHQ/plan-do-check-act/SKILL.md)
 - [obra/writing-plans](manager-project/obra/writing-plans/SKILL.md)
+- [sanjay3290/outline](manager-project/sanjay3290/outline/SKILL.md)
 - [sickn33/progressive-estimation](manager-project/sickn33/progressive-estimation/SKILL.md)
 - [sickn33/project-development](manager-project/sickn33/project-development/SKILL.md)
 - [sickn33/projection-patterns](manager-project/sickn33/projection-patterns/SKILL.md)

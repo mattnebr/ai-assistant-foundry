@@ -1,6 +1,6 @@
 ﻿# manager-project
 
-11 skill variant(s).
+12 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -14,6 +14,7 @@
 | sickn33 | progressive-estimation | [SKILL.md](sickn33/progressive-estimation/SKILL.md) |
 | sickn33 | project-development | [SKILL.md](sickn33/project-development/SKILL.md) |
 | sickn33 | projection-patterns | [SKILL.md](sickn33/projection-patterns/SKILL.md) |
+| SuperClaude-Org | pm | [SKILL.md](SuperClaude-Org/pm/SKILL.md) |
 | whawkinsiv | prioritize | [SKILL.md](whawkinsiv/prioritize/SKILL.md) |
 
 ---

@@ -4703,6 +4703,34 @@
       "SkillFolder": "plugins/frontend-slides/skills/frontend-slides",
       "GroupName": "builder-slide-presentation",
       "ArchivedAt": "2026-04-11T22:02:55.1661082Z"
+    },
+    {
+      "Owner": "SuperClaude-Org",
+      "Repo": "SuperClaude_Framework",
+      "SkillFolder": ".claude/skills/confidence-check",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T22:04:01.9810774Z"
+    },
+    {
+      "Owner": "SuperClaude-Org",
+      "Repo": "SuperClaude_Framework",
+      "SkillFolder": "plugins/superclaude/skills/brainstorm",
+      "GroupName": "brainstorming",
+      "ArchivedAt": "2026-04-11T22:04:05.0628818Z"
+    },
+    {
+      "Owner": "SuperClaude-Org",
+      "Repo": "SuperClaude_Framework",
+      "SkillFolder": "plugins/superclaude/skills/confidence-check",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T22:04:18.1318098Z"
+    },
+    {
+      "Owner": "SuperClaude-Org",
+      "Repo": "SuperClaude_Framework",
+      "SkillFolder": "plugins/superclaude/skills/pm",
+      "GroupName": "manager-project",
+      "ArchivedAt": "2026-04-11T22:04:31.5029414Z"
     }
   ]
 }

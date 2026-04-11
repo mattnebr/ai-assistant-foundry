@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*132 skill group(s) — 619 total variant(s)*
+*132 skill group(s) — 622 total variant(s)*
 
 ## agent-orchestration
 
@@ -126,6 +126,7 @@
 - [obra/brainstorming](brainstorming/obra/brainstorming/SKILL.md)
 - [sickn33/brainstorming](brainstorming/sickn33/brainstorming/SKILL.md)
 - [sickn33/idea-darwin](brainstorming/sickn33/idea-darwin/SKILL.md)
+- [SuperClaude-Org/brainstorm](brainstorming/SuperClaude-Org/brainstorm/SKILL.md)
 
 ## builder-documents
 
@@ -704,6 +705,7 @@
 - [sickn33/team-collaboration-standup-notes](manager-agile/sickn33/team-collaboration-standup-notes/SKILL.md)
 - [sickn33/todoist-automation](manager-agile/sickn33/todoist-automation/SKILL.md)
 - [sickn33/writing-plans](manager-agile/sickn33/writing-plans/SKILL.md)
+- [SuperClaude-Org/confidence-check](manager-agile/SuperClaude-Org/confidence-check/SKILL.md)
 - [whawkinsiv/plan](manager-agile/whawkinsiv/plan/SKILL.md)
 
 ## manager-humans
@@ -730,6 +732,7 @@
 - [sickn33/progressive-estimation](manager-project/sickn33/progressive-estimation/SKILL.md)
 - [sickn33/project-development](manager-project/sickn33/project-development/SKILL.md)
 - [sickn33/projection-patterns](manager-project/sickn33/projection-patterns/SKILL.md)
+- [SuperClaude-Org/pm](manager-project/SuperClaude-Org/pm/SKILL.md)
 - [whawkinsiv/prioritize](manager-project/whawkinsiv/prioritize/SKILL.md)
 
 ## marketer

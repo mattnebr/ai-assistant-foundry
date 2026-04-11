@@ -1,6 +1,6 @@
 ﻿# manager-agile
 
-47 skill variant(s).
+48 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -50,6 +50,7 @@
 | sickn33 | team-collaboration-standup-notes | [SKILL.md](sickn33/team-collaboration-standup-notes/SKILL.md) |
 | sickn33 | todoist-automation | [SKILL.md](sickn33/todoist-automation/SKILL.md) |
 | sickn33 | writing-plans | [SKILL.md](sickn33/writing-plans/SKILL.md) |
+| SuperClaude-Org | confidence-check | [SKILL.md](SuperClaude-Org/confidence-check/SKILL.md) |
 | whawkinsiv | plan | [SKILL.md](whawkinsiv/plan/SKILL.md) |
 
 ---

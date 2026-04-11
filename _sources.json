@@ -4150,6 +4150,27 @@
       "SkillFolder": "skills/lead-enrichment",
       "GroupName": "engineer-data",
       "ArchivedAt": "2026-04-11T21:24:09.7663689Z"
+    },
+    {
+      "Owner": "ComposioHQ",
+      "Repo": "awesome-claude-skills",
+      "SkillFolder": "brand-guidelines",
+      "GroupName": "designer-branding",
+      "ArchivedAt": "2026-04-11T21:26:27.6678091Z"
+    },
+    {
+      "Owner": "ComposioHQ",
+      "Repo": "awesome-claude-skills",
+      "SkillFolder": "changelog-generator",
+      "GroupName": "engineer-changelog",
+      "ArchivedAt": "2026-04-11T21:26:33.175297Z"
+    },
+    {
+      "Owner": "ComposioHQ",
+      "Repo": "awesome-claude-skills",
+      "SkillFolder": "composio-skills/atlassian-automation",
+      "GroupName": "jira",
+      "ArchivedAt": "2026-04-11T21:28:40.347957Z"
     }
   ]
 }

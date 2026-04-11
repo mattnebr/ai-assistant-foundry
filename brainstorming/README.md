@@ -1,6 +1,6 @@
 ﻿# brainstorming
 
-9 skill variant(s).
+10 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -11,6 +11,7 @@
 | NeoLabHQ | create-ideas | [SKILL.md](NeoLabHQ/create-ideas/SKILL.md) |
 | NeoLabHQ | thought-based-reasoning | [SKILL.md](NeoLabHQ/thought-based-reasoning/SKILL.md) |
 | NeoLabHQ | tree-of-thoughts | [SKILL.md](NeoLabHQ/tree-of-thoughts/SKILL.md) |
+| obra | brainstorming | [SKILL.md](obra/brainstorming/SKILL.md) |
 | sickn33 | brainstorming | [SKILL.md](sickn33/brainstorming/SKILL.md) |
 | sickn33 | idea-darwin | [SKILL.md](sickn33/idea-darwin/SKILL.md) |
 

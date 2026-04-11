@@ -1,6 +1,6 @@
 ﻿# git-commit
 
-7 skill variant(s).
+8 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -8,6 +8,7 @@
 | mattnebr | commit-message | [SKILL.md](mattnebr/commit-message/SKILL.md) |
 | mattnebr | conventional-commits | [conventional-commits.instructions.md](mattnebr/conventional-commits/conventional-commits.instructions.md) |
 | NeoLabHQ | commit | [SKILL.md](NeoLabHQ/commit/SKILL.md) |
+| obra | verification-before-completion | [SKILL.md](obra/verification-before-completion/SKILL.md) |
 | SebastienDegodez | conventional-commits | [conventional-commits.instructions.md](SebastienDegodez/conventional-commits/conventional-commits.instructions.md) |
 | sickn33 | accessibility-compliance-accessibility-audit | [SKILL.md](sickn33/accessibility-compliance-accessibility-audit/SKILL.md) |
 | sickn33 | commit | [SKILL.md](sickn33/commit/SKILL.md) |

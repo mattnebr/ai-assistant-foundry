@@ -4605,6 +4605,97 @@
       "SkillFolder": "skills/ux-design",
       "GroupName": "designer-ux",
       "ArchivedAt": "2026-04-11T21:58:20.1395789Z"
+    },
+    {
+      "Owner": "obra",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/brainstorming",
+      "GroupName": "brainstorming",
+      "ArchivedAt": "2026-04-11T21:59:24.1261037Z"
+    },
+    {
+      "Owner": "obra",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/dispatching-parallel-agents",
+      "GroupName": "ai-assistant-orchistration",
+      "ArchivedAt": "2026-04-11T21:59:37.8068677Z"
+    },
+    {
+      "Owner": "obra",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/executing-plans",
+      "GroupName": "project-manager",
+      "ArchivedAt": "2026-04-11T21:59:46.589939Z"
+    },
+    {
+      "Owner": "obra",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/finishing-a-development-branch",
+      "GroupName": "git-branch",
+      "ArchivedAt": "2026-04-11T21:59:54.1258435Z"
+    },
+    {
+      "Owner": "obra",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/receiving-code-review",
+      "GroupName": "reviewer-code",
+      "ArchivedAt": "2026-04-11T22:00:04.0714574Z"
+    },
+    {
+      "Owner": "obra",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/requesting-code-review",
+      "GroupName": "git-pr",
+      "ArchivedAt": "2026-04-11T22:00:21.4191855Z"
+    },
+    {
+      "Owner": "obra",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/subagent-driven-development",
+      "GroupName": "ai-assistant-orchisration",
+      "ArchivedAt": "2026-04-11T22:01:01.9161179Z"
+    },
+    {
+      "Owner": "obra",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/systematic-debugging",
+      "GroupName": "engineer-software-debug",
+      "ArchivedAt": "2026-04-11T22:01:09.645936Z"
+    },
+    {
+      "Owner": "obra",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/test-driven-development",
+      "GroupName": "csharp-test-driven-development",
+      "ArchivedAt": "2026-04-11T22:01:14.5746791Z"
+    },
+    {
+      "Owner": "obra",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/using-git-worktrees",
+      "GroupName": "git-worktree",
+      "ArchivedAt": "2026-04-11T22:01:17.3597549Z"
+    },
+    {
+      "Owner": "obra",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/verification-before-completion",
+      "GroupName": "git-commit",
+      "ArchivedAt": "2026-04-11T22:01:31.8602982Z"
+    },
+    {
+      "Owner": "obra",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/writing-plans",
+      "GroupName": "manager-project",
+      "ArchivedAt": "2026-04-11T22:01:46.718862Z"
+    },
+    {
+      "Owner": "obra",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/writing-skills",
+      "GroupName": "writer",
+      "ArchivedAt": "2026-04-11T22:01:50.8269729Z"
     }
   ]
 }

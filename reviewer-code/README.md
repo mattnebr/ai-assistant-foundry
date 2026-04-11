@@ -1,9 +1,10 @@
 ﻿# reviewer-code
 
-5 skill variant(s).
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| obra | receiving-code-review | [SKILL.md](obra/receiving-code-review/SKILL.md) |
 | sickn33 | clean-code | [SKILL.md](sickn33/clean-code/SKILL.md) |
 | sickn33 | code-review-checklist | [SKILL.md](sickn33/code-review-checklist/SKILL.md) |
 | sickn33 | code-review-excellence | [SKILL.md](sickn33/code-review-excellence/SKILL.md) |

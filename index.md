@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*130 skill group(s) — 605 total variant(s)*
+*132 skill group(s) — 618 total variant(s)*
 
 ## agent-orchestration
 
@@ -26,11 +26,16 @@
 - [sickn33/conversation-memory](ai-assistant-memory/sickn33/conversation-memory/SKILL.md)
 - [sickn33/memory-systems](ai-assistant-memory/sickn33/memory-systems/SKILL.md)
 
+## ai-assistant-orchisration
+
+- [obra/subagent-driven-development](ai-assistant-orchisration/obra/subagent-driven-development/SKILL.md)
+
 ## ai-assistant-orchistration
 
 - [alirezarezvani/agent-workflow-designer](ai-assistant-orchistration/alirezarezvani/agent-workflow-designer/SKILL.md)
 - [bmad-code-org/bmad-distillator](ai-assistant-orchistration/bmad-code-org/bmad-distillator/SKILL.md)
 - [NeoLabHQ/multi-agent-patterns](ai-assistant-orchistration/NeoLabHQ/multi-agent-patterns/SKILL.md)
+- [obra/dispatching-parallel-agents](ai-assistant-orchistration/obra/dispatching-parallel-agents/SKILL.md)
 - [sickn33/subagent-driven-development](ai-assistant-orchistration/sickn33/subagent-driven-development/SKILL.md)
 
 ## ai-assistant-phone
@@ -118,6 +123,7 @@
 - [NeoLabHQ/create-ideas](brainstorming/NeoLabHQ/create-ideas/SKILL.md)
 - [NeoLabHQ/thought-based-reasoning](brainstorming/NeoLabHQ/thought-based-reasoning/SKILL.md)
 - [NeoLabHQ/tree-of-thoughts](brainstorming/NeoLabHQ/tree-of-thoughts/SKILL.md)
+- [obra/brainstorming](brainstorming/obra/brainstorming/SKILL.md)
 - [sickn33/brainstorming](brainstorming/sickn33/brainstorming/SKILL.md)
 - [sickn33/idea-darwin](brainstorming/sickn33/idea-darwin/SKILL.md)
 
@@ -224,6 +230,7 @@
 
 - [cblecker/test-driven-development](csharp-test-driven-development/cblecker/test-driven-development/SKILL.md)
 - [NeoLabHQ/test-driven-development](csharp-test-driven-development/NeoLabHQ/test-driven-development/SKILL.md)
+- [obra/test-driven-development](csharp-test-driven-development/obra/test-driven-development/SKILL.md)
 
 ## data-scientist
 
@@ -475,6 +482,7 @@
 ## engineer-software-debug
 
 - [NeoLabHQ/root-cause-tracing](engineer-software-debug/NeoLabHQ/root-cause-tracing/SKILL.md)
+- [obra/systematic-debugging](engineer-software-debug/obra/systematic-debugging/SKILL.md)
 - [whawkinsiv/debug](engineer-software-debug/whawkinsiv/debug/SKILL.md)
 
 ## engineer-software-frontend
@@ -579,6 +587,7 @@
 
 - [github/git-flow-branch-creator](git-branch/github/git-flow-branch-creator/SKILL.md)
 - [mattnebr/git-creating-branches](git-branch/mattnebr/git-creating-branches/SKILL.md)
+- [obra/finishing-a-development-branch](git-branch/obra/finishing-a-development-branch/SKILL.md)
 - [sickn33/create-branch](git-branch/sickn33/create-branch/SKILL.md)
 
 ## git-commit
@@ -587,6 +596,7 @@
 - [mattnebr/commit-message](git-commit/mattnebr/commit-message/SKILL.md)
 - [mattnebr/conventional-commits](git-commit/mattnebr/conventional-commits/conventional-commits.instructions.md)
 - [NeoLabHQ/commit](git-commit/NeoLabHQ/commit/SKILL.md)
+- [obra/verification-before-completion](git-commit/obra/verification-before-completion/SKILL.md)
 - [SebastienDegodez/conventional-commits](git-commit/SebastienDegodez/conventional-commits/conventional-commits.instructions.md)
 - [sickn33/accessibility-compliance-accessibility-audit](git-commit/sickn33/accessibility-compliance-accessibility-audit/SKILL.md)
 - [sickn33/commit](git-commit/sickn33/commit/SKILL.md)
@@ -601,6 +611,7 @@
 - [NeoLabHQ/create-pr](git-pr/NeoLabHQ/create-pr/SKILL.md)
 - [NeoLabHQ/review-local-changes](git-pr/NeoLabHQ/review-local-changes/SKILL.md)
 - [NeoLabHQ/review-pr](git-pr/NeoLabHQ/review-pr/SKILL.md)
+- [obra/requesting-code-review](git-pr/obra/requesting-code-review/SKILL.md)
 - [sickn33/create-pr](git-pr/sickn33/create-pr/SKILL.md)
 
 ## git-workflows
@@ -620,6 +631,7 @@
 - [NeoLabHQ/create-worktree](git-worktree/NeoLabHQ/create-worktree/SKILL.md)
 - [NeoLabHQ/merge-worktree](git-worktree/NeoLabHQ/merge-worktree/SKILL.md)
 - [NeoLabHQ/worktrees](git-worktree/NeoLabHQ/worktrees/SKILL.md)
+- [obra/using-git-worktrees](git-worktree/obra/using-git-worktrees/SKILL.md)
 
 ## java-junit
 
@@ -713,6 +725,7 @@
 - [bmad-code-org/bmad-edit-prd](manager-project/bmad-code-org/bmad-edit-prd/SKILL.md)
 - [bmad-code-org/bmad-product-brief](manager-project/bmad-code-org/bmad-product-brief/SKILL.md)
 - [NeoLabHQ/plan-do-check-act](manager-project/NeoLabHQ/plan-do-check-act/SKILL.md)
+- [obra/writing-plans](manager-project/obra/writing-plans/SKILL.md)
 - [sickn33/progressive-estimation](manager-project/sickn33/progressive-estimation/SKILL.md)
 - [sickn33/project-development](manager-project/sickn33/project-development/SKILL.md)
 - [sickn33/projection-patterns](manager-project/sickn33/projection-patterns/SKILL.md)
@@ -812,12 +825,17 @@
 - [sickn33/product-manager](product-design/sickn33/product-manager/SKILL.md)
 - [sickn33/product-manager-toolkit](product-design/sickn33/product-manager-toolkit/SKILL.md)
 
+## project-manager
+
+- [obra/executing-plans](project-manager/obra/executing-plans/SKILL.md)
+
 ## reviewer-accessibility
 
 - [sickn33/fixing-accessibility](reviewer-accessibility/sickn33/fixing-accessibility/SKILL.md)
 
 ## reviewer-code
 
+- [obra/receiving-code-review](reviewer-code/obra/receiving-code-review/SKILL.md)
 - [sickn33/clean-code](reviewer-code/sickn33/clean-code/SKILL.md)
 - [sickn33/code-review-checklist](reviewer-code/sickn33/code-review-checklist/SKILL.md)
 - [sickn33/code-review-excellence](reviewer-code/sickn33/code-review-excellence/SKILL.md)
@@ -947,6 +965,7 @@
 - [bmad-code-org/bmad-editorial-review-prose](writer/bmad-code-org/bmad-editorial-review-prose/SKILL.md)
 - [bmad-code-org/bmad-editorial-review-structure](writer/bmad-code-org/bmad-editorial-review-structure/SKILL.md)
 - [cblecker/writing-skills](writer/cblecker/writing-skills/SKILL.md)
+- [obra/writing-skills](writer/obra/writing-skills/SKILL.md)
 - [sickn33/writing-skills](writer/sickn33/writing-skills/SKILL.md)
 
 ## writer-blog

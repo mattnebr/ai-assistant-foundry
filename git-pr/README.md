@@ -1,6 +1,6 @@
 ﻿# git-pr
 
-9 skill variant(s).
+10 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -12,6 +12,7 @@
 | NeoLabHQ | create-pr | [SKILL.md](NeoLabHQ/create-pr/SKILL.md) |
 | NeoLabHQ | review-local-changes | [SKILL.md](NeoLabHQ/review-local-changes/SKILL.md) |
 | NeoLabHQ | review-pr | [SKILL.md](NeoLabHQ/review-pr/SKILL.md) |
+| obra | requesting-code-review | [SKILL.md](obra/requesting-code-review/SKILL.md) |
 | sickn33 | create-pr | [SKILL.md](sickn33/create-pr/SKILL.md) |
 
 ---

@@ -1,10 +1,11 @@
 ﻿# engineer-software-debug
 
-2 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | NeoLabHQ | root-cause-tracing | [SKILL.md](NeoLabHQ/root-cause-tracing/SKILL.md) |
+| obra | systematic-debugging | [SKILL.md](obra/systematic-debugging/SKILL.md) |
 | whawkinsiv | debug | [SKILL.md](whawkinsiv/debug/SKILL.md) |
 
 ---

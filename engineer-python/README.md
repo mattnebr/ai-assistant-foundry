@@ -1,9 +1,10 @@
 ﻿# engineer-python
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| jefflester | python-best-practices | [SKILL.md](jefflester/python-best-practices/SKILL.md) |
 | sickn33 | agents-v2-py | [SKILL.md](sickn33/agents-v2-py/SKILL.md) |
 | sickn33 | python-patterns | [SKILL.md](sickn33/python-patterns/SKILL.md) |
 | sickn33 | python-performance-optimization | [SKILL.md](sickn33/python-performance-optimization/SKILL.md) |

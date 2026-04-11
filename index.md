@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*132 skill group(s) — 632 total variant(s)*
+*132 skill group(s) — 635 total variant(s)*
 
 ## agent-orchestration
 
@@ -322,6 +322,7 @@
 - [alirezarezvani/api-design-reviewer](engineer-api/alirezarezvani/api-design-reviewer/SKILL.md)
 - [alirezarezvani/api-test-suite-builder](engineer-api/alirezarezvani/api-test-suite-builder/SKILL.md)
 - [github/aspnet-minimal-api-openapi](engineer-api/github/aspnet-minimal-api-openapi/SKILL.md)
+- [jefflester/api-security](engineer-api/jefflester/api-security/SKILL.md)
 - [sickn33/api-design-principles](engineer-api/sickn33/api-design-principles/SKILL.md)
 - [sickn33/api-patterns](engineer-api/sickn33/api-patterns/SKILL.md)
 
@@ -438,6 +439,7 @@
 
 ## engineer-python
 
+- [jefflester/python-best-practices](engineer-python/jefflester/python-best-practices/SKILL.md)
 - [sickn33/agents-v2-py](engineer-python/sickn33/agents-v2-py/SKILL.md)
 - [sickn33/python-patterns](engineer-python/sickn33/python-patterns/SKILL.md)
 - [sickn33/python-performance-optimization](engineer-python/sickn33/python-performance-optimization/SKILL.md)
@@ -625,6 +627,7 @@
 
 ## git-workflows
 
+- [jefflester/git-workflow](git-workflows/jefflester/git-workflow/SKILL.md)
 - [mattnebr/git-no-pull-requests](git-workflows/mattnebr/git-no-pull-requests/SKILL.md)
 - [sickn33/git-advanced-workflows](git-workflows/sickn33/git-advanced-workflows/SKILL.md)
 - [sickn33/git-hooks-automation](git-workflows/sickn33/git-hooks-automation/SKILL.md)

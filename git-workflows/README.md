@@ -1,9 +1,10 @@
 ﻿# git-workflows
 
-6 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| jefflester | git-workflow | [SKILL.md](jefflester/git-workflow/SKILL.md) |
 | mattnebr | git-no-pull-requests | [SKILL.md](mattnebr/git-no-pull-requests/SKILL.md) |
 | sickn33 | git-advanced-workflows | [SKILL.md](sickn33/git-advanced-workflows/SKILL.md) |
 | sickn33 | git-hooks-automation | [SKILL.md](sickn33/git-hooks-automation/SKILL.md) |

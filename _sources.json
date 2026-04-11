@@ -4808,6 +4808,27 @@
       "SkillFolder": "skills/spec-kit-skill",
       "GroupName": "manager-project",
       "ArchivedAt": "2026-04-11T22:18:48.0213759Z"
+    },
+    {
+      "Owner": "jefflester",
+      "Repo": "claude-skills-supercharged",
+      "SkillFolder": ".claude/skills/api-security",
+      "GroupName": "engineer-api",
+      "ArchivedAt": "2026-04-11T22:21:01.4494604Z"
+    },
+    {
+      "Owner": "jefflester",
+      "Repo": "claude-skills-supercharged",
+      "SkillFolder": ".claude/skills/git-workflow",
+      "GroupName": "git-workflows",
+      "ArchivedAt": "2026-04-11T22:21:05.7668698Z"
+    },
+    {
+      "Owner": "jefflester",
+      "Repo": "claude-skills-supercharged",
+      "SkillFolder": ".claude/skills/python-best-practices",
+      "GroupName": "engineer-python",
+      "ArchivedAt": "2026-04-11T22:21:09.4640871Z"
     }
   ]
 }

@@ -1,11 +1,12 @@
 ﻿# git-commit
 
-4 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | github | git-commit | [SKILL.md](github/git-commit/SKILL.md) |
 | mattnebr | commit-message | [SKILL.md](mattnebr/commit-message/SKILL.md) |
+| SebastienDegodez | conventional-commits | [conventional-commits.instructions.md](SebastienDegodez/conventional-commits/conventional-commits.instructions.md) |
 | sickn33 | accessibility-compliance-accessibility-audit | [SKILL.md](sickn33/accessibility-compliance-accessibility-audit/SKILL.md) |
 | sickn33 | commit | [SKILL.md](sickn33/commit/SKILL.md) |
 

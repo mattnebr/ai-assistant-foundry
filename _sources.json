@@ -2435,6 +2435,146 @@
       "SkillFolder": "skills/write-coding-standards-from-file",
       "GroupName": "enginner-editorconfig",
       "ArchivedAt": "2026-04-11T06:32:55.1570112Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "plugins/csharp-clean-architecture-development/skills/clean-architecture-dotnet",
+      "GroupName": "csharp-clean-architecture",
+      "ArchivedAt": "2026-04-11T16:00:41.9605465Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "plugins/minimal-context-tools/skills/analyzing-code-structure",
+      "GroupName": "document-surface",
+      "ArchivedAt": "2026-04-11T16:01:55.3745093Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "plugins/minimal-context-tools/skills/analyzing-code",
+      "GroupName": "document-surface",
+      "ArchivedAt": "2026-04-11T16:02:11.8286673Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "plugins/minimal-context-tools/skills/extracting-code-structure",
+      "GroupName": "doc-architecture",
+      "ArchivedAt": "2026-04-11T16:02:37.1162035Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "plugins/superpowers-whetstone/skills/gherkin-gate",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T16:03:33.6940646Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "skills/skill-creator",
+      "GroupName": "ai-assistant-skill-maker",
+      "ArchivedAt": "2026-04-11T16:04:55.4013324Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "instructions/clean-architecture.instructions.md",
+      "GroupName": "csharp-clean-architecture",
+      "ArchivedAt": "2026-04-11T16:27:57.0370226Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "instructions/coding-style-csharp.instructions.md",
+      "GroupName": "engineer-software-csharp",
+      "ArchivedAt": "2026-04-11T16:28:18.4643458Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "instructions/command-cqrs-csharp.instructions.md",
+      "GroupName": "csharp-command-cqrs",
+      "ArchivedAt": "2026-04-11T16:28:47.6987767Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "instructions/conventional-commits.instructions.md",
+      "GroupName": "git-commit",
+      "ArchivedAt": "2026-04-11T16:28:51.112671Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "instructions/domain-driven-design-event-csharp.instructions.md",
+      "GroupName": "csharp-domain-driven-design",
+      "ArchivedAt": "2026-04-11T16:30:38.5942362Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "instructions/domain-driven-design.instructions.md",
+      "GroupName": "csharp-domain-driven-design",
+      "ArchivedAt": "2026-04-11T16:30:43.9697257Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "instructions/follow-up-question.instructions.md",
+      "GroupName": "ask-questions-if-underspecified",
+      "ArchivedAt": "2026-04-11T16:30:48.9407246Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "instructions/marp-presentations.instructions.md",
+      "GroupName": "engineer-markdown",
+      "ArchivedAt": "2026-04-11T16:32:05.5707635Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "instructions/modular-monolith-architecture.instructions.md",
+      "GroupName": "doc-architecture",
+      "ArchivedAt": "2026-04-11T16:32:44.9289328Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "instructions/modular-monolith-communication.instructions.md",
+      "GroupName": "doc-architecture",
+      "ArchivedAt": "2026-04-11T16:33:09.4524065Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "instructions/object-calisthenics.instructions.md",
+      "GroupName": "engineer-software-oo",
+      "ArchivedAt": "2026-04-11T16:33:31.3626689Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "instructions/query-cqrs-csharp.instructions.md",
+      "GroupName": "csharp-command-cqrs",
+      "ArchivedAt": "2026-04-11T16:33:39.6405622Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "instructions/specification-business-rules-csharp.instructions.md",
+      "GroupName": "csharp-command-cqrs",
+      "ArchivedAt": "2026-04-11T16:34:10.7688616Z"
+    },
+    {
+      "Owner": "SebastienDegodez",
+      "Repo": "copilot-instructions",
+      "SkillFolder": "instructions/unit-and-integration-tests.instructions.md",
+      "GroupName": "engineer-software",
+      "ArchivedAt": "2026-04-11T16:34:31.5458227Z"
     }
   ]
 }

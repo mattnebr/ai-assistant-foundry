@@ -1,12 +1,13 @@
 ﻿# engineer-markdown
 
-6 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | github | convert-plaintext-to-md | [SKILL.md](github/convert-plaintext-to-md/SKILL.md) |
 | github | markdown-to-html | [SKILL.md](github/markdown-to-html/SKILL.md) |
 | github | update-markdown-file-index | [SKILL.md](github/update-markdown-file-index/SKILL.md) |
+| SebastienDegodez | marp-presentations | [marp-presentations.instructions.md](SebastienDegodez/marp-presentations/marp-presentations.instructions.md) |
 | sickn33 | agents-md | [SKILL.md](sickn33/agents-md/SKILL.md) |
 | sickn33 | ai-md | [SKILL.md](sickn33/ai-md/SKILL.md) |
 | sickn33 | design-md | [SKILL.md](sickn33/design-md/SKILL.md) |

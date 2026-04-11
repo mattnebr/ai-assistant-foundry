@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*111 skill group(s) — 338 total variant(s)*
+*117 skill group(s) — 358 total variant(s)*
 
 ## agent-orchestration
 
@@ -36,6 +36,7 @@
 - [github/microsoft-skill-creator](ai-assistant-skill-maker/github/microsoft-skill-creator/SKILL.md)
 - [mattnebr/ai-assistant-skill-maker](ai-assistant-skill-maker/mattnebr/ai-assistant-skill-maker/SKILL.md)
 - [mattnebr/copilot-instruction-writer](ai-assistant-skill-maker/mattnebr/copilot-instruction-writer/SKILL.md)
+- [SebastienDegodez/skill-creator](ai-assistant-skill-maker/SebastienDegodez/skill-creator/SKILL.md)
 
 ## ai-assitant-email
 
@@ -78,6 +79,7 @@
 
 - [github/first-ask](ask-questions-if-underspecified/github/first-ask/SKILL.md)
 - [github/what-context-needed](ask-questions-if-underspecified/github/what-context-needed/SKILL.md)
+- [SebastienDegodez/follow-up-question](ask-questions-if-underspecified/SebastienDegodez/follow-up-question/follow-up-question.instructions.md)
 - [sickn33/ask-questions-if-underspecified](ask-questions-if-underspecified/sickn33/ask-questions-if-underspecified/SKILL.md)
 
 ## brainstorm
@@ -128,9 +130,25 @@
 
 - [github/csharp-async](csharp-async/github/csharp-async/SKILL.md)
 
+## csharp-clean-architecture
+
+- [SebastienDegodez/clean-architecture](csharp-clean-architecture/SebastienDegodez/clean-architecture/clean-architecture.instructions.md)
+- [SebastienDegodez/clean-architecture-dotnet](csharp-clean-architecture/SebastienDegodez/clean-architecture-dotnet/SKILL.md)
+
+## csharp-command-cqrs
+
+- [SebastienDegodez/command-cqrs-csharp](csharp-command-cqrs/SebastienDegodez/command-cqrs-csharp/command-cqrs-csharp.instructions.md)
+- [SebastienDegodez/query-cqrs-csharp](csharp-command-cqrs/SebastienDegodez/query-cqrs-csharp/query-cqrs-csharp.instructions.md)
+- [SebastienDegodez/specification-business-rules-csharp](csharp-command-cqrs/SebastienDegodez/specification-business-rules-csharp/specification-business-rules-csharp.instructions.md)
+
 ## csharp-console-app-menu
 
 - [mattnebr/csharp-console-app-menu](csharp-console-app-menu/mattnebr/csharp-console-app-menu/SKILL.md)
+
+## csharp-domain-driven-design
+
+- [SebastienDegodez/domain-driven-design](csharp-domain-driven-design/SebastienDegodez/domain-driven-design/domain-driven-design.instructions.md)
+- [SebastienDegodez/domain-driven-design-event-csharp](csharp-domain-driven-design/SebastienDegodez/domain-driven-design-event-csharp/domain-driven-design-event-csharp.instructions.md)
 
 ## csharp-logging-levels
 
@@ -189,6 +207,17 @@
 - [sickn33/accessibility-compliance-accessibility-audit](designer-ui-accessibility/sickn33/accessibility-compliance-accessibility-audit/SKILL.md)
 - [sickn33/ui-a11y](designer-ui-accessibility/sickn33/ui-a11y/SKILL.md)
 - [sickn33/wcag-audit-patterns](designer-ui-accessibility/sickn33/wcag-audit-patterns/SKILL.md)
+
+## doc-architecture
+
+- [SebastienDegodez/extracting-code-structure](doc-architecture/SebastienDegodez/extracting-code-structure/SKILL.md)
+- [SebastienDegodez/modular-monolith-architecture](doc-architecture/SebastienDegodez/modular-monolith-architecture/modular-monolith-architecture.instructions.md)
+- [SebastienDegodez/modular-monolith-communication](doc-architecture/SebastienDegodez/modular-monolith-communication/modular-monolith-communication.instructions.md)
+
+## document-surface
+
+- [SebastienDegodez/analyzing-code](document-surface/SebastienDegodez/analyzing-code/SKILL.md)
+- [SebastienDegodez/analyzing-code-structure](document-surface/SebastienDegodez/analyzing-code-structure/SKILL.md)
 
 ## engineer-api
 
@@ -254,6 +283,7 @@
 - [github/convert-plaintext-to-md](engineer-markdown/github/convert-plaintext-to-md/SKILL.md)
 - [github/markdown-to-html](engineer-markdown/github/markdown-to-html/SKILL.md)
 - [github/update-markdown-file-index](engineer-markdown/github/update-markdown-file-index/SKILL.md)
+- [SebastienDegodez/marp-presentations](engineer-markdown/SebastienDegodez/marp-presentations/marp-presentations.instructions.md)
 - [sickn33/agents-md](engineer-markdown/sickn33/agents-md/SKILL.md)
 - [sickn33/ai-md](engineer-markdown/sickn33/ai-md/SKILL.md)
 - [sickn33/design-md](engineer-markdown/sickn33/design-md/SKILL.md)
@@ -301,6 +331,7 @@
 
 - [github/microsoft-code-reference](engineer-software/github/microsoft-code-reference/SKILL.md)
 - [github/microsoft-docs](engineer-software/github/microsoft-docs/SKILL.md)
+- [SebastienDegodez/unit-and-integration-tests](engineer-software/SebastienDegodez/unit-and-integration-tests/unit-and-integration-tests.instructions.md)
 - [sickn33/ai-engineer](engineer-software/sickn33/ai-engineer/SKILL.md)
 - [sickn33/development](engineer-software/sickn33/development/SKILL.md)
 - [sickn33/dotnet-backend](engineer-software/sickn33/dotnet-backend/SKILL.md)
@@ -313,6 +344,7 @@
 
 - [github/dotnet-best-practices](engineer-software-csharp/github/dotnet-best-practices/SKILL.md)
 - [github/dotnet-design-pattern-review](engineer-software-csharp/github/dotnet-design-pattern-review/SKILL.md)
+- [SebastienDegodez/coding-style-csharp](engineer-software-csharp/SebastienDegodez/coding-style-csharp/coding-style-csharp.instructions.md)
 - [sickn33/csharp-pro](engineer-software-csharp/sickn33/csharp-pro/SKILL.md)
 
 ## engineer-software-frontend
@@ -332,6 +364,10 @@
 ## engineer-software-nextjs
 
 - [sickn33/react-nextjs-development](engineer-software-nextjs/sickn33/react-nextjs-development/SKILL.md)
+
+## engineer-software-oo
+
+- [SebastienDegodez/object-calisthenics](engineer-software-oo/SebastienDegodez/object-calisthenics/object-calisthenics.instructions.md)
 
 ## engineer-software-powershell
 
@@ -403,6 +439,7 @@
 
 - [github/git-commit](git-commit/github/git-commit/SKILL.md)
 - [mattnebr/commit-message](git-commit/mattnebr/commit-message/SKILL.md)
+- [SebastienDegodez/conventional-commits](git-commit/SebastienDegodez/conventional-commits/conventional-commits.instructions.md)
 - [sickn33/accessibility-compliance-accessibility-audit](git-commit/sickn33/accessibility-compliance-accessibility-audit/SKILL.md)
 - [sickn33/commit](git-commit/sickn33/commit/SKILL.md)
 
@@ -446,6 +483,7 @@
 - [github/meeting-minutes](manager-agile/github/meeting-minutes/SKILL.md)
 - [github/prd](manager-agile/github/prd/SKILL.md)
 - [github/update-implementation-plan](manager-agile/github/update-implementation-plan/SKILL.md)
+- [SebastienDegodez/gherkin-gate](manager-agile/SebastienDegodez/gherkin-gate/SKILL.md)
 - [sickn33/team-collaboration-standup-notes](manager-agile/sickn33/team-collaboration-standup-notes/SKILL.md)
 - [sickn33/todoist-automation](manager-agile/sickn33/todoist-automation/SKILL.md)
 - [sickn33/writing-plans](manager-agile/sickn33/writing-plans/SKILL.md)

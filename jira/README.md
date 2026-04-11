@@ -1,9 +1,10 @@
 ﻿# jira
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| langpingxue | atlassian-readonly-skills | [SKILL.md](langpingxue/atlassian-readonly-skills/SKILL.md) |
 | sickn33 | jira-automation | [SKILL.md](sickn33/jira-automation/SKILL.md) |
 
 ---

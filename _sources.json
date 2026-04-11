@@ -2722,6 +2722,20 @@
       "SkillFolder": "skills/social-content",
       "GroupName": "planner-content-strategy",
       "ArchivedAt": "2026-04-11T18:17:15.8081359Z"
+    },
+    {
+      "Owner": "langpingxue",
+      "Repo": "atlassian-skills",
+      "SkillFolder": "atlassian-readonly-skills",
+      "GroupName": "jira",
+      "ArchivedAt": "2026-04-11T18:27:36.5363371Z"
+    },
+    {
+      "Owner": "langpingxue",
+      "Repo": "atlassian-skills",
+      "SkillFolder": "atlassian-skills",
+      "GroupName": "confluence",
+      "ArchivedAt": "2026-04-11T18:27:46.9213965Z"
     }
   ]
 }

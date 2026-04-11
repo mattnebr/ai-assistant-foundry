@@ -1,9 +1,10 @@
 ﻿# confluence
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| langpingxue | atlassian-skills | [SKILL.md](langpingxue/atlassian-skills/SKILL.md) |
 | sickn33 | confluence-automation | [SKILL.md](sickn33/confluence-automation/SKILL.md) |
 
 ---

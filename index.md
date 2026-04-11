@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*117 skill group(s) — 379 total variant(s)*
+*117 skill group(s) — 381 total variant(s)*
 
 ## agent-orchestration
 
@@ -124,6 +124,7 @@
 
 ## confluence
 
+- [langpingxue/atlassian-skills](confluence/langpingxue/atlassian-skills/SKILL.md)
 - [sickn33/confluence-automation](confluence/sickn33/confluence-automation/SKILL.md)
 
 ## csharp-async
@@ -465,6 +466,7 @@
 
 ## jira
 
+- [langpingxue/atlassian-readonly-skills](jira/langpingxue/atlassian-readonly-skills/SKILL.md)
 - [sickn33/jira-automation](jira/sickn33/jira-automation/SKILL.md)
 
 ## legal-advisor

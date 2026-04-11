@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*132 skill group(s) — 618 total variant(s)*
+*132 skill group(s) — 619 total variant(s)*
 
 ## agent-orchestration
 
@@ -145,6 +145,7 @@
 - [K-Dense-AI/pptx](builder-slide-presentation/K-Dense-AI/pptx/SKILL.md)
 - [K-Dense-AI/pptx-posters](builder-slide-presentation/K-Dense-AI/pptx-posters/SKILL.md)
 - [sickn33/pptx-official](builder-slide-presentation/sickn33/pptx-official/SKILL.md)
+- [zarazhangrui/frontend-slides](builder-slide-presentation/zarazhangrui/frontend-slides/SKILL.md)
 
 ## builder-spreadsheet
 

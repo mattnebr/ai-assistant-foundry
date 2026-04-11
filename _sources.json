@@ -4696,6 +4696,13 @@
       "SkillFolder": "skills/writing-skills",
       "GroupName": "writer",
       "ArchivedAt": "2026-04-11T22:01:50.8269729Z"
+    },
+    {
+      "Owner": "zarazhangrui",
+      "Repo": "frontend-slides",
+      "SkillFolder": "plugins/frontend-slides/skills/frontend-slides",
+      "GroupName": "builder-slide-presentation",
+      "ArchivedAt": "2026-04-11T22:02:55.1661082Z"
     }
   ]
 }

@@ -1,4 +1,10 @@
-﻿# designer-ascii
+---
+aliases: []
+---
+
+# designer-ascii
+
+<!-- AUTO-GENERATED -->
 
 2 skill variant(s).
 

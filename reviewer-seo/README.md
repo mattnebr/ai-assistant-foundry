@@ -1,4 +1,10 @@
-﻿# reviewer-seo
+---
+aliases: []
+---
+
+# reviewer-seo
+
+<!-- AUTO-GENERATED -->
 
 31 skill variant(s).
 

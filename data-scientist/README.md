@@ -1,4 +1,10 @@
-﻿# data-scientist
+---
+aliases: []
+---
+
+# data-scientist
+
+<!-- AUTO-GENERATED -->
 
 8 skill variant(s).
 

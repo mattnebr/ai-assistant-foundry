@@ -1,4 +1,10 @@
-﻿# engineer-ci-cd
+---
+aliases: []
+---
+
+# engineer-ci-cd
+
+<!-- AUTO-GENERATED -->
 
 12 skill variant(s).
 

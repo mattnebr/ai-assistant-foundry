@@ -1,4 +1,10 @@
-﻿# ai-assistant-skill-maker
+---
+aliases: []
+---
+
+# ai-assistant-skill-maker
+
+<!-- AUTO-GENERATED -->
 
 11 skill variant(s).
 

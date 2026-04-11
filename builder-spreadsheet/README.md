@@ -1,4 +1,10 @@
-﻿# builder-spreadsheet
+---
+aliases: []
+---
+
+# builder-spreadsheet
+
+<!-- AUTO-GENERATED -->
 
 3 skill variant(s).
 

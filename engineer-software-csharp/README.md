@@ -1,4 +1,10 @@
-﻿# engineer-software-csharp
+---
+aliases: []
+---
+
+# engineer-software-csharp
+
+<!-- AUTO-GENERATED -->
 
 5 skill variant(s).
 

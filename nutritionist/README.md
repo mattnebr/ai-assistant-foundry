@@ -1,4 +1,10 @@
-﻿# nutritionist
+---
+aliases: []
+---
+
+# nutritionist
+
+<!-- AUTO-GENERATED -->
 
 2 skill variant(s).
 

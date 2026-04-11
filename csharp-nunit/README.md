@@ -1,4 +1,10 @@
-﻿# csharp-nunit
+---
+aliases: []
+---
+
+# csharp-nunit
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

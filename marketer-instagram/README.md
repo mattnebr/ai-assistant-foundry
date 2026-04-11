@@ -1,4 +1,10 @@
-﻿# marketer-instagram
+---
+aliases: []
+---
+
+# marketer-instagram
+
+<!-- AUTO-GENERATED -->
 
 2 skill variant(s).
 

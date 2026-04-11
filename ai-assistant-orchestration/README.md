@@ -1,6 +1,12 @@
-﻿# ai-assistant-orchistration
+---
+aliases: []
+---
 
-5 skill variant(s).
+# ai-assistant-orchestration
+
+<!-- AUTO-GENERATED -->
+
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -8,6 +14,7 @@
 | bmad-code-org | bmad-distillator | [SKILL.md](bmad-code-org/bmad-distillator/SKILL.md) |
 | NeoLabHQ | multi-agent-patterns | [SKILL.md](NeoLabHQ/multi-agent-patterns/SKILL.md) |
 | obra | dispatching-parallel-agents | [SKILL.md](obra/dispatching-parallel-agents/SKILL.md) |
+| obra | subagent-driven-development | [SKILL.md](obra/subagent-driven-development/SKILL.md) |
 | sickn33 | subagent-driven-development | [SKILL.md](sickn33/subagent-driven-development/SKILL.md) |
 
 ---

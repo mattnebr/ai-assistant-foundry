@@ -1,4 +1,10 @@
-﻿# engineer-workflow
+---
+aliases: []
+---
+
+# engineer-workflow
+
+<!-- AUTO-GENERATED -->
 
 3 skill variant(s).
 

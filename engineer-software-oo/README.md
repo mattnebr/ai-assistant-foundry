@@ -1,4 +1,10 @@
-﻿# engineer-software-oo
+---
+aliases: []
+---
+
+# engineer-software-oo
+
+<!-- AUTO-GENERATED -->
 
 2 skill variant(s).
 

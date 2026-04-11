@@ -1,4 +1,10 @@
-﻿# product-design
+---
+aliases: []
+---
+
+# product-design
+
+<!-- AUTO-GENERATED -->
 
 3 skill variant(s).
 

@@ -1,4 +1,10 @@
-﻿# engineer-markdown
+---
+aliases: []
+---
+
+# engineer-markdown
+
+<!-- AUTO-GENERATED -->
 
 8 skill variant(s).
 

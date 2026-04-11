@@ -1,4 +1,10 @@
-﻿# csharp-logging-levels
+---
+aliases: []
+---
+
+# csharp-logging-levels
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

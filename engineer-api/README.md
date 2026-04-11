@@ -1,4 +1,10 @@
-﻿# engineer-api
+---
+aliases: []
+---
+
+# engineer-api
+
+<!-- AUTO-GENERATED -->
 
 7 skill variant(s).
 

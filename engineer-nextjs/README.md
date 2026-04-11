@@ -1,4 +1,10 @@
-﻿# engineer-nextjs
+---
+aliases: []
+---
+
+# engineer-nextjs
+
+<!-- AUTO-GENERATED -->
 
 2 skill variant(s).
 

@@ -1,4 +1,10 @@
-﻿# java-junit
+---
+aliases: []
+---
+
+# java-junit
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

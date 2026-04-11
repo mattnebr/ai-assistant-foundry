@@ -1,4 +1,10 @@
-﻿# git-branch
+---
+aliases: []
+---
+
+# git-branch
+
+<!-- AUTO-GENERATED -->
 
 4 skill variant(s).
 

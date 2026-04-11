@@ -1,4 +1,10 @@
-﻿# marketer
+---
+aliases: []
+---
+
+# marketer
+
+<!-- AUTO-GENERATED -->
 
 11 skill variant(s).
 

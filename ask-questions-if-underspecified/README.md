@@ -1,4 +1,10 @@
-﻿# ask-questions-if-underspecified
+---
+aliases: []
+---
+
+# ask-questions-if-underspecified
+
+<!-- AUTO-GENERATED -->
 
 5 skill variant(s).
 

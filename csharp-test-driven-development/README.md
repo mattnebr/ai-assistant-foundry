@@ -1,4 +1,10 @@
-﻿# csharp-test-driven-development
+---
+aliases: []
+---
+
+# csharp-test-driven-development
+
+<!-- AUTO-GENERATED -->
 
 4 skill variant(s).
 

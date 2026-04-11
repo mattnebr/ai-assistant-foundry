@@ -1,4 +1,10 @@
-﻿# legal-advisor
+---
+aliases: []
+---
+
+# legal-advisor
+
+<!-- AUTO-GENERATED -->
 
 2 skill variant(s).
 

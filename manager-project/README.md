@@ -1,6 +1,12 @@
-﻿# manager-project
+---
+aliases: []
+---
 
-15 skill variant(s).
+# manager-project
+
+<!-- AUTO-GENERATED -->
+
+16 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -12,6 +18,7 @@
 | bmad-code-org | bmad-product-brief | [SKILL.md](bmad-code-org/bmad-product-brief/SKILL.md) |
 | feiskyer | spec-kit-skill | [SKILL.md](feiskyer/spec-kit-skill/SKILL.md) |
 | NeoLabHQ | plan-do-check-act | [SKILL.md](NeoLabHQ/plan-do-check-act/SKILL.md) |
+| obra | executing-plans | [SKILL.md](obra/executing-plans/SKILL.md) |
 | obra | writing-plans | [SKILL.md](obra/writing-plans/SKILL.md) |
 | sanjay3290 | outline | [SKILL.md](sanjay3290/outline/SKILL.md) |
 | sickn33 | progressive-estimation | [SKILL.md](sickn33/progressive-estimation/SKILL.md) |

@@ -1,4 +1,10 @@
-﻿# engineer-nestjs
+---
+aliases: []
+---
+
+# engineer-nestjs
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

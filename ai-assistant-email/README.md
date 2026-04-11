@@ -1,4 +1,10 @@
-﻿# ai-assitant-email
+---
+aliases: []
+---
+
+# ai-assistant-email
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

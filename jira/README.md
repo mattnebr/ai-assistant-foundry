@@ -1,4 +1,10 @@
-﻿# jira
+---
+aliases: []
+---
+
+# jira
+
+<!-- AUTO-GENERATED -->
 
 7 skill variant(s).
 

@@ -1,4 +1,10 @@
-﻿# slack
+---
+aliases: []
+---
+
+# slack
+
+<!-- AUTO-GENERATED -->
 
 2 skill variant(s).
 

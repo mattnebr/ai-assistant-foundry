@@ -1,4 +1,10 @@
-﻿# engineer-network
+---
+aliases: []
+---
+
+# engineer-network
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

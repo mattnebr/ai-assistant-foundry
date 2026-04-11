@@ -1,4 +1,10 @@
-﻿# ai-assistant-phone
+---
+aliases: []
+---
+
+# ai-assistant-phone
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

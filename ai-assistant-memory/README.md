@@ -1,4 +1,10 @@
-﻿# ai-assistant-memory
+---
+aliases: []
+---
+
+# ai-assistant-memory
+
+<!-- AUTO-GENERATED -->
 
 9 skill variant(s).
 

@@ -1,4 +1,10 @@
-﻿# reviewer-software-pci
+---
+aliases: []
+---
+
+# reviewer-software-pci
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

@@ -1,4 +1,10 @@
-﻿# engineer-database-nosql
+---
+aliases: []
+---
+
+# engineer-database-nosql
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

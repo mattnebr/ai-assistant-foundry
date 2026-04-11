@@ -1,4 +1,10 @@
-﻿# writer-copywriting
+---
+aliases: []
+---
+
+# writer-copywriting
+
+<!-- AUTO-GENERATED -->
 
 8 skill variant(s).
 

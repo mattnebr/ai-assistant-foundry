@@ -1,4 +1,10 @@
-﻿# writer-technical
+---
+aliases: []
+---
+
+# writer-technical
+
+<!-- AUTO-GENERATED -->
 
 5 skill variant(s).
 

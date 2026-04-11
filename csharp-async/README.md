@@ -1,4 +1,10 @@
-﻿# csharp-async
+---
+aliases: []
+---
+
+# csharp-async
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

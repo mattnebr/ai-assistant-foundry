@@ -1,4 +1,10 @@
-﻿# architecture-decision-records
+---
+aliases: []
+---
+
+# architecture-decision-records
+
+<!-- AUTO-GENERATED -->
 
 4 skill variant(s).
 

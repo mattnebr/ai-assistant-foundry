@@ -1,4 +1,10 @@
-﻿# reviewer-accessibility
+---
+aliases: []
+---
+
+# reviewer-accessibility
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

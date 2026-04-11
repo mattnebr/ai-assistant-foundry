@@ -1,4 +1,10 @@
-﻿# telegram
+---
+aliases: []
+---
+
+# telegram
+
+<!-- AUTO-GENERATED -->
 
 4 skill variant(s).
 

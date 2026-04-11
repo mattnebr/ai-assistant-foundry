@@ -1,4 +1,10 @@
-﻿# doc-architecture
+---
+aliases: []
+---
+
+# doc-architecture
+
+<!-- AUTO-GENERATED -->
 
 4 skill variant(s).
 

@@ -1,4 +1,10 @@
-﻿# verification-before-completion
+---
+aliases: []
+---
+
+# verification-before-completion
+
+<!-- AUTO-GENERATED -->
 
 3 skill variant(s).
 

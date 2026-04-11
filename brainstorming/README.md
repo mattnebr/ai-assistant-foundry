@@ -1,12 +1,19 @@
-﻿# brainstorming
+---
+aliases: []
+---
 
-12 skill variant(s).
+# brainstorming
+
+<!-- AUTO-GENERATED -->
+
+13 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | idea-refine | [SKILL.md](addyosmani/idea-refine/SKILL.md) |
 | bmad-code-org | bmad-brainstorming | [SKILL.md](bmad-code-org/bmad-brainstorming/SKILL.md) |
 | cblecker | brainstorming | [SKILL.md](cblecker/brainstorming/SKILL.md) |
+| github | from-the-other-side-vega | [SKILL.md](github/from-the-other-side-vega/SKILL.md) |
 | K-Dense-AI | scientific-critical-thinking | [SKILL.md](K-Dense-AI/scientific-critical-thinking/SKILL.md) |
 | NeoLabHQ | brainstorm | [SKILL.md](NeoLabHQ/brainstorm/SKILL.md) |
 | NeoLabHQ | create-ideas | [SKILL.md](NeoLabHQ/create-ideas/SKILL.md) |

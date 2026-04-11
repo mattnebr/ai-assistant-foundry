@@ -1,4 +1,10 @@
-﻿# financial-analyst
+---
+aliases: []
+---
+
+# financial-analyst
+
+<!-- AUTO-GENERATED -->
 
 8 skill variant(s).
 

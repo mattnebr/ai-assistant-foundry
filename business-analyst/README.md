@@ -1,11 +1,23 @@
-﻿# business-analyst
+---
+aliases: []
+---
 
-3 skill variant(s).
+# business-analyst
+
+<!-- AUTO-GENERATED -->
+
+9 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | cs-product-analyst | [SKILL.md](alirezarezvani/cs-product-analyst/SKILL.md) |
+| alirezarezvani | product-analytics | [SKILL.md](alirezarezvani/product-analytics/SKILL.md) |
+| sickn33 | acceptance-orchestrator | [SKILL.md](sickn33/acceptance-orchestrator/SKILL.md) |
 | sickn33 | business-analyst | [SKILL.md](sickn33/business-analyst/SKILL.md) |
+| sickn33 | ddd-context-mapping | [SKILL.md](sickn33/ddd-context-mapping/SKILL.md) |
+| sickn33 | ddd-strategic-design | [SKILL.md](sickn33/ddd-strategic-design/SKILL.md) |
+| sickn33 | ddd-tactical-patterns | [SKILL.md](sickn33/ddd-tactical-patterns/SKILL.md) |
+| sickn33 | github-issue-creator | [SKILL.md](sickn33/github-issue-creator/SKILL.md) |
 | sickn33 | jobs-to-be-done-analyst | [SKILL.md](sickn33/jobs-to-be-done-analyst/SKILL.md) |
 
 ---

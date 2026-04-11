@@ -1,4 +1,10 @@
-﻿# builder-markdown-index
+---
+aliases: []
+---
+
+# builder-markdown-index
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

@@ -1,4 +1,10 @@
-﻿# engineer-python
+---
+aliases: []
+---
+
+# engineer-python
+
+<!-- AUTO-GENERATED -->
 
 4 skill variant(s).
 

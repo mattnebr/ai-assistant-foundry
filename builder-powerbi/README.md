@@ -1,4 +1,10 @@
-﻿# builder-powerbi
+---
+aliases: []
+---
+
+# builder-powerbi
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

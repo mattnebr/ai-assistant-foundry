@@ -1,4 +1,10 @@
-﻿# confluence
+---
+aliases: []
+---
+
+# confluence
+
+<!-- AUTO-GENERATED -->
 
 5 skill variant(s).
 

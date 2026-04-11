@@ -1,4 +1,10 @@
-﻿# security-auditor
+---
+aliases: []
+---
+
+# security-auditor
+
+<!-- AUTO-GENERATED -->
 
 3 skill variant(s).
 

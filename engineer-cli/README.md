@@ -1,4 +1,10 @@
-﻿# engineer-cli
+---
+aliases: []
+---
+
+# engineer-cli
+
+<!-- AUTO-GENERATED -->
 
 3 skill variant(s).
 

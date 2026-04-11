@@ -1,4 +1,10 @@
-﻿# architect-software
+---
+aliases: []
+---
+
+# architect-software
+
+<!-- AUTO-GENERATED -->
 
 15 skill variant(s).
 

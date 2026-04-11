@@ -1,4 +1,10 @@
-﻿# agent-orchestration
+---
+aliases: []
+---
+
+# agent-orchestration
+
+<!-- AUTO-GENERATED -->
 
 6 skill variant(s).
 

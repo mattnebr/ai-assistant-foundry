@@ -1,4 +1,10 @@
-﻿# git-workflows
+---
+aliases: []
+---
+
+# git-workflows
+
+<!-- AUTO-GENERATED -->
 
 8 skill variant(s).
 

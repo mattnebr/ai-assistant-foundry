@@ -1,4 +1,10 @@
-﻿# git-pr
+---
+aliases: []
+---
+
+# git-pr
+
+<!-- AUTO-GENERATED -->
 
 12 skill variant(s).
 

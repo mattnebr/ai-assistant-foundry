@@ -1,4 +1,10 @@
-﻿# engineer-ml
+---
+aliases: []
+---
+
+# engineer-ml
+
+<!-- AUTO-GENERATED -->
 
 6 skill variant(s).
 

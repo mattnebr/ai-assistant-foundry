@@ -1,4 +1,10 @@
-﻿# document-surface
+---
+aliases: []
+---
+
+# document-surface
+
+<!-- AUTO-GENERATED -->
 
 2 skill variant(s).
 

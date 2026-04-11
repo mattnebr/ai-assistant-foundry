@@ -1,4 +1,10 @@
-﻿# csharp-console-app-menu
+---
+aliases: []
+---
+
+# csharp-console-app-menu
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

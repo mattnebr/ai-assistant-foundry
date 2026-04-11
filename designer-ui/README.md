@@ -1,4 +1,10 @@
-﻿# designer-ui
+---
+aliases: []
+---
+
+# designer-ui
+
+<!-- AUTO-GENERATED -->
 
 11 skill variant(s).
 

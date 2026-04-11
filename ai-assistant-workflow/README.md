@@ -1,4 +1,10 @@
-﻿# ai-assistant-workflow
+---
+aliases: []
+---
+
+# ai-assistant-workflow
+
+<!-- AUTO-GENERATED -->
 
 3 skill variant(s).
 

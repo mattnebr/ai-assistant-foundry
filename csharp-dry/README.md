@@ -1,4 +1,10 @@
-﻿# csharp-dry
+---
+aliases: []
+---
+
+# csharp-dry
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

@@ -1,4 +1,10 @@
-﻿# csharp-domain-driven-design
+---
+aliases: []
+---
+
+# csharp-domain-driven-design
+
+<!-- AUTO-GENERATED -->
 
 3 skill variant(s).
 

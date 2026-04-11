@@ -1,6 +1,6 @@
-﻿# skill index
+# skill index
 
-*133 skill group(s) — 657 total variant(s)*
+*127 skill group(s) — 656 total variant(s)*
 
 ## agent-orchestration
 
@@ -10,6 +10,10 @@
 - [sickn33/agent-orchestrator](agent-orchestration/sickn33/agent-orchestrator/SKILL.md)
 - [sickn33/agentflow](agent-orchestration/sickn33/agentflow/SKILL.md)
 - [sickn33/dispatching-parallel-agents](agent-orchestration/sickn33/dispatching-parallel-agents/SKILL.md)
+
+## ai-assistant-email
+
+- [sickn33/agentmail](ai-assistant-email/sickn33/agentmail/SKILL.md)
 
 ## ai-assistant-hooks
 
@@ -27,17 +31,14 @@
 - [sickn33/conversation-memory](ai-assistant-memory/sickn33/conversation-memory/SKILL.md)
 - [sickn33/memory-systems](ai-assistant-memory/sickn33/memory-systems/SKILL.md)
 
-## ai-assistant-orchisration
+## ai-assistant-orchestration
 
-- [obra/subagent-driven-development](ai-assistant-orchisration/obra/subagent-driven-development/SKILL.md)
-
-## ai-assistant-orchistration
-
-- [alirezarezvani/agent-workflow-designer](ai-assistant-orchistration/alirezarezvani/agent-workflow-designer/SKILL.md)
-- [bmad-code-org/bmad-distillator](ai-assistant-orchistration/bmad-code-org/bmad-distillator/SKILL.md)
-- [NeoLabHQ/multi-agent-patterns](ai-assistant-orchistration/NeoLabHQ/multi-agent-patterns/SKILL.md)
-- [obra/dispatching-parallel-agents](ai-assistant-orchistration/obra/dispatching-parallel-agents/SKILL.md)
-- [sickn33/subagent-driven-development](ai-assistant-orchistration/sickn33/subagent-driven-development/SKILL.md)
+- [alirezarezvani/agent-workflow-designer](ai-assistant-orchestration/alirezarezvani/agent-workflow-designer/SKILL.md)
+- [bmad-code-org/bmad-distillator](ai-assistant-orchestration/bmad-code-org/bmad-distillator/SKILL.md)
+- [NeoLabHQ/multi-agent-patterns](ai-assistant-orchestration/NeoLabHQ/multi-agent-patterns/SKILL.md)
+- [obra/dispatching-parallel-agents](ai-assistant-orchestration/obra/dispatching-parallel-agents/SKILL.md)
+- [obra/subagent-driven-development](ai-assistant-orchestration/obra/subagent-driven-development/SKILL.md)
+- [sickn33/subagent-driven-development](ai-assistant-orchestration/sickn33/subagent-driven-development/SKILL.md)
 
 ## ai-assistant-phone
 
@@ -62,10 +63,6 @@
 - [cblecker/dispatching-parallel-agents](ai-assistant-workflow/cblecker/dispatching-parallel-agents/SKILL.md)
 - [cblecker/subagent-driven-development](ai-assistant-workflow/cblecker/subagent-driven-development/SKILL.md)
 - [NeoLabHQ/create-workflow-command](ai-assistant-workflow/NeoLabHQ/create-workflow-command/SKILL.md)
-
-## ai-assitant-email
-
-- [sickn33/agentmail](ai-assitant-email/sickn33/agentmail/SKILL.md)
 
 ## architect-database
 
@@ -113,15 +110,12 @@
 - [SebastienDegodez/follow-up-question](ask-questions-if-underspecified/SebastienDegodez/follow-up-question/follow-up-question.instructions.md)
 - [sickn33/ask-questions-if-underspecified](ask-questions-if-underspecified/sickn33/ask-questions-if-underspecified/SKILL.md)
 
-## brainstorm
-
-- [github/from-the-other-side-vega](brainstorm/github/from-the-other-side-vega/SKILL.md)
-
 ## brainstorming
 
 - [addyosmani/idea-refine](brainstorming/addyosmani/idea-refine/SKILL.md)
 - [bmad-code-org/bmad-brainstorming](brainstorming/bmad-code-org/bmad-brainstorming/SKILL.md)
 - [cblecker/brainstorming](brainstorming/cblecker/brainstorming/SKILL.md)
+- [github/from-the-other-side-vega](brainstorming/github/from-the-other-side-vega/SKILL.md)
 - [K-Dense-AI/scientific-critical-thinking](brainstorming/K-Dense-AI/scientific-critical-thinking/SKILL.md)
 - [NeoLabHQ/brainstorm](brainstorming/NeoLabHQ/brainstorm/SKILL.md)
 - [NeoLabHQ/create-ideas](brainstorming/NeoLabHQ/create-ideas/SKILL.md)
@@ -158,19 +152,16 @@
 - [K-Dense-AI/xlsx](builder-spreadsheet/K-Dense-AI/xlsx/SKILL.md)
 - [sickn33/xlsx-official](builder-spreadsheet/sickn33/xlsx-official/SKILL.md)
 
-## business-analysis
-
-- [alirezarezvani/product-analytics](business-analysis/alirezarezvani/product-analytics/SKILL.md)
-- [sickn33/acceptance-orchestrator](business-analysis/sickn33/acceptance-orchestrator/SKILL.md)
-- [sickn33/ddd-context-mapping](business-analysis/sickn33/ddd-context-mapping/SKILL.md)
-- [sickn33/ddd-strategic-design](business-analysis/sickn33/ddd-strategic-design/SKILL.md)
-- [sickn33/ddd-tactical-patterns](business-analysis/sickn33/ddd-tactical-patterns/SKILL.md)
-- [sickn33/github-issue-creator](business-analysis/sickn33/github-issue-creator/SKILL.md)
-
 ## business-analyst
 
 - [alirezarezvani/cs-product-analyst](business-analyst/alirezarezvani/cs-product-analyst/SKILL.md)
+- [alirezarezvani/product-analytics](business-analyst/alirezarezvani/product-analytics/SKILL.md)
+- [sickn33/acceptance-orchestrator](business-analyst/sickn33/acceptance-orchestrator/SKILL.md)
 - [sickn33/business-analyst](business-analyst/sickn33/business-analyst/SKILL.md)
+- [sickn33/ddd-context-mapping](business-analyst/sickn33/ddd-context-mapping/SKILL.md)
+- [sickn33/ddd-strategic-design](business-analyst/sickn33/ddd-strategic-design/SKILL.md)
+- [sickn33/ddd-tactical-patterns](business-analyst/sickn33/ddd-tactical-patterns/SKILL.md)
+- [sickn33/github-issue-creator](business-analyst/sickn33/github-issue-creator/SKILL.md)
 - [sickn33/jobs-to-be-done-analyst](business-analyst/sickn33/jobs-to-be-done-analyst/SKILL.md)
 
 ## confluence
@@ -398,6 +389,7 @@
 ## engineer-editorconfig
 
 - [github/editorconfig](engineer-editorconfig/github/editorconfig/SKILL.md)
+- [github/write-coding-standards-from-file](engineer-editorconfig/github/write-coding-standards-from-file/SKILL.md)
 
 ## engineer-janitor
 
@@ -596,10 +588,6 @@
 - [sickn33/workflow-orchestration-patterns](engineer-workflow/sickn33/workflow-orchestration-patterns/SKILL.md)
 - [sickn33/workflow-patterns](engineer-workflow/sickn33/workflow-patterns/SKILL.md)
 
-## enginner-editorconfig
-
-- [github/write-coding-standards-from-file](enginner-editorconfig/github/write-coding-standards-from-file/SKILL.md)
-
 ## financial-analyst
 
 - [alirezarezvani/finance](financial-analyst/alirezarezvani/finance/SKILL.md)
@@ -684,10 +672,6 @@
 - [sickn33/legal-advisor](legal-advisor/sickn33/legal-advisor/SKILL.md)
 - [whawkinsiv/legal](legal-advisor/whawkinsiv/legal/SKILL.md)
 
-## manager_agile
-
-- [alirezarezvani/senior-pm](manager_agile/alirezarezvani/senior-pm/SKILL.md)
-
 ## manager-agile
 
 - [addyosmani/incremental-implementation](manager-agile/addyosmani/incremental-implementation/SKILL.md)
@@ -765,6 +749,7 @@
 - [bmad-code-org/bmad-product-brief](manager-project/bmad-code-org/bmad-product-brief/SKILL.md)
 - [feiskyer/spec-kit-skill](manager-project/feiskyer/spec-kit-skill/SKILL.md)
 - [NeoLabHQ/plan-do-check-act](manager-project/NeoLabHQ/plan-do-check-act/SKILL.md)
+- [obra/executing-plans](manager-project/obra/executing-plans/SKILL.md)
 - [obra/writing-plans](manager-project/obra/writing-plans/SKILL.md)
 - [sanjay3290/outline](manager-project/sanjay3290/outline/SKILL.md)
 - [sickn33/progressive-estimation](manager-project/sickn33/progressive-estimation/SKILL.md)
@@ -866,10 +851,6 @@
 - [sickn33/product-design](product-design/sickn33/product-design/SKILL.md)
 - [sickn33/product-manager](product-design/sickn33/product-manager/SKILL.md)
 - [sickn33/product-manager-toolkit](product-design/sickn33/product-manager-toolkit/SKILL.md)
-
-## project-manager
-
-- [obra/executing-plans](project-manager/obra/executing-plans/SKILL.md)
 
 ## reviewer-accessibility
 
@@ -976,12 +957,12 @@
 - [sickn33/slack-automation](slack/sickn33/slack-automation/SKILL.md)
 - [sickn33/slack-bot-builder](slack/sickn33/slack-bot-builder/SKILL.md)
 
-## stipe
+## stripe
 
-- [alirezarezvani/ad-creative](stipe/alirezarezvani/ad-creative/SKILL.md)
-- [alirezarezvani/stripe-integration-expert](stipe/alirezarezvani/stripe-integration-expert/SKILL.md)
-- [sickn33/stripe-automation](stipe/sickn33/stripe-automation/SKILL.md)
-- [sickn33/stripe-integration](stipe/sickn33/stripe-integration/SKILL.md)
+- [alirezarezvani/ad-creative](stripe/alirezarezvani/ad-creative/SKILL.md)
+- [alirezarezvani/stripe-integration-expert](stripe/alirezarezvani/stripe-integration-expert/SKILL.md)
+- [sickn33/stripe-automation](stripe/sickn33/stripe-automation/SKILL.md)
+- [sickn33/stripe-integration](stripe/sickn33/stripe-integration/SKILL.md)
 
 ## telegram
 

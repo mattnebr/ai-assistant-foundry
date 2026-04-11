@@ -1,4 +1,10 @@
-﻿# engineer-ui-tailwind
+---
+aliases: []
+---
+
+# engineer-ui-tailwind
+
+<!-- AUTO-GENERATED -->
 
 2 skill variant(s).
 

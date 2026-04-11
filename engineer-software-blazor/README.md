@@ -1,4 +1,10 @@
-﻿# engineer-software-blazor
+---
+aliases: []
+---
+
+# engineer-software-blazor
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

@@ -1,4 +1,10 @@
-﻿# reviewer-security-api
+---
+aliases: []
+---
+
+# reviewer-security-api
+
+<!-- AUTO-GENERATED -->
 
 3 skill variant(s).
 

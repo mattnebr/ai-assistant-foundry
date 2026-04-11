@@ -1,4 +1,10 @@
-﻿# engineer-mermaid
+---
+aliases: []
+---
+
+# engineer-mermaid
+
+<!-- AUTO-GENERATED -->
 
 2 skill variant(s).
 

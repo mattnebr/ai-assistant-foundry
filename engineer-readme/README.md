@@ -1,4 +1,10 @@
-﻿# engineer-readme
+---
+aliases: []
+---
+
+# engineer-readme
+
+<!-- AUTO-GENERATED -->
 
 7 skill variant(s).
 

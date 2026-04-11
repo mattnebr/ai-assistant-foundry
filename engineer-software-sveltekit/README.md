@@ -1,4 +1,10 @@
-﻿# engineer-software-sveltekit
+---
+aliases: []
+---
+
+# engineer-software-sveltekit
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

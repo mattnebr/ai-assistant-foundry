@@ -1,4 +1,10 @@
-﻿# csharp-command-cqrs
+---
+aliases: []
+---
+
+# csharp-command-cqrs
+
+<!-- AUTO-GENERATED -->
 
 3 skill variant(s).
 

@@ -1,4 +1,10 @@
-﻿# builder-slide-presentation
+---
+aliases: []
+---
+
+# builder-slide-presentation
+
+<!-- AUTO-GENERATED -->
 
 5 skill variant(s).
 

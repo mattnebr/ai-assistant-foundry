@@ -1,4 +1,10 @@
-﻿# x
+---
+aliases: []
+---
+
+# x
+
+<!-- AUTO-GENERATED -->
 
 3 skill variant(s).
 

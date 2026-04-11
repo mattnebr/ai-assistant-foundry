@@ -1,4 +1,10 @@
-﻿# engineer-ui-d3js
+---
+aliases: []
+---
+
+# engineer-ui-d3js
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

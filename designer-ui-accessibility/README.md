@@ -1,4 +1,10 @@
-﻿# designer-ui-accessibility
+---
+aliases: []
+---
+
+# designer-ui-accessibility
+
+<!-- AUTO-GENERATED -->
 
 5 skill variant(s).
 

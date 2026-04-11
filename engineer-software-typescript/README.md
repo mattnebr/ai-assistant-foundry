@@ -1,4 +1,10 @@
-﻿# engineer-software-typescript
+---
+aliases: []
+---
+
+# engineer-software-typescript
+
+<!-- AUTO-GENERATED -->
 
 4 skill variant(s).
 

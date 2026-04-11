@@ -1,4 +1,10 @@
-﻿# engineer-changelog
+---
+aliases: []
+---
+
+# engineer-changelog
+
+<!-- AUTO-GENERATED -->
 
 4 skill variant(s).
 

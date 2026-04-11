@@ -1,4 +1,10 @@
-﻿# csharp-mcp-server-generator
+---
+aliases: []
+---
+
+# csharp-mcp-server-generator
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

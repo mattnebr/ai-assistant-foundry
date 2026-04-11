@@ -1,4 +1,10 @@
-﻿# git-commit
+---
+aliases: []
+---
+
+# git-commit
+
+<!-- AUTO-GENERATED -->
 
 8 skill variant(s).
 

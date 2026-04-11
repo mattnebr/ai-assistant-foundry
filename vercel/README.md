@@ -1,4 +1,10 @@
-﻿# vercel
+---
+aliases: []
+---
+
+# vercel
+
+<!-- AUTO-GENERATED -->
 
 3 skill variant(s).
 

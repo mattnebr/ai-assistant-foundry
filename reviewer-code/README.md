@@ -1,4 +1,10 @@
-﻿# reviewer-code
+---
+aliases: []
+---
+
+# reviewer-code
+
+<!-- AUTO-GENERATED -->
 
 6 skill variant(s).
 

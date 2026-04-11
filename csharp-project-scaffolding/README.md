@@ -1,4 +1,10 @@
-﻿# csharp-project-scaffolding
+---
+aliases: []
+---
+
+# csharp-project-scaffolding
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

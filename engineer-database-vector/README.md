@@ -1,4 +1,10 @@
-﻿# engineer-database-vector
+---
+aliases: []
+---
+
+# engineer-database-vector
+
+<!-- AUTO-GENERATED -->
 
 2 skill variant(s).
 

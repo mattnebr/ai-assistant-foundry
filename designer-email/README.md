@@ -1,4 +1,10 @@
-﻿# designer-email
+---
+aliases: []
+---
+
+# designer-email
+
+<!-- AUTO-GENERATED -->
 
 2 skill variant(s).
 

@@ -1,4 +1,10 @@
-﻿# manager-humans
+---
+aliases: []
+---
+
+# manager-humans
+
+<!-- AUTO-GENERATED -->
 
 9 skill variant(s).
 

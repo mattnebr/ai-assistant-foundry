@@ -1,4 +1,10 @@
-﻿# engineer-software-powershell
+---
+aliases: []
+---
+
+# engineer-software-powershell
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

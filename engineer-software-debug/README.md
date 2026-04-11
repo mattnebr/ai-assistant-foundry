@@ -1,4 +1,10 @@
-﻿# engineer-software-debug
+---
+aliases: []
+---
+
+# engineer-software-debug
+
+<!-- AUTO-GENERATED -->
 
 4 skill variant(s).
 

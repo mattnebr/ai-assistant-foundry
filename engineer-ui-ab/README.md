@@ -1,4 +1,10 @@
-﻿# engineer-ui-ab
+---
+aliases: []
+---
+
+# engineer-ui-ab
+
+<!-- AUTO-GENERATED -->
 
 2 skill variant(s).
 

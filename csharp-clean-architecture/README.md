@@ -1,4 +1,10 @@
-﻿# csharp-clean-architecture
+---
+aliases: []
+---
+
+# csharp-clean-architecture
+
+<!-- AUTO-GENERATED -->
 
 2 skill variant(s).
 

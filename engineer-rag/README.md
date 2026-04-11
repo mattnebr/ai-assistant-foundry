@@ -1,4 +1,10 @@
-﻿# engineer-rag
+---
+aliases: []
+---
+
+# engineer-rag
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

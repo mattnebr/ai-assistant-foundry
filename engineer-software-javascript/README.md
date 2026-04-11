@@ -1,4 +1,10 @@
-﻿# engineer-software-javascript
+---
+aliases: []
+---
+
+# engineer-software-javascript
+
+<!-- AUTO-GENERATED -->
 
 2 skill variant(s).
 

@@ -1,4 +1,10 @@
-﻿# sales-email
+---
+aliases: []
+---
+
+# sales-email
+
+<!-- AUTO-GENERATED -->
 
 17 skill variant(s).
 

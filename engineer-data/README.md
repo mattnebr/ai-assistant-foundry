@@ -1,4 +1,10 @@
-﻿# engineer-data
+---
+aliases: []
+---
+
+# engineer-data
+
+<!-- AUTO-GENERATED -->
 
 8 skill variant(s).
 

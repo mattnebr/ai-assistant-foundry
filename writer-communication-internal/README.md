@@ -1,4 +1,10 @@
-﻿# writer-communication-internal
+---
+aliases: []
+---
+
+# writer-communication-internal
+
+<!-- AUTO-GENERATED -->
 
 5 skill variant(s).
 

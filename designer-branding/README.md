@@ -1,4 +1,10 @@
-﻿# designer-branding
+---
+aliases: []
+---
+
+# designer-branding
+
+<!-- AUTO-GENERATED -->
 
 7 skill variant(s).
 

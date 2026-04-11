@@ -1,4 +1,10 @@
-﻿# zoom
+---
+aliases: []
+---
+
+# zoom
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

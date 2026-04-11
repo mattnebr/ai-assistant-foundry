@@ -1,4 +1,10 @@
-﻿# engineer-software-frontend
+---
+aliases: []
+---
+
+# engineer-software-frontend
+
+<!-- AUTO-GENERATED -->
 
 8 skill variant(s).
 

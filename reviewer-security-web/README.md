@@ -1,4 +1,10 @@
-﻿# reviewer-security-web
+---
+aliases: []
+---
+
+# reviewer-security-web
+
+<!-- AUTO-GENERATED -->
 
 4 skill variant(s).
 

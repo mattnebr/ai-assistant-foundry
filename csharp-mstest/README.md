@@ -1,4 +1,10 @@
-﻿# csharp-mstest
+---
+aliases: []
+---
+
+# csharp-mstest
+
+<!-- AUTO-GENERATED -->
 
 3 skill variant(s).
 

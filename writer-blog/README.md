@@ -1,4 +1,10 @@
-﻿# writer-blog
+---
+aliases: []
+---
+
+# writer-blog
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

@@ -1,4 +1,10 @@
-﻿# ai-assistant-hooks
+---
+aliases: []
+---
+
+# ai-assistant-hooks
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

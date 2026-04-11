@@ -1,4 +1,10 @@
-﻿# manager-agile
+---
+aliases: []
+---
+
+# manager-agile
+
+<!-- AUTO-GENERATED -->
 
 52 skill variant(s).
 

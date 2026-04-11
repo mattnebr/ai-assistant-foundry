@@ -1,4 +1,10 @@
-﻿# planner-software
+---
+aliases: []
+---
+
+# planner-software
+
+<!-- AUTO-GENERATED -->
 
 5 skill variant(s).
 

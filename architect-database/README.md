@@ -1,4 +1,10 @@
-﻿# architect-database
+---
+aliases: []
+---
+
+# architect-database
+
+<!-- AUTO-GENERATED -->
 
 6 skill variant(s).
 

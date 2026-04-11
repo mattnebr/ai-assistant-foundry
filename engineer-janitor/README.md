@@ -1,4 +1,10 @@
-﻿# engineer-janitor
+---
+aliases: []
+---
+
+# engineer-janitor
+
+<!-- AUTO-GENERATED -->
 
 5 skill variant(s).
 

@@ -1,4 +1,10 @@
-﻿# designer-favicon
+---
+aliases: []
+---
+
+# designer-favicon
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

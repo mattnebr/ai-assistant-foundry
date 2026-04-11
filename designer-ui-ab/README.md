@@ -1,4 +1,10 @@
-﻿# designer-ui-ab
+---
+aliases: []
+---
+
+# designer-ui-ab
+
+<!-- AUTO-GENERATED -->
 
 2 skill variant(s).
 

@@ -1,4 +1,10 @@
-﻿# marketer-landing-page
+---
+aliases: []
+---
+
+# marketer-landing-page
+
+<!-- AUTO-GENERATED -->
 
 11 skill variant(s).
 

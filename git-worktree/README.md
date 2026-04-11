@@ -1,4 +1,10 @@
-﻿# git-worktree
+---
+aliases: []
+---
+
+# git-worktree
+
+<!-- AUTO-GENERATED -->
 
 7 skill variant(s).
 

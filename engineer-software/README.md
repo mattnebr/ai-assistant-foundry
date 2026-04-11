@@ -1,4 +1,10 @@
-﻿# engineer-software
+---
+aliases: []
+---
+
+# engineer-software
+
+<!-- AUTO-GENERATED -->
 
 11 skill variant(s).
 

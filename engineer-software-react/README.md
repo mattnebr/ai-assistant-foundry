@@ -1,4 +1,10 @@
-﻿# engineer-software-react
+---
+aliases: []
+---
+
+# engineer-software-react
+
+<!-- AUTO-GENERATED -->
 
 6 skill variant(s).
 

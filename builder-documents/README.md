@@ -1,4 +1,10 @@
-﻿# builder-documents
+---
+aliases: []
+---
+
+# builder-documents
+
+<!-- AUTO-GENERATED -->
 
 1 skill variant(s).
 

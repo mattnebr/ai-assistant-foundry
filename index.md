@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*132 skill group(s) — 638 total variant(s)*
+*132 skill group(s) — 639 total variant(s)*
 
 ## agent-orchestration
 
@@ -474,6 +474,7 @@
 - [mattnebr/coding-style-project](engineer-software/mattnebr/coding-style-project/coding-style-project.instructions.md)
 - [mattnebr/coding-style-solution](engineer-software/mattnebr/coding-style-solution/coding-style-solution.instructions.md)
 - [NeoLabHQ/setup-code-formating](engineer-software/NeoLabHQ/setup-code-formating/SKILL.md)
+- [ramziddin/solid](engineer-software/ramziddin/solid/SKILL.md)
 - [SebastienDegodez/unit-and-integration-tests](engineer-software/SebastienDegodez/unit-and-integration-tests/unit-and-integration-tests.instructions.md)
 - [sickn33/ai-engineer](engineer-software/sickn33/ai-engineer/SKILL.md)
 - [sickn33/development](engineer-software/sickn33/development/SKILL.md)

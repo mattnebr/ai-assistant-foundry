@@ -1,6 +1,6 @@
 ﻿# planner-content-strategy
 
-21 skill variant(s).
+22 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -9,6 +9,7 @@
 | alirezarezvani | content-strategist | [SKILL.md](alirezarezvani/content-strategist/SKILL.md) |
 | alirezarezvani | content-strategy | [SKILL.md](alirezarezvani/content-strategy/SKILL.md) |
 | alirezarezvani | cs-content-creator | [SKILL.md](alirezarezvani/cs-content-creator/SKILL.md) |
+| chadboyda | content-to-pipeline | [SKILL.md](chadboyda/content-to-pipeline/SKILL.md) |
 | coreyhaines31 | content-strategy | [SKILL.md](coreyhaines31/content-strategy/SKILL.md) |
 | coreyhaines31 | site-architecture | [SKILL.md](coreyhaines31/site-architecture/SKILL.md) |
 | coreyhaines31 | social-content | [SKILL.md](coreyhaines31/social-content/SKILL.md) |

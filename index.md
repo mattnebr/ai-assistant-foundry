@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*127 skill group(s) — 525 total variant(s)*
+*127 skill group(s) — 540 total variant(s)*
 
 ## agent-orchestration
 
@@ -91,6 +91,7 @@
 
 - [github/first-ask](ask-questions-if-underspecified/github/first-ask/SKILL.md)
 - [github/what-context-needed](ask-questions-if-underspecified/github/what-context-needed/SKILL.md)
+- [mattnebr/follow-up-question](ask-questions-if-underspecified/mattnebr/follow-up-question/follow-up-question.instructions.md)
 - [SebastienDegodez/follow-up-question](ask-questions-if-underspecified/SebastienDegodez/follow-up-question/follow-up-question.instructions.md)
 - [sickn33/ask-questions-if-underspecified](ask-questions-if-underspecified/sickn33/ask-questions-if-underspecified/SKILL.md)
 
@@ -171,6 +172,7 @@
 
 ## csharp-domain-driven-design
 
+- [mattnebr/domain-driven-design](csharp-domain-driven-design/mattnebr/domain-driven-design/domain-driven-design.instructions.md)
 - [SebastienDegodez/domain-driven-design](csharp-domain-driven-design/SebastienDegodez/domain-driven-design/domain-driven-design.instructions.md)
 - [SebastienDegodez/domain-driven-design-event-csharp](csharp-domain-driven-design/SebastienDegodez/domain-driven-design-event-csharp/domain-driven-design-event-csharp.instructions.md)
 
@@ -186,6 +188,7 @@
 
 - [github/csharp-mstest](csharp-mstest/github/csharp-mstest/SKILL.md)
 - [mattnebr/csharp-mstest](csharp-mstest/mattnebr/csharp-mstest/SKILL.md)
+- [mattnebr/unit-and-integration-tests](csharp-mstest/mattnebr/unit-and-integration-tests/unit-and-integration-tests.instructions.md)
 
 ## csharp-nunit
 
@@ -308,6 +311,7 @@
 
 - [alirezarezvani/data-quality-auditor](engineer-data/alirezarezvani/data-quality-auditor/SKILL.md)
 - [alirezarezvani/senior-data-engineer](engineer-data/alirezarezvani/senior-data-engineer/SKILL.md)
+- [chadboyda/lead-enrichment](engineer-data/chadboyda/lead-enrichment/SKILL.md)
 - [sickn33/data-engineer](engineer-data/sickn33/data-engineer/SKILL.md)
 - [sickn33/data-engineering-data-driven-feature](engineer-data/sickn33/data-engineering-data-driven-feature/SKILL.md)
 - [sickn33/data-engineering-data-pipeline](engineer-data/sickn33/data-engineering-data-pipeline/SKILL.md)
@@ -410,6 +414,8 @@
 - [alirezarezvani/cs-senior-engineer](engineer-software/alirezarezvani/cs-senior-engineer/SKILL.md)
 - [github/microsoft-code-reference](engineer-software/github/microsoft-code-reference/SKILL.md)
 - [github/microsoft-docs](engineer-software/github/microsoft-docs/SKILL.md)
+- [mattnebr/coding-style-project](engineer-software/mattnebr/coding-style-project/coding-style-project.instructions.md)
+- [mattnebr/coding-style-solution](engineer-software/mattnebr/coding-style-solution/coding-style-solution.instructions.md)
 - [SebastienDegodez/unit-and-integration-tests](engineer-software/SebastienDegodez/unit-and-integration-tests/unit-and-integration-tests.instructions.md)
 - [sickn33/ai-engineer](engineer-software/sickn33/ai-engineer/SKILL.md)
 - [sickn33/development](engineer-software/sickn33/development/SKILL.md)
@@ -423,6 +429,7 @@
 
 - [github/dotnet-best-practices](engineer-software-csharp/github/dotnet-best-practices/SKILL.md)
 - [github/dotnet-design-pattern-review](engineer-software-csharp/github/dotnet-design-pattern-review/SKILL.md)
+- [mattnebr/coding-style-csharp](engineer-software-csharp/mattnebr/coding-style-csharp/coding-style-csharp.instructions.md)
 - [SebastienDegodez/coding-style-csharp](engineer-software-csharp/SebastienDegodez/coding-style-csharp/coding-style-csharp.instructions.md)
 - [sickn33/csharp-pro](engineer-software-csharp/sickn33/csharp-pro/SKILL.md)
 
@@ -447,6 +454,7 @@
 
 ## engineer-software-oo
 
+- [mattnebr/object-calisthenics](engineer-software-oo/mattnebr/object-calisthenics/object-calisthenics.instructions.md)
 - [SebastienDegodez/object-calisthenics](engineer-software-oo/SebastienDegodez/object-calisthenics/object-calisthenics.instructions.md)
 
 ## engineer-software-powershell
@@ -491,6 +499,8 @@
 
 - [alirezarezvani/analytics-tracking](engineer-ui-ga/alirezarezvani/analytics-tracking/SKILL.md)
 - [alirezarezvani/campaign-analytics](engineer-ui-ga/alirezarezvani/campaign-analytics/SKILL.md)
+- [chadboyda/gtm-engineering](engineer-ui-ga/chadboyda/gtm-engineering/SKILL.md)
+- [chadboyda/gtm-metrics](engineer-ui-ga/chadboyda/gtm-metrics/SKILL.md)
 - [coreyhaines31/analytics-tracking](engineer-ui-ga/coreyhaines31/analytics-tracking/SKILL.md)
 - [sickn33/google-analytics-automation](engineer-ui-ga/sickn33/google-analytics-automation/SKILL.md)
 
@@ -528,6 +538,7 @@
 
 - [github/git-commit](git-commit/github/git-commit/SKILL.md)
 - [mattnebr/commit-message](git-commit/mattnebr/commit-message/SKILL.md)
+- [mattnebr/conventional-commits](git-commit/mattnebr/conventional-commits/conventional-commits.instructions.md)
 - [SebastienDegodez/conventional-commits](git-commit/SebastienDegodez/conventional-commits/conventional-commits.instructions.md)
 - [sickn33/accessibility-compliance-accessibility-audit](git-commit/sickn33/accessibility-compliance-accessibility-audit/SKILL.md)
 - [sickn33/commit](git-commit/sickn33/commit/SKILL.md)
@@ -650,6 +661,7 @@
 - [alirezarezvani/marketing-ideas](marketer/alirezarezvani/marketing-ideas/SKILL.md)
 - [alirezarezvani/marketing-ops](marketer/alirezarezvani/marketing-ops/SKILL.md)
 - [alirezarezvani/marketing-skill](marketer/alirezarezvani/marketing-skill/SKILL.md)
+- [chadboyda/expansion-retention](marketer/chadboyda/expansion-retention/SKILL.md)
 - [coreyhaines31/ad-creative](marketer/coreyhaines31/ad-creative/SKILL.md)
 - [coreyhaines31/marketing-ideas](marketer/coreyhaines31/marketing-ideas/SKILL.md)
 - [sickn33/marketing-ideas](marketer/sickn33/marketing-ideas/SKILL.md)
@@ -702,6 +714,7 @@
 - [alirezarezvani/content-strategist](planner-content-strategy/alirezarezvani/content-strategist/SKILL.md)
 - [alirezarezvani/content-strategy](planner-content-strategy/alirezarezvani/content-strategy/SKILL.md)
 - [alirezarezvani/cs-content-creator](planner-content-strategy/alirezarezvani/cs-content-creator/SKILL.md)
+- [chadboyda/content-to-pipeline](planner-content-strategy/chadboyda/content-to-pipeline/SKILL.md)
 - [coreyhaines31/content-strategy](planner-content-strategy/coreyhaines31/content-strategy/SKILL.md)
 - [coreyhaines31/site-architecture](planner-content-strategy/coreyhaines31/site-architecture/SKILL.md)
 - [coreyhaines31/social-content](planner-content-strategy/coreyhaines31/social-content/SKILL.md)
@@ -775,6 +788,7 @@
 - [alirezarezvani/schema-markup](reviewer-seo/alirezarezvani/schema-markup/SKILL.md)
 - [alirezarezvani/seo-audit](reviewer-seo/alirezarezvani/seo-audit/SKILL.md)
 - [alirezarezvani/seo-auditor](reviewer-seo/alirezarezvani/seo-auditor/SKILL.md)
+- [chadboyda/ai-seo](reviewer-seo/chadboyda/ai-seo/SKILL.md)
 - [coreyhaines31/ai-seo](reviewer-seo/coreyhaines31/ai-seo/SKILL.md)
 - [coreyhaines31/programmatic-seo](reviewer-seo/coreyhaines31/programmatic-seo/SKILL.md)
 - [coreyhaines31/schema-markup](reviewer-seo/coreyhaines31/schema-markup/SKILL.md)
@@ -808,6 +822,7 @@
 - [alirezarezvani/cs-engineering-lead](sales-email/alirezarezvani/cs-engineering-lead/SKILL.md)
 - [alirezarezvani/email-sequence](sales-email/alirezarezvani/email-sequence/SKILL.md)
 - [alirezarezvani/sales-engineer](sales-email/alirezarezvani/sales-engineer/SKILL.md)
+- [chadboyda/ai-cold-outreach](sales-email/chadboyda/ai-cold-outreach/SKILL.md)
 - [coreyhaines31/churn-prevention](sales-email/coreyhaines31/churn-prevention/SKILL.md)
 - [coreyhaines31/cold-email](sales-email/coreyhaines31/cold-email/SKILL.md)
 - [coreyhaines31/email-sequence](sales-email/coreyhaines31/email-sequence/SKILL.md)

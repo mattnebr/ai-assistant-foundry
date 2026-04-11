@@ -1,9 +1,10 @@
 ﻿# csharp-domain-driven-design
 
-2 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| mattnebr | domain-driven-design | [domain-driven-design.instructions.md](mattnebr/domain-driven-design/domain-driven-design.instructions.md) |
 | SebastienDegodez | domain-driven-design | [domain-driven-design.instructions.md](SebastienDegodez/domain-driven-design/domain-driven-design.instructions.md) |
 | SebastienDegodez | domain-driven-design-event-csharp | [domain-driven-design-event-csharp.instructions.md](SebastienDegodez/domain-driven-design-event-csharp/domain-driven-design-event-csharp.instructions.md) |
 

@@ -1,6 +1,6 @@
 ﻿# marketer
 
-9 skill variant(s).
+10 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -9,6 +9,7 @@
 | alirezarezvani | marketing-ideas | [SKILL.md](alirezarezvani/marketing-ideas/SKILL.md) |
 | alirezarezvani | marketing-ops | [SKILL.md](alirezarezvani/marketing-ops/SKILL.md) |
 | alirezarezvani | marketing-skill | [SKILL.md](alirezarezvani/marketing-skill/SKILL.md) |
+| chadboyda | expansion-retention | [SKILL.md](chadboyda/expansion-retention/SKILL.md) |
 | coreyhaines31 | ad-creative | [SKILL.md](coreyhaines31/ad-creative/SKILL.md) |
 | coreyhaines31 | marketing-ideas | [SKILL.md](coreyhaines31/marketing-ideas/SKILL.md) |
 | sickn33 | marketing-ideas | [SKILL.md](sickn33/marketing-ideas/SKILL.md) |

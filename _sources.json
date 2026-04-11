@@ -4045,6 +4045,111 @@
       "SkillFolder": "skill/ccpm",
       "GroupName": "manager-project",
       "ArchivedAt": "2026-04-11T20:00:03.4962322Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "repository-starter-kit",
+      "SkillFolder": "github/instructions/coding-style-csharp.instructions.md",
+      "GroupName": "engineer-software-csharp",
+      "ArchivedAt": "2026-04-11T21:01:24.994464Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "repository-starter-kit",
+      "SkillFolder": "github/instructions/coding-style-project.instructions.md",
+      "GroupName": "engineer-software",
+      "ArchivedAt": "2026-04-11T21:02:39.1362869Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "repository-starter-kit",
+      "SkillFolder": "github/instructions/coding-style-solution.instructions.md",
+      "GroupName": "engineer-software",
+      "ArchivedAt": "2026-04-11T21:03:16.4547474Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "repository-starter-kit",
+      "SkillFolder": "github/instructions/conventional-commits.instructions.md",
+      "GroupName": "git-commit",
+      "ArchivedAt": "2026-04-11T21:03:19.5123742Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "repository-starter-kit",
+      "SkillFolder": "github/instructions/domain-driven-design.instructions.md",
+      "GroupName": "csharp-domain-driven-design",
+      "ArchivedAt": "2026-04-11T21:03:23.4226132Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "repository-starter-kit",
+      "SkillFolder": "github/instructions/follow-up-question.instructions.md",
+      "GroupName": "ask-questions-if-underspecified",
+      "ArchivedAt": "2026-04-11T21:03:28.3784508Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "repository-starter-kit",
+      "SkillFolder": "github/instructions/object-calisthenics.instructions.md",
+      "GroupName": "engineer-software-oo",
+      "ArchivedAt": "2026-04-11T21:04:13.1523122Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "repository-starter-kit",
+      "SkillFolder": "github/instructions/unit-and-integration-tests.instructions.md",
+      "GroupName": "csharp-mstest",
+      "ArchivedAt": "2026-04-11T21:04:35.0389081Z"
+    },
+    {
+      "Owner": "chadboyda",
+      "Repo": "agent-gtm-skills",
+      "SkillFolder": "skills/ai-cold-outreach",
+      "GroupName": "sales-email",
+      "ArchivedAt": "2026-04-11T21:22:13.916428Z"
+    },
+    {
+      "Owner": "chadboyda",
+      "Repo": "agent-gtm-skills",
+      "SkillFolder": "skills/ai-seo",
+      "GroupName": "reviewer-seo",
+      "ArchivedAt": "2026-04-11T21:22:59.2023527Z"
+    },
+    {
+      "Owner": "chadboyda",
+      "Repo": "agent-gtm-skills",
+      "SkillFolder": "skills/content-to-pipeline",
+      "GroupName": "planner-content-strategy",
+      "ArchivedAt": "2026-04-11T21:23:10.5520713Z"
+    },
+    {
+      "Owner": "chadboyda",
+      "Repo": "agent-gtm-skills",
+      "SkillFolder": "skills/expansion-retention",
+      "GroupName": "marketer",
+      "ArchivedAt": "2026-04-11T21:23:24.767272Z"
+    },
+    {
+      "Owner": "chadboyda",
+      "Repo": "agent-gtm-skills",
+      "SkillFolder": "skills/gtm-engineering",
+      "GroupName": "engineer-ui-ga",
+      "ArchivedAt": "2026-04-11T21:23:38.5505335Z"
+    },
+    {
+      "Owner": "chadboyda",
+      "Repo": "agent-gtm-skills",
+      "SkillFolder": "skills/gtm-metrics",
+      "GroupName": "engineer-ui-ga",
+      "ArchivedAt": "2026-04-11T21:23:53.6194889Z"
+    },
+    {
+      "Owner": "chadboyda",
+      "Repo": "agent-gtm-skills",
+      "SkillFolder": "skills/lead-enrichment",
+      "GroupName": "engineer-data",
+      "ArchivedAt": "2026-04-11T21:24:09.7663689Z"
     }
   ]
 }

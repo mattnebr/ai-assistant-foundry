@@ -1,9 +1,13 @@
 ﻿# engineer-readme
 
-1 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | create-readme | [SKILL.md](github/create-readme/SKILL.md) |
+| github | create-tldr-page | [SKILL.md](github/create-tldr-page/SKILL.md) |
+| github | readme-blueprint-generator | [SKILL.md](github/readme-blueprint-generator/SKILL.md) |
+| github | tldr-prompt | [SKILL.md](github/tldr-prompt/SKILL.md) |
 | sickn33 | readme | [SKILL.md](sickn33/readme/SKILL.md) |
 
 ---

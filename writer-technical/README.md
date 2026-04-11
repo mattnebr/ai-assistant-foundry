@@ -1,9 +1,10 @@
 ﻿# writer-technical
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | documentation-writer | [SKILL.md](github/documentation-writer/SKILL.md) |
 | mattnebr | technical-writing-style | [SKILL.md](mattnebr/technical-writing-style/SKILL.md) |
 
 ---

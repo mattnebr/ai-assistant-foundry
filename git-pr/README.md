@@ -1,9 +1,10 @@
 ﻿# git-pr
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | my-pull-requests | [SKILL.md](github/my-pull-requests/SKILL.md) |
 | sickn33 | create-pr | [SKILL.md](sickn33/create-pr/SKILL.md) |
 
 ---

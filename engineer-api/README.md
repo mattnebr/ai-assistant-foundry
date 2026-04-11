@@ -1,9 +1,10 @@
 ﻿# engineer-api
 
-2 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | aspnet-minimal-api-openapi | [SKILL.md](github/aspnet-minimal-api-openapi/SKILL.md) |
 | sickn33 | api-design-principles | [SKILL.md](sickn33/api-design-principles/SKILL.md) |
 | sickn33 | api-patterns | [SKILL.md](sickn33/api-patterns/SKILL.md) |
 

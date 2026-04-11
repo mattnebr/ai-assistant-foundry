@@ -1,10 +1,14 @@
 ﻿# ai-assistant-skill-maker
 
-3 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | anthropics | skill-creator | [SKILL.md](anthropics/skill-creator/SKILL.md) |
+| github | copilot-instructions-blueprint-generator | [SKILL.md](github/copilot-instructions-blueprint-generator/SKILL.md) |
+| github | create-agentsmd | [SKILL.md](github/create-agentsmd/SKILL.md) |
+| github | make-skill-template | [SKILL.md](github/make-skill-template/SKILL.md) |
+| github | microsoft-skill-creator | [SKILL.md](github/microsoft-skill-creator/SKILL.md) |
 | mattnebr | ai-assistant-skill-maker | [SKILL.md](mattnebr/ai-assistant-skill-maker/SKILL.md) |
 | mattnebr | copilot-instruction-writer | [SKILL.md](mattnebr/copilot-instruction-writer/SKILL.md) |
 

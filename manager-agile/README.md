@@ -1,9 +1,21 @@
 ﻿# manager-agile
 
-3 skill variant(s).
+15 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | breakdown-epic-arch | [SKILL.md](github/breakdown-epic-arch/SKILL.md) |
+| github | breakdown-epic-pm | [SKILL.md](github/breakdown-epic-pm/SKILL.md) |
+| github | breakdown-feature-implementation | [SKILL.md](github/breakdown-feature-implementation/SKILL.md) |
+| github | breakdown-feature-prd | [SKILL.md](github/breakdown-feature-prd/SKILL.md) |
+| github | create-implementation-plan | [SKILL.md](github/create-implementation-plan/SKILL.md) |
+| github | create-specification | [SKILL.md](github/create-specification/SKILL.md) |
+| github | create-technical-spike | [SKILL.md](github/create-technical-spike/SKILL.md) |
+| github | eval-driven-dev | [SKILL.md](github/eval-driven-dev/SKILL.md) |
+| github | gen-specs-as-issues | [SKILL.md](github/gen-specs-as-issues/SKILL.md) |
+| github | meeting-minutes | [SKILL.md](github/meeting-minutes/SKILL.md) |
+| github | prd | [SKILL.md](github/prd/SKILL.md) |
+| github | update-implementation-plan | [SKILL.md](github/update-implementation-plan/SKILL.md) |
 | sickn33 | team-collaboration-standup-notes | [SKILL.md](sickn33/team-collaboration-standup-notes/SKILL.md) |
 | sickn33 | todoist-automation | [SKILL.md](sickn33/todoist-automation/SKILL.md) |
 | sickn33 | writing-plans | [SKILL.md](sickn33/writing-plans/SKILL.md) |

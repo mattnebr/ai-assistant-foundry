@@ -1,9 +1,10 @@
 ﻿# engineer-ui
 
-2 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | premium-frontend-ui | [SKILL.md](github/premium-frontend-ui/SKILL.md) |
 | sickn33 | performance-engineer | [SKILL.md](sickn33/performance-engineer/SKILL.md) |
 | sickn33 | progressive-web-app | [SKILL.md](sickn33/progressive-web-app/SKILL.md) |
 

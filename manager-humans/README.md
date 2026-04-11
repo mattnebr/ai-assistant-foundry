@@ -1,9 +1,10 @@
 ﻿# manager-humans
 
-4 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | mentoring-juniors | [SKILL.md](github/mentoring-juniors/SKILL.md) |
 | sickn33 | churn-prevention | [SKILL.md](sickn33/churn-prevention/SKILL.md) |
 | sickn33 | employment-contract-templates | [SKILL.md](sickn33/employment-contract-templates/SKILL.md) |
 | sickn33 | goal-analyzer | [SKILL.md](sickn33/goal-analyzer/SKILL.md) |

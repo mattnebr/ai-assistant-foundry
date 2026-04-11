@@ -1,9 +1,10 @@
 ﻿# reviewer-security
 
-6 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | threat-model-analyst | [SKILL.md](github/threat-model-analyst/SKILL.md) |
 | sickn33 | cloud-penetration-testing | [SKILL.md](sickn33/cloud-penetration-testing/SKILL.md) |
 | sickn33 | pentest-checklist | [SKILL.md](sickn33/pentest-checklist/SKILL.md) |
 | sickn33 | sql-injection-testing | [SKILL.md](sickn33/sql-injection-testing/SKILL.md) |

@@ -1,9 +1,11 @@
 ﻿# architecture-decision-records
 
-1 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | architecture-blueprint-generator | [SKILL.md](github/architecture-blueprint-generator/SKILL.md) |
+| github | create-architectural-decision-record | [SKILL.md](github/create-architectural-decision-record/SKILL.md) |
 | sickn33 | architecture-decision-records | [SKILL.md](sickn33/architecture-decision-records/SKILL.md) |
 
 ---

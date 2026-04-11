@@ -1,9 +1,10 @@
 ﻿# sales-email
 
-5 skill variant(s).
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | email-drafter | [SKILL.md](github/email-drafter/SKILL.md) |
 | sickn33 | cold-email | [SKILL.md](sickn33/cold-email/SKILL.md) |
 | sickn33 | email-sequence | [SKILL.md](sickn33/email-sequence/SKILL.md) |
 | sickn33 | sales-automator | [SKILL.md](sickn33/sales-automator/SKILL.md) |

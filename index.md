@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*102 skill group(s) — 273 total variant(s)*
+*111 skill group(s) — 338 total variant(s)*
 
 ## agent-orchestration
 
@@ -12,6 +12,8 @@
 
 ## ai-assistant-memory
 
+- [github/memory-merger](ai-assistant-memory/github/memory-merger/SKILL.md)
+- [github/remember](ai-assistant-memory/github/remember/SKILL.md)
 - [sickn33/agent-memory-mcp](ai-assistant-memory/sickn33/agent-memory-mcp/SKILL.md)
 - [sickn33/agent-memory-systems](ai-assistant-memory/sickn33/agent-memory-systems/SKILL.md)
 - [sickn33/conversation-memory](ai-assistant-memory/sickn33/conversation-memory/SKILL.md)
@@ -28,6 +30,10 @@
 ## ai-assistant-skill-maker
 
 - [anthropics/skill-creator](ai-assistant-skill-maker/anthropics/skill-creator/SKILL.md)
+- [github/copilot-instructions-blueprint-generator](ai-assistant-skill-maker/github/copilot-instructions-blueprint-generator/SKILL.md)
+- [github/create-agentsmd](ai-assistant-skill-maker/github/create-agentsmd/SKILL.md)
+- [github/make-skill-template](ai-assistant-skill-maker/github/make-skill-template/SKILL.md)
+- [github/microsoft-skill-creator](ai-assistant-skill-maker/github/microsoft-skill-creator/SKILL.md)
 - [mattnebr/ai-assistant-skill-maker](ai-assistant-skill-maker/mattnebr/ai-assistant-skill-maker/SKILL.md)
 - [mattnebr/copilot-instruction-writer](ai-assistant-skill-maker/mattnebr/copilot-instruction-writer/SKILL.md)
 
@@ -64,11 +70,19 @@
 
 ## architecture-decision-records
 
+- [github/architecture-blueprint-generator](architecture-decision-records/github/architecture-blueprint-generator/SKILL.md)
+- [github/create-architectural-decision-record](architecture-decision-records/github/create-architectural-decision-record/SKILL.md)
 - [sickn33/architecture-decision-records](architecture-decision-records/sickn33/architecture-decision-records/SKILL.md)
 
 ## ask-questions-if-underspecified
 
+- [github/first-ask](ask-questions-if-underspecified/github/first-ask/SKILL.md)
+- [github/what-context-needed](ask-questions-if-underspecified/github/what-context-needed/SKILL.md)
 - [sickn33/ask-questions-if-underspecified](ask-questions-if-underspecified/sickn33/ask-questions-if-underspecified/SKILL.md)
+
+## brainstorm
+
+- [github/from-the-other-side-vega](brainstorm/github/from-the-other-side-vega/SKILL.md)
 
 ## brainstorming
 
@@ -78,6 +92,10 @@
 ## builder-documents
 
 - [anthropics/docx](builder-documents/anthropics/docx/SKILL.md)
+
+## builder-powerbi
+
+- [github/powerbi-modeling](builder-powerbi/github/powerbi-modeling/SKILL.md)
 
 ## builder-slide-presentation
 
@@ -106,6 +124,10 @@
 
 - [sickn33/confluence-automation](confluence/sickn33/confluence-automation/SKILL.md)
 
+## csharp-async
+
+- [github/csharp-async](csharp-async/github/csharp-async/SKILL.md)
+
 ## csharp-console-app-menu
 
 - [mattnebr/csharp-console-app-menu](csharp-console-app-menu/mattnebr/csharp-console-app-menu/SKILL.md)
@@ -114,9 +136,18 @@
 
 - [mattnebr/csharp-logging-levels](csharp-logging-levels/mattnebr/csharp-logging-levels/SKILL.md)
 
+## csharp-mcp-server-generator
+
+- [github/csharp-mcp-server-generator](csharp-mcp-server-generator/github/csharp-mcp-server-generator/SKILL.md)
+
 ## csharp-mstest
 
+- [github/csharp-mstest](csharp-mstest/github/csharp-mstest/SKILL.md)
 - [mattnebr/csharp-mstest](csharp-mstest/mattnebr/csharp-mstest/SKILL.md)
+
+## csharp-nunit
+
+- [github/csharp-nunit](csharp-nunit/github/csharp-nunit/SKILL.md)
 
 ## csharp-project-scaffolding
 
@@ -147,6 +178,7 @@
 ## designer-ui
 
 - [anthropics/frontend-design](designer-ui/anthropics/frontend-design/SKILL.md)
+- [github/web-design-reviewer](designer-ui/github/web-design-reviewer/SKILL.md)
 - [sickn33/ui-pattern](designer-ui/sickn33/ui-pattern/SKILL.md)
 - [sickn33/ui-ux-designer](designer-ui/sickn33/ui-ux-designer/SKILL.md)
 - [sickn33/ui-ux-pro-max](designer-ui/sickn33/ui-ux-pro-max/SKILL.md)
@@ -160,6 +192,7 @@
 
 ## engineer-api
 
+- [github/aspnet-minimal-api-openapi](engineer-api/github/aspnet-minimal-api-openapi/SKILL.md)
 - [sickn33/api-design-principles](engineer-api/sickn33/api-design-principles/SKILL.md)
 - [sickn33/api-patterns](engineer-api/sickn33/api-patterns/SKILL.md)
 
@@ -169,6 +202,8 @@
 
 ## engineer-ci-cd
 
+- [github/create-github-action-workflow-specification](engineer-ci-cd/github/create-github-action-workflow-specification/SKILL.md)
+- [github/dependabot](engineer-ci-cd/github/dependabot/SKILL.md)
 - [sickn33/cicd-automation-workflow-automate](engineer-ci-cd/sickn33/cicd-automation-workflow-automate/SKILL.md)
 - [sickn33/deployment-engineer](engineer-ci-cd/sickn33/deployment-engineer/SKILL.md)
 - [sickn33/deployment-pipeline-design](engineer-ci-cd/sickn33/deployment-pipeline-design/SKILL.md)
@@ -177,6 +212,8 @@
 
 ## engineer-cli
 
+- [github/mcp-cli](engineer-cli/github/mcp-cli/SKILL.md)
+- [github/winapp-cli](engineer-cli/github/winapp-cli/SKILL.md)
 - [sickn33/ai-native-cli](engineer-cli/sickn33/ai-native-cli/SKILL.md)
 
 ## engineer-data
@@ -189,6 +226,8 @@
 
 ## engineer-database
 
+- [github/sql-code-review](engineer-database/github/sql-code-review/SKILL.md)
+- [github/sql-optimization](engineer-database/github/sql-optimization/SKILL.md)
 - [sickn33/sql-optimization-patterns](engineer-database/sickn33/sql-optimization-patterns/SKILL.md)
 - [sickn33/sql-pro](engineer-database/sickn33/sql-pro/SKILL.md)
 
@@ -201,12 +240,20 @@
 - [sickn33/vector-database-engineer](engineer-database-vector/sickn33/vector-database-engineer/SKILL.md)
 - [sickn33/vector-index-tuning](engineer-database-vector/sickn33/vector-index-tuning/SKILL.md)
 
+## engineer-editorconfig
+
+- [github/editorconfig](engineer-editorconfig/github/editorconfig/SKILL.md)
+
 ## engineer-janitor
 
+- [github/repo-story-time](engineer-janitor/github/repo-story-time/SKILL.md)
 - [sickn33/codebase-cleanup-tech-debt](engineer-janitor/sickn33/codebase-cleanup-tech-debt/SKILL.md)
 
 ## engineer-markdown
 
+- [github/convert-plaintext-to-md](engineer-markdown/github/convert-plaintext-to-md/SKILL.md)
+- [github/markdown-to-html](engineer-markdown/github/markdown-to-html/SKILL.md)
+- [github/update-markdown-file-index](engineer-markdown/github/update-markdown-file-index/SKILL.md)
 - [sickn33/agents-md](engineer-markdown/sickn33/agents-md/SKILL.md)
 - [sickn33/ai-md](engineer-markdown/sickn33/ai-md/SKILL.md)
 - [sickn33/design-md](engineer-markdown/sickn33/design-md/SKILL.md)
@@ -217,6 +264,7 @@
 
 ## engineer-ml
 
+- [github/semantic-kernel](engineer-ml/github/semantic-kernel/SKILL.md)
 - [sickn33/ai-ml](engineer-ml/sickn33/ai-ml/SKILL.md)
 - [sickn33/machine-learning-ops-ml-pipeline](engineer-ml/sickn33/machine-learning-ops-ml-pipeline/SKILL.md)
 - [sickn33/ml-engineer](engineer-ml/sickn33/ml-engineer/SKILL.md)
@@ -243,16 +291,28 @@
 
 ## engineer-readme
 
+- [github/create-readme](engineer-readme/github/create-readme/SKILL.md)
+- [github/create-tldr-page](engineer-readme/github/create-tldr-page/SKILL.md)
+- [github/readme-blueprint-generator](engineer-readme/github/readme-blueprint-generator/SKILL.md)
+- [github/tldr-prompt](engineer-readme/github/tldr-prompt/SKILL.md)
 - [sickn33/readme](engineer-readme/sickn33/readme/SKILL.md)
 
 ## engineer-software
 
+- [github/microsoft-code-reference](engineer-software/github/microsoft-code-reference/SKILL.md)
+- [github/microsoft-docs](engineer-software/github/microsoft-docs/SKILL.md)
 - [sickn33/ai-engineer](engineer-software/sickn33/ai-engineer/SKILL.md)
 - [sickn33/development](engineer-software/sickn33/development/SKILL.md)
 - [sickn33/dotnet-backend](engineer-software/sickn33/dotnet-backend/SKILL.md)
 
+## engineer-software-blazor
+
+- [github/fluentui-blazor](engineer-software-blazor/github/fluentui-blazor/SKILL.md)
+
 ## engineer-software-csharp
 
+- [github/dotnet-best-practices](engineer-software-csharp/github/dotnet-best-practices/SKILL.md)
+- [github/dotnet-design-pattern-review](engineer-software-csharp/github/dotnet-design-pattern-review/SKILL.md)
 - [sickn33/csharp-pro](engineer-software-csharp/sickn33/csharp-pro/SKILL.md)
 
 ## engineer-software-frontend
@@ -298,6 +358,7 @@
 
 ## engineer-ui
 
+- [github/premium-frontend-ui](engineer-ui/github/premium-frontend-ui/SKILL.md)
 - [sickn33/performance-engineer](engineer-ui/sickn33/performance-engineer/SKILL.md)
 - [sickn33/progressive-web-app](engineer-ui/sickn33/progressive-web-app/SKILL.md)
 
@@ -324,23 +385,30 @@
 - [sickn33/workflow-orchestration-patterns](engineer-workflow/sickn33/workflow-orchestration-patterns/SKILL.md)
 - [sickn33/workflow-patterns](engineer-workflow/sickn33/workflow-patterns/SKILL.md)
 
+## enginner-editorconfig
+
+- [github/write-coding-standards-from-file](enginner-editorconfig/github/write-coding-standards-from-file/SKILL.md)
+
 ## financial-analyst
 
 - [sickn33/monte-carlo-monitor-creation](financial-analyst/sickn33/monte-carlo-monitor-creation/SKILL.md)
 
 ## git-branch
 
+- [github/git-flow-branch-creator](git-branch/github/git-flow-branch-creator/SKILL.md)
 - [mattnebr/git-creating-branches](git-branch/mattnebr/git-creating-branches/SKILL.md)
 - [sickn33/create-branch](git-branch/sickn33/create-branch/SKILL.md)
 
 ## git-commit
 
+- [github/git-commit](git-commit/github/git-commit/SKILL.md)
 - [mattnebr/commit-message](git-commit/mattnebr/commit-message/SKILL.md)
 - [sickn33/accessibility-compliance-accessibility-audit](git-commit/sickn33/accessibility-compliance-accessibility-audit/SKILL.md)
 - [sickn33/commit](git-commit/sickn33/commit/SKILL.md)
 
 ## git-pr
 
+- [github/my-pull-requests](git-pr/github/my-pull-requests/SKILL.md)
 - [sickn33/create-pr](git-pr/sickn33/create-pr/SKILL.md)
 
 ## git-workflows
@@ -352,6 +420,10 @@
 - [sickn33/github](git-workflows/sickn33/github/SKILL.md)
 - [sickn33/github-workflow-automation](git-workflows/sickn33/github-workflow-automation/SKILL.md)
 
+## java-junit
+
+- [github/java-junit](java-junit/github/java-junit/SKILL.md)
+
 ## jira
 
 - [sickn33/jira-automation](jira/sickn33/jira-automation/SKILL.md)
@@ -362,12 +434,25 @@
 
 ## manager-agile
 
+- [github/breakdown-epic-arch](manager-agile/github/breakdown-epic-arch/SKILL.md)
+- [github/breakdown-epic-pm](manager-agile/github/breakdown-epic-pm/SKILL.md)
+- [github/breakdown-feature-implementation](manager-agile/github/breakdown-feature-implementation/SKILL.md)
+- [github/breakdown-feature-prd](manager-agile/github/breakdown-feature-prd/SKILL.md)
+- [github/create-implementation-plan](manager-agile/github/create-implementation-plan/SKILL.md)
+- [github/create-specification](manager-agile/github/create-specification/SKILL.md)
+- [github/create-technical-spike](manager-agile/github/create-technical-spike/SKILL.md)
+- [github/eval-driven-dev](manager-agile/github/eval-driven-dev/SKILL.md)
+- [github/gen-specs-as-issues](manager-agile/github/gen-specs-as-issues/SKILL.md)
+- [github/meeting-minutes](manager-agile/github/meeting-minutes/SKILL.md)
+- [github/prd](manager-agile/github/prd/SKILL.md)
+- [github/update-implementation-plan](manager-agile/github/update-implementation-plan/SKILL.md)
 - [sickn33/team-collaboration-standup-notes](manager-agile/sickn33/team-collaboration-standup-notes/SKILL.md)
 - [sickn33/todoist-automation](manager-agile/sickn33/todoist-automation/SKILL.md)
 - [sickn33/writing-plans](manager-agile/sickn33/writing-plans/SKILL.md)
 
 ## manager-humans
 
+- [github/mentoring-juniors](manager-humans/github/mentoring-juniors/SKILL.md)
 - [sickn33/churn-prevention](manager-humans/sickn33/churn-prevention/SKILL.md)
 - [sickn33/employment-contract-templates](manager-humans/sickn33/employment-contract-templates/SKILL.md)
 - [sickn33/goal-analyzer](manager-humans/sickn33/goal-analyzer/SKILL.md)
@@ -420,6 +505,7 @@
 
 ## planner-content-strategy
 
+- [github/folder-structure-blueprint-generator](planner-content-strategy/github/folder-structure-blueprint-generator/SKILL.md)
 - [sickn33/content-strategy](planner-content-strategy/sickn33/content-strategy/SKILL.md)
 - [sickn33/growth-engine](planner-content-strategy/sickn33/growth-engine/SKILL.md)
 - [sickn33/seo-content](planner-content-strategy/sickn33/seo-content/SKILL.md)
@@ -435,6 +521,8 @@
 
 ## planner-software
 
+- [github/automate-this](planner-software/github/automate-this/SKILL.md)
+- [github/refactor-plan](planner-software/github/refactor-plan/SKILL.md)
 - [sickn33/concise-planning](planner-software/sickn33/concise-planning/SKILL.md)
 - [sickn33/plan-writing](planner-software/sickn33/plan-writing/SKILL.md)
 - [sickn33/planning-with-files](planner-software/sickn33/planning-with-files/SKILL.md)
@@ -459,6 +547,7 @@
 
 ## reviewer-security
 
+- [github/threat-model-analyst](reviewer-security/github/threat-model-analyst/SKILL.md)
 - [sickn33/cloud-penetration-testing](reviewer-security/sickn33/cloud-penetration-testing/SKILL.md)
 - [sickn33/pentest-checklist](reviewer-security/sickn33/pentest-checklist/SKILL.md)
 - [sickn33/sql-injection-testing](reviewer-security/sickn33/sql-injection-testing/SKILL.md)
@@ -502,6 +591,7 @@
 
 ## sales-email
 
+- [github/email-drafter](sales-email/github/email-drafter/SKILL.md)
 - [sickn33/cold-email](sales-email/sickn33/cold-email/SKILL.md)
 - [sickn33/email-sequence](sales-email/sickn33/email-sequence/SKILL.md)
 - [sickn33/sales-automator](sales-email/sickn33/sales-automator/SKILL.md)
@@ -539,6 +629,7 @@
 
 ## verification-before-completion
 
+- [github/doublecheck](verification-before-completion/github/doublecheck/SKILL.md)
 - [sickn33/verification-before-completion](verification-before-completion/sickn33/verification-before-completion/SKILL.md)
 
 ## writer
@@ -570,6 +661,7 @@
 
 ## writer-technical
 
+- [github/documentation-writer](writer-technical/github/documentation-writer/SKILL.md)
 - [mattnebr/technical-writing-style](writer-technical/mattnebr/technical-writing-style/SKILL.md)
 
 ## x

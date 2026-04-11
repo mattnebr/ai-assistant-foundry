@@ -1910,6 +1910,531 @@
       "SkillFolder": "skills/xlsx",
       "GroupName": "builder-spreadsheet",
       "ArchivedAt": "2026-04-11T05:55:28.3580463Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/automate-this/skills/automate-this",
+      "GroupName": "planner-software",
+      "ArchivedAt": "2026-04-11T05:57:57.0810159Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/context-engineering/skills/refactor-plan",
+      "GroupName": "planner-software",
+      "ArchivedAt": "2026-04-11T05:58:40.1459812Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/context-engineering/skills/what-context-needed",
+      "GroupName": "ask-questions-if-underspecified",
+      "ArchivedAt": "2026-04-11T05:58:48.2452697Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/csharp-dotnet-development/skills/aspnet-minimal-api-openapi",
+      "GroupName": "engineer-api",
+      "ArchivedAt": "2026-04-11T05:59:44.0287618Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/csharp-dotnet-development/skills/csharp-async",
+      "GroupName": "csharp-async",
+      "ArchivedAt": "2026-04-11T05:59:54.3854177Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/csharp-dotnet-development/skills/csharp-mstest",
+      "GroupName": "csharp-mstest",
+      "ArchivedAt": "2026-04-11T06:00:00.9741236Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/csharp-dotnet-development/skills/csharp-nunit",
+      "GroupName": "csharp-nunit",
+      "ArchivedAt": "2026-04-11T06:00:07.2180309Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/csharp-dotnet-development/skills/dotnet-best-practices",
+      "GroupName": "engineer-software-csharp",
+      "ArchivedAt": "2026-04-11T06:00:34.3939533Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/csharp-mcp-development/skills/csharp-mcp-server-generator",
+      "GroupName": "csharp-mcp-server-generator",
+      "ArchivedAt": "2026-04-11T06:00:50.8638897Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/database-data-management/skills/sql-code-review",
+      "GroupName": "engineer-database",
+      "ArchivedAt": "2026-04-11T06:01:13.7285707Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/database-data-management/skills/sql-optimization",
+      "GroupName": "engineer-database",
+      "ArchivedAt": "2026-04-11T06:01:21.1222296Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/doublecheck/skills/doublecheck",
+      "GroupName": "verification-before-completion",
+      "ArchivedAt": "2026-04-11T06:02:06.9328496Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/ember/skills/from-the-other-side-vega",
+      "GroupName": "brainstorm",
+      "ArchivedAt": "2026-04-11T06:02:25.9702979Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/java-development/skills/java-junit",
+      "GroupName": "java-junit",
+      "ArchivedAt": "2026-04-11T06:03:21.6766291Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/project-planning/skills/breakdown-epic-arch",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T06:04:21.357029Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/project-planning/skills/breakdown-epic-pm",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T06:04:50.2713356Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/project-planning/skills/breakdown-feature-implementation",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T06:04:57.2545614Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/project-planning/skills/breakdown-feature-prd",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T06:05:09.6707413Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/project-planning/skills/create-implementation-plan",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T06:05:25.1838294Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/project-planning/skills/create-technical-spike",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T06:05:35.7309278Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/project-planning/skills/update-implementation-plan",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T06:05:48.7256315Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/technical-spike/skills/create-technical-spike",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T06:06:48.8279767Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/testing-automation/skills/csharp-nunit",
+      "GroupName": "csharp-nunit",
+      "ArchivedAt": "2026-04-11T06:07:07.8843678Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "plugins/testing-automation/skills/java-junit",
+      "GroupName": "java-junit",
+      "ArchivedAt": "2026-04-11T06:07:15.5901593Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/architecture-blueprint-generator",
+      "GroupName": "architecture-decision-records",
+      "ArchivedAt": "2026-04-11T06:08:11.3525184Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/convert-plaintext-to-md",
+      "GroupName": "engineer-markdown",
+      "ArchivedAt": "2026-04-11T06:09:23.6279035Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/copilot-instructions-blueprint-generator",
+      "GroupName": "ai-assistant-skill-maker",
+      "ArchivedAt": "2026-04-11T06:10:19.8781985Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/create-agentsmd",
+      "GroupName": "ai-assistant-skill-maker",
+      "ArchivedAt": "2026-04-11T06:10:46.0953027Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/create-architectural-decision-record",
+      "GroupName": "architecture-decision-records",
+      "ArchivedAt": "2026-04-11T06:10:58.2150157Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/create-github-action-workflow-specification",
+      "GroupName": "engineer-ci-cd",
+      "ArchivedAt": "2026-04-11T06:11:13.7129522Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/create-implementation-plan",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T06:11:38.4485278Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/create-readme",
+      "GroupName": "engineer-readme",
+      "ArchivedAt": "2026-04-11T06:11:55.3112159Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/create-specification",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T06:12:06.413558Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/create-technical-spike",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T06:13:57.7520275Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/create-tldr-page",
+      "GroupName": "engineer-readme",
+      "ArchivedAt": "2026-04-11T06:14:20.2335801Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/csharp-mstest",
+      "GroupName": "csharp-mstest",
+      "ArchivedAt": "2026-04-11T06:14:38.7899331Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/dependabot",
+      "GroupName": "engineer-ci-cd",
+      "ArchivedAt": "2026-04-11T06:15:32.1729898Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/documentation-writer",
+      "GroupName": "writer-technical",
+      "ArchivedAt": "2026-04-11T06:15:44.4548705Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/dotnet-best-practices",
+      "GroupName": "engineer-software-csharp",
+      "ArchivedAt": "2026-04-11T06:16:01.8114144Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/dotnet-design-pattern-review",
+      "GroupName": "engineer-software-csharp",
+      "ArchivedAt": "2026-04-11T06:16:21.3072588Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/editorconfig",
+      "GroupName": "engineer-editorconfig",
+      "ArchivedAt": "2026-04-11T06:17:10.2761348Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/email-drafter",
+      "GroupName": "sales-email",
+      "ArchivedAt": "2026-04-11T06:17:19.1714094Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/eval-driven-dev",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T06:17:42.2384405Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/first-ask",
+      "GroupName": "ask-questions-if-underspecified",
+      "ArchivedAt": "2026-04-11T06:18:05.1439249Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/fluentui-blazor",
+      "GroupName": "engineer-software-blazor",
+      "ArchivedAt": "2026-04-11T06:18:40.337783Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/folder-structure-blueprint-generator",
+      "GroupName": "planner-content-strategy",
+      "ArchivedAt": "2026-04-11T06:19:24.3958396Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/gen-specs-as-issues",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T06:19:51.5338097Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/git-commit",
+      "GroupName": "git-commit",
+      "ArchivedAt": "2026-04-11T06:20:14.0878923Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/git-flow-branch-creator",
+      "GroupName": "git-branch",
+      "ArchivedAt": "2026-04-11T06:20:20.170587Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/make-skill-template",
+      "GroupName": "ai-assistant-skill-maker",
+      "ArchivedAt": "2026-04-11T06:21:47.940681Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/markdown-to-html",
+      "GroupName": "engineer-markdown",
+      "ArchivedAt": "2026-04-11T06:21:55.364268Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/mcp-cli",
+      "GroupName": "engineer-cli",
+      "ArchivedAt": "2026-04-11T06:22:15.3587833Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/meeting-minutes",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T06:22:38.1979204Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/memory-merger",
+      "GroupName": "ai-assistant-memory",
+      "ArchivedAt": "2026-04-11T06:22:42.9328049Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/mentoring-juniors",
+      "GroupName": "manager-humans",
+      "ArchivedAt": "2026-04-11T06:22:58.5739682Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/microsoft-code-reference",
+      "GroupName": "engineer-software",
+      "ArchivedAt": "2026-04-11T06:23:33.8864128Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/microsoft-docs",
+      "GroupName": "engineer-software",
+      "ArchivedAt": "2026-04-11T06:23:54.5742718Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/microsoft-skill-creator",
+      "GroupName": "ai-assistant-skill-maker",
+      "ArchivedAt": "2026-04-11T06:23:57.9036939Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/my-pull-requests",
+      "GroupName": "git-pr",
+      "ArchivedAt": "2026-04-11T06:24:49.2068771Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/powerbi-modeling",
+      "GroupName": "builder-powerbi",
+      "ArchivedAt": "2026-04-11T06:26:09.7502091Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/prd",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T06:26:20.2835414Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/premium-frontend-ui",
+      "GroupName": "engineer-ui",
+      "ArchivedAt": "2026-04-11T06:26:29.3609736Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/readme-blueprint-generator",
+      "GroupName": "engineer-readme",
+      "ArchivedAt": "2026-04-11T06:27:09.7720221Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/remember",
+      "GroupName": "ai-assistant-memory",
+      "ArchivedAt": "2026-04-11T06:27:37.5503017Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/repo-story-time",
+      "GroupName": "engineer-janitor",
+      "ArchivedAt": "2026-04-11T06:28:00.9835317Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/semantic-kernel",
+      "GroupName": "engineer-ml",
+      "ArchivedAt": "2026-04-11T06:29:36.5762777Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/sql-code-review",
+      "GroupName": "engineer-database",
+      "ArchivedAt": "2026-04-11T06:30:08.264098Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/sql-optimization",
+      "GroupName": "engineer-database",
+      "ArchivedAt": "2026-04-11T06:30:18.5405787Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/threat-model-analyst",
+      "GroupName": "reviewer-security",
+      "ArchivedAt": "2026-04-11T06:31:13.315938Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/tldr-prompt",
+      "GroupName": "engineer-readme",
+      "ArchivedAt": "2026-04-11T06:31:33.5557058Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/update-markdown-file-index",
+      "GroupName": "engineer-markdown",
+      "ArchivedAt": "2026-04-11T06:31:55.6463095Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/web-design-reviewer",
+      "GroupName": "designer-ui",
+      "ArchivedAt": "2026-04-11T06:32:10.281159Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/what-context-needed",
+      "GroupName": "ask-questions-if-underspecified",
+      "ArchivedAt": "2026-04-11T06:32:19.8977393Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/winapp-cli",
+      "GroupName": "engineer-cli",
+      "ArchivedAt": "2026-04-11T06:32:26.0612957Z"
+    },
+    {
+      "Owner": "github",
+      "Repo": "awesome-copilot",
+      "SkillFolder": "skills/write-coding-standards-from-file",
+      "GroupName": "enginner-editorconfig",
+      "ArchivedAt": "2026-04-11T06:32:55.1570112Z"
     }
   ]
 }

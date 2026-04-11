@@ -1,9 +1,11 @@
 ﻿# engineer-ci-cd
 
-5 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | create-github-action-workflow-specification | [SKILL.md](github/create-github-action-workflow-specification/SKILL.md) |
+| github | dependabot | [SKILL.md](github/dependabot/SKILL.md) |
 | sickn33 | cicd-automation-workflow-automate | [SKILL.md](sickn33/cicd-automation-workflow-automate/SKILL.md) |
 | sickn33 | deployment-engineer | [SKILL.md](sickn33/deployment-engineer/SKILL.md) |
 | sickn33 | deployment-pipeline-design | [SKILL.md](sickn33/deployment-pipeline-design/SKILL.md) |

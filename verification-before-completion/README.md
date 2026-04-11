@@ -1,9 +1,10 @@
 ﻿# verification-before-completion
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | doublecheck | [SKILL.md](github/doublecheck/SKILL.md) |
 | sickn33 | verification-before-completion | [SKILL.md](sickn33/verification-before-completion/SKILL.md) |
 
 ---

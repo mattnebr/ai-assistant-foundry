@@ -1,9 +1,10 @@
 ﻿# csharp-mstest
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | csharp-mstest | [SKILL.md](github/csharp-mstest/SKILL.md) |
 | mattnebr | csharp-mstest | [SKILL.md](mattnebr/csharp-mstest/SKILL.md) |
 
 ---

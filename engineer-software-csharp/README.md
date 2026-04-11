@@ -1,9 +1,11 @@
 ﻿# engineer-software-csharp
 
-1 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | dotnet-best-practices | [SKILL.md](github/dotnet-best-practices/SKILL.md) |
+| github | dotnet-design-pattern-review | [SKILL.md](github/dotnet-design-pattern-review/SKILL.md) |
 | sickn33 | csharp-pro | [SKILL.md](sickn33/csharp-pro/SKILL.md) |
 
 ---

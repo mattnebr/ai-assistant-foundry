@@ -1,9 +1,11 @@
 ﻿# planner-software
 
-3 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | automate-this | [SKILL.md](github/automate-this/SKILL.md) |
+| github | refactor-plan | [SKILL.md](github/refactor-plan/SKILL.md) |
 | sickn33 | concise-planning | [SKILL.md](sickn33/concise-planning/SKILL.md) |
 | sickn33 | plan-writing | [SKILL.md](sickn33/plan-writing/SKILL.md) |
 | sickn33 | planning-with-files | [SKILL.md](sickn33/planning-with-files/SKILL.md) |

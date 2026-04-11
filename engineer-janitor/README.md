@@ -1,9 +1,10 @@
 ﻿# engineer-janitor
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | repo-story-time | [SKILL.md](github/repo-story-time/SKILL.md) |
 | sickn33 | codebase-cleanup-tech-debt | [SKILL.md](sickn33/codebase-cleanup-tech-debt/SKILL.md) |
 
 ---

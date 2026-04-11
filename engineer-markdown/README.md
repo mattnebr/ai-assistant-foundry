@@ -1,9 +1,12 @@
 ﻿# engineer-markdown
 
-3 skill variant(s).
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | convert-plaintext-to-md | [SKILL.md](github/convert-plaintext-to-md/SKILL.md) |
+| github | markdown-to-html | [SKILL.md](github/markdown-to-html/SKILL.md) |
+| github | update-markdown-file-index | [SKILL.md](github/update-markdown-file-index/SKILL.md) |
 | sickn33 | agents-md | [SKILL.md](sickn33/agents-md/SKILL.md) |
 | sickn33 | ai-md | [SKILL.md](sickn33/ai-md/SKILL.md) |
 | sickn33 | design-md | [SKILL.md](sickn33/design-md/SKILL.md) |

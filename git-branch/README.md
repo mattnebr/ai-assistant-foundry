@@ -1,9 +1,10 @@
 ﻿# git-branch
 
-2 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | git-flow-branch-creator | [SKILL.md](github/git-flow-branch-creator/SKILL.md) |
 | mattnebr | git-creating-branches | [SKILL.md](mattnebr/git-creating-branches/SKILL.md) |
 | sickn33 | create-branch | [SKILL.md](sickn33/create-branch/SKILL.md) |
 

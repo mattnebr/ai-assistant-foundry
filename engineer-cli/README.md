@@ -1,9 +1,11 @@
 ﻿# engineer-cli
 
-1 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | mcp-cli | [SKILL.md](github/mcp-cli/SKILL.md) |
+| github | winapp-cli | [SKILL.md](github/winapp-cli/SKILL.md) |
 | sickn33 | ai-native-cli | [SKILL.md](sickn33/ai-native-cli/SKILL.md) |
 
 ---

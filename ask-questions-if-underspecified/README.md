@@ -1,9 +1,11 @@
 ﻿# ask-questions-if-underspecified
 
-1 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | first-ask | [SKILL.md](github/first-ask/SKILL.md) |
+| github | what-context-needed | [SKILL.md](github/what-context-needed/SKILL.md) |
 | sickn33 | ask-questions-if-underspecified | [SKILL.md](sickn33/ask-questions-if-underspecified/SKILL.md) |
 
 ---

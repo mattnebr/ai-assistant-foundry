@@ -1,9 +1,10 @@
 ﻿# planner-content-strategy
 
-12 skill variant(s).
+13 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | folder-structure-blueprint-generator | [SKILL.md](github/folder-structure-blueprint-generator/SKILL.md) |
 | sickn33 | content-strategy | [SKILL.md](sickn33/content-strategy/SKILL.md) |
 | sickn33 | growth-engine | [SKILL.md](sickn33/growth-engine/SKILL.md) |
 | sickn33 | seo-content | [SKILL.md](sickn33/seo-content/SKILL.md) |

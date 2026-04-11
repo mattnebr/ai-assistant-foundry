@@ -1,9 +1,11 @@
 ﻿# engineer-database
 
-2 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | sql-code-review | [SKILL.md](github/sql-code-review/SKILL.md) |
+| github | sql-optimization | [SKILL.md](github/sql-optimization/SKILL.md) |
 | sickn33 | sql-optimization-patterns | [SKILL.md](sickn33/sql-optimization-patterns/SKILL.md) |
 | sickn33 | sql-pro | [SKILL.md](sickn33/sql-pro/SKILL.md) |
 

@@ -1,9 +1,10 @@
 ﻿# git-commit
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | git-commit | [SKILL.md](github/git-commit/SKILL.md) |
 | mattnebr | commit-message | [SKILL.md](mattnebr/commit-message/SKILL.md) |
 | sickn33 | accessibility-compliance-accessibility-audit | [SKILL.md](sickn33/accessibility-compliance-accessibility-audit/SKILL.md) |
 | sickn33 | commit | [SKILL.md](sickn33/commit/SKILL.md) |

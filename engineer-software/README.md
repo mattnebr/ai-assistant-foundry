@@ -1,9 +1,11 @@
 ﻿# engineer-software
 
-3 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| github | microsoft-code-reference | [SKILL.md](github/microsoft-code-reference/SKILL.md) |
+| github | microsoft-docs | [SKILL.md](github/microsoft-docs/SKILL.md) |
 | sickn33 | ai-engineer | [SKILL.md](sickn33/ai-engineer/SKILL.md) |
 | sickn33 | development | [SKILL.md](sickn33/development/SKILL.md) |
 | sickn33 | dotnet-backend | [SKILL.md](sickn33/dotnet-backend/SKILL.md) |

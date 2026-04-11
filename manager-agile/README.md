@@ -1,6 +1,6 @@
 ﻿# manager-agile
 
-38 skill variant(s).
+40 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -26,6 +26,8 @@
 | alirezarezvani | spec-to-repo | [SKILL.md](alirezarezvani/spec-to-repo/SKILL.md) |
 | alirezarezvani | sprint-plan | [SKILL.md](alirezarezvani/sprint-plan/SKILL.md) |
 | alirezarezvani | user-story | [SKILL.md](alirezarezvani/user-story/SKILL.md) |
+| cblecker | executing-plans | [SKILL.md](cblecker/executing-plans/SKILL.md) |
+| cblecker | writing-plans | [SKILL.md](cblecker/writing-plans/SKILL.md) |
 | github | breakdown-epic-arch | [SKILL.md](github/breakdown-epic-arch/SKILL.md) |
 | github | breakdown-epic-pm | [SKILL.md](github/breakdown-epic-pm/SKILL.md) |
 | github | breakdown-feature-implementation | [SKILL.md](github/breakdown-feature-implementation/SKILL.md) |

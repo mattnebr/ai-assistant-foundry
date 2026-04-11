@@ -3828,6 +3828,83 @@
       "SkillFolder": "project-management/team-communications",
       "GroupName": "writer-communication-internal",
       "ArchivedAt": "2026-04-11T19:45:17.2580688Z"
+    },
+    {
+      "Owner": "cblecker",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/brainstorming",
+      "GroupName": "brainstorming",
+      "ArchivedAt": "2026-04-11T19:47:00.5779572Z"
+    },
+    {
+      "Owner": "cblecker",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/dispatching-parallel-agents",
+      "GroupName": "ai-assistant-workflow",
+      "ArchivedAt": "2026-04-11T19:47:52.8839297Z"
+    },
+    {
+      "Owner": "cblecker",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/executing-plans",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T19:48:04.1578559Z"
+    },
+    {
+      "Owner": "cblecker",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/finishing-a-development-branch",
+      "GroupName": "git-pr",
+      "ArchivedAt": "2026-04-11T19:48:21.7357798Z"
+    },
+    {
+      "Owner": "cblecker",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/requesting-code-review",
+      "GroupName": "git-pr",
+      "ArchivedAt": "2026-04-11T19:48:31.1941667Z"
+    },
+    {
+      "Owner": "cblecker",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/subagent-driven-development",
+      "GroupName": "ai-assistant-workflow",
+      "ArchivedAt": "2026-04-11T19:48:45.7545337Z"
+    },
+    {
+      "Owner": "cblecker",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/test-driven-development",
+      "GroupName": "csharp-test-driven-development",
+      "ArchivedAt": "2026-04-11T19:49:15.2771938Z"
+    },
+    {
+      "Owner": "cblecker",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/using-git-worktrees",
+      "GroupName": "git-worktree",
+      "ArchivedAt": "2026-04-11T19:49:19.1792155Z"
+    },
+    {
+      "Owner": "cblecker",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/verification-before-completion",
+      "GroupName": "verification-before-completion",
+      "ArchivedAt": "2026-04-11T19:49:27.8546405Z"
+    },
+    {
+      "Owner": "cblecker",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/writing-plans",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T19:49:43.9412697Z"
+    },
+    {
+      "Owner": "cblecker",
+      "Repo": "superpowers",
+      "SkillFolder": "skills/writing-skills",
+      "GroupName": "writer",
+      "ArchivedAt": "2026-04-11T19:49:50.6856825Z"
     }
   ]
 }

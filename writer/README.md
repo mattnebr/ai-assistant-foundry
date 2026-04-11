@@ -1,9 +1,10 @@
 ﻿# writer
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| cblecker | writing-skills | [SKILL.md](cblecker/writing-skills/SKILL.md) |
 | sickn33 | writing-skills | [SKILL.md](sickn33/writing-skills/SKILL.md) |
 
 ---

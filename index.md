@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*124 skill group(s) — 494 total variant(s)*
+*126 skill group(s) — 505 total variant(s)*
 
 ## agent-orchestration
 
@@ -39,6 +39,11 @@
 - [mattnebr/ai-assistant-skill-maker](ai-assistant-skill-maker/mattnebr/ai-assistant-skill-maker/SKILL.md)
 - [mattnebr/copilot-instruction-writer](ai-assistant-skill-maker/mattnebr/copilot-instruction-writer/SKILL.md)
 - [SebastienDegodez/skill-creator](ai-assistant-skill-maker/SebastienDegodez/skill-creator/SKILL.md)
+
+## ai-assistant-workflow
+
+- [cblecker/dispatching-parallel-agents](ai-assistant-workflow/cblecker/dispatching-parallel-agents/SKILL.md)
+- [cblecker/subagent-driven-development](ai-assistant-workflow/cblecker/subagent-driven-development/SKILL.md)
 
 ## ai-assitant-email
 
@@ -93,6 +98,7 @@
 
 ## brainstorming
 
+- [cblecker/brainstorming](brainstorming/cblecker/brainstorming/SKILL.md)
 - [sickn33/brainstorming](brainstorming/sickn33/brainstorming/SKILL.md)
 - [sickn33/idea-darwin](brainstorming/sickn33/idea-darwin/SKILL.md)
 
@@ -181,6 +187,10 @@
 ## csharp-project-scaffolding
 
 - [mattnebr/csharp-project-scaffolding](csharp-project-scaffolding/mattnebr/csharp-project-scaffolding/SKILL.md)
+
+## csharp-test-driven-development
+
+- [cblecker/test-driven-development](csharp-test-driven-development/cblecker/test-driven-development/SKILL.md)
 
 ## data-scientist
 
@@ -515,6 +525,8 @@
 ## git-pr
 
 - [alirezarezvani/pr-review-expert](git-pr/alirezarezvani/pr-review-expert/SKILL.md)
+- [cblecker/finishing-a-development-branch](git-pr/cblecker/finishing-a-development-branch/SKILL.md)
+- [cblecker/requesting-code-review](git-pr/cblecker/requesting-code-review/SKILL.md)
 - [github/my-pull-requests](git-pr/github/my-pull-requests/SKILL.md)
 - [sickn33/create-pr](git-pr/sickn33/create-pr/SKILL.md)
 
@@ -530,6 +542,7 @@
 ## git-worktree
 
 - [alirezarezvani/git-worktree-manager](git-worktree/alirezarezvani/git-worktree-manager/SKILL.md)
+- [cblecker/using-git-worktrees](git-worktree/cblecker/using-git-worktrees/SKILL.md)
 
 ## java-junit
 
@@ -575,6 +588,8 @@
 - [alirezarezvani/spec-to-repo](manager-agile/alirezarezvani/spec-to-repo/SKILL.md)
 - [alirezarezvani/sprint-plan](manager-agile/alirezarezvani/sprint-plan/SKILL.md)
 - [alirezarezvani/user-story](manager-agile/alirezarezvani/user-story/SKILL.md)
+- [cblecker/executing-plans](manager-agile/cblecker/executing-plans/SKILL.md)
+- [cblecker/writing-plans](manager-agile/cblecker/writing-plans/SKILL.md)
 - [github/breakdown-epic-arch](manager-agile/github/breakdown-epic-arch/SKILL.md)
 - [github/breakdown-epic-pm](manager-agile/github/breakdown-epic-pm/SKILL.md)
 - [github/breakdown-feature-implementation](manager-agile/github/breakdown-feature-implementation/SKILL.md)
@@ -817,11 +832,13 @@
 
 ## verification-before-completion
 
+- [cblecker/verification-before-completion](verification-before-completion/cblecker/verification-before-completion/SKILL.md)
 - [github/doublecheck](verification-before-completion/github/doublecheck/SKILL.md)
 - [sickn33/verification-before-completion](verification-before-completion/sickn33/verification-before-completion/SKILL.md)
 
 ## writer
 
+- [cblecker/writing-skills](writer/cblecker/writing-skills/SKILL.md)
 - [sickn33/writing-skills](writer/sickn33/writing-skills/SKILL.md)
 
 ## writer-blog

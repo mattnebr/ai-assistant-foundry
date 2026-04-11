@@ -1,9 +1,10 @@
 ﻿# brainstorming
 
-2 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| cblecker | brainstorming | [SKILL.md](cblecker/brainstorming/SKILL.md) |
 | sickn33 | brainstorming | [SKILL.md](sickn33/brainstorming/SKILL.md) |
 | sickn33 | idea-darwin | [SKILL.md](sickn33/idea-darwin/SKILL.md) |
 

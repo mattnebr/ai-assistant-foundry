@@ -4731,6 +4731,13 @@
       "SkillFolder": "plugins/superclaude/skills/pm",
       "GroupName": "manager-project",
       "ArchivedAt": "2026-04-11T22:04:31.5029414Z"
+    },
+    {
+      "Owner": "mutable-state-inc",
+      "Repo": "ensue-skill",
+      "SkillFolder": "skills/ensue-memory",
+      "GroupName": "ai-assistant-memory",
+      "ArchivedAt": "2026-04-11T22:05:29.2732621Z"
     }
   ]
 }

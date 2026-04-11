@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*132 skill group(s) — 622 total variant(s)*
+*132 skill group(s) — 623 total variant(s)*
 
 ## agent-orchestration
 
@@ -20,6 +20,7 @@
 - [alirezarezvani/decision-logger](ai-assistant-memory/alirezarezvani/decision-logger/SKILL.md)
 - [github/memory-merger](ai-assistant-memory/github/memory-merger/SKILL.md)
 - [github/remember](ai-assistant-memory/github/remember/SKILL.md)
+- [mutable-state-inc/ensue-memory](ai-assistant-memory/mutable-state-inc/ensue-memory/SKILL.md)
 - [NeoLabHQ/memorize](ai-assistant-memory/NeoLabHQ/memorize/SKILL.md)
 - [sickn33/agent-memory-mcp](ai-assistant-memory/sickn33/agent-memory-mcp/SKILL.md)
 - [sickn33/agent-memory-systems](ai-assistant-memory/sickn33/agent-memory-systems/SKILL.md)

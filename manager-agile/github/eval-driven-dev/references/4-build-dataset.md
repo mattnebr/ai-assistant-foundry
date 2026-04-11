@@ -1,4 +1,4 @@
-﻿# Step 4: Build the Dataset
+# Step 4: Build the Dataset
 
 **Why this step**: The dataset ties everything together — the runnable (Step 2), the evaluators (Step 3), and the use cases (Step 1b) — into concrete test scenarios. At test time, `pixie test` calls the runnable with `entry_kwargs`, the wrap registry is populated with `eval_input`, and evaluators score the resulting captured outputs.
 

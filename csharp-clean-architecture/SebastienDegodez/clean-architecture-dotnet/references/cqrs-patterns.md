@@ -1,4 +1,4 @@
-﻿# CQRS: Commands & Queries
+# CQRS: Commands & Queries
 
 ## Handler Interfaces
 
@@ -9,7 +9,7 @@ public interface ICommandHandler<in TCommand, TResult>
     Task<TResult> HandleAsync(TCommand command, CancellationToken ct = default);
 }
 
-// Application/Shared/IQueryHandler.cs  
+// Application/Shared/IQueryHandler.cs
 public interface IQueryHandler<in TQuery, TResult>
 {
     Task<TResult> HandleAsync(TQuery query, CancellationToken ct = default);
@@ -25,9 +25,9 @@ public sealed record PlaceOrderCommand(OrderId OrderId, string CustomerName);
 public sealed class PlaceOrderCommandHandler : ICommandHandler<PlaceOrderCommand, OrderId>
 {
     private readonly IOrderRepository _repository;
-    
+
     public PlaceOrderCommandHandler(IOrderRepository repository) => _repository = repository;
-    
+
     public async Task<OrderId> HandleAsync(PlaceOrderCommand cmd, CancellationToken ct)
     {
         var order = Order.Create(cmd.OrderId, cmd.CustomerName);
@@ -47,9 +47,9 @@ public sealed record OrderViewModel(Guid Id, string Status);
 public sealed class GetOrderQueryHandler : IQueryHandler<GetOrderQuery, OrderViewModel>
 {
     private readonly IOrderRepository _repository;
-    
+
     public GetOrderQueryHandler(IOrderRepository repository) => _repository = repository;
-    
+
     public async Task<OrderViewModel> HandleAsync(GetOrderQuery query, CancellationToken ct)
     {
         var order = await _repository.GetByIdAsync(query.OrderId, ct);
@@ -72,8 +72,8 @@ services.AddScoped<IQueryBus, QueryBus>();
 builder.Services.AddInfrastructure();
 ```
 
-> ❌ Do NOT manually register handlers with `AddScoped<ICommandHandler<...>>()`.  
-> ❌ Do NOT scan assemblies at runtime (`Assembly.GetTypes()`) — not AOT-safe.  
+> ❌ Do NOT manually register handlers with `AddScoped<ICommandHandler<...>>()`.
+> ❌ Do NOT scan assemblies at runtime (`Assembly.GetTypes()`) — not AOT-safe.
 > Use `AddHandler<THandler>()` inside `AddInfrastructure()` for each handler explicitly. See [interface-based-di.md](convention-based-di.md) for the full implementation.
 
 ## API Usage

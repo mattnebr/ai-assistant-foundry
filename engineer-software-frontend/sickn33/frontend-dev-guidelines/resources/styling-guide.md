@@ -1,4 +1,4 @@
-﻿# Styling Guide
+# Styling Guide
 
 Modern styling patterns for using MUI v7 sx prop, inline styles, and theme integration.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 name: seo-plan
 description: >
   Strategic SEO planning for new or existing websites. Industry-specific

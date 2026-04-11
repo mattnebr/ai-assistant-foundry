@@ -1,4 +1,4 @@
-﻿# Schema Design Principles
+# Schema Design Principles
 
 > Normalization, primary keys, timestamps, relationships.
 

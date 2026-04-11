@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deduplicate Global Event Listeners
 impact: LOW
 impactDescription: single listener for N components
@@ -67,7 +67,7 @@ function useKeyboardShortcut(key: string, callback: () => void) {
 
 function Profile() {
   // Multiple shortcuts will share the same listener
-  useKeyboardShortcut('p', () => { /* ... */ }) 
+  useKeyboardShortcut('p', () => { /* ... */ })
   useKeyboardShortcut('k', () => { /* ... */ })
   // ...
 }

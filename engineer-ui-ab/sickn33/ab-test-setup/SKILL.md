@@ -1,4 +1,4 @@
-﻿---
+---
 name: ab-test-setup
 description: "Structured guide for setting up A/B tests with mandatory gates for hypothesis, metrics, and execution readiness."
 risk: unknown

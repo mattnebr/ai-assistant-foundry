@@ -1,4 +1,4 @@
-﻿---
+---
 name: web-design-guidelines
 description: "Review files for compliance with Web Interface Guidelines."
 risk: safe

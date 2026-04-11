@@ -1,4 +1,4 @@
-﻿# Taxonomia de Capacidades (Capability Tags)
+# Taxonomia de Capacidades (Capability Tags)
 
 Categorias padrao para classificar skills no ecossistema.
 Cada skill pode ter multiplas categorias.

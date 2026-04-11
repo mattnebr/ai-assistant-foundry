@@ -1,4 +1,4 @@
-﻿---
+---
 name: markdown-to-html
 description: 'Convert Markdown files to HTML similar to `marked.js`, `pandoc`, `gomarkdown/markdown`, or similar tools; or writing custom script to convert markdown to html and/or working on web template systems like `jekyll/jekyll`, `gohugoio/hugo`, or similar web templating systems that utilize markdown documents, converting them to html. Use when asked to "convert markdown to html", "transform md to html", "render markdown", "generate html from markdown", or when working with .md files and/or web a templating system that converts markdown to HTML output. Supports CLI and Node.js workflows with GFM, CommonMark, and standard Markdown flavors.'
 ---
@@ -401,6 +401,7 @@ Recommended sanitizers:
 #### Method 1: CLI Basic Conversion
 
 ```bash
+
 # Convert markdown to HTML
 pandoc input.md -o output.html
 
@@ -414,17 +415,20 @@ pandoc input.md -f markdown -t html -s -o output.html
 #### Method 2: Filter Mode (Interactive)
 
 ```bash
+
 # Start pandoc as a filter
 pandoc
 
 # Type markdown, then Ctrl-D (Linux/macOS) or Ctrl-Z+Enter (Windows)
 Hello *pandoc*!
+
 # Output: <p>Hello <em>pandoc</em>!</p>
 ```
 
 #### Method 3: Format Conversion
 
 ```bash
+
 # HTML to Markdown
 pandoc -f html -t markdown input.html -o output.md
 
@@ -461,6 +465,7 @@ pandoc input.md -s -o output.docx
 - Sanitize HTML output if displayed in browsers
 
 ```bash
+
 # Run in sandbox mode for untrusted input
 pandoc --sandbox input.md -o output.html
 ```
@@ -514,6 +519,7 @@ func main() {
 #### Method 2: CLI Tool
 
 ```bash
+
 # Install mdtohtml
 go install github.com/gomarkdown/mdtohtml@latest
 
@@ -624,6 +630,7 @@ Recommended sanitizer: [Bluemonday](https://github.com/microcosm-cc/bluemonday)
 #### Method 1: Create New Site
 
 ```bash
+
 # Create a new Jekyll site
 jekyll new myblog
 
@@ -639,6 +646,7 @@ bundle exec jekyll serve
 #### Method 2: Build Static Site
 
 ```bash
+
 # Build site to _site directory
 bundle exec jekyll build
 
@@ -649,6 +657,7 @@ JEKYLL_ENV=production bundle exec jekyll build
 #### Method 3: Live Reload Development
 
 ```bash
+
 # Serve with live reload
 bundle exec jekyll serve --livereload
 
@@ -684,6 +693,7 @@ bundle exec jekyll serve --drafts
 - Keep Jekyll and plugins updated
 
 ```yaml
+
 # _config.yml security settings
 exclude:
   - Gemfile
@@ -733,6 +743,7 @@ kramdown:
 #### Method 1: Create New Site
 
 ```bash
+
 # Create a new Hugo site
 hugo new site mysite
 
@@ -754,6 +765,7 @@ hugo server -D
 #### Method 2: Build Static Site
 
 ```bash
+
 # Build site to public directory
 hugo
 
@@ -767,6 +779,7 @@ hugo --environment production
 #### Method 3: Development Server
 
 ```bash
+
 # Start server with drafts
 hugo server -D
 
@@ -813,6 +826,7 @@ hugo server --port 8080
 - Validate shortcode parameters for user-generated content
 
 ```toml
+
 # hugo.toml security settings
 [security]
   enableInlineShortcodes = false

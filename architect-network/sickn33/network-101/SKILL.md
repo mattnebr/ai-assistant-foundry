@@ -1,4 +1,4 @@
-﻿---
+---
 name: network-101
 description: "Configure and test common network services (HTTP, HTTPS, SNMP, SMB) for penetration testing lab environments. Enable hands-on practice with service enumeration, log analysis, and security testing against properly configured target systems."
 risk: unknown
@@ -44,6 +44,7 @@ Set up a basic HTTP web server for testing:
 **Linux Apache Setup:**
 
 ```bash
+
 # Install Apache
 sudo apt update && sudo apt install apache2
 
@@ -61,6 +62,7 @@ curl http://localhost
 **Configure Firewall for HTTP:**
 
 ```bash
+
 # Linux (UFW)
 sudo ufw allow 80/tcp
 
@@ -75,6 +77,7 @@ Set up secure HTTPS with SSL/TLS:
 **Generate Self-Signed Certificate:**
 
 ```bash
+
 # Linux - Generate certificate
 sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 \
   -keyout /etc/ssl/private/apache-selfsigned.key \
@@ -88,6 +91,7 @@ sudo systemctl restart apache2
 **Configure Apache for HTTPS:**
 
 ```bash
+
 # Edit SSL virtual host
 sudo nano /etc/apache2/sites-available/default-ssl.conf
 
@@ -99,6 +103,7 @@ sudo systemctl reload apache2
 **Verify HTTPS Setup:**
 
 ```bash
+
 # Check port 443 is open
 nmap -p 443 192.168.1.1
 
@@ -116,6 +121,7 @@ Set up SNMP for enumeration practice:
 **Linux SNMP Setup:**
 
 ```bash
+
 # Install SNMP daemon
 sudo apt install snmpd snmp
 
@@ -123,7 +129,9 @@ sudo apt install snmpd snmp
 sudo nano /etc/snmp/snmpd.conf
 
 # Add these lines:
+
 # rocommunity public
+
 # rwcommunity private
 
 # Restart service
@@ -138,6 +146,7 @@ sudo systemctl restart snmpd
 **SNMP Enumeration Commands:**
 
 ```bash
+
 # Basic SNMP walk
 snmpwalk -c public -v1 192.168.1.1
 
@@ -167,6 +176,7 @@ Set up SMB file shares for enumeration:
 **Linux Samba Setup:**
 
 ```bash
+
 # Install Samba
 sudo apt install samba
 
@@ -178,10 +188,15 @@ sudo chmod 777 /srv/samba/share
 sudo nano /etc/samba/smb.conf
 
 # Add share:
+
 # [public]
+
 #    path = /srv/samba/share
+
 #    browsable = yes
+
 #    guest ok = yes
+
 #    read only = no
 
 # Restart service
@@ -191,6 +206,7 @@ sudo systemctl restart smbd
 **SMB Enumeration Commands:**
 
 ```bash
+
 # List shares anonymously
 smbclient -L //192.168.1.1 -N
 
@@ -214,6 +230,7 @@ Review logs for security analysis:
 **HTTP/HTTPS Logs:**
 
 ```bash
+
 # Apache access log
 sudo tail -f /var/log/apache2/access.log
 
@@ -221,12 +238,14 @@ sudo tail -f /var/log/apache2/access.log
 sudo tail -f /var/log/apache2/error.log
 
 # Windows IIS logs
+
 # Location: C:\inetpub\logs\LogFiles\W3SVC1\
 ```
 
 **Parse Log for Credentials:**
 
 ```bash
+
 # Search for POST requests
 grep "POST" /var/log/apache2/access.log
 
@@ -249,6 +268,7 @@ awk '{print $12}' /var/log/apache2/access.log | sort | uniq -c
 ### Service Verification Commands
 
 ```bash
+
 # Check HTTP
 curl -I http://target
 
@@ -286,6 +306,7 @@ smbclient -L //target -N
 ### Example 1: Complete HTTP Lab Setup
 
 ```bash
+
 # Install and configure
 sudo apt install apache2
 sudo systemctl start apache2
@@ -310,6 +331,7 @@ sudo ufw allow 80/tcp
 ### Example 2: SNMP Testing Setup
 
 ```bash
+
 # Quick SNMP configuration
 sudo apt install snmpd
 echo "rocommunity public" | sudo tee -a /etc/snmp/snmpd.conf
@@ -322,6 +344,7 @@ snmpwalk -c public -v1 localhost
 ### Example 3: SMB Anonymous Access
 
 ```bash
+
 # Configure anonymous share
 sudo apt install samba
 sudo mkdir /srv/samba/anonymous

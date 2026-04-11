@@ -1,4 +1,4 @@
-﻿---
+---
 name: csharp-logging-levels
 description: Apply standardized logging level guidance when writing or reviewing C# code that uses Microsoft.Extensions.Logging. Use when generating ILogger calls, choosing between LogTrace/LogDebug/LogInformation/LogWarning/LogError/LogCritical, writing exception handling with logging, creating Repository/Service/Orchestrator classes, or reviewing log levels in existing code. Ensures consistent log level selection across layers.
 ---

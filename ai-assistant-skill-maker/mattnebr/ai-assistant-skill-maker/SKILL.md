@@ -1,10 +1,11 @@
-﻿---
+---
 name: ai-assistant-skill-maker
 description: Guide for creating new Skill for an AI Assistant/Agent. Use when creating new skills, updating existing skills, or contributing learnings back to the repository. Use when asked to "create a skill", "make a new skill", "scaffold a skill", or when building specialized AI capabilities with bundled resources. Generates SKILL.md files with proper frontmatter, directory structure, and optional scripts/references/assets folders.
 ---
 # AI Assistant Skill Maker
 
 A meta-skill for creating, refining, and maintaining other Agent Skills (SKILL.md files). Use this skill when you need to scaffold new skills, review existing ones, generate unified templates, or improve skill structure and effectiveness.
+
 ## About Skills
 
 Skills are modular packages that extend agent capabilities with specialized knowledge and workflows. Think of them as "onboarding guides" for specific domains or tasks—they transform a general-purpose agent into a specialized agent equipped with procedural knowledge that no model can fully possess.
@@ -167,7 +168,7 @@ skill-name/
 ```yaml
 ---
 name: skill-name
-description: What this skill does. Use when [triggers]. 
+description: What this skill does. Use when [triggers].
 ---
 
 # Skill Name
@@ -236,7 +237,7 @@ Write instructions for using the skill and its bundled resources.
 
 ### Step 5: Packaging a Skill
 
-Once development of the skill is complete, the the AI Assistant needs to share it with the user. 
+Once development of the skill is complete, the the AI Assistant needs to share it with the user.
 
 #### Quality Checklist
 Before finalizing any SKILL.md:
@@ -262,6 +263,3 @@ After testing the skill, users may request improvements. Often this happens righ
 2. Notice struggles or inefficiencies
 3. Identify how SKILL.md or bundled resources should be updated
 4. Implement changes and test again
-
-
-

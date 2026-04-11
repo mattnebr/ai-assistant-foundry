@@ -1,4 +1,4 @@
-﻿# Objection Library
+# Objection Library
 
 Common B2B SaaS objections with response frameworks. Organized by category for quick reference.
 

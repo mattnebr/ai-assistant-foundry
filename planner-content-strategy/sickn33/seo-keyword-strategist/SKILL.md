@@ -1,4 +1,4 @@
-﻿---
+---
 name: seo-keyword-strategist
 description: Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization.
 risk: unknown

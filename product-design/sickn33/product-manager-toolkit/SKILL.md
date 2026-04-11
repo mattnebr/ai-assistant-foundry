@@ -1,4 +1,4 @@
-﻿---
+---
 name: product-manager-toolkit
 description: "Essential tools and frameworks for modern product management, from discovery to delivery."
 risk: unknown
@@ -120,6 +120,7 @@ Advanced RICE framework implementation with portfolio analysis.
 
 **Usage Examples**:
 ```bash
+
 # Basic prioritization
 python scripts/rice_prioritizer.py features.csv
 
@@ -144,6 +145,7 @@ NLP-based interview analysis for extracting actionable insights.
 
 **Usage Examples**:
 ```bash
+
 # Analyze single interview
 python scripts/customer_interview_analyzer.py interview.txt
 
@@ -183,7 +185,7 @@ Multiple PRD formats for different contexts:
 Score = (Reach × Impact × Confidence) / Effort
 
 Reach: # of users/quarter
-Impact: 
+Impact:
   - Massive = 3x
   - High = 2x
   - Medium = 1x
@@ -199,10 +201,10 @@ Effort: Person-months
 ### Value vs Effort Matrix
 ```
          Low Effort    High Effort
-         
+
 High     QUICK WINS    BIG BETS
 Value    [Prioritize]   [Strategic]
-         
+
 Low      FILL-INS      TIME SINKS
 Value    [Maybe]       [Avoid]
 ```
@@ -339,6 +341,7 @@ This toolkit integrates with:
 ## Quick Commands Cheat Sheet
 
 ```bash
+
 # Prioritization
 python scripts/rice_prioritizer.py features.csv --capacity 15
 

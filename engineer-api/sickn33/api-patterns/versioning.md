@@ -1,4 +1,4 @@
-﻿# Versioning Strategies
+# Versioning Strategies
 
 > Plan for API evolution from day one.
 

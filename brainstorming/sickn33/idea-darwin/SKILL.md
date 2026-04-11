@@ -1,4 +1,4 @@
-﻿---
+---
 name: idea-darwin
 description: "Darwinian idea evolution engine — toss rough ideas onto an evolution island, let them compete, crossbreed, and mutate through structured rounds to surface your strongest concepts."
 risk: safe
@@ -61,6 +61,7 @@ The user always has final say on all life-or-death decisions. The system only re
 Create an `ideas.md` file:
 
 ```markdown
+
 ## Personal knowledge base that learns my style
 I want a system that reads everything I write and gradually learns how I think.
 

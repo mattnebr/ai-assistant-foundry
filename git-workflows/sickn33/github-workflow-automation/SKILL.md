@@ -1,4 +1,4 @@
-﻿---
+---
 name: github-workflow-automation
 description: "Patterns for automating GitHub workflows with AI assistance, inspired by [Gemini CLI](https://github.com/google-gemini/gemini-cli) and modern DevOps practices."
 risk: critical
@@ -27,6 +27,7 @@ Use this skill when:
 ### 1.1 PR Review Action
 
 ```yaml
+
 # .github/workflows/ai-review.yml
 name: AI Code Review
 
@@ -75,18 +76,18 @@ jobs:
               messages: [{
                 role: "user",
                 content: `Review this PR diff and provide feedback:
-                
+
                 Changed files: ${{ steps.changed.outputs.files }}
-                
+
                 Diff:
                 ${{ steps.diff.outputs.diff }}
-                
+
                 Provide:
                 1. Summary of changes
                 2. Potential issues or bugs
                 3. Suggestions for improvement
                 4. Security concerns if any
-                
+
                 Format as GitHub markdown.`
               }]
             });
@@ -105,6 +106,7 @@ jobs:
 ### 1.2 Review Comment Patterns
 
 ````markdown
+
 # AI Review Structure
 
 ## 📋 Summary
@@ -148,6 +150,7 @@ Brief description of what this PR does.
 ### 1.3 Focused Reviews
 
 ```yaml
+
 # Review only specific file types
 - name: Filter code files
   run: |
@@ -176,6 +179,7 @@ Brief description of what this PR does.
 ### 2.1 Auto-label Issues
 
 ```yaml
+
 # .github/workflows/issue-triage.yml
 name: Issue Triage
 
@@ -267,6 +271,7 @@ Return JSON with:
 ### 2.3 Stale Issue Management
 
 ```yaml
+
 # .github/workflows/stale.yml
 name: Manage Stale Issues
 
@@ -281,7 +286,7 @@ jobs:
       - uses: actions/stale@v9
         with:
           stale-issue-message: |
-            This issue has been automatically marked as stale because it has not had 
+            This issue has been automatically marked as stale because it has not had
             recent activity. It will be closed in 14 days if no further activity occurs.
 
             If this issue is still relevant:
@@ -291,7 +296,7 @@ jobs:
             Thank you for your contributions! 🙏
 
           stale-pr-message: |
-            This PR has been automatically marked as stale. Please update it or it 
+            This PR has been automatically marked as stale. Please update it or it
             will be closed in 14 days.
 
           days-before-stale: 60
@@ -309,6 +314,7 @@ jobs:
 ### 3.1 Smart Test Selection
 
 ```yaml
+
 # .github/workflows/smart-tests.yml
 name: Smart Test Selection
 
@@ -376,6 +382,7 @@ jobs:
 ### 3.2 Deployment with AI Validation
 
 ```yaml
+
 # .github/workflows/deploy.yml
 name: Deploy with AI Validation
 
@@ -448,6 +455,7 @@ jobs:
 ### 3.3 Rollback Automation
 
 ```yaml
+
 # .github/workflows/rollback.yml
 name: Automated Rollback
 
@@ -504,6 +512,7 @@ jobs:
 ### 4.1 Automated Rebasing
 
 ```yaml
+
 # .github/workflows/auto-rebase.yml
 name: Auto Rebase
 
@@ -569,12 +578,12 @@ async function smartCherryPick(commitHash: string, targetBranch: string) {
   // AI analysis
   const analysis = await ai.analyze(`
     I need to cherry-pick this commit to ${targetBranch}:
-    
+
     ${commitInfo}
-    
+
     Current state of affected files on ${targetBranch}:
     ${targetDiff}
-    
+
     Will there be conflicts? If so, suggest resolution strategy.
   `);
 
@@ -605,6 +614,7 @@ async function smartCherryPick(commitHash: string, targetBranch: string) {
 ### 4.3 Branch Cleanup
 
 ```yaml
+
 # .github/workflows/branch-cleanup.yml
 name: Branch Cleanup
 
@@ -670,6 +680,7 @@ ${branches.map(b => `- \`${b}\``).join('\n')}
 ### 5.1 @mention Bot
 
 ```yaml
+
 # .github/workflows/mention-bot.yml
 name: AI Mention Bot
 
@@ -714,9 +725,9 @@ jobs:
           script: |
             const response = await ai.chat(`
               Context: ${process.env.CONTEXT}
-              
+
               Question: ${process.env.QUESTION}
-              
+
               Provide a helpful, specific answer. Include code examples if relevant.
             `);
 
@@ -734,6 +745,7 @@ jobs:
 ### 5.2 Command Patterns
 
 ```markdown
+
 ## Available Commands
 
 | Command              | Description                 |
@@ -757,6 +769,7 @@ jobs:
 ### 6.1 CODEOWNERS
 
 ```
+
 # .github/CODEOWNERS
 
 # Global owners
@@ -788,6 +801,7 @@ Dockerfile @org/devops-team
 ### 6.2 Branch Protection
 
 ```yaml
+
 # Set up via GitHub API
 - name: Configure branch protection
   uses: actions/github-script@v7

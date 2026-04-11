@@ -1,4 +1,4 @@
-﻿---
+---
 name: prd
 description: 'Generate high-quality Product Requirements Documents (PRDs) for software systems and AI-powered features. Includes executive summaries, user stories, technical specifications, and risk analysis.'
 license: MIT
@@ -54,6 +54,7 @@ Generate the document using the **Strict PRD Schema** below.
 Use concrete, measurable criteria. Avoid "fast", "easy", or "intuitive".
 
 ```diff
+
 # Vague (BAD)
 - The search should be fast and return relevant results.
 - The UI must look modern and be easy to use.

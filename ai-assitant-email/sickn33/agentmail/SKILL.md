@@ -1,4 +1,4 @@
-﻿---
+---
 name: agentmail
 description: Email infrastructure for AI agents. Create accounts, send/receive emails, manage webhooks, and check karma balance via the AgentMail API.
 risk: safe
@@ -51,6 +51,7 @@ Optional fields: `cc`, `bcc` (string arrays), `inReplyTo`, `references` (strings
 ### Read inbox
 
 ```bash
+
 # List messages
 curl https://api.theagentmail.net/v1/accounts/{accountId}/messages \
   -H "Authorization: Bearer am_..."

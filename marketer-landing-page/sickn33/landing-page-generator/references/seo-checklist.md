@@ -1,4 +1,4 @@
-﻿# Landing Page SEO Checklist
+# Landing Page SEO Checklist
 
 ## Overview
 

@@ -1,4 +1,4 @@
-﻿---
+---
 name: kpi-dashboard-design
 description: "Comprehensive patterns for designing effective Key Performance Indicator (KPI) dashboards that drive business decisions."
 risk: unknown

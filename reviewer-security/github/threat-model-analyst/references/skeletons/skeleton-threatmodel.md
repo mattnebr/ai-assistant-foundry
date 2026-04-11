@@ -1,4 +1,4 @@
-﻿# Skeleton: 1-threatmodel.md
+# Skeleton: 1-threatmodel.md
 
 > **⛔ Copy the template content below VERBATIM (excluding the outer code fence). Replace `[FILL]` placeholders. Diagram in `.md` and `.mmd` must be IDENTICAL.**
 > **⛔ Data Flow Table columns: `ID | Source | Target | Protocol | Description`. DO NOT rename `Target` to `Destination`. DO NOT reorder columns.**
@@ -7,6 +7,7 @@
 ---
 
 ````markdown
+
 # Threat Model
 
 ## Data Flow Diagram

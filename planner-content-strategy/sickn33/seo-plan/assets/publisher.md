@@ -1,4 +1,5 @@
-﻿<!-- Updated: 2026-02-07 -->
+<!-- Updated: 2026-02-07 -->
+
 # Publisher/Media SEO Strategy Template
 
 ## Industry Characteristics

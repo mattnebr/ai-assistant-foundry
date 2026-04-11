@@ -1,4 +1,4 @@
-﻿---
+---
 name: pci-compliance
 description: "Master PCI DSS (Payment Card Industry Data Security Standard) compliance for secure payment processing and handling of cardholder data."
 risk: unknown
@@ -68,6 +68,7 @@ Master PCI DSS (Payment Card Industry Data Security Standard) compliance for sec
 ## Data Minimization (Never Store)
 
 ```python
+
 # NEVER STORE THESE
 PROHIBITED_DATA = {
     'full_track_data': 'Magnetic stripe data',
@@ -256,12 +257,15 @@ class EncryptedStorage:
 # Usage
 storage = EncryptedStorage(os.urandom(32))
 encrypted_pan = storage.encrypt("4242424242424242")
+
 # Store encrypted_pan in database
 ```
 
 ### Data in Transit
 ```python
+
 # Always use TLS 1.2 or higher
+
 # Flask/Django example
 app.config['SESSION_COOKIE_SECURE'] = True  # HTTPS only
 app.config['SESSION_COOKIE_HTTPONLY'] = True

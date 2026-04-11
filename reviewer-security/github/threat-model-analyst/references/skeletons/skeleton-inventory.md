@@ -1,4 +1,4 @@
-﻿# Skeleton: threat-inventory.json
+# Skeleton: threat-inventory.json
 
 > **⛔ Use EXACT field names shown below. Common errors: `display_name` (wrong→`display`), `category` (wrong→`stride_category`), `name` (wrong→`title`).**
 > **⛔ The template below is shown inside a code fence for readability only — do NOT include the fence in the output file. The `.json` file must start with `{` on line 1.**

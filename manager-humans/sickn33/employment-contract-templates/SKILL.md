@@ -1,4 +1,4 @@
-﻿---
+---
 name: employment-contract-templates
 description: "Templates and patterns for creating legally sound employment documentation including contracts, offer letters, and HR policies."
 risk: safe

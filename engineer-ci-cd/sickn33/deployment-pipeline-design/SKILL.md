@@ -1,4 +1,4 @@
-﻿---
+---
 name: deployment-pipeline-design
 description: "Architecture patterns for multi-stage CI/CD pipelines with approval gates and deployment strategies."
 risk: critical
@@ -61,6 +61,7 @@ Design robust, secure deployment pipelines that balance speed with safety throug
 ### Pattern 1: Manual Approval
 
 ```yaml
+
 # GitHub Actions
 production-deploy:
   needs: staging-deploy
@@ -77,6 +78,7 @@ production-deploy:
 ### Pattern 2: Time-Based Approval
 
 ```yaml
+
 # GitLab CI
 deploy:production:
   stage: deploy
@@ -93,6 +95,7 @@ deploy:production:
 ### Pattern 3: Multi-Approver
 
 ```yaml
+
 # Azure Pipelines
 stages:
 - stage: Production
@@ -141,12 +144,14 @@ spec:
 ### 2. Blue-Green Deployment
 
 ```yaml
+
 # Blue (current)
 kubectl apply -f blue-deployment.yaml
 kubectl label service my-app version=blue
 
 # Green (new)
 kubectl apply -f green-deployment.yaml
+
 # Test green environment
 kubectl label service my-app version=green
 
@@ -324,6 +329,7 @@ deploy-and-verify:
 ### Manual Rollback
 
 ```bash
+
 # List revision history
 kubectl rollout history deployment/my-app
 

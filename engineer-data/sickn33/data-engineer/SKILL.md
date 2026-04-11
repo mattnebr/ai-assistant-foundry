@@ -1,4 +1,4 @@
-﻿---
+---
 name: data-engineer
 description: Build scalable data pipelines, modern data warehouses, and real-time streaming architectures. Implements Apache Spark, dbt, Airflow, and cloud-native data platforms.
 risk: unknown

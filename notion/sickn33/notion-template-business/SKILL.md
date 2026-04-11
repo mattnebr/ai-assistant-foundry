@@ -1,4 +1,4 @@
-﻿---
+---
 name: notion-template-business
 description: Expert in building and selling Notion templates as a business - not
   just making templates, but building a sustainable digital product business.

@@ -1,4 +1,4 @@
-﻿---
+---
 name: reference-name
 description: >-
   Use when working with [domain].

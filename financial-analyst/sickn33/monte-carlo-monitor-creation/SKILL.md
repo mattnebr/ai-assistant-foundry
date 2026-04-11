@@ -1,4 +1,4 @@
-﻿---
+---
 name: monte-carlo-monitor-creation
 description: "Guides creation of Monte Carlo monitors via MCP tools, producing monitors-as-code YAML for CI/CD deployment."
 category: data

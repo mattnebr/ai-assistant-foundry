@@ -1,4 +1,4 @@
-﻿---
+---
 name: microsoft-code-reference
 description: Look up Microsoft API references, find working code samples, and verify SDK code is correct. Use when working with Azure SDKs, .NET libraries, or Microsoft APIs—to find the right method, check parameters, get working examples, or troubleshoot errors. Catches hallucinated methods, wrong signatures, and deprecated patterns by querying official docs.
 compatibility: Works best with Microsoft Learn MCP Server (https://learn.microsoft.com/api/mcp). Can also use the mslearn CLI as a fallback.
@@ -32,6 +32,7 @@ microsoft_code_sample_search(query: "send message service bus", language: "javas
 ## API Lookups
 
 ```
+
 # Verify method exists (include namespace for precision)
 "BlobClient UploadAsync Azure.Storage.Blobs"
 "GraphServiceClient Users Microsoft.Graph"
@@ -82,6 +83,7 @@ For simple lookups, step 1 alone may suffice. For complex API usage, complete al
 If the Learn MCP server is not available, use the `mslearn` CLI from a terminal or shell (for example, Bash, PowerShell, or cmd) instead:
 
 ```sh
+
 # Run directly (no install needed)
 npx @microsoft/learn-cli search "BlobClient UploadAsync Azure.Storage.Blobs"
 

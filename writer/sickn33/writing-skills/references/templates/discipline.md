@@ -1,4 +1,4 @@
-﻿---
+---
 name: discipline-name
 description: >-
   Use when [BEFORE violation].

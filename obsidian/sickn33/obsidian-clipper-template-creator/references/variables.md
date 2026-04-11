@@ -1,4 +1,4 @@
-﻿# Obsidian Web Clipper Variables
+# Obsidian Web Clipper Variables
 
 **Official Docs:** [help.obsidian.md/web-clipper/variables](https://help.obsidian.md/web-clipper/variables)
 
@@ -59,6 +59,6 @@ Examples:
 - `{{schema:Article:headline}}`
 
 ## Fallbacks
-When a variable is empty, you can supply a default value (fallback). 
-Fallbacks can be chained (try variable A, then B, then a literal default) and used with filters. 
+When a variable is empty, you can supply a default value (fallback).
+Fallbacks can be chained (try variable A, then B, then a literal default) and used with filters.
 For syntax and evaluation order, see [logic.md](logic.md).

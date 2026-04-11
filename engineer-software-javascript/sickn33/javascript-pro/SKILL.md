@@ -1,4 +1,4 @@
-﻿---
+---
 name: javascript-pro
 description: Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops, and browser/Node compatibility.
 risk: safe

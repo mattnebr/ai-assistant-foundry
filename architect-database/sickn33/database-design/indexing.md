@@ -1,4 +1,4 @@
-﻿# Indexing Principles
+# Indexing Principles
 
 > When and how to create indexes effectively.
 

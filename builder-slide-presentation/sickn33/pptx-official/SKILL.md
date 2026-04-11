@@ -1,4 +1,4 @@
-﻿---
+---
 name: pptx-official
 description: "A user may ask you to create, edit, or analyze the contents of a .pptx file. A .pptx file is essentially a ZIP archive containing XML files and other resources that you can read or edit. You have different tools and workflows available for different tasks."
 risk: unknown
@@ -18,6 +18,7 @@ A user may ask you to create, edit, or analyze the contents of a .pptx file. A .
 If you just need to read the text contents of a presentation, you should convert the document to markdown:
 
 ```bash
+
 # Convert document to markdown
 python -m markitdown path-to-file.pptx
 ```
@@ -432,6 +433,7 @@ python scripts/thumbnail.py template.pptx [output_prefix]
 
 **Examples**:
 ```bash
+
 # Basic usage
 python scripts/thumbnail.py presentation.pptx
 

@@ -1,4 +1,4 @@
-﻿---
+---
 name: performance-engineer
 description: "Expert performance engineer specializing in modern observability,"
 risk: unknown

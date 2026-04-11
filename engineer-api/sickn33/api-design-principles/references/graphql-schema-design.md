@@ -1,10 +1,11 @@
-﻿# GraphQL Schema Design Patterns
+# GraphQL Schema Design Patterns
 
 ## Schema Organization
 
 ### Modular Schema Structure
 
 ```graphql
+
 # user.graphql
 type User {
   id: ID!
@@ -549,6 +550,7 @@ type User {
 ### Schema Evolution
 
 ```graphql
+
 # v1 - Initial
 type User {
   name: String!

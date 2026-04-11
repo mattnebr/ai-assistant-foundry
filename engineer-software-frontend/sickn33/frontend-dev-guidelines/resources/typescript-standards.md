@@ -1,4 +1,4 @@
-﻿# TypeScript Standards
+# TypeScript Standards
 
 TypeScript best practices for type safety and maintainability in React frontend code.
 

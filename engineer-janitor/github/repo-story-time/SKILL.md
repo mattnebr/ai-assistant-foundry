@@ -1,4 +1,4 @@
-﻿---
+---
 name: repo-story-time
 description: 'Generate a comprehensive repository summary and narrative story from commit history'
 ---
@@ -82,6 +82,7 @@ Look for these narrative elements:
 
 ### REPOSITORY_SUMMARY.md Structure
 ```markdown
+
 # Repository Analysis: [Repo Name]
 
 ## Overview
@@ -107,6 +108,7 @@ Who maintains different parts of the codebase.
 
 ### THE_STORY_OF_THIS_REPO.md Structure
 ```markdown
+
 # The Story of [Repo Name]
 
 ## The Chronicles: A Year in Numbers

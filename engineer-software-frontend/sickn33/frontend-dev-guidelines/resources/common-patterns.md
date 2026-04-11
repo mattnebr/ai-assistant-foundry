@@ -1,4 +1,4 @@
-﻿# Common Patterns
+# Common Patterns
 
 Frequently used patterns for forms, authentication, DataGrid, dialogs, and other common UI elements.
 

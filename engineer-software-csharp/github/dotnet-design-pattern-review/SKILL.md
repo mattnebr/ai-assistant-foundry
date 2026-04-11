@@ -1,4 +1,4 @@
-﻿---
+---
 name: dotnet-design-pattern-review
 description: 'Review the C#/.NET code for design pattern implementation and suggest improvements.'
 ---

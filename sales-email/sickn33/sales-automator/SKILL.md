@@ -1,4 +1,4 @@
-﻿---
+---
 name: sales-automator
 description: 'Draft cold emails, follow-ups, and proposal templates. Creates
 

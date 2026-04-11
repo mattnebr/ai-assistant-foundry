@@ -1,4 +1,4 @@
-﻿---
+---
 name: create-github-action-workflow-specification
 description: 'Create a formal specification for an existing GitHub Actions CI/CD workflow, optimized for AI consumption and workflow maintenance.'
 ---
@@ -45,10 +45,10 @@ graph TD
     B --> C[Job 2]
     C --> D[Job 3]
     D --> E[End]
-    
+
     B --> F[Parallel Job]
     F --> D
-    
+
     style A fill:#e1f5fe
     style E fill:#e8f5e8
 ```
@@ -83,6 +83,7 @@ graph TD
 ### Inputs
 
 ```yaml
+
 # Environment Variables
 ENV_VAR_1: string  # Purpose: [description]
 ENV_VAR_2: secret  # Purpose: [description]
@@ -95,6 +96,7 @@ branches: [list of branch patterns]
 ### Outputs
 
 ```yaml
+
 # Job Outputs
 job_1_output: string  # Description: [purpose]
 build_artifact: file  # Description: [content type]
@@ -259,7 +261,7 @@ graph TD
     subgraph "Build Phase"
         A[Lint] --> B[Test] --> C[Build]
     end
-    subgraph "Deploy Phase"  
+    subgraph "Deploy Phase"
         D[Staging] --> E[Production]
     end
     C --> D

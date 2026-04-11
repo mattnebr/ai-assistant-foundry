@@ -1,4 +1,4 @@
-﻿# NuGet Package Reference
+# NuGet Package Reference
 
 ## Packages Added to All Project Types
 

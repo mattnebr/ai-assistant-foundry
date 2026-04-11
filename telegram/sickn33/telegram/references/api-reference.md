@@ -1,4 +1,4 @@
-﻿# Telegram Bot API - Referencia Completa
+# Telegram Bot API - Referencia Completa
 
 ## Table of Contents
 1. [Autenticacao](#autenticacao)

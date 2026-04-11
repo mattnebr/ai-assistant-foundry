@@ -1,4 +1,4 @@
-﻿# Basic writing and formatting syntax
+# Basic writing and formatting syntax
 
 Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 
@@ -7,8 +7,11 @@ Create sophisticated formatting for your prose and code on GitHub with simple sy
 To create a heading, add one to six <kbd>#</kbd> symbols before your heading text. The number of <kbd>#</kbd> you use will determine the hierarchy level and typeface size of the heading.
 
 ```markdown
+
 # A first-level heading
+
 ## A second-level heading
+
 ### A third-level heading
 ```
 
@@ -132,6 +135,7 @@ For more detailed information on the requirements of URI fragments, see [RFC 398
 The code block below demonstrates the basic rules used to generate anchors from headings in rendered content.
 
 ```markdown
+
 # Example headings
 
 ## Sample Section
@@ -194,6 +198,7 @@ You can link to a custom anchor using the value of the `name` attribute you gave
 For example:
 
 ```markdown
+
 # Section Heading
 
 Some body text of this section.
@@ -419,7 +424,7 @@ Here is a simple footnote[^1].
 A footnote can also have multiple lines[^2].
 
 [^1]: My reference.
-[^2]: To add line breaks within a footnote, add 2 spaces to the end of a line.  
+[^2]: To add line breaks within a footnote, add 2 spaces to the end of a line.
 This is a second line.
 ```
 

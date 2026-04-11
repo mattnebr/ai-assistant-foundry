@@ -1,4 +1,5 @@
-﻿<!-- Updated: 2026-02-07 -->
+<!-- Updated: 2026-02-07 -->
+
 # Agency/Consultancy SEO Strategy Template
 
 ## Industry Characteristics

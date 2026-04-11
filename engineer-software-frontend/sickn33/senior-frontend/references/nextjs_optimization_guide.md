@@ -1,4 +1,4 @@
-﻿# Next.js Optimization Guide
+# Next.js Optimization Guide
 
 Performance optimization techniques for Next.js 14+ applications.
 
@@ -437,6 +437,7 @@ const user = await getCachedUser(userId);
 ### Analyze Bundle Size
 
 ```bash
+
 # Install analyzer
 npm install @next/bundle-analyzer
 

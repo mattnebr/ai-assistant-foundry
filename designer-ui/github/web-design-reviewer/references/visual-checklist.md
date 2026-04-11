@@ -1,4 +1,4 @@
-﻿# Visual Inspection Checklist
+# Visual Inspection Checklist
 
 This document is a comprehensive checklist of items to verify during web design visual inspection.
 

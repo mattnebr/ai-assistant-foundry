@@ -1,4 +1,4 @@
-﻿# Obsidian Web Clipper Filters
+# Obsidian Web Clipper Filters
 
 **Official Docs:** [help.obsidian.md/web-clipper/filters](https://help.obsidian.md/web-clipper/filters)
 

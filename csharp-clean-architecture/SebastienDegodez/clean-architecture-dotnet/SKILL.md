@@ -1,7 +1,7 @@
-﻿---
+---
 name: clean-architecture-dotnet
 description: Use when domain logic leaks into API/Infrastructure, project references violate layer boundaries, or CQRS handlers/buses need implementation.
-metadata: 
+metadata:
    version: 2
    authors: ["Sébastien DEGODEZ"]
 ---
@@ -39,7 +39,7 @@ digraph clean_arch {
     "Define Logic in Domain" [shape=box];
     "Create Handler in Application" [shape=box];
     "Inject Handler in API" [shape=box];
-    
+
     "New Feature?" -> "Define Logic in Domain" [label="Business Rule"];
     "New Feature?" -> "Create Handler in Application" [label="Orchestration Only"];
     "Define Logic in Domain" -> "Create Handler in Application";
@@ -56,7 +56,7 @@ Commands (writes) and Queries (reads) separate side-effects:
 public sealed class PlaceOrderCommandHandler : ICommandHandler<PlaceOrderCommand, OrderId>
 {
     private readonly IOrderRepository _repository; // Interface defined in Application/Domain
-    
+
     public async Task<OrderId> HandleAsync(PlaceOrderCommand cmd, CancellationToken ct)
     {
         var order = Order.Create(cmd.OrderId, cmd.CustomerName);
@@ -66,7 +66,7 @@ public sealed class PlaceOrderCommandHandler : ICommandHandler<PlaceOrderCommand
 }
 
 // API/OrdersEndpoints.cs — inject ICommandBus (never ICommandHandler<,> directly)
-app.MapPost("/orders", async (PlaceOrderCommand cmd, ICommandBus bus) 
+app.MapPost("/orders", async (PlaceOrderCommand cmd, ICommandBus bus)
     => Results.Created($"/orders/{await bus.PublishAsync<PlaceOrderCommand, OrderId>(cmd)}"));
 
 // Queries follow the same rule — inject IQueryBus
@@ -170,7 +170,7 @@ The architecture follows a strict outward-in dependency flow:
 - **Application** has access to Domain.
 - **Domain** remains pure with **zero** project dependencies.
 
-**CRITICAL**: Just because a layer *can* see another via transitive reference doesn't mean it *should* use its concrete types. 
+**CRITICAL**: Just because a layer *can* see another via transitive reference doesn't mean it *should* use its concrete types.
 - API should only use **Interfaces** from Application/Domain.
 - Always follow the **Iron Law** and **Red Flags** below.
 
@@ -218,5 +218,3 @@ The architecture follows a strict outward-in dependency flow:
 - [Shared Kernel](references/shared-kernel.md) — Shared abstractions for multi-context solutions (optional)
 - [Init Script](scripts/init-project.sh) — Bootstrap script for new project setup (`./init-project.sh MyApp`)
 - [ArchitectureTests Template](templates/IntegrationTests/ArchitectureTests.cs) — Drop-in architecture test template
-
-

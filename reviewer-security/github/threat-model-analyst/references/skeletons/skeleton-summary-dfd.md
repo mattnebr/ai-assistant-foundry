@@ -1,4 +1,4 @@
-﻿# Skeleton: 1.2-threatmodel-summary.mmd
+# Skeleton: 1.2-threatmodel-summary.mmd
 
 > **⛔ ALWAYS evaluate this skeleton after creating `1.1-threatmodel.mmd`.**
 > Count elements (nodes with `(("..."))`, `[("...")]`, `["..."]`) and boundaries (`subgraph`) in the detailed DFD.

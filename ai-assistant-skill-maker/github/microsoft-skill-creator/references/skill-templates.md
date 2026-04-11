@@ -1,4 +1,4 @@
-﻿# Skill Templates
+# Skill Templates
 
 Ready-to-use templates for different types of Microsoft technologies.
 

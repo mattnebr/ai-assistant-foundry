@@ -1,4 +1,4 @@
-﻿# Component Patterns
+# Component Patterns
 
 Modern React component architecture for the application emphasizing type safety, lazy loading, and Suspense boundaries.
 

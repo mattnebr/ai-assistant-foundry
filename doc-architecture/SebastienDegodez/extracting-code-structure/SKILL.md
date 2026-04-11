@@ -1,4 +1,4 @@
-﻿---
+---
 name: extracting-code-structure
 description: Use when listing all methods, functions, or classes in a file, exploring unfamiliar code, getting API overviews, or deciding what to read selectively without loading entire files
 ---
@@ -106,6 +106,7 @@ Don't read 1000-line files blind. Get an outline first, then read the 50 lines y
 
 ### Integration Examples
 ```bash
+
 # Get structure and find all methods
 ast-grep -r 'function $FUNC($$$ARGS) {$$$BODY}' src/ | fzf | cut -d: -f1 | xargs -I {} bat {}
 

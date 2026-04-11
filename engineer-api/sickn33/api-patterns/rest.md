@@ -1,4 +1,4 @@
-﻿# REST Principles
+# REST Principles
 
 > Resource-based API design - nouns not verbs.
 

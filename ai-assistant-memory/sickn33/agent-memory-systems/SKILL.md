@@ -1,4 +1,4 @@
-﻿---
+---
 name: agent-memory-systems
 description: "Memory is the cornerstone of intelligent agents. Without it, every
   interaction starts from zero. This skill covers the architecture of agent
@@ -344,12 +344,15 @@ splitter = MarkdownHeaderTextSplitter(
 )
 
 chunks = splitter.split_text(markdown_doc)
+
 # Each chunk has header metadata for context
 """
 
 ## Contextual Chunking (Anthropic's Approach)
 """
+
 # Add context to each chunk before embedding
+
 # Reduces retrieval failures by 35%
 
 def add_context_to_chunk(chunk, document_summary):
@@ -439,6 +442,7 @@ async def process_conversation(thread_id):
 
 ## Memory Consolidation (Like Sleep)
 """
+
 # Periodically consolidate and deduplicate memories
 
 async def consolidate_memories(user_id: str):
@@ -570,7 +574,9 @@ context about what system is being configured is nearly useless.
 Recommended fix:
 
 ## Contextual Chunking (Anthropic's approach)
+
 # Add document context to each chunk before embedding
+
 # Reduces retrieval failures by 35%
 
 def contextualize_chunk(chunk, document):
@@ -596,6 +602,7 @@ for chunk in chunks:
     store(original=chunk, embedding=embedding)
 
 ## Hierarchical Chunking
+
 # Store at multiple granularities
 chunks_small = split(doc, size=256)
 chunks_medium = split(doc, size=512)
@@ -680,6 +687,7 @@ Without metadata filtering, retrieval is just word matching.
 Recommended fix:
 
 ## Always filter by metadata first
+
 # Don't rely on semantic similarity alone
 
 # Bad: Only semantic search
@@ -976,8 +984,11 @@ async def migrate_embeddings(old_model, new_model):
         )
 
 ## Use separate collections during migration
+
 # Old collection: production queries
+
 # New collection: re-embedding in progress
+
 # Switch over when complete
 
 ## Validation Checks

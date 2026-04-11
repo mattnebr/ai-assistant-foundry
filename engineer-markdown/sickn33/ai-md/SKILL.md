@@ -1,4 +1,4 @@
-﻿---
+---
 name: ai-md
 description: "Convert human-written CLAUDE.md into AI-native structured-label format. Battle-tested across 4 models. Same rules, fewer tokens, higher compliance."
 risk: safe
@@ -44,6 +44,7 @@ When each rule has its own line, the model processes it as a distinct unit.
 Full attention weight on each rule.
 
 ```
+
 # ONE LINE = attention splits 5 ways (some rules drop to near-zero weight)
 EVIDENCE: no-fabricate no-guess | 禁用詞:應該是/可能是 → 先拿數據 | Read/Grep→行號 curl→數據 | "好像"/"覺得"→自己先跑test | guess=shame-wall
 
@@ -62,6 +63,7 @@ Natural language forces the model to INFER meaning from context.
 Labels DECLARE meaning explicitly. No inference needed = no misinterpretation.
 
 ```
+
 # AI must infer: what does (防搞混) modify? what does 例外 apply to?
 GATE-1: 收到任務→先用一句話複述(防搞混)(長對話中每個新任務都重新觸發) | 例外: signals命中「處理一下」=直接執行
 
@@ -85,6 +87,7 @@ the model matches it directly to the corresponding label — like a hash table l
 instead of a full-text search.
 
 ```
+
 # BURIED: AI scans the whole sentence, might miss the connection
 加新功能→第一句問schema | 新增API/endpoint=必確認health-check.py覆蓋
 
@@ -137,6 +140,7 @@ It needs to be 3 separate instructions.
 they are separate rules and MUST be on separate lines.
 
 ```
+
 # Input: one sentence hiding 4 rules
 禁用詞:應該是/可能是→先拿數據 | "好像"/"覺得"→自己先跑test(不是問user)→有數據才能決定
 
@@ -198,6 +202,7 @@ The model processes instructions top-to-bottom. Priority = position.
 **Grouping technique:** Rules that share a DOMAIN become sub-items under one heading.
 
 ```
+
 # FLAT (bad): 7 unrelated rules, model treats equally
 1. no guessing
 2. backup before editing
@@ -352,6 +357,7 @@ When the same concept appears in multiple rules, DON'T repeat it.
 Use a cross-reference label.
 
 ```
+
 # BAD: health-check mentioned in 3 places
 GATE-5: ...check health-check.py...
 MOAT: ...must check health-check.py...
@@ -372,6 +378,7 @@ Delete ALL text that exists to explain WHY a rule exists.
 AI needs WHAT to do, not WHY.
 
 ```
+
 # DELETE these human explanations:
 (防搞混)                     → motivation
 (不是大爆破,是每次順手一點)    → metaphor
@@ -431,6 +438,7 @@ Restore: cp ~/.claude/CLAUDE.md.bak-pre-distill ~/.claude/CLAUDE.md
 ## AI-Native Template
 
 ```xml
+
 # PROJECT-NAME | lang:xx | for-AI-parsing | optimize=results-over-format
 
 <user>

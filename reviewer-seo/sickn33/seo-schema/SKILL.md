@@ -1,4 +1,4 @@
-﻿---
+---
 name: seo-schema
 description: >
   Detect, validate, and generate Schema.org structured data. JSON-LD format

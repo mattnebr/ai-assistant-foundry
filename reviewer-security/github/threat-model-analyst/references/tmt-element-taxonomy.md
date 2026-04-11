@@ -1,4 +1,4 @@
-﻿# TMT Element Taxonomy — Code to Threat Model DFD Reference
+# TMT Element Taxonomy — Code to Threat Model DFD Reference
 
 Complete reference for identifying DFD elements from source code analysis.
 Aligns with Microsoft Threat Modeling Tool (TMT) element types for TM7 compatibility.

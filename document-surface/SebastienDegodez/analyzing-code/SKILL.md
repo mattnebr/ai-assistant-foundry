@@ -1,4 +1,4 @@
-﻿---
+---
 name: analyzing-code
 description: Use when understanding project composition by language, measuring code change impact, or generating code statistics for CI/CD metrics
 ---
@@ -83,6 +83,7 @@ The guide includes:
 
 ### Integration Examples
 ```bash
+
 # Get language breakdown and filter for top languages
 tokei -o json | jq '.data | to_entries | sort_by(.value.stats.code) | reverse | .[0:5] | .[].key'
 

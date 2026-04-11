@@ -1,4 +1,4 @@
-﻿# Skeleton: 0-assessment.md
+# Skeleton: 0-assessment.md
 
 > **⛔ Copy the template content below VERBATIM (excluding the outer code fence). Replace `[FILL]` placeholders. Do NOT add/rename/reorder sections.**
 > `[FILL]` = single value | `[FILL-PROSE]` = paragraphs | `[REPEAT]...[END-REPEAT]` = N copies | `[CONDITIONAL]...[END-CONDITIONAL]` = include if condition met
@@ -6,6 +6,7 @@
 ---
 
 ```markdown
+
 # Security Assessment
 
 ---

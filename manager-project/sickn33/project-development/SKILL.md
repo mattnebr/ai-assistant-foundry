@@ -1,4 +1,4 @@
-﻿---
+---
 name: project-development
 description: "This skill covers the principles for identifying tasks suited to LLM processing, designing effective project architectures, and iterating rapidly using agent-assisted development."
 risk: unknown
@@ -340,4 +340,3 @@ External resources:
 **Last Updated**: 2025-12-25
 **Author**: Agent Skills for Context Engineering Contributors
 **Version**: 1.0.0
-

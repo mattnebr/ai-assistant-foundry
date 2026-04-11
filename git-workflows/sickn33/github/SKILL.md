@@ -1,4 +1,4 @@
-﻿---
+---
 name: github
 description: "Use the `gh` CLI for issues, pull requests, Actions runs, and GitHub API queries."
 risk: safe

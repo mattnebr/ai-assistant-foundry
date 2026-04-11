@@ -1,4 +1,4 @@
-﻿# Generative AI Tools for Ad Creative
+# Generative AI Tools for Ad Creative
 
 Reference for using AI image generators, video generators, and code-based video tools to produce ad visuals at scale.
 
@@ -46,6 +46,7 @@ Google DeepMind's image generation model, available through the Gemini API.
 
 **API example:**
 ```bash
+
 # Using the Gemini API for image generation
 curl -X POST "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent" \
   -H "Content-Type: application/json" \
@@ -559,6 +560,7 @@ Render the same content across different aspect ratios:
 ### Getting Started
 
 ```bash
+
 # Create a new Remotion project
 npx create-video@latest
 

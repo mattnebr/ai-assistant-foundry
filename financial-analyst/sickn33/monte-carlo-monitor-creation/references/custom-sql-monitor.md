@@ -1,4 +1,4 @@
-﻿# Custom SQL Monitor Reference
+# Custom SQL Monitor Reference
 
 Detailed reference for building `createCustomSqlMonitorMac` tool calls.
 

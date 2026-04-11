@@ -1,4 +1,4 @@
-﻿---
+---
 name: data-engineering-data-pipeline
 description: "You are a data pipeline architecture expert specializing in scalable, reliable, and cost-effective data pipelines for batch and streaming data processing."
 risk: unknown
@@ -123,6 +123,7 @@ $ARGUMENTS
 ## Example: Minimal Batch Pipeline
 
 ```python
+
 # Batch ingestion with validation
 from batch_ingestion import BatchDataIngester
 from storage.delta_lake_manager import DeltaLakeManager

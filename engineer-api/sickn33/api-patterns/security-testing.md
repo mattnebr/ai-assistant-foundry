@@ -1,4 +1,4 @@
-﻿# API Security Testing
+# API Security Testing
 
 > Principles for testing API security. OWASP API Top 10, authentication, authorization testing.
 

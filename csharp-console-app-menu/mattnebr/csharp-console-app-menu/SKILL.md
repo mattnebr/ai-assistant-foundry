@@ -1,4 +1,4 @@
-﻿---
+---
 name: csharp-console-app-menu
 description: 'Scaffold an interactive console menu for a .NET Generic Host BackgroundService (Worker). Use when creating or extending a console app that needs a numbered menu loop backed by a Dictionary<int, Func<CancellationToken, Task>>. Triggers include: "add a menu option", "create a Worker with a menu", "console app menu loop", "BackgroundService menu".'
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 name: database-optimizer
 description: Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures.
 risk: unknown

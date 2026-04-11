@@ -1,4 +1,4 @@
-﻿# Skeleton: 0.1-architecture.md
+# Skeleton: 0.1-architecture.md
 
 > **⛔ Copy the template content below VERBATIM (excluding the outer code fence). Replace `[FILL]` placeholders. Do NOT add/rename/reorder sections.**
 > **⛔ Key Components table columns are EXACTLY: `Component | Type | Description`. DO NOT rename to `Role`, `Change`, `Function`.**
@@ -8,6 +8,7 @@
 ---
 
 ````markdown
+
 # Architecture Overview
 
 ## System Purpose

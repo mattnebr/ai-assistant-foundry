@@ -1,10 +1,11 @@
-﻿# Basic Markdown to HTML
+# Basic Markdown to HTML
 
 ## Headings
 
 ### Markdown
 
 ```md
+
 # Basic writing and formatting syntax
 ```
 
@@ -15,6 +16,7 @@
 ```
 
 ```md
+
 ## Headings
 ```
 
@@ -23,6 +25,7 @@
 ```
 
 ```md
+
 ### A third-level heading
 ```
 

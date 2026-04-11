@@ -1,4 +1,4 @@
-﻿---
+---
 name: x-twitter-scraper
 description: "X (Twitter) data platform skill — tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, monitoring, webhooks, 19 extraction tools, MCP server."
 category: data
@@ -37,6 +37,7 @@ npx skills add Xquik-dev/x-twitter-scraper
 Or clone manually into your agent's skills directory:
 
 ```bash
+
 # Claude Code
 git clone https://github.com/Xquik-dev/x-twitter-scraper.git .claude/skills/x-twitter-scraper
 

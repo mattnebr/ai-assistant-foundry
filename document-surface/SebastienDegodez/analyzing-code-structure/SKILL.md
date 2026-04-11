@@ -1,4 +1,4 @@
-﻿---
+---
 name: analyzing-code-structure
 description: Use when editing code structure with text matching ambiguity, handling "old_string not unique" problems, or performing formatting-independent pattern matching across function signatures, method calls, and class structures
 ---

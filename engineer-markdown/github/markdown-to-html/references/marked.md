@@ -1,4 +1,4 @@
-﻿# Marked
+# Marked
 
 ## Quick Conversion Methods
 
@@ -7,6 +7,7 @@ Expanded portions of `SKILL.md` at `### Quick Conversion Methods`.
 ### Method 1: CLI (Recommended for Single Files)
 
 ```bash
+
 # Convert file to HTML
 marked -i input.md -o output.html
 

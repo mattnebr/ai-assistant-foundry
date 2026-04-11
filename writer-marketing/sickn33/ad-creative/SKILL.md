@@ -1,4 +1,4 @@
-﻿---
+---
 name: ad-creative
 description: "Create, iterate, and scale paid ad creative for Google Ads, Meta, LinkedIn, TikTok, and similar platforms. Use when generating headlines, descriptions, primary text, or large sets of ad variations for testing and performance optimization."
 risk: unknown
@@ -215,6 +215,7 @@ Create new creative that:
 Track what was learned and what's being tested:
 
 ```
+
 ## Iteration Log
 - Round: [number]
 - Date: [date]
@@ -260,6 +261,7 @@ Descriptions should complement headlines, not repeat them. Use descriptions to:
 Organize by angle, with character counts:
 
 ```
+
 ## Angle: [Pain Point — Manual Reporting]
 
 ### Headlines (30 char max)
@@ -287,6 +289,7 @@ headline_1,headline_2,headline_3,description_1,description_2,platform
 When iterating, include a summary:
 
 ```
+
 ## Performance Summary
 - Analyzed: [X] headlines, [Y] descriptions
 - Top performer: "[headline]" — [metric]: [value]
@@ -351,12 +354,16 @@ For pulling performance data and managing campaigns, use the relevant ads platfo
 ### Workflow: Pull Data, Analyze, Generate
 
 ```bash
+
 # 1. Pull recent ad performance
 node tools/clis/google-ads.js reports get --type ad_performance --date-range last_30_days
 
 # 2. Analyze output (identify top/bottom performers)
+
 # 3. Feed winning patterns into this skill
+
 # 4. Generate new variations
+
 # 5. Upload to platform
 ```
 

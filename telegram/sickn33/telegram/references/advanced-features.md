@@ -1,4 +1,4 @@
-﻿# Recursos Avancados - Telegram Bot
+# Recursos Avancados - Telegram Bot
 
 ## Table of Contents
 1. [Inline Mode](#inline-mode)
@@ -229,6 +229,7 @@ app.add_handler(conv_handler)
 ## Stickers
 
 ```python
+
 # Enviar sticker por file_id
 await bot.send_sticker(chat_id, sticker="CAACAgIAAxkBAAI...")
 
@@ -266,6 +267,7 @@ await bot.add_sticker_to_set(
 ## Games
 
 ```python
+
 # Enviar jogo (precisa registrar no BotFather com /newgame)
 await bot.send_game(chat_id, game_short_name="meu_jogo")
 
@@ -297,6 +299,7 @@ scores = await bot.get_game_high_scores(
 Bots para contas Business do Telegram:
 
 ```python
+
 # Receber conexao business
 async def business_connection(update: Update, context):
     conn = update.business_connection

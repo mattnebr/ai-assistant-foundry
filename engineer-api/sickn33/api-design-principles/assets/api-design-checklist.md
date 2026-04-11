@@ -1,4 +1,4 @@
-﻿# API Design Checklist
+# API Design Checklist
 
 ## Pre-Implementation Review
 

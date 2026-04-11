@@ -1,4 +1,4 @@
-﻿# Product Requirements Document (PRD) Templates
+# Product Requirements Document (PRD) Templates
 
 ## Standard PRD Template
 

@@ -1,4 +1,4 @@
-﻿# API Design Principles Implementation Playbook
+# API Design Principles Implementation Playbook
 
 This file contains detailed patterns, checklists, and code samples referenced by the skill.
 
@@ -63,6 +63,7 @@ Accept: application/vnd.api+json; version=1
 ### Pattern 1: Resource Collection Design
 
 ```python
+
 # Good: Resource-oriented endpoints
 GET    /api/users              # List users (with pagination)
 POST   /api/users              # Create user
@@ -238,6 +239,7 @@ class UserResponse(BaseModel):
 ### Pattern 1: Schema Design
 
 ```graphql
+
 # schema.graphql
 
 # Clear type definitions

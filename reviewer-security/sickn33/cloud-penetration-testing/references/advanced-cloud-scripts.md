@@ -1,4 +1,4 @@
-﻿# Advanced Cloud Pentesting Scripts
+# Advanced Cloud Pentesting Scripts
 
 Reference: [Cloud Pentesting Cheatsheet by Beau Bullock](https://github.com/dafthack/CloudPentestCheatsheets)
 
@@ -116,6 +116,7 @@ $Tokens
 ## Azure Managed Identity Token Retrieval
 
 ```powershell
+
 # From Azure VM
 Invoke-WebRequest -Uri 'http://169.254.169.254/metadata/identity/oauth2/token?api-version=2018-02-01&resource=https://management.azure.com' -Method GET -Headers @{Metadata="true"} -UseBasicParsing
 
@@ -188,6 +189,7 @@ done < regions.txt
 ### AWS Queries
 
 ```bash
+
 # Find All Lambda Environment Variables
 for d in */ ; do
     tail $d/scoutsuite-results/scoutsuite_results*.js -n +2 | jq '.services.awslambda.regions[].functions[] | select (.env_variables != []) | .arn, .env_variables' >> lambda-all-environment-variables.txt
@@ -223,6 +225,7 @@ done
 ### Azure Queries
 
 ```bash
+
 # List All Azure App Service Host Names
 tail scoutsuite_results_azure-tenant-*.js -n +2 | jq -r '.services.appservice.subscriptions[].web_apps[].host_names[]'
 
@@ -274,6 +277,7 @@ foreach($line in $userlist){
 ## Service Principal Attack Path
 
 ```bash
+
 # Reset service principal credential
 az ad sp credential reset --id <app_id>
 az ad sp credential list --id <app_id>

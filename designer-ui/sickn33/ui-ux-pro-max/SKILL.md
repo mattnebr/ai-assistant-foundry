@@ -1,4 +1,4 @@
-﻿---
+---
 name: ui-ux-pro-max
 description: "Comprehensive design guide for web and mobile applications. Use when designing new UI components or pages, choosing color palettes and typography, or reviewing code for UX issues."
 risk: unknown
@@ -235,6 +235,7 @@ python3 .claude/skills/ui-ux-pro-max/scripts/search.py "beauty spa wellness serv
 ### Step 3: Supplement with Detailed Searches (as needed)
 
 ```bash
+
 # Get UX guidelines for animation and accessibility
 python3 .claude/skills/ui-ux-pro-max/scripts/search.py "animation accessibility" --domain ux
 
@@ -257,6 +258,7 @@ python3 .claude/skills/ui-ux-pro-max/scripts/search.py "layout responsive form" 
 The `--design-system` flag supports two output formats:
 
 ```bash
+
 # ASCII box (default) - best for terminal display
 python3 .claude/skills/ui-ux-pro-max/scripts/search.py "fintech crypto" --design-system
 

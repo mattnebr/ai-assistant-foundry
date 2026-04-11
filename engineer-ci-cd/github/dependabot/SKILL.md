@@ -1,4 +1,4 @@
-﻿---
+---
 name: dependabot
 description: >-
   Comprehensive guide for configuring and managing GitHub Dependabot. Use this skill when

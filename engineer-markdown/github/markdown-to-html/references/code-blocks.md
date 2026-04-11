@@ -1,4 +1,4 @@
-﻿# Creating and highlighting code blocks
+# Creating and highlighting code blocks
 
 Share samples of code with fenced code blocks and enabling syntax highlighting.
 

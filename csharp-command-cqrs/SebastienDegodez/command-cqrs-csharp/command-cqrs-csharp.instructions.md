@@ -1,4 +1,4 @@
-﻿---
+---
 applyTo: '**/*.Application/*.cs'
 description: Guidelines for implementing Command objects and handlers in C# using CQRS and Clean Architecture
 ---

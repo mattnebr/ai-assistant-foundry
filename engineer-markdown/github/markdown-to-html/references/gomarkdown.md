@@ -1,10 +1,11 @@
-﻿# gomarkdown/markdown Reference
+# gomarkdown/markdown Reference
 
 Go library for parsing Markdown and rendering HTML. Fast, extensible, and thread-safe.
 
 ## Installation
 
 ```bash
+
 # Add to your Go project
 go get github.com/gomarkdown/markdown
 
@@ -34,6 +35,7 @@ func main() {
 ### Using CLI Tool
 
 ```bash
+
 # Convert file to HTML
 mdtohtml input.md output.html
 
@@ -147,8 +149,8 @@ import (
 
 func mdToHTML(md []byte) []byte {
     // Parser with extensions
-    extensions := parser.CommonExtensions | 
-                  parser.AutoHeadingIDs | 
+    extensions := parser.CommonExtensions |
+                  parser.AutoHeadingIDs |
                   parser.NoEmptyLineBeforeBlock
     p := parser.NewWithExtensions(extensions)
     doc := p.Parse(md)

@@ -1,4 +1,4 @@
-﻿---
+---
 name: data-storytelling
 description: "Transform raw data into compelling narratives that drive decisions and inspire action."
 risk: safe
@@ -67,6 +67,7 @@ Resolution: Insights and recommendations
 ### Framework 1: The Problem-Solution Story
 
 ```markdown
+
 # Customer Churn Analysis
 
 ## The Hook
@@ -113,6 +114,7 @@ Approve $50K budget for onboarding automation.
 ### Framework 2: The Trend Story
 
 ```markdown
+
 # Q4 Performance Analysis
 
 ## Where We Started
@@ -152,6 +154,7 @@ Target: $1.8M MRR by Q2.
 ### Framework 3: The Comparison Story
 
 ```markdown
+
 # Market Opportunity Analysis
 
 ## The Question
@@ -343,6 +346,7 @@ Next steps
 ### Template 3: One-Page Dashboard Story
 
 ```markdown
+
 # Monthly Business Review: January 2024
 
 ## THE HEADLINE

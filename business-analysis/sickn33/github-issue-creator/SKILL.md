@@ -1,4 +1,4 @@
-﻿---
+---
 name: github-issue-creator
 description: "Turn error logs, screenshots, voice notes, and rough bug reports into crisp, developer-ready GitHub issues with repro steps, impact, and evidence."
 risk: unknown
@@ -13,12 +13,13 @@ Transform messy input (error logs, voice notes, screenshots) into clean, actiona
 ## Output Template
 
 ```markdown
+
 ## Summary
 [One-line description of the issue]
 
 ## Environment
-- **Product/Service**: 
-- **Region/Version**: 
+- **Product/Service**:
+- **Region/Version**:
 - **Browser/OS**: (if relevant)
 
 ## Reproduction Steps
@@ -76,6 +77,7 @@ Transform messy input (error logs, voice notes, screenshots) into clean, actiona
 
 **Output**:
 ```markdown
+
 ## Summary
 Agent deployment fails silently - no error displayed, agent disappears from list
 
@@ -109,6 +111,7 @@ Required 3 retry attempts before successful deployment
 
 **Output**:
 ```markdown
+
 ## Summary
 403 PERMISSION_DENIED error when publishing to Teams channel
 

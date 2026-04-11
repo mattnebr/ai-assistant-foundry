@@ -1,4 +1,4 @@
-﻿---
+---
 name: git-commit
 description: 'Execute git commit with conventional commit message analysis, intelligent staging, and message generation. Use when user asks to commit changes, create a git commit, or mentions "/commit". Supports: (1) Auto-detecting type and scope from changes, (2) Generating conventional commit messages from diff, (3) Interactive commit with optional type/scope/description overrides, (4) Intelligent file staging for logical grouping'
 license: MIT
@@ -40,6 +40,7 @@ Create standardized, semantic git commits using the Conventional Commits specifi
 ## Breaking Changes
 
 ```
+
 # Exclamation mark after type/scope
 feat!: remove deprecated endpoint
 
@@ -54,6 +55,7 @@ BREAKING CHANGE: `extends` key behavior changed
 ### 1. Analyze Diff
 
 ```bash
+
 # If files are staged, use staged diff
 git diff --staged
 
@@ -69,6 +71,7 @@ git status --porcelain
 If nothing is staged or you want to group changes differently:
 
 ```bash
+
 # Stage specific files
 git add path/to/file1 path/to/file2
 
@@ -93,6 +96,7 @@ Analyze the diff to determine:
 ### 4. Execute Commit
 
 ```bash
+
 # Single line
 git commit -m "<type>[scope]: <description>"
 

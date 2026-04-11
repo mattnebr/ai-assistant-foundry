@@ -1,4 +1,4 @@
-﻿# Setup Walkthrough — Meta App e OAuth
+# Setup Walkthrough — Meta App e OAuth
 
 ## Pré-requisitos
 
@@ -94,6 +94,7 @@ O script vai:
 ## Passo 7: Verificar
 
 ```bash
+
 # Verificar token e conta
 python C:\Users\renat\skills\instagram\scripts\auth.py --status
 

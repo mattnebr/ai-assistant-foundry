@@ -1,4 +1,4 @@
-﻿---
+---
 applyTo: '**'
 ---
 
@@ -11,7 +11,7 @@ These rules help you apply Domain-Driven Design principles to ensure your codeba
 Ensure a clear separation of concerns, encapsulate business logic within domain models, and promote a shared understanding of the domain
 without relying on base class inheritance for aggregate roots, entities, and value objects.
 
-## Structure 
+## Structure
 
 All domain logic should be encapsulated within the domain layer, which is separate from the application and infrastructure layers.
 The domain layer should contain the following components:

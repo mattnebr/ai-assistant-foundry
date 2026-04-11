@@ -1,4 +1,4 @@
-﻿# Benchmarks, Data & Expert Methods
+# Benchmarks, Data & Expert Methods
 
 ## Core Performance Metrics (2024–2025)
 

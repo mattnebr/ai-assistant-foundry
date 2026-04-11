@@ -1,4 +1,4 @@
-﻿# ILogger Logging Level Guidance
+# ILogger Logging Level Guidance
 
 Best practices for developers using `Microsoft.Extensions.Logging`. Optimized for production observability and local debugging. Audience: developers who search application logs in systems like Splunk.
 

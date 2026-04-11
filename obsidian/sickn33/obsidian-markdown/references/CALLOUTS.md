@@ -1,4 +1,4 @@
-﻿# Callouts Reference
+# Callouts Reference
 
 ## Basic Callout
 

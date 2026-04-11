@@ -1,4 +1,4 @@
-﻿---
+---
 name: data-structure-protocol
 description: "Give agents persistent structural memory of a codebase — navigate dependencies, track public APIs, and understand why connections exist without re-reading the whole repo."
 risk: safe
@@ -43,6 +43,7 @@ export function calculateTotal(items) { ... }
 ```
 
 ```python
+
 # @dsp obj-e5f6g7h8
 class UserService:
 ```
@@ -143,9 +144,11 @@ If `.dsp/` is empty, traverse the project from root entrypoint(s) via DFS on imp
 python dsp-cli.py --root . init
 
 python dsp-cli.py --root . create-object "src/app.ts" "Main application entrypoint"
+
 # Output: obj-a1b2c3d4
 
 python dsp-cli.py --root . create-function "src/app.ts#start" "Starts the HTTP server" --owner obj-a1b2c3d4
+
 # Output: func-7f3a9c12
 
 python dsp-cli.py --root . create-shared obj-a1b2c3d4 func-7f3a9c12
@@ -167,9 +170,11 @@ python dsp-cli.py --root . get-path obj-a1b2c3d4 func-7f3a9c12
 
 ```bash
 python dsp-cli.py --root . find-by-source "lodash"
+
 # Output: obj-11223344
 
 python dsp-cli.py --root . get-recipients obj-11223344
+
 # Shows every module that imports lodash and WHY — lets you systematically replace it
 ```
 

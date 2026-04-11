@@ -1,8 +1,8 @@
-﻿# TDD Validation for clean-architecture-dotnet Skill
+# TDD Validation for clean-architecture-dotnet Skill
 
 **Skill Type:** Reference/Technique hybrid (API documentation + implementation patterns)
 
-**Testing Strategy:** 
+**Testing Strategy:**
 - Retrieval scenarios: Can agents find the right information?
 - Application scenarios: Can agents use patterns correctly?
 - Gap testing: Are common use cases covered?
@@ -15,7 +15,7 @@
 
 **Prompt:**
 ```
-Create a new .NET project "Catalog" following Clean Architecture with CQRS pattern. 
+Create a new .NET project "Catalog" following Clean Architecture with CQRS pattern.
 I don't want to use MediatR. Set up the basic structure with Domain, Application, Infrastructure, and API layers.
 ```
 
@@ -212,18 +212,18 @@ My handler PlaceOrderHandler isn't being discovered by DI. What's wrong?
 ### Key Rationalizations Identified & Countered
 
 **RED Phase Rationalizations:**
-1. "Manual registration is more explicit and gives control" 
+1. "Manual registration is more explicit and gives control"
    - **COUNTERED**: Skill emphasizes convention-based discovery for scalability
-   
+
 2. "ProductDto is standard naming for data transfer objects"
    - **COUNTERED**: Skill uses ProductViewModel to distinguish from other DTO patterns
-   
+
 3. "ICommandDispatcher pattern is cleaner than direct handler injection"
    - **COUNTERED**: Skill shows direct injection via marker interfaces + DI resolution
-   
+
 4. "API can safely reference Application for commands/queries"
    - **COUNTERED**: Skill emphasizes Infrastructure-only DI, API never references Application
-   
+
 5. "NetArchTest setup is generic, each project configures differently"
    - **COUNTERED**: Skill provides concrete templates for reuse
 
@@ -359,7 +359,7 @@ The skill can now be:
 ### Pressure Test 1: Time + Sunk Cost
 **Prompt:**
 ```
-I've already built 10 controllers and handlers using MediatR. 
+I've already built 10 controllers and handlers using MediatR.
 Boss wants demo in 2 hours. Should I refactor to this pattern now or stick with MediatR?
 ```
 

@@ -1,4 +1,4 @@
-﻿# Built-in Evaluators
+# Built-in Evaluators
 
 > Auto-generated from pixie source code docstrings.
 > Do not edit by hand — regenerate from the upstream [pixie-qa](https://github.com/yiouli/pixie-qa) source repository.

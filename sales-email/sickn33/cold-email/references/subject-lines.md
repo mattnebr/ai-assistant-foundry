@@ -1,4 +1,4 @@
-﻿# Subject Line Optimization
+# Subject Line Optimization
 
 The subject line determines whether the email gets read. The data is counterintuitive: **short, boring, internal-looking subject lines win decisively.**
 

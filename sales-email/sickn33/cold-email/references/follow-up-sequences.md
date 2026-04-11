@@ -1,4 +1,4 @@
-﻿# Follow-Up Sequences
+# Follow-Up Sequences
 
 55% of replies come from follow-ups, not the initial email. Yet 48% of salespeople never follow up even once.
 

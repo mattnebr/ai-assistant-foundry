@@ -1,4 +1,4 @@
-﻿---
+---
 name: xlsx
 description: "Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an existing .xlsx, .xlsm, .csv, or .tsv file (e.g., adding columns, computing formulas, formatting, charting, cleaning messy data); create a new spreadsheet from scratch or from other data sources; or convert between tabular file formats. Trigger especially when the user references a spreadsheet file by name or path — even casually (like \"the xlsx in my downloads\") — and wants something done to it or produced from it. Also trigger for cleaning or restructuring messy tabular data files (malformed rows, misplaced headers, junk data) into proper spreadsheets. The deliverable must be a spreadsheet file. Do NOT trigger when the primary deliverable is a Word document, HTML report, standalone Python script, database pipeline, or Google Sheets API integration, even if tabular data is involved."
 license: Proprietary. LICENSE.txt has complete terms
@@ -102,6 +102,7 @@ df.to_excel('output.xlsx', index=False)
 
 ### ❌ WRONG - Hardcoding Calculated Values
 ```python
+
 # Bad: Calculating in Python and hardcoding result
 total = df['Sales'].sum()
 sheet['B10'] = total  # Hardcodes 5000
@@ -117,6 +118,7 @@ sheet['D20'] = avg  # Hardcodes 42.5
 
 ### ✅ CORRECT - Using Excel Formulas
 ```python
+
 # Good: Let Excel calculate the sum
 sheet['B10'] = '=SUM(B2:B9)'
 
@@ -138,7 +140,7 @@ This applies to ALL calculations - totals, percentages, ratios, differences, etc
    ```bash
    python scripts/recalc.py output.xlsx
    ```
-6. **Verify and fix any errors**: 
+6. **Verify and fix any errors**:
    - The script returns JSON with error details
    - If `status` is `errors_found`, check `error_summary` for specific error types and locations
    - Fix the identified errors and recalculate again
@@ -151,6 +153,7 @@ This applies to ALL calculations - totals, percentages, ratios, differences, etc
 ### Creating new Excel files
 
 ```python
+
 # Using openpyxl for formulas and formatting
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment
@@ -180,6 +183,7 @@ wb.save('output.xlsx')
 ### Editing existing Excel files
 
 ```python
+
 # Using openpyxl to preserve formulas and formatting
 from openpyxl import load_workbook
 
@@ -235,7 +239,7 @@ Quick checks to ensure formulas work correctly:
 
 ### Common Pitfalls
 - [ ] **NaN handling**: Check for null values with `pd.notna()`
-- [ ] **Far-right columns**: FY data often in columns 50+ 
+- [ ] **Far-right columns**: FY data often in columns 50+
 - [ ] **Multiple matches**: Search all occurrences, not just first
 - [ ] **Division by zero**: Check denominators before using `/` in formulas (#DIV/0!)
 - [ ] **Wrong references**: Verify all cell references point to intended cells (#REF!)

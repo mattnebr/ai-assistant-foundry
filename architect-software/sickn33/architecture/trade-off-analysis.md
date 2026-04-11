@@ -1,4 +1,4 @@
-﻿# Trade-off Analysis & ADR
+# Trade-off Analysis & ADR
 
 > Document every architectural decision with trade-offs.
 
@@ -7,6 +7,7 @@
 For EACH architectural component, document:
 
 ```markdown
+
 ## Architecture Decision Record
 
 ### Context
@@ -43,6 +44,7 @@ For EACH architectural component, document:
 ## ADR Template
 
 ```markdown
+
 # ADR-[XXX]: [Decision Title]
 
 ## Status

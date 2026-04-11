@@ -1,4 +1,4 @@
-﻿# Headless CMS Guide
+# Headless CMS Guide
 
 Reference for choosing, modeling, and implementing a headless CMS for marketing content.
 

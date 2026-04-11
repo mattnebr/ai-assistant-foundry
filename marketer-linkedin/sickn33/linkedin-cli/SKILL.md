@@ -1,4 +1,4 @@
-﻿---
+---
 name: linkedin-cli
 description: "Use when automating LinkedIn via CLI: fetch profiles, search people/companies, send messages, manage connections, create posts, and Sales Navigator."
 risk: safe
@@ -112,6 +112,7 @@ Optional flags to include additional data:
 Only request additional data when needed – each flag increases execution time.
 
 ```bash
+
 # Basic profile
 linkedin person fetch https://www.linkedin.com/in/username --json -q
 
@@ -177,6 +178,7 @@ Employee filters (require `--employees`):
 | `--posts-since` | Posts since ISO timestamp (requires `--posts`)     |
 
 ```bash
+
 # Basic company info
 linkedin company fetch https://www.linkedin.com/company/name --json -q
 
@@ -374,6 +376,7 @@ linkedin post comment https://www.linkedin.com/posts/username_activity-123 'Well
 ### Statistics
 
 ```bash
+
 # Social Selling Index
 linkedin stats ssi --json -q
 
@@ -495,6 +498,7 @@ linkedin navigator message get <person-url> [--since TIMESTAMP] --json -q
 Execute a custom workflow definition from a file, stdin, or inline:
 
 ```bash
+
 # From file
 linkedin workflow run --file workflow.json --json -q
 

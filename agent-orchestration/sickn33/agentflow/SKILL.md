@@ -1,4 +1,4 @@
-﻿---
+---
 name: agentflow
 description: "Orchestrate autonomous AI development pipelines through your Kanban board (Asana, GitHub Projects, Linear). Manages multi-worker Claude Code dispatch, deterministic quality gates, adversarial review, per-task cost tracking, and crash-proof pipeline execution."
 risk: safe
@@ -80,6 +80,7 @@ This reads your SPEC.md, decomposes it into atomic tasks, maps dependencies, and
 Open 3-4 terminal windows, each as a worker slot:
 
 ```bash
+
 # Terminal 2 — Builder
 claude -p "/sdlc-worker --slot T2"
 
@@ -96,8 +97,10 @@ claude -p "/sdlc-worker --slot T5"
 ### 4. Start the Orchestrator
 
 ```bash
+
 # Add to crontab (runs every 15 minutes)
 crontab -e
+
 # Add: */15 * * * * ~/.claude/sdlc/agentflow-cron.sh >> /tmp/agentflow-orchestrate.log 2>&1
 ```
 
@@ -144,6 +147,7 @@ Automatic guardrails: warning at $3/$8, hard stop at $10/$20 (Sonnet/Opus) with 
 ## Installation
 
 ```bash
+
 # Clone the repo
 git clone https://github.com/UrRhb/agentflow.git
 

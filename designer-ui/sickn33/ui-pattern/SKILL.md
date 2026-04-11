@@ -1,4 +1,4 @@
-﻿---
+---
 name: ui-pattern
 description: "Generate reusable UI patterns such as card sections, grids, lists, forms, and chart wrappers using StyleSeed Toss primitives."
 category: design

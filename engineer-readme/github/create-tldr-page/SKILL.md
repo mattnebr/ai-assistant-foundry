@@ -1,4 +1,4 @@
-﻿---
+---
 name: create-tldr-page
 description: 'Create a tldr page from documentation URLs and command examples, requiring both URL and command name.'
 ---
@@ -94,6 +94,7 @@ Please provide the documentation URL for `some-command`.
 Use this template structure when creating tldr pages:
 
 ```markdown
+
 # command
 
 > Short, snappy description.
@@ -139,6 +140,7 @@ You MAY fetch these example tldr pages to understand the proper format and style
 **Agent**
 
 ````markdown
+
 # git
 
 > Distributed version control system.

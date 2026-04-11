@@ -1,4 +1,4 @@
-﻿# Functions Reference
+# Functions Reference
 
 ## Global Functions
 
@@ -56,6 +56,7 @@ When subtracting two dates, the result is a **Duration** type (not a number). Du
 **IMPORTANT:** Duration does NOT support `.round()`, `.floor()`, `.ceil()` directly. You must access a numeric field first (like `.days`), then apply number functions.
 
 ```yaml
+
 # CORRECT: Calculate days between dates
 "(date(due_date) - today()).days"                    # Returns number of days
 "(now() - file.ctime).days"                          # Days since created
@@ -65,13 +66,16 @@ When subtracting two dates, the result is a **Duration** type (not a number). Du
 "(now() - file.ctime).hours.round(0)"                # Rounded hours
 
 # WRONG - will cause error:
+
 # "((date(due) - today()) / 86400000).round(0)"      # Duration doesn't support division then round
 ```
 
 ## Date Arithmetic
 
 ```yaml
+
 # Duration units: y/year/years, M/month/months, d/day/days,
+
 #                 w/week/weeks, h/hour/hours, m/minute/minutes, s/second/seconds
 
 # Add/subtract durations

@@ -1,4 +1,4 @@
-﻿# tokei Quick Reference Guide
+# tokei Quick Reference Guide
 
 **Goal: Fast, accurate code statistics analysis across multiple languages.**
 
@@ -48,6 +48,7 @@ tokei -o json > stats.json      # Save to file
 
 ### Combining Results
 ```bash
+
 # Save current stats, then add more
 tokei ./src -o json > current.json
 tokei ./tests --input current.json -o json combined.json
@@ -61,6 +62,7 @@ tokei ./src -o json | jq '.total.code'  # Extract specific data
 
 ### Configuration Files
 ```bash
+
 # tokei.toml configuration
 [exclude]
 paths = ["target/", "*.d"]
@@ -74,6 +76,7 @@ target/
 
 ### Performance Tips
 ```bash
+
 # For very large codebases
 tokei --verbose 1               # Show processing info
 tokei --sort files               # Fastest sorting option
@@ -85,12 +88,14 @@ tokei --exclude node_modules --hidden
 
 ### Integration Examples
 ```bash
+
 # CI/CD pipeline integration
 tokei . -o json | jq '.Rust.code' > rust_loc.txt
 
 # Compare project sizes
 tokei projectA/ -o json > a.json
 tokei projectB/ -o json > b.json
+
 # Compare using jq or other tools
 
 # Generate reports
@@ -100,6 +105,7 @@ tokei . | grep Rust              # Quick language extraction
 
 ### Docker Usage
 ```bash
+
 # Run from Docker image
 docker run --rm -v $(pwd):/src tokei .
 
@@ -109,6 +115,7 @@ docker run --rm -v /path/to/project:/src tokei /src
 
 ## Installation & Compilation
 ```bash
+
 # Install with serialization support
 cargo install tokei --features all
 
@@ -121,6 +128,7 @@ cargo install tokei --features cbor
 
 ### Common Issues
 ```bash
+
 # Exclude D object files (gcc generates .d)
 tokei . --exclude "*.d"
 
@@ -139,6 +147,7 @@ export NO_COLOR=1                   # Disable colors
 
 ## Language Examples
 ```bash
+
 # Analyze specific language types
 tokei -t Rust,Cargo.toml      # Rust files + TOML config
 tokei -t "Markdown","JSON"    # Docs and data files

@@ -1,4 +1,4 @@
-﻿---
+---
 name: seo-authority-builder
 description: 'Analyzes content for E-E-A-T signals and suggests improvements to
 

@@ -1,4 +1,4 @@
-﻿---
+---
 name: vercel-deployment
 description: Expert knowledge for deploying to Vercel with Next.js
 risk: safe

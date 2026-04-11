@@ -1,4 +1,4 @@
-﻿---
+---
 name: agents-md
 description: This skill should be used when the user asks to "create AGENTS.md", "update AGENTS.md", "maintain agent docs", "set up CLAUDE.md", or needs to keep agent instructions concise. Enforces research-backed best practices for minimal, high-signal agent documentation.
 risk: unknown
@@ -45,6 +45,7 @@ Analyze the project to understand what belongs in the file:
 ### Package Manager
 Which tool and key commands only:
 ```markdown
+
 ## Package Manager
 Use **pnpm**: `pnpm install`, `pnpm dev`, `pnpm test`
 ```
@@ -52,6 +53,7 @@ Use **pnpm**: `pnpm install`, `pnpm dev`, `pnpm test`
 ### File-Scoped Commands
 Per-file commands are faster and cheaper than full project builds. Always include when available:
 ```markdown
+
 ## File-Scoped Commands
 | Task | Command |
 |------|---------|
@@ -63,6 +65,7 @@ Per-file commands are faster and cheaper than full project builds. Always includ
 ### Commit Attribution
 Always include this section. Agents should use their own identity:
 ```markdown
+
 ## Commit Attribution
 AI commits MUST include:
 ```
@@ -98,6 +101,7 @@ Omit these:
 ## Example Structure
 
 ```markdown
+
 # Agent Instructions
 
 ## Package Manager

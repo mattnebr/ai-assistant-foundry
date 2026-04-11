@@ -1,4 +1,4 @@
-﻿---
+---
 name: internal-comms-anthropic
 description: "To write internal communications, use this skill for:"
 risk: unknown

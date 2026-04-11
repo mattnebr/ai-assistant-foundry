@@ -1,4 +1,4 @@
-﻿# Step 5: Run Evaluation-Based Tests
+# Step 5: Run Evaluation-Based Tests
 
 **Why this step**: Run `pixie test` and fix any dataset quality issues — `WrapRegistryMissError`, `WrapTypeMismatchError`, bad `eval_input` data, or import failures — until real evaluator scores are produced for every entry.
 

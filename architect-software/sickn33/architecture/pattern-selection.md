@@ -1,4 +1,4 @@
-﻿# Pattern Selection Guidelines
+# Pattern Selection Guidelines
 
 > Decision trees for choosing architectural patterns.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 name: x-article-publisher-skill
 description: "Publish articles to X/Twitter"
 risk: safe

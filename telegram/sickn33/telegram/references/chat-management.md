@@ -1,4 +1,4 @@
-﻿# Gerenciamento de Chats - Telegram Bot
+# Gerenciamento de Chats - Telegram Bot
 
 ## Table of Contents
 1. [Tipos de Chat](#tipos-de-chat)
@@ -26,6 +26,7 @@
 ## Informacoes do Chat
 
 ```python
+
 # Obter informacoes completas
 chat = await bot.get_chat(chat_id)
 print(f"Titulo: {chat.title}")
@@ -48,6 +49,7 @@ for admin in admins:
 ## Gerenciamento de Membros
 
 ```python
+
 # Banir membro (remove do grupo)
 await bot.ban_chat_member(chat_id, user_id)
 
@@ -163,6 +165,7 @@ app.add_handler(MessageHandler(filters.StatusUpdate.NEW_CHAT_MEMBERS, welcome))
 ## Configuracoes do Chat
 
 ```python
+
 # Alterar titulo
 await bot.set_chat_title(chat_id, "Novo Titulo do Grupo")
 
@@ -198,6 +201,7 @@ await bot.set_chat_permissions(chat_id, ChatPermissions(
 ## Convites
 
 ```python
+
 # Gerar link de convite padrao
 link = await bot.export_chat_invite_link(chat_id)
 
@@ -242,6 +246,7 @@ app.add_handler(ChatJoinRequestHandler(handle_join_request))
 Bots em canais podem postar, editar e deletar mensagens:
 
 ```python
+
 # Postar em canal (use o @username ou chat_id)
 await bot.send_message("@meu_canal", "Post no canal!")
 
@@ -274,6 +279,7 @@ await bot.forward_message(
 Supergrupos com topics habilitados (tipo forum):
 
 ```python
+
 # Criar topic
 topic = await bot.create_forum_topic(
     chat_id, name="Duvidas Gerais",

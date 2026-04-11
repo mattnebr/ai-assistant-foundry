@@ -1,4 +1,4 @@
-﻿---
+---
 applyTo: '**/*.{Domain,Application,Infrastructure}/**/*.cs'
 description: Implementation guide for Domain Events using the Accumulation pattern in C# DDD applications, where events are collected in aggregates and published by infrastructure components.
 ---
@@ -63,7 +63,7 @@ public interface IIntegrationEventHandler<in T> where T : IIntegrationEvent
 // SharedKernel.Application/IMessageBus.cs
 public interface IMessageBus
 {
-    Task PublishAsync<T>(T integrationEvent, CancellationToken cancellationToken = default) 
+    Task PublishAsync<T>(T integrationEvent, CancellationToken cancellationToken = default)
         where T : IIntegrationEvent;
 }
 ```
@@ -86,20 +86,20 @@ public sealed record OrderPlacedEvent(
 public sealed class Order : IEventSourcedAggregate
 {
     private readonly List<IDomainEvent> _domainEvents = new();
-    
+
     public static Order Create(OrderId id, CustomerId customerId)
     {
         var order = new Order(id, customerId);
         order._domainEvents.Add(new OrderCreatedEvent(id, customerId));
         return order;
     }
-    
+
     public void PlaceOrder()
     {
         Status = OrderStatus.Placed;
         _domainEvents.Add(new OrderPlacedEvent(Id, CustomerId, TotalAmount));
     }
-    
+
     public IReadOnlyCollection<IDomainEvent> GetDomainEvents() => _domainEvents;
     public void ClearDomainEvents() => _domainEvents.Clear();
 }
@@ -112,17 +112,17 @@ public sealed class OrderRepository : IOrderRepository
 {
     private readonly DbContext _context;
     private readonly IDomainEventPublisher _eventPublisher;
-    
+
     public async Task SaveAsync(Order order)
     {
         _context.Orders.Update(order);
         await _context.SaveChangesAsync();
-        
+
         // Publish events after successful persistence
         var events = order.GetDomainEvents();
         foreach (var domainEvent in events)
             await _eventPublisher.PublishAsync(domainEvent);
-            
+
         order.ClearDomainEvents();
     }
 }
@@ -134,7 +134,7 @@ public sealed class OrderRepository : IOrderRepository
 public sealed class DomainEventPublisher : IDomainEventPublisher
 {
     private readonly IServiceProvider _serviceProvider;
-    
+
     public async Task PublishAsync<T>(T domainEvent) where T : IDomainEvent
     {
         var handlers = _serviceProvider.GetServices<IDomainEventHandler<T>>();

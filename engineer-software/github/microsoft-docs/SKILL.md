@@ -1,4 +1,4 @@
-﻿---
+---
 name: microsoft-docs
 description: 'Query official Microsoft documentation to find concepts, tutorials, and code examples across Azure, .NET, Agent Framework, Aspire, VS Code, GitHub, and more. Uses Microsoft Learn MCP as the default, with Context7 and Aspire MCP for content that lives outside learn.microsoft.com.'
 ---
@@ -26,6 +26,7 @@ Use `microsoft_docs_fetch` after search when you need complete tutorials, all co
 If the Learn MCP server is not available, use the `mslearn` CLI from your terminal or shell (for example, Bash, PowerShell, or cmd) instead:
 
 ```bash
+
 # Run directly (no install needed)
 npx @microsoft/learn-cli search "BlobClient UploadAsync Azure.Storage.Blobs"
 
@@ -115,6 +116,7 @@ For any Context7 query, resolve the library ID first (one-time per session):
 Be specific — include version, intent, and language:
 
 ```
+
 # ❌ Too broad
 "Azure Functions"
 "agent framework"

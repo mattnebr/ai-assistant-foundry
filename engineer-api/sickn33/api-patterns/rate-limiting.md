@@ -1,4 +1,4 @@
-﻿# Rate Limiting Principles
+# Rate Limiting Principles
 
 > Protect your API from abuse and overload.
 

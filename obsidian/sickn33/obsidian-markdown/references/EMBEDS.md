@@ -1,4 +1,4 @@
-﻿# Embeds Reference
+# Embeds Reference
 
 ## Embed Notes
 

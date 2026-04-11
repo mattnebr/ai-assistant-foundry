@@ -1,4 +1,4 @@
-﻿# Dependabot PR Comment Commands
+# Dependabot PR Comment Commands
 
 Interact with Dependabot pull requests by commenting `@dependabot <command>`. Dependabot acknowledges commands with a thumbs-up reaction.
 
@@ -40,10 +40,12 @@ These commands work on Dependabot PRs created by grouped version or security upd
 Auto-merge is the recommended replacement for the deprecated `@dependabot merge` command:
 
 ```bash
+
 # Enable auto-merge via GitHub CLI
 gh pr merge <PR_NUMBER> --auto --squash
 
 # Or enable auto-merge via the GitHub UI:
+
 # PR → "Enable auto-merge" → select merge method → confirm
 ```
 

@@ -1,4 +1,4 @@
-﻿---
+---
 name: readme
 description: "You are an expert technical writer creating comprehensive project documentation. Your goal is to write a README.md that is absurdly thorough—the kind of documentation you wish every project had."
 risk: safe
@@ -107,6 +107,7 @@ Write the README with these sections in order:
 ### 1. Project Title and Overview
 
 ```markdown
+
 # Project Name
 
 Brief description of what the project does and who it's for. 2-3 sentences max.
@@ -123,6 +124,7 @@ Brief description of what the project does and who it's for. 2-3 sentences max.
 List all major technologies:
 
 ```markdown
+
 ## Tech Stack
 
 - **Language**: Ruby 3.3+
@@ -140,6 +142,7 @@ List all major technologies:
 What must be installed before starting:
 
 ```markdown
+
 ## Prerequisites
 
 - Node.js 20 or higher
@@ -153,6 +156,7 @@ What must be installed before starting:
 The complete local development guide:
 
 ```markdown
+
 ## Getting Started
 
 ### 1. Clone the Repository
@@ -246,6 +250,7 @@ Include every step. Assume the reader is setting up on a fresh machine.
 This is where you go absurdly deep:
 
 ```markdown
+
 ## Architecture
 
 ### Directory Structure
@@ -356,6 +361,7 @@ solid_queue_jobs (background jobs)
 Complete reference for all env vars:
 
 ```markdown
+
 ## Environment Variables
 
 ### Required
@@ -424,6 +430,7 @@ RAILS_SERVE_STATIC_FILES=true
 ### 7. Available Scripts
 
 ```markdown
+
 ## Available Scripts
 
 | Command                       | Description                                         |
@@ -447,6 +454,7 @@ RAILS_SERVE_STATIC_FILES=true
 ### 8. Testing
 
 ```markdown
+
 ## Testing
 
 ### Running Tests
@@ -567,6 +575,7 @@ expect(screen.getByText('Josh')).toBeInTheDocument()
 Tailor this to detected platform (look for Dockerfile, fly.toml, render.yaml, kamal/, etc.):
 
 ```markdown
+
 ## Deployment
 
 ### Kamal (Recommended for Rails)
@@ -707,6 +716,7 @@ sudo systemctl restart myapp
 ### 10. Troubleshooting
 
 ```markdown
+
 ## Troubleshooting
 
 ### Database Connection Issues

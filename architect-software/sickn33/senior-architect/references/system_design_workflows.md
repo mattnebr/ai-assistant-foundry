@@ -1,4 +1,4 @@
-﻿# System Design Workflows
+# System Design Workflows
 
 ## Overview
 

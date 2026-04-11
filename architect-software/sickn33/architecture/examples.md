@@ -1,4 +1,4 @@
-﻿# Architecture Examples
+# Architecture Examples
 
 > Real-world architecture decisions by project type.
 

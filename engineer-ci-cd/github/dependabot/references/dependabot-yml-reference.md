@@ -1,4 +1,4 @@
-﻿# Dependabot YAML Options Reference
+# Dependabot YAML Options Reference
 
 Complete reference for all configuration options in `.github/dependabot.yml`.
 
@@ -75,6 +75,7 @@ Location of package manifests relative to repo root.
 - `directories` — list of paths (supports `*` and `**` globs)
 
 ```yaml
+
 # Single directory
 directory: "/"
 

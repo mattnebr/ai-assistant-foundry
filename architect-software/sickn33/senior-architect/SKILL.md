@@ -1,4 +1,4 @@
-﻿---
+---
 name: senior-architect
 description: "Complete toolkit for senior architect with modern tools and best practices."
 risk: critical
@@ -17,6 +17,7 @@ Complete toolkit for senior architect with modern tools and best practices.
 This skill provides three core capabilities through automated scripts:
 
 ```bash
+
 # Script 1: Architecture Diagram Generator
 python scripts/architecture_diagram_generator.py [options]
 
@@ -120,8 +121,10 @@ Technical reference guide in `references/tech_decision_guide.md`:
 ### 1. Setup and Configuration
 
 ```bash
+
 # Install dependencies
 npm install
+
 # or
 pip install -r requirements.txt
 
@@ -132,10 +135,12 @@ cp .env.example .env
 ### 2. Run Quality Checks
 
 ```bash
+
 # Use the analyzer script
 python scripts/project_architect.py .
 
 # Review recommendations
+
 # Apply fixes
 ```
 
@@ -175,6 +180,7 @@ Follow the patterns and practices documented in:
 ## Common Commands
 
 ```bash
+
 # Development
 npm run dev
 npm run build

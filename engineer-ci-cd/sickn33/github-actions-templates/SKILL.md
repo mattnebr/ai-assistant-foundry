@@ -1,4 +1,4 @@
-﻿---
+---
 name: github-actions-templates
 description: "Production-ready GitHub Actions workflow patterns for testing, building, and deploying applications."
 risk: critical
@@ -226,6 +226,7 @@ jobs:
 ## Reusable Workflows
 
 ```yaml
+
 # .github/workflows/reusable-test.yml
 name: Reusable Test Workflow
 

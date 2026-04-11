@@ -1,4 +1,4 @@
-﻿# Context Mapping Patterns
+# Context Mapping Patterns
 
 ## Common relationship patterns
 

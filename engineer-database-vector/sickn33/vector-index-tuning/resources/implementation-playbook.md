@@ -1,4 +1,4 @@
-﻿# Vector Index Tuning Implementation Playbook
+# Vector Index Tuning Implementation Playbook
 
 This file contains detailed patterns, checklists, and code samples referenced by the skill.
 

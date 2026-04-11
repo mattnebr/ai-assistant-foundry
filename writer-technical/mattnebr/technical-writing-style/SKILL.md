@@ -1,4 +1,4 @@
-﻿---
+---
 name: technical-writing-style
 description: Enforce clear, direct writing in software development documents including OKRs, PRDs, tech specs, architecture decision records (ADRs), git commit messages, PR descriptions, READMEs, changelogs, runbooks, incident postmortems, API docs, and onboarding guides. Trigger whenever a user asks to write, edit, revise, or review any of these document types. Also trigger when the user says writing "sounds like AI", "feels robotic", "needs polish", or asks to "make it sound more natural" in the context of technical or professional prose. Do not trigger for fiction, poetry, creative writing, academic papers, or legal documents unless the user explicitly asks for a more natural tone.
 ---

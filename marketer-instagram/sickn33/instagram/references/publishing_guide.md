@@ -1,4 +1,4 @@
-﻿# Guia de Publicação — Specs de Mídia e Fluxos
+# Guia de Publicação — Specs de Mídia e Fluxos
 
 ## Specs de Mídia
 
@@ -162,7 +162,9 @@ O `publish.py` detecta se o caminho é local (não começa com http):
 ### Templates (via templates.py)
 ```python
 caption_template = "Nova promoção: {produto}! {desconto}% OFF"
+
 # Com variáveis: produto="Tênis", desconto=30
+
 # Resultado: "Nova promoção: Tênis! 30% OFF"
 ```
 

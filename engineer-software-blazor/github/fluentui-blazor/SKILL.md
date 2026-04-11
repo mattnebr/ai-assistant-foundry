@@ -1,4 +1,4 @@
-﻿---
+---
 name: fluentui-blazor
 description: >
   Guide for using the Microsoft Fluent UI Blazor component library

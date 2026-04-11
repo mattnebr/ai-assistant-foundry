@@ -1,4 +1,4 @@
-﻿---
+---
 applyTo: '**/*.{Application,Infrastructure}/**/*.cs'
 description: Guidelines for implementing communication patterns between modules in a modular monolith architecture, including domain events, integration events, and message bus patterns.
 ---
@@ -48,14 +48,14 @@ public sealed record OrderCompletedIntegrationEvent(
 public sealed class OrderPlacedEventHandler : IDomainEventHandler<OrderPlacedEvent>
 {
     private readonly IMessageBus _messageBus;
-    
+
     public async Task Handle(OrderPlacedEvent domainEvent, CancellationToken cancellationToken)
     {
         var integrationEvent = new OrderCompletedIntegrationEvent(
             domainEvent.OrderId.Value,
             domainEvent.CustomerId.Value,
             domainEvent.TotalAmount);
-            
+
         await _messageBus.PublishAsync(integrationEvent, cancellationToken);
     }
 }
@@ -67,12 +67,12 @@ public sealed class OrderPlacedEventHandler : IDomainEventHandler<OrderPlacedEve
 public sealed class OrderCompletedIntegrationEventHandler : IIntegrationEventHandler<OrderCompletedIntegrationEvent>
 {
     private readonly ICustomerRepository _customerRepository;
-    
+
     public async Task Handle(OrderCompletedIntegrationEvent integrationEvent, CancellationToken cancellationToken)
     {
         var customer = await _customerRepository.FindByIdAsync(
             CustomerId.From(integrationEvent.CustomerId), cancellationToken);
-            
+
         customer?.RecordOrderCompletion(integrationEvent.TotalAmount);
         await _customerRepository.SaveAsync(customer, cancellationToken);
     }
@@ -87,8 +87,8 @@ public sealed class OrderCompletedIntegrationEventHandler : IIntegrationEventHan
 public sealed class InProcessMessageBus : IMessageBus
 {
     private readonly IServiceProvider _serviceProvider;
-    
-    public async Task PublishAsync<T>(T integrationEvent, CancellationToken cancellationToken = default) 
+
+    public async Task PublishAsync<T>(T integrationEvent, CancellationToken cancellationToken = default)
         where T : IIntegrationEvent
     {
         var handlers = _serviceProvider.GetServices<IIntegrationEventHandler<T>>();
@@ -112,12 +112,12 @@ public interface ICatalogQueryService
 public sealed class CreateOrderCommandHandler : ICommandHandler<CreateOrderCommand>
 {
     private readonly ICatalogQueryService _catalogService;
-    
+
     public async Task Handle(CreateOrderCommand command, CancellationToken cancellationToken)
     {
         var isAvailable = await _catalogService.IsProductAvailableAsync(
             command.ProductId, command.Quantity, cancellationToken);
-            
+
         if (!isAvailable)
             throw new ProductNotAvailableException(command.ProductId);
     }

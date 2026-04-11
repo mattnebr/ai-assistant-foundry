@@ -1,4 +1,4 @@
-﻿# Tipos de Conta Instagram — Business vs Creator
+# Tipos de Conta Instagram — Business vs Creator
 
 ## Comparação
 

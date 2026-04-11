@@ -1,4 +1,4 @@
-﻿---
+---
 name: vercel-ai-sdk-expert
 description: "Expert in the Vercel AI SDK. Covers Core API (generateText, streamText), UI hooks (useChat, useCompletion), tool calling, and streaming UI components with React and Next.js."
 risk: safe
@@ -95,7 +95,7 @@ const { object } = await generateObject({
 });
 
 // `object` is automatically fully typed according to the Zod schema!
-console.log(object.totalAmount); 
+console.log(object.totalAmount);
 ```
 
 ## Frontend UI Hooks
@@ -127,7 +127,7 @@ export default function Chat() {
           </div>
         ))}
       </div>
-      
+
       <form onSubmit={handleSubmit} className="flex gap-2">
         <input
           value={input}
@@ -179,7 +179,7 @@ export async function POST(req: Request) {
       }),
     },
     // Allows the LLM to call tools automatically in a loop until it has the answer
-    maxSteps: 5, 
+    maxSteps: 5,
   });
 
   return result.toDataStreamResponse();

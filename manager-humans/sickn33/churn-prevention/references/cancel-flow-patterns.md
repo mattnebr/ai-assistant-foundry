@@ -1,4 +1,4 @@
-﻿# Cancel Flow Patterns
+# Cancel Flow Patterns
 
 Detailed cancel flow patterns by business type, billing provider, and industry.
 

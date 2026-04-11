@@ -1,4 +1,4 @@
-﻿---
+---
 name: design-md
 description: "Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files"
 risk: safe
@@ -49,7 +49,7 @@ To analyze a Stitch project, you must retrieve screen metadata and design assets
    - Review screen titles to identify the target screen (e.g., "Home", "Landing Page")
    - Extract the Screen ID from the screen's `name` field
 
-4. **Metadata fetch**: 
+4. **Metadata fetch**:
    - Call `[prefix]:get_screen` with both `projectId` and `screenId` (both as numeric IDs only)
    - This returns the complete screen object including:
      - `screenshot.downloadUrl` - Visual reference of the design
@@ -102,6 +102,7 @@ Explain how the UI handles layers. Describe the presence and quality of shadows 
 ## Output Format (DESIGN.md Structure)
 
 ```markdown
+
 # Design System: [Project Title]
 **Project ID:** [Insert Project ID Here]
 

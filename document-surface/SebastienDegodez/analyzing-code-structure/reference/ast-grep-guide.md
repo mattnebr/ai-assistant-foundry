@@ -1,4 +1,4 @@
-﻿# ast-grep Comprehensive Reference Guide
+# ast-grep Comprehensive Reference Guide
 
 **Goal: Structural code search and refactoring that solves "old_string not unique" problems.**
 
@@ -13,6 +13,7 @@
 
 ## Basic Commands
 ```bash
+
 # Search for pattern
 ast-grep -p 'PATTERN'
 
@@ -37,6 +38,7 @@ ast-grep -p 'PATTERN' --json
 
 ## 1. Search Phase (Discovery)
 ```bash
+
 # First, find matches to understand scope
 ast-grep -l LANG -p 'PATTERN' [file_or_dir]
 
@@ -67,6 +69,7 @@ This combines ast-grep's structural search with Edit's precision.
 
 ## 4. Validation Phase
 ```bash
+
 # After changes, verify the new pattern exists
 ast-grep -p 'NEW_PATTERN' [file_or_dir]
 ```
@@ -77,6 +80,7 @@ ast-grep -p 'NEW_PATTERN' [file_or_dir]
 
 ## 1. Function Call Refactoring
 ```bash
+
 # Find all calls to a function
 ast-grep -l typescript -p 'oldFunction($$$ARGS)'
 
@@ -86,24 +90,28 @@ ast-grep -l typescript -p 'oldFunction($$$ARGS)' -r 'newFunction($$$ARGS)'
 
 ## 2. Method Rename
 ```bash
+
 # Find method calls on any object
 ast-grep -l javascript -p '$OBJ.oldMethod($$$ARGS)' -r '$OBJ.newMethod($$$ARGS)'
 ```
 
 ## 3. Import Statement Changes
 ```bash
+
 # TypeScript/JavaScript: change import source
 ast-grep -l typescript -p 'import $WHAT from "old-package"' -r 'import $WHAT from "new-package"'
 ```
 
 ## 4. Adding Parameters to Function Calls
 ```bash
+
 # Add a new parameter to all calls
 ast-grep -l javascript -p 'doThing($ARG1, $ARG2)' -r 'doThing($ARG1, $ARG2, { new: true })'
 ```
 
 ## 5. Find Complex Patterns
 ```bash
+
 # Find try-catch blocks with specific pattern
 ast-grep -l javascript -p 'try { $$$BODY } catch ($ERR) { console.error($$$) }'
 
@@ -113,6 +121,7 @@ ast-grep -l typescript -p 'async function $NAME($$$ARGS) { $$$BODY }'
 
 ## 6. Class Method Changes
 ```bash
+
 # Find all methods in classes
 ast-grep -l typescript -p 'class $CLASS { $$$A $METHOD($$$PARAMS) { $$$BODY } $$$B }'
 ```
@@ -145,8 +154,11 @@ ast-grep -l typescript -p 'class $CLASS { $$$A $METHOD($$$PARAMS) { $$$BODY } $$
 
 ## 1. Always Verify Before Applying
 ```bash
+
 # NEVER apply changes without seeing matches first
+
 # BAD: ast-grep -p 'pattern' -r 'replacement' --update-all
+
 # GOOD:
 ast-grep -p 'pattern'  # Review matches
 ast-grep -p 'pattern' -r 'replacement'  # Preview changes
@@ -155,7 +167,9 @@ ast-grep -p 'pattern' -r 'replacement' --update-all  # Apply only after review
 
 ## 2. Always Use Explicit Language Flag
 ```bash
+
 # BAD: ast-grep -p 'pattern'  # May auto-detect incorrectly
+
 # GOOD: ast-grep -l typescript -p 'pattern'  # Explicit and reliable
 ```
 
@@ -171,11 +185,13 @@ ast-grep -p 'pattern' -r 'replacement' --update-all  # Apply only after review
 
 ## 5. Combine with Other Tools
 ```bash
+
 # Use ast-grep to find, pipe to other tools
 ast-grep -p 'pattern' | rg -e 'additional-filter'
 
 # Use ast-grep to find locations, then Edit to apply
 ast-grep -l typescript -p 'pattern'  # Find matches
+
 # Then use Edit tool with precise context
 ```
 

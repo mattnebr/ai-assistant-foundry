@@ -1,4 +1,4 @@
-﻿---
+---
 name: winapp-cli
 description: 'Windows App Development CLI (winapp) for building, packaging, and deploying Windows applications. Use when asked to initialize Windows app projects, create MSIX packages, generate AppxManifest.xml, manage development certificates, add package identity for debugging, sign packages, publish to the Microsoft Store, create external catalogs, or access Windows SDK build tools. Supports .NET (csproj), C++, Electron, Rust, Tauri, and cross-platform frameworks targeting Windows.'
 ---
@@ -77,12 +77,15 @@ Create external catalogs to streamline asset management for developers, separati
 ### Example 1: Initialize and Package a Windows App
 
 ```bash
+
 # Initialize workspace with defaults
 winapp init
+
 # Note: init no longer auto-generates a certificate (v0.2.0+). Generate one explicitly:
 winapp cert generate
 
 # Build your application (framework-specific)
+
 # ...
 
 # Create signed MSIX package
@@ -92,6 +95,7 @@ winapp pack ./build-output --generate-cert --output MyApp.msix
 ### Example 2: Debug with Package Identity
 
 ```bash
+
 # Add debug identity to executable for testing Windows APIs
 winapp create-debug-identity ./bin/MyApp.exe
 
@@ -102,6 +106,7 @@ winapp create-debug-identity ./bin/MyApp.exe
 ### Example 3: CI/CD Pipeline Setup
 
 ```yaml
+
 # GitHub Actions example
 - name: Setup winapp CLI
   uses: microsoft/setup-WinAppCli@v1
@@ -115,6 +120,7 @@ winapp create-debug-identity ./bin/MyApp.exe
 ### Example 4: Electron App Integration
 
 ```bash
+
 # Install via npm
 npm install @microsoft/winappcli --save-dev
 
@@ -141,7 +147,9 @@ npx winapp pack ./out --output MyElectronApp.msix
 ```bash
 cd my-project
 winapp init
+
 # Creates: AppxManifest.xml, SDK configuration, winapp.yaml
+
 # Note: .NET (csproj) projects skip winapp.yaml and configure NuGet packages in the .csproj directly
 
 # Generate a dev signing certificate explicitly (no longer done by init)
@@ -157,6 +165,7 @@ winapp pack ./build-output --cert ./mycert.pfx --cert-password secret --output M
 ### Pattern: Self-Contained Deployment
 
 ```bash
+
 # Bundle Windows App SDK runtime with the package
 winapp pack ./my-app --self-contained --generate-cert
 ```
@@ -164,6 +173,7 @@ winapp pack ./my-app --self-contained --generate-cert
 ### Pattern: Update Package Versions
 
 ```bash
+
 # Update to latest stable SDKs
 winapp update
 

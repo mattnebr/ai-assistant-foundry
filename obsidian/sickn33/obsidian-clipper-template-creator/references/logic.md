@@ -1,4 +1,4 @@
-﻿# Obsidian Web Clipper Template Logic
+# Obsidian Web Clipper Template Logic
 
 **Official docs:** [Logic - Obsidian Help](https://help.obsidian.md/web-clipper/logic)
 

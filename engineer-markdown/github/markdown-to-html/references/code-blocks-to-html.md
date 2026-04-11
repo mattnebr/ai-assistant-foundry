@@ -1,4 +1,4 @@
-﻿# Code Blocks to HTML
+# Code Blocks to HTML
 
 ## Fenced Code Blocks (No Language)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 name: development
 description: "Comprehensive web, mobile, and backend development workflow bundling frontend, backend, full-stack, and mobile development skills for end-to-end application delivery."
 category: workflow-bundle

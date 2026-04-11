@@ -1,4 +1,4 @@
-﻿---
+---
 name: favicon
 argument-hint: [path to source image]
 description: Generate favicons from a source image

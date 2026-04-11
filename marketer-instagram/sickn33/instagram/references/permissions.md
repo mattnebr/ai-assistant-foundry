@@ -1,4 +1,4 @@
-﻿# Permissões OAuth — Scopes por Feature
+# Permissões OAuth — Scopes por Feature
 
 ## Scopes Necessários
 

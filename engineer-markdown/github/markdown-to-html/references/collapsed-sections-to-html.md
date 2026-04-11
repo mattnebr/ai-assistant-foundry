@@ -1,4 +1,4 @@
-﻿# Collapsed Sections to HTML
+# Collapsed Sections to HTML
 
 ## `<details>` Block (Raw HTML in Markdown)
 

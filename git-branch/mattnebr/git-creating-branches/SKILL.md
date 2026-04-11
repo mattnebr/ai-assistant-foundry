@@ -1,4 +1,4 @@
-﻿---
+---
 name: git-creating-branches
 description: Create a new local Git branch following team naming conventions. Use when asked to "create a branch", "start a new feature", "start work on", "branch for", or any task requiring a new local branch off main. Handles pre-flight checks, name generation, and user approval before execution. Does NOT handle commits, merges, or post-merge cleanup.
 ---
@@ -31,6 +31,7 @@ If there is not enough context to generate meaningful branch name suggestions, a
 Run these checks in order. Stop and report on the first failure:
 
 ```bash
+
 # Verify inside a git repository
 git rev-parse --is-inside-work-tree  # Must output: true
 

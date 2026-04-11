@@ -1,4 +1,4 @@
-﻿---
+---
 name: brand-guidelines-anthropic
 description: "To access Anthropic's official brand identity and style resources, use this skill."
 risk: unknown

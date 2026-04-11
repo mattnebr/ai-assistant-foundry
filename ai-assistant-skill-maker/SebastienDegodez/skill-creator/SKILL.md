@@ -1,4 +1,4 @@
-﻿---
+---
 name: skill-creator
 description: Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Codex's capabilities with specialized knowledge, workflows, or tool integrations.
 metadata:
@@ -129,6 +129,7 @@ Keep SKILL.md body to the essentials and under 500 lines to minimize context blo
 **Pattern 1: High-level guide with references**
 
 ```markdown
+
 # PDF Processing
 
 ## Quick start
@@ -179,6 +180,7 @@ When the user chooses AWS, Codex only reads aws.md.
 Show basic content, link to advanced content:
 
 ```markdown
+
 # DOCX Processing
 
 ## Creating documents

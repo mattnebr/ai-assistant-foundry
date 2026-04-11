@@ -1,4 +1,4 @@
-﻿# Testing Skills With Subagents
+# Testing Skills With Subagents
 
 **Load this reference when:** creating or editing skills, before deployment, to verify they work under pressure and resist rationalization.
 
@@ -210,6 +210,7 @@ Write code before test? Delete it. Start over.
 ### 3. Red Flag Entry
 
 ```markdown
+
 ## Red Flags - STOP
 
 - "Keep as reference" or "adapt existing code"

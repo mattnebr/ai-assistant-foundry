@@ -1,4 +1,4 @@
-﻿# Step 2: Instrument with `wrap` and capture a reference trace
+# Step 2: Instrument with `wrap` and capture a reference trace
 
 > For the full `wrap()` API, the `Runnable` class, and CLI commands, see `wrap-api.md`.
 
@@ -50,10 +50,12 @@ selected_agent = pixie.wrap(selected_agent, purpose="state", name="routing_decis
 ### Value vs. function wrapping
 
 ```python
+
 # Value form: wrap a data value (result already computed)
 profile = pixie.wrap(db.get_profile(user_id), purpose="input", name="customer_profile")
 
 # Function form: wrap the callable itself — in eval mode the original function
+
 # is NOT called; the registry value is returned instead.
 profile = pixie.wrap(db.get_profile, purpose="input", name="customer_profile")(user_id)
 ```
@@ -77,6 +79,7 @@ The `Runnable` class replaces the plain function from older versions of the skil
 Place the class in `pixie_qa/scripts/run_app.py`:
 
 ```python
+
 # pixie_qa/scripts/run_app.py
 from __future__ import annotations
 from pydantic import BaseModel
@@ -215,6 +218,7 @@ Common concurrency pitfalls:
 Use the `pixie trace` CLI command to run your `Runnable` and capture a trace file. Pass the entry input as a JSON file:
 
 ```bash
+
 # Create a JSON file with entry kwargs
 echo '{"user_message": "a realistic sample input"}' > pixie_qa/sample-input.json
 

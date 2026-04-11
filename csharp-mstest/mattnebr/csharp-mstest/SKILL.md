@@ -1,4 +1,4 @@
-﻿---
+---
 name: csharp-mstest
 description: Generate MSTest unit tests for C# classes following strict naming conventions, assertion patterns, and structural standards. Use this skill whenever asked to write, scaffold, or review C# unit tests.
 scope: This skill applies only to MSTest unit tests for C# classes. It does not apply to integration tests, UI tests, or non-C# languages.

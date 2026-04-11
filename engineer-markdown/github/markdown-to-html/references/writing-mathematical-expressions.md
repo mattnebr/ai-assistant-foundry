@@ -1,4 +1,4 @@
-﻿# Writing mathematical expressions
+# Writing mathematical expressions
 
 Use Markdown to display mathematical expressions on GitHub.
 

@@ -1,4 +1,4 @@
-﻿# Interface-Based Handler Registration
+# Interface-Based Handler Registration
 
 Guide for implementing interface-based handler discovery in Clean Architecture CQRS projects.
 
@@ -73,12 +73,12 @@ namespace MyProject.Application.Orders.Commands.PlaceOrder;
 public sealed class PlaceOrderCommandHandler : ICommandHandler<PlaceOrderCommand, OrderId>
 {
     private readonly IOrderRepository _orderRepository;
-    
+
     public PlaceOrderCommandHandler(IOrderRepository orderRepository)
     {
         _orderRepository = orderRepository;
     }
-    
+
     public async Task<OrderId> HandleAsync(
         PlaceOrderCommand command,
         CancellationToken cancellationToken = default)
@@ -227,11 +227,11 @@ public static class OrdersEndpoints
     public static void MapOrdersEndpoints(this IEndpointRouteBuilder app)
     {
         var group = app.MapGroup("/api/orders").WithTags("Orders");
-        
+
         group.MapPost("/", PlaceOrder);
         group.MapGet("/{orderId:guid}", GetOrder);
     }
-    
+
     private static async Task<IResult> PlaceOrder(
         PlaceOrderCommand command,
         ICommandBus bus,
@@ -240,7 +240,7 @@ public static class OrdersEndpoints
         var orderId = await bus.PublishAsync<PlaceOrderCommand, OrderId>(command, cancellationToken);
         return Results.Created($"/api/orders/{orderId.Value}", orderId);
     }
-    
+
     private static async Task<IResult> GetOrder(
         Guid orderId,
         IQueryBus bus,
@@ -283,12 +283,12 @@ public async Task WhenPlacingOrder_ShouldCreateOrder()
     // Arrange - Mock Infrastructure
     var orderRepository = A.Fake<IOrderRepository>();
     var handler = new PlaceOrderCommandHandler(orderRepository);
-    
+
     var command = new PlaceOrderCommand(/*...*/);
-    
+
     // Act - Handler is REAL (not mocked)
     var orderId = await handler.HandleAsync(command);
-    
+
     // Assert - Verify Infrastructure calls
     A.CallTo(() => orderRepository.AddAsync(
         A<Order>.That.Matches(o => o.Id == command.OrderId),
@@ -307,12 +307,12 @@ public async Task PlaceOrder_ShouldResolveHandlerFromDI()
     // Arrange
     var factory = new WebApplicationFactory<Program>();
     var client = factory.CreateClient();
-    
+
     var command = new PlaceOrderCommand(/*...*/);
-    
+
     // Act - DI resolves ICommandHandler<PlaceOrderCommand, OrderId>
     var response = await client.PostAsJsonAsync("/api/orders", command);
-    
+
     // Assert
     response.StatusCode.Should().Be(HttpStatusCode.Created);
 }

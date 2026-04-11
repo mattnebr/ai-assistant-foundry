@@ -1,4 +1,4 @@
-﻿---
+---
 name: pattern-name
 description: >-
   Use when [recognizable symptom].

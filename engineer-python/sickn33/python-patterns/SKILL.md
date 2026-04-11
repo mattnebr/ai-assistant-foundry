@@ -1,4 +1,4 @@
-﻿---
+---
 name: python-patterns
 description: "Python development principles and decision-making. Framework selection, async patterns, type hints, project structure. Teaches thinking, not copying."
 risk: unknown
@@ -131,6 +131,7 @@ Can skip:
 ### Common Type Patterns
 
 ```python
+
 # These are patterns, understand them:
 
 # Optional → might be None
@@ -299,6 +300,7 @@ Benefits:
 ### Pydantic v2 Integration
 
 ```python
+
 # FastAPI + Pydantic are tightly integrated:
 
 # Request validation
@@ -308,6 +310,7 @@ async def create(user: UserCreate) -> UserResponse:
     ...
 
 # Response serialization
+
 # Return type becomes response schema
 ```
 
@@ -386,6 +389,7 @@ Include:
 ### Async Testing
 
 ```python
+
 # Use pytest-asyncio for async tests
 
 import pytest

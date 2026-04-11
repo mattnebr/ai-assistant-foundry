@@ -1,4 +1,4 @@
-﻿# Branch Naming Conventions Reference
+# Branch Naming Conventions Reference
 
 ## Format
 

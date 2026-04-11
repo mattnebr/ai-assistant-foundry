@@ -1,4 +1,4 @@
-﻿---
+---
 name: machine-learning-ops-ml-pipeline
 description: "Design and implement a complete ML pipeline for: $ARGUMENTS"
 risk: unknown

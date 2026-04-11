@@ -1,4 +1,4 @@
-﻿---
+---
 name: csharp-project-scaffolding
 description: 'Scaffolds new C# projects (.csproj) with correct structure, NuGet packages, property settings, and solution integration. Use when asked to create a new C# project, add a project to a Visual Studio solution, scaffold a class library, test project, console application, or any other .NET project type. Triggers include: "create a new project", "add a csproj", "scaffold a class library", "set up a test project", "new console app".'
 ---

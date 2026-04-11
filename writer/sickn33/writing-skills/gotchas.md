@@ -1,4 +1,4 @@
-﻿---
+---
 description: Common pitfalls and tribal knowledge for skill creation.
 metadata:
   tags: [gotchas, troubleshooting, mistakes]
@@ -13,9 +13,10 @@ Tribal knowledge to avoid common mistakes.
 ### Invalid Syntax
 
 ```yaml
+
 # ❌ BAD: Mixed list and map
 metadata:
-  references: 
+  references:
   triggers: a, b, c
   - item1
   - item2
@@ -31,6 +32,7 @@ metadata:
 ### Multiline Description
 
 ```yaml
+
 # ❌ BAD: Line breaks create parsing errors
 description: Use when creating skills.
   Also for updating.
@@ -46,6 +48,7 @@ description: >-
 ### Directory Must Match `name` Field
 
 ```
+
 # ❌ BAD
 directory: my-skill/
 name: mySkill  # Mismatch!
@@ -58,6 +61,7 @@ name: my-skill  # Exact match
 ### SKILL.md Must Be ALL CAPS
 
 ```
+
 # ❌ BAD
 skill.md
 Skill.md
@@ -71,6 +75,7 @@ SKILL.md
 ### Description = Triggers, NOT Workflow
 
 ```yaml
+
 # ❌ BAD: Agent reads this and skips the full skill
 description: Analyzes code, finds bugs, suggests fixes
 
@@ -81,6 +86,7 @@ description: Use when debugging errors or reviewing code quality
 ### Pre-Violation Triggers for Discipline Skills
 
 ```yaml
+
 # ❌ BAD: Triggers AFTER violation
 description: Use when you forgot to write tests
 
@@ -99,6 +105,7 @@ description: Use when implementing any feature, before writing code
 ### Don't Duplicate CLI Help
 
 ```markdown
+
 # ❌ BAD: 50 lines documenting all flags
 
 # ✅ GOOD: One line
@@ -110,6 +117,7 @@ Run `mytool --help` for all options.
 ### Agents Are Smart at Finding Loopholes
 
 ```markdown
+
 # ❌ BAD: Trust agents will "get the spirit"
 Write test before code.
 
@@ -136,6 +144,7 @@ Every excuse from baseline testing goes in the table:
 ### Keep References One Level Deep
 
 ```markdown
+
 # ❌ BAD: Nested chain (A → B → C)
 See [patterns.md] → which links to [advanced.md] → which links to [deep.md]
 
@@ -146,6 +155,7 @@ See [patterns.md] and [advanced.md]
 ### Never Force-Load with @
 
 ```markdown
+
 # ❌ BAD: Burns context immediately
 @skills/my-skill/SKILL.md
 
@@ -158,6 +168,7 @@ See [my-skill] for details.
 ### Correct Skill Directory
 
 ```bash
+
 # ❌ BAD: Old singular path
 ~/.config/opencode/skill/my-skill/
 
@@ -168,6 +179,7 @@ See [my-skill] for details.
 ### Skill Cross-Reference Syntax
 
 ```markdown
+
 # ❌ BAD: File path (fragile)
 See /home/user/.config/opencode/skills/my-skill/SKILL.md
 
@@ -180,10 +192,13 @@ See my-skill
 ### Don't Overthink Tier Choice
 
 ```markdown
+
 # ❌ BAD: Starting with Tier 3 "just in case"
+
 # Result: Wasted effort, empty reference files
 
 # ✅ GOOD: Start with Tier 1, upgrade when needed
+
 # Can always add references/ later
 ```
 

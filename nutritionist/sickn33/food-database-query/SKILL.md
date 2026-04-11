@@ -1,4 +1,4 @@
-﻿---
+---
 name: food-database-query
 description: Food Database Query
 risk: unknown
@@ -79,7 +79,9 @@ source: community
 
 **示例**:
 ```python
+
 # 用户输入: "燕麦"
+
 # 返回:
 {
   "name": "燕麦",
@@ -110,6 +112,7 @@ source: community
 
 **搜索逻辑**:
 ```python
+
 # 示例: 搜索"高蛋白 低卡路里"
 def search_foods(criteria):
     results = []
@@ -655,6 +658,7 @@ RDA_FEMALE = {
 
 **返回结果**:
 ```markdown
+
 # 三文鱼 营养信息
 
 ## 基本信息
@@ -694,6 +698,7 @@ RDA_FEMALE = {
 
 **返回结果**:
 ```markdown
+
 # 食物比较: 鸡胸肉 vs 三文鱼
 
 ## 营养对比 (每100克)

@@ -1,4 +1,4 @@
-﻿# Step 1a: Entry Point & Execution Flow
+# Step 1a: Entry Point & Execution Flow
 
 Identify how the application starts and how a real user invokes it.
 
@@ -40,6 +40,7 @@ Write your findings to this file. Keep it focused — only entry point and execu
 ### Template
 
 ```markdown
+
 # Entry Point & Execution Flow
 
 ## How to run

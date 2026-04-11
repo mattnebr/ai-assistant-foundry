@@ -1,4 +1,4 @@
-﻿# Writing Mathematical Expressions to HTML
+# Writing Mathematical Expressions to HTML
 
 ## Writing Inline Expressions
 

@@ -1,4 +1,4 @@
-﻿# tRPC Principles
+# tRPC Principles
 
 > End-to-end type safety for TypeScript monorepos.
 

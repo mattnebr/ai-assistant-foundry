@@ -1,4 +1,4 @@
-﻿# SQL Optimization Patterns Implementation Playbook
+# SQL Optimization Patterns Implementation Playbook
 
 This file contains detailed patterns, checklists, and code samples referenced by the skill.
 
@@ -150,6 +150,7 @@ JOIN orders o ON u.id = o.user_id;
 
 **Problem: N+1 Query Anti-Pattern**
 ```python
+
 # Bad: Executes N+1 queries
 users = db.query("SELECT * FROM users LIMIT 10")
 for user in users:
@@ -173,7 +174,9 @@ WHERE user_id IN (1, 2, 3, 4, 5);
 ```
 
 ```python
+
 # Good: Single query with JOIN or batch load
+
 # Using JOIN
 results = db.query("""
     SELECT u.id, u.name, o.id as order_id, o.total
@@ -189,6 +192,7 @@ orders = db.query(
     "SELECT * FROM orders WHERE user_id IN (?)",
     user_ids
 )
+
 # Group orders by user_id
 orders_by_user = {}
 for order in orders:

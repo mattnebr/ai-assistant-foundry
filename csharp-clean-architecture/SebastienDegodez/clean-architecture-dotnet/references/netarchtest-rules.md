@@ -1,4 +1,4 @@
-﻿---
+---
 applyTo: '**/*.cs'
 ---
 
@@ -134,7 +134,7 @@ public void Api_ShouldNotHaveDependencyOn_Application()
 **Rationale** (Robert C. Martin, Clean Architecture):
 > "The Dependency Rule says that source code dependencies can only point inwards. Nothing in an inner circle can know anything at all about something in an outer circle."
 
-API → Infrastructure (outer to outer) ✅  
+API → Infrastructure (outer to outer) ✅
 API → Application (outer to inner) ❌ VIOLATION
 
 Infrastructure DI container bridges the gap via interface-based handler registration.
@@ -277,6 +277,7 @@ public sealed class ArchitectureTests
 Run architecture tests in every build:
 
 ```yaml
+
 # .github/workflows/build.yml
 - name: Run Architecture Tests
   run: dotnet test --filter "FullyQualifiedName~ArchitectureTests"

@@ -1,4 +1,4 @@
-﻿---
+---
 name: editorconfig
 description: 'Generates a comprehensive and best-practice-oriented .editorconfig file based on project analysis and user preferences.'
 ---
@@ -32,6 +32,7 @@ Begin by acknowledging the user's preferences. Then, proceed directly to generat
 Here is the `.editorconfig` file tailored to your project:
 
 ```editorconfig
+
 # .editorconfig
 
 # Top-most EditorConfig file

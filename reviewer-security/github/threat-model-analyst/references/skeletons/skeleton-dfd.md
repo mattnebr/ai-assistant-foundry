@@ -1,4 +1,4 @@
-﻿# Skeleton: 1.1-threatmodel.mmd
+# Skeleton: 1.1-threatmodel.mmd
 
 > **⛔ This is a raw Mermaid file — NO markdown wrapper. Line 1 MUST start with `%%{init:`.**
 > **The init block, classDefs, and linkStyle are FIXED — never change colors/strokes.**

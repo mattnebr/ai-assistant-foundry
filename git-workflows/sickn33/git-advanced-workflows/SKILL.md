@@ -1,4 +1,4 @@
-﻿---
+---
 name: git-advanced-workflows
 description: "Master advanced Git techniques to maintain clean history, collaborate effectively, and recover from any situation with confidence."
 risk: critical
@@ -49,6 +49,7 @@ Interactive rebase is the Swiss Army knife of Git history editing.
 
 **Basic Usage:**
 ```bash
+
 # Rebase last 5 commits
 git rebase -i HEAD~5
 
@@ -64,6 +65,7 @@ git rebase -i abc123
 Apply specific commits from one branch to another without merging entire branches.
 
 ```bash
+
 # Cherry-pick single commit
 git cherry-pick abc123
 
@@ -82,6 +84,7 @@ git cherry-pick -e abc123
 Binary search through commit history to find the commit that introduced a bug.
 
 ```bash
+
 # Start bisect
 git bisect start
 
@@ -92,16 +95,19 @@ git bisect bad
 git bisect good v1.0.0
 
 # Git will checkout middle commit - test it
+
 # Then mark as good or bad
 git bisect good  # or: git bisect bad
 
 # Continue until bug found
+
 # When done
 git bisect reset
 ```
 
 **Automated Bisect:**
 ```bash
+
 # Use script to test automatically
 git bisect start HEAD v1.0.0
 git bisect run ./test.sh
@@ -114,6 +120,7 @@ git bisect run ./test.sh
 Work on multiple branches simultaneously without stashing or switching.
 
 ```bash
+
 # List existing worktrees
 git worktree list
 
@@ -135,6 +142,7 @@ git worktree prune
 Your safety net - tracks all ref movements, even deleted commits.
 
 ```bash
+
 # View reflog
 git reflog
 
@@ -143,6 +151,7 @@ git reflog show feature/branch
 
 # Restore deleted commit
 git reflog
+
 # Find commit hash
 git checkout abc123
 git branch recovered-branch
@@ -157,6 +166,7 @@ git branch deleted-branch abc123
 ### Workflow 1: Clean Up Feature Branch Before PR
 
 ```bash
+
 # Start with feature branch
 git checkout feature/user-auth
 
@@ -164,9 +174,13 @@ git checkout feature/user-auth
 git rebase -i main
 
 # Example rebase operations:
+
 # - Squash "fix typo" commits
+
 # - Reword commit messages for clarity
+
 # - Reorder commits logically
+
 # - Drop unnecessary commits
 
 # Force push cleaned branch (safe if no one else is using it)
@@ -176,6 +190,7 @@ git push --force-with-lease origin feature/user-auth
 ### Workflow 2: Apply Hotfix to Multiple Releases
 
 ```bash
+
 # Create fix on main
 git checkout main
 git commit -m "fix: critical security patch"
@@ -189,6 +204,7 @@ git cherry-pick abc123
 
 # Handle conflicts if they arise
 git cherry-pick --continue
+
 # or
 git cherry-pick --abort
 ```
@@ -196,6 +212,7 @@ git cherry-pick --abort
 ### Workflow 3: Find Bug Introduction
 
 ```bash
+
 # Start bisect
 git bisect start
 git bisect bad HEAD
@@ -211,6 +228,7 @@ git bisect bad
 git bisect good
 
 # Git will automatically checkout next commit to test
+
 # Repeat until bug found
 
 # Automated version
@@ -221,6 +239,7 @@ git bisect run npm test
 ### Workflow 4: Multi-Branch Development
 
 ```bash
+
 # Main project directory
 cd ~/projects/myapp
 
@@ -229,6 +248,7 @@ git worktree add ../myapp-hotfix hotfix/critical-bug
 
 # Work on hotfix in separate directory
 cd ../myapp-hotfix
+
 # Make changes, commit
 git commit -m "fix: resolve critical bug"
 git push origin hotfix/critical-bug
@@ -245,13 +265,17 @@ git worktree remove ../myapp-hotfix
 ### Workflow 5: Recover from Mistakes
 
 ```bash
+
 # Accidentally reset to wrong commit
 git reset --hard HEAD~5  # Oh no!
 
 # Use reflog to find lost commits
 git reflog
+
 # Output shows:
+
 # abc123 HEAD@{0}: reset: moving to HEAD~5
+
 # def456 HEAD@{1}: commit: my important changes
 
 # Recover lost commits
@@ -276,6 +300,7 @@ git branch recovery def456
 - Public branches used by others
 
 ```bash
+
 # Update feature branch with main changes (rebase)
 git checkout feature/my-feature
 git fetch origin
@@ -283,6 +308,7 @@ git rebase origin/main
 
 # Handle conflicts
 git status
+
 # Fix conflicts in files
 git add .
 git rebase --continue
@@ -296,10 +322,12 @@ git merge origin/main
 Automatically squash fixup commits during rebase.
 
 ```bash
+
 # Make initial commit
 git commit -m "feat: add user authentication"
 
 # Later, fix something in that commit
+
 # Stage changes
 git commit --fixup HEAD  # or specify commit hash
 
@@ -317,10 +345,12 @@ git rebase -i --autosquash main
 Break one commit into multiple logical commits.
 
 ```bash
+
 # Start interactive rebase
 git rebase -i HEAD~3
 
 # Mark commit to split with 'edit'
+
 # Git will stop at that commit
 
 # Reset commit but keep changes
@@ -342,6 +372,7 @@ git rebase --continue
 Cherry-pick only specific files from a commit.
 
 ```bash
+
 # Show files in commit
 git show --name-only abc123
 
@@ -363,12 +394,14 @@ git commit -m "cherry-pick: apply specific changes from abc123"
 7. **Branch Before Risky Operations**: Create backup branch before complex rebases
 
 ```bash
+
 # Safe force push
 git push --force-with-lease origin feature/branch
 
 # Create backup before risky operation
 git branch backup-branch
 git rebase -i main
+
 # If something goes wrong
 git reset --hard backup-branch
 ```
@@ -385,6 +418,7 @@ git reset --hard backup-branch
 ## Recovery Commands
 
 ```bash
+
 # Abort operations in progress
 git rebase --abort
 git merge --abort

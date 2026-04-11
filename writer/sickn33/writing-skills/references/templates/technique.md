@@ -1,4 +1,4 @@
-﻿---
+---
 name: technique-name
 description: Use when [specific symptom].
 metadata:

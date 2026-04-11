@@ -1,4 +1,4 @@
-﻿---
+---
 name: architect-review
 description: "Master software architect specializing in modern architecture"
 risk: unknown

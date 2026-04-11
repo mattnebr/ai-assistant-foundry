@@ -1,4 +1,4 @@
-﻿# Accessibility Audit and Testing Implementation Playbook
+# Accessibility Audit and Testing Implementation Playbook
 
 This file contains detailed patterns, checklists, and code samples referenced by the skill.
 
@@ -323,6 +323,7 @@ const ariaPatterns = {
 ### 5. Manual Testing Checklist
 
 ```markdown
+
 ## Manual Accessibility Testing
 
 ### Keyboard Navigation
@@ -401,6 +402,7 @@ const LiveRegion = ({ message, politeness = "polite" }) => (
 ### 7. CI/CD Integration
 
 ```yaml
+
 # .github/workflows/accessibility.yml
 name: Accessibility Tests
 

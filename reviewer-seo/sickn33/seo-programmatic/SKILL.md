@@ -1,4 +1,4 @@
-﻿---
+---
 name: seo-programmatic
 description: "Plan and audit programmatic SEO pages generated at scale from structured data. Use when designing templates, URL systems, internal linking, quality gates, and index-bloat safeguards for pages at scale."
 risk: unknown
@@ -164,8 +164,11 @@ Measure against all other pages in the programmatic set. Shared headers, footers
 | Index Management | ✅/⚠️/❌ | XX/100 |
 
 ### Critical Issues (fix immediately)
+
 ### High Priority (fix within 1 week)
+
 ### Medium Priority (fix within 1 month)
+
 ### Low Priority (backlog)
 
 ### Recommendations

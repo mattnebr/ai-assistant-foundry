@@ -1,4 +1,4 @@
-﻿# Workflow Patterns Implementation Playbook
+# Workflow Patterns Implementation Playbook
 
 This file contains detailed patterns, checklists, and code samples referenced by the skill.
 
@@ -197,6 +197,7 @@ All tests must pass before proceeding.
 Create checklist of manual verifications:
 
 ```markdown
+
 ## Phase 1 Verification Checklist
 
 - [ ] User can register with valid email
@@ -244,6 +245,7 @@ Phase 1 tasks:
 Update plan.md checkpoints table:
 
 ```markdown
+
 ## Checkpoints
 
 | Phase   | Checkpoint SHA | Date       | Status   |
@@ -395,6 +397,7 @@ Include in checkpoint commit:
 For reverting:
 
 ```bash
+
 # Revert to end of Phase 1
 git revert --no-commit <phase-2-commits>...
 git commit -m "revert: rollback to phase 1 checkpoint"
@@ -403,6 +406,7 @@ git commit -m "revert: rollback to phase 1 checkpoint"
 For review:
 
 ```bash
+
 # See what changed in Phase 2
 git diff <phase-1-sha>..<phase-2-sha>
 ```
@@ -551,6 +555,7 @@ After any change:
 Run before requesting approval:
 
 ```bash
+
 # Test suite
 pytest -v --tb=short
 
@@ -569,6 +574,7 @@ mypy src/
 For manual items, provide specific instructions:
 
 ```markdown
+
 ## Manual Verification Steps
 
 ### User Registration

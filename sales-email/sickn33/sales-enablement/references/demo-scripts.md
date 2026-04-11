@@ -1,4 +1,4 @@
-﻿# Demo Script Templates
+# Demo Script Templates
 
 Scene-by-scene templates for different call types, with timing, talk tracks, and interaction guidance.
 

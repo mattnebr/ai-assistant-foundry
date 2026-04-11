@@ -1,4 +1,4 @@
-﻿# SharedKernel: Shared Abstractions
+# SharedKernel: Shared Abstractions
 
 ## When to Use
 
@@ -66,27 +66,27 @@ public sealed class PlaceOrderCommandHandler
 public abstract class ValueObject : IEquatable<ValueObject>
 {
     protected abstract IEnumerable<object?> GetEqualityComponents();
-    
+
     public override bool Equals(object? obj)
     {
         if (obj is null || obj.GetType() != GetType())
             return false;
-        
+
         var other = (ValueObject)obj;
         return GetEqualityComponents().SequenceEqual(other.GetEqualityComponents());
     }
-    
+
     public override int GetHashCode()
     {
         return GetEqualityComponents()
             .Aggregate(1, (current, obj) => HashCode.Combine(current, obj?.GetHashCode() ?? 0));
     }
-    
+
     public static bool operator ==(ValueObject? left, ValueObject? right)
     {
         return Equals(left, right);
     }
-    
+
     public static bool operator !=(ValueObject? left, ValueObject? right)
     {
         return !Equals(left, right);
@@ -101,14 +101,14 @@ public abstract class ValueObject : IEquatable<ValueObject>
 public abstract class AggregateRoot
 {
     private readonly List<DomainEvent> _domainEvents = [];
-    
+
     public IReadOnlyCollection<DomainEvent> DomainEvents => _domainEvents.AsReadOnly();
-    
+
     protected void AddDomainEvent(DomainEvent @event)
     {
         _domainEvents.Add(@event);
     }
-    
+
     public void ClearDomainEvents()
     {
         _domainEvents.Clear();
@@ -177,7 +177,7 @@ public void SharedKernel_ShouldHaveZeroDependencies()
         .And()
         .NotHaveDependencyOn("Customers")
         .GetResult();
-    
+
     Assert.True(result.IsSuccessful, "SharedKernel must not reference any project");
 }
 
@@ -185,12 +185,12 @@ public void SharedKernel_ShouldHaveZeroDependencies()
 public void Projects_ShouldReferenceSharedKernelOnly()
 {
     var ordersAssembly = typeof(OrdersMarker).Assembly;
-    
+
     var result = Types.InAssembly(ordersAssembly)
         .Should()
         .NotHaveDependencyOn("Customers")
         .GetResult();
-    
+
     Assert.True(result.IsSuccessful, "Projects must not cross-reference");
 }
 ```

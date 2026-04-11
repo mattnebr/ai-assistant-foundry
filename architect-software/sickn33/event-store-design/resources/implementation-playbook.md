@@ -1,4 +1,4 @@
-﻿# Event Store Design Playbook
+# Event Store Design Playbook
 
 ## Schema and stream strategy
 

@@ -1,4 +1,4 @@
-﻿# Theming
+# Theming
 
 ## FluentDesignTheme (recommended)
 

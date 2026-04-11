@@ -1,4 +1,4 @@
-﻿---
+---
 name: stripe-integration
 description: "Master Stripe payment processing integration for robust, PCI-compliant payment flows including checkout, subscriptions, webhooks, and refunds."
 risk: unknown
@@ -391,6 +391,7 @@ def handle_dispute(charge_id, evidence):
 ## Testing
 
 ```python
+
 # Use test mode keys
 stripe.api_key = "sk_test_..."
 

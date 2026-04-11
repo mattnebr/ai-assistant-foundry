@@ -1,4 +1,4 @@
-﻿# Frontend Best Practices
+# Frontend Best Practices
 
 Modern frontend development standards for accessibility, testing, TypeScript, and Tailwind CSS.
 

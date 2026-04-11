@@ -1,4 +1,4 @@
-﻿# Response Format Principles
+# Response Format Principles
 
 > Consistency is key - choose a format and stick to it.
 

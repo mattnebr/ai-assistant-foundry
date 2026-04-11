@@ -1,4 +1,4 @@
-﻿---
+---
 name: plan-writing
 description: "Structured task planning with clear breakdowns, dependencies, and verification criteria. Use when implementing features, refactoring, or any multi-step work."
 risk: unknown
@@ -113,6 +113,7 @@ This skill provides a framework for breaking down work into clear, actionable ta
 ## Plan Structure (Flexible, Not Fixed!)
 
 ```
+
 # [Task Name]
 
 ## Goal

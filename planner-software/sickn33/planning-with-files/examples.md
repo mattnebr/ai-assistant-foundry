@@ -1,4 +1,4 @@
-﻿# Examples: Planning with Files in Action
+# Examples: Planning with Files in Action
 
 ## Example 1: Research Task
 
@@ -10,6 +10,7 @@ Write task_plan.md
 ```
 
 ```markdown
+
 # Task Plan: Morning Exercise Benefits Research
 
 ## Goal
@@ -60,6 +61,7 @@ Deliver morning_exercise_summary.md
 
 ### task_plan.md
 ```markdown
+
 # Task Plan: Fix Login Bug
 
 ## Goal
@@ -99,6 +101,7 @@ Identify and fix the bug preventing successful login.
 
 **task_plan.md:**
 ```markdown
+
 # Task Plan: Dark Mode Toggle
 
 ## Goal
@@ -122,6 +125,7 @@ Add functional dark mode toggle to settings.
 
 **notes.md:**
 ```markdown
+
 # Notes: Dark Mode Implementation
 
 ## Existing Theme System
@@ -143,6 +147,7 @@ Add functional dark mode toggle to settings.
 
 **dark_mode_implementation.md:** (deliverable)
 ```markdown
+
 # Dark Mode Implementation
 
 ## Changes Made
@@ -176,6 +181,7 @@ Action: Read config.json
 Error: File not found
 
 # Update task_plan.md:
+
 ## Errors Encountered
 - config.json not found → Will create default config
 

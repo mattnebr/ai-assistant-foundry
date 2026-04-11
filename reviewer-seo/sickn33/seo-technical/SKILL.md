@@ -1,4 +1,4 @@
-﻿---
+---
 name: seo-technical
 description: "Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, JavaScript rendering, and related platform signals like robots.txt and AI crawler access."
 risk: unknown
@@ -55,6 +55,7 @@ As of 2025-2026, AI companies actively crawl the web to train models and power A
 
 **Example, selective AI crawler blocking:**
 ```
+
 # Allow search indexing, block AI training crawlers
 User-agent: GPTBot
 Disallow: /
@@ -157,8 +158,11 @@ Google updated its JavaScript SEO documentation in December 2025 with critical c
 | IndexNow | pass/warn/fail | XX/100 |
 
 ### Critical Issues (fix immediately)
+
 ### High Priority (fix within 1 week)
+
 ### Medium Priority (fix within 1 month)
+
 ### Low Priority (backlog)
 
 ## DataForSEO Integration (Optional)

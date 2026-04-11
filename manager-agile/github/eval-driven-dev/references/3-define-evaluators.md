@@ -1,4 +1,4 @@
-﻿# Step 3: Define Evaluators
+# Step 3: Define Evaluators
 
 **Why this step**: With the app instrumented (Step 2), you now map each eval criterion to a concrete evaluator — implementing custom ones where needed — so the dataset (Step 4) can reference them by name.
 
@@ -128,6 +128,7 @@ Write the criterion-to-evaluator mapping to `pixie_qa/03-evaluator-mapping.md`. 
 ### Template
 
 ```markdown
+
 # Evaluator Mapping
 
 ## Built-in evaluators used

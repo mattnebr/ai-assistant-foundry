@@ -1,4 +1,4 @@
-﻿# Verification Checklist — Post-Analysis Quality Gates
+# Verification Checklist — Post-Analysis Quality Gates
 
 This file is the **single source of truth** for all verification rules that must pass before a threat model report is finalized. It is designed to be handed to a verification sub-agent along with the output folder path.
 
@@ -468,6 +468,7 @@ Sub-agent output MUST include:
 Do not return "looks good" without counts.
 
 ```markdown
+
 ## Verification Results
 
 | Phase | Checks | Passed | Failed | Notes |

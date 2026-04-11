@@ -1,4 +1,4 @@
-﻿---
+---
 name: eval-driven-dev
 description: >
   Set up eval-based QA for Python LLM applications: instrument the app,

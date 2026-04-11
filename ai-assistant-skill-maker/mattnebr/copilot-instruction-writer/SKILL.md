@@ -1,4 +1,4 @@
-﻿---
+---
 name: 'copilot-instruction-writer'
 description: 'Generates a ready-to-commit GitHub Copilot *.instructions.md file for a specific layer or area of a codebase. Use when a human asks to create, write, or generate a Copilot instruction file, a .instructions.md file, or Copilot conventions for a specific part of their repo.'
 ---

@@ -1,4 +1,4 @@
-﻿# Skill Templates & Examples
+# Skill Templates & Examples
 
 Complete, copy-paste templates for each skill type.
 
@@ -251,6 +251,7 @@ metadata:
 ```
 
 ```markdown
+
 # Condition-Based Waiting
 
 ## Overview

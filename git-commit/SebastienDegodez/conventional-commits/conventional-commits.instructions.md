@@ -1,4 +1,4 @@
-﻿---
+---
 applyTo: '*'
 ---
 # Conventional Commits Instructions

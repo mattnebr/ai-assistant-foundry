@@ -1,4 +1,4 @@
-﻿---
+---
 name: on-call-handoff-patterns
 description: "Effective patterns for on-call shift transitions, ensuring continuity, context transfer, and reliable incident response across shifts."
 risk: unknown
@@ -63,6 +63,7 @@ Incoming:
 ### Template 1: Shift Handoff Document
 
 ```markdown
+
 # On-Call Handoff: Platform Team
 
 **Outgoing**: @alice (2024-01-15 to 2024-01-22)
@@ -189,6 +190,7 @@ No active incidents at handoff time.
 
 ### Common Commands
 ```bash
+
 # Check service health
 kubectl get pods -A | grep -v Running
 
@@ -232,6 +234,7 @@ redis-cli FLUSHDB
 ### Template 2: Quick Handoff (Async)
 
 ```markdown
+
 # Quick Handoff: @alice → @bob
 
 ## TL;DR
@@ -258,6 +261,7 @@ I'll be available on Slack until 17:00 today.
 ### Template 3: Incident Handoff (Mid-Incident)
 
 ```markdown
+
 # INCIDENT HANDOFF: Payment Service Degradation
 
 **Incident Start**: 2024-01-22 08:15 UTC
@@ -315,6 +319,7 @@ I'll be available on Slack until 17:00 today.
 ### Agenda (15 minutes)
 
 ```markdown
+
 ## Handoff Sync: @alice → @bob
 
 1. **Active Issues** (5 min)
@@ -343,6 +348,7 @@ I'll be available on Slack until 17:00 today.
 ### Before Your Shift
 
 ```markdown
+
 ## Pre-Shift Checklist
 
 ### Access Verification
@@ -374,6 +380,7 @@ I'll be available on Slack until 17:00 today.
 ### During Your Shift
 
 ```markdown
+
 ## Daily On-Call Routine
 
 ### Morning (start of day)
@@ -397,6 +404,7 @@ I'll be available on Slack until 17:00 today.
 ### After Your Shift
 
 ```markdown
+
 ## Post-Shift Checklist
 
 - [ ] Complete handoff document
@@ -412,6 +420,7 @@ I'll be available on Slack until 17:00 today.
 ### When to Escalate
 
 ```markdown
+
 ## Escalation Triggers
 
 ### Immediate Escalation

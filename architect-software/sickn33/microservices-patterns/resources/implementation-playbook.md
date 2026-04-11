@@ -1,4 +1,4 @@
-﻿# Microservices Patterns Implementation Playbook
+# Microservices Patterns Implementation Playbook
 
 This file contains detailed patterns, checklists, and code samples referenced by the skill.
 
@@ -101,6 +101,7 @@ Master microservices architecture patterns including service boundaries, inter-s
 ### Pattern 1: By Business Capability
 
 ```python
+
 # E-commerce example
 
 # Order Service
@@ -241,6 +242,7 @@ async def create_order(
 ### Pattern 1: Synchronous REST Communication
 
 ```python
+
 # Service A calls Service B
 import httpx
 from tenacity import retry, stop_after_attempt, wait_exponential
@@ -279,6 +281,7 @@ result = await payment_client.post("/payments", json=payment_data)
 ### Pattern 2: Asynchronous Event-Driven
 
 ```python
+
 # Event-driven communication with Kafka
 from aiokafka import AIOKafkaProducer, AIOKafkaConsumer
 import json
@@ -364,6 +367,7 @@ async def handle_order_created(event_data: dict):
 ### Pattern 3: Saga Pattern (Distributed Transactions)
 
 ```python
+
 # Saga orchestration for order fulfillment
 from enum import Enum
 from typing import List, Callable

@@ -1,4 +1,4 @@
-﻿---
+---
 applyTo: '**/*.cs'
 ---
 
@@ -37,7 +37,7 @@ When implementing backend services, follow these Clean Architecture principles t
 src/
   [project].Domain/
     DomainReference.cs
-    Order/ 
+    Order/
       Order.cs
       OrderCreatedEvent.cs
     Customer/

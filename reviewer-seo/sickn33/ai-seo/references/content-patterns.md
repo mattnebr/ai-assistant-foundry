@@ -1,4 +1,4 @@
-﻿# AEO and GEO Content Patterns
+# AEO and GEO Content Patterns
 
 Reusable content block patterns optimized for answer engines and AI citation.
 
@@ -19,6 +19,7 @@ These patterns help content appear in featured snippets, AI Overviews, voice sea
 Use for "What is [X]?" queries.
 
 ```markdown
+
 ## What is [Term]?
 
 [Term] is [concise 1-sentence definition]. [Expanded 1-2 sentence explanation with key characteristics]. [Brief context on why it matters or how it's used].
@@ -26,6 +27,7 @@ Use for "What is [X]?" queries.
 
 **Example:**
 ```markdown
+
 ## What is Answer Engine Optimization?
 
 Answer Engine Optimization (AEO) is the practice of structuring content so AI-powered systems can easily extract and present it as direct answers to user queries. Unlike traditional SEO that focuses on ranking in search results, AEO optimizes for featured snippets, AI Overviews, and voice assistant responses. This approach has become essential as over 60% of Google searches now end without a click.
@@ -36,6 +38,7 @@ Answer Engine Optimization (AEO) is the practice of structuring content so AI-po
 Use for "How to [X]" queries. Optimal for list snippets.
 
 ```markdown
+
 ## How to [Action/Goal]
 
 [1-sentence overview of the process]
@@ -51,6 +54,7 @@ Use for "How to [X]" queries. Optimal for list snippets.
 
 **Example:**
 ```markdown
+
 ## How to Optimize Content for Featured Snippets
 
 Earning featured snippets requires strategic formatting and direct answers to search queries.
@@ -69,6 +73,7 @@ Most featured snippets appear within 2-4 weeks of publishing well-optimized cont
 Use for "[X] vs [Y]" queries. Optimal for table snippets.
 
 ```markdown
+
 ## [Option A] vs [Option B]: [Brief Descriptor]
 
 | Feature | [Option A] | [Option B] |
@@ -87,6 +92,7 @@ Use for "[X] vs [Y]" queries. Optimal for table snippets.
 Use for evaluation queries: "Is [X] worth it?", "Should I [X]?"
 
 ```markdown
+
 ## Advantages and Disadvantages of [Topic]
 
 [1-sentence overview of the evaluation context]
@@ -111,6 +117,7 @@ Use for evaluation queries: "Is [X] worth it?", "Should I [X]?"
 Use for topic pages with multiple common questions. Essential for FAQ schema.
 
 ```markdown
+
 ## Frequently Asked Questions
 
 ### [Question phrased exactly as users search]?
@@ -137,6 +144,7 @@ Use for topic pages with multiple common questions. Essential for FAQ schema.
 Use for "Best [X]", "Top [X]", "[Number] ways to [X]" queries.
 
 ```markdown
+
 ## [Number] Best [Items] for [Goal/Purpose]
 
 [1-2 sentence intro establishing context and selection criteria]

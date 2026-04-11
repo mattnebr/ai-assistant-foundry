@@ -1,4 +1,4 @@
-﻿# builder-documents
+# builder-documents
 
 1 skill variant(s).
 

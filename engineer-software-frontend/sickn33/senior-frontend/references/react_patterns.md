@@ -1,4 +1,4 @@
-﻿# React Patterns
+# React Patterns
 
 Production-ready patterns for building scalable React applications with TypeScript.
 

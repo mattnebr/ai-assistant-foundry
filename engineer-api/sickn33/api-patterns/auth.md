@@ -1,4 +1,4 @@
-﻿# Authentication Patterns
+# Authentication Patterns
 
 > Choose auth pattern based on use case.
 

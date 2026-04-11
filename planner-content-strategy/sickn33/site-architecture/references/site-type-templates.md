@@ -1,4 +1,4 @@
-﻿# Site Type Templates
+# Site Type Templates
 
 Full page hierarchy templates with ASCII trees, URL maps, and navigation recommendations for common site types.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 name: seo-content
 description: >
   Content quality and E-E-A-T analysis with AI citation readiness assessment.
@@ -171,6 +171,7 @@ GEO is the emerging discipline of optimizing content specifically for AI-generat
 ### AI Citation Readiness: XX/100
 
 ### Issues Found
+
 ### Recommendations
 
 ## DataForSEO Integration (Optional)

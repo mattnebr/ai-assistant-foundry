@@ -1,4 +1,4 @@
-﻿---
+---
 name: writing-plans
 description: "Use when you have a spec or requirements for a multi-step task, before touching code"
 risk: critical
@@ -34,6 +34,7 @@ Assume they are a skilled developer, but know almost nothing about our toolset o
 **Every plan MUST start with this header:**
 
 ```markdown
+
 # [Feature Name] Implementation Plan
 
 > **For Claude:** REQUIRED SUB-SKILL: Use superpowers:executing-plans to implement this plan task-by-task.
@@ -50,6 +51,7 @@ Assume they are a skilled developer, but know almost nothing about our toolset o
 ## Task Structure
 
 ```markdown
+
 ### Task N: [Component Name]
 
 **Files:**

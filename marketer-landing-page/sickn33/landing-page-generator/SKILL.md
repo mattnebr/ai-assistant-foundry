@@ -1,4 +1,4 @@
-﻿---
+---
 name: "landing-page-generator"
 description: "Generates high-converting Next.js/React landing pages with Tailwind CSS. Uses PAS, AIDA, and BAB frameworks for optimized copy/components (Heroes, Features, Pricing). Focuses on Core Web Vitals/SEO."
 category: "front-end"
@@ -14,7 +14,7 @@ tools: ["claude", "cursor", "gemini"]
 
 Generate high-converting landing pages from a product description. Output complete Next.js/React components with multiple section variants, proven copy frameworks, SEO optimization, and performance-first patterns. Not lorem ipsum — actual copy that converts.
 
-**Target:** LCP < 1s · CLS < 0.1 · FID < 100ms  
+**Target:** LCP < 1s · CLS < 0.1 · FID < 100ms
 **Output:** TSX components + Tailwind styles + SEO meta + copy variants
 
 ## When to Use

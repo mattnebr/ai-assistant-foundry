@@ -1,4 +1,4 @@
-﻿# Projection Patterns Implementation Playbook
+# Projection Patterns Implementation Playbook
 
 This file contains detailed patterns, checklists, and code samples referenced by the skill.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 name: obsidian-bases
 description: Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.
 risk: unknown
@@ -28,6 +28,7 @@ date_added: "2026-03-21"
 Base files use the `.base` extension and contain valid YAML.
 
 ```yaml
+
 # Global filters apply to ALL views in the base
 filters:
   # Can be a single filter string
@@ -78,6 +79,7 @@ Filters narrow down results. They can be applied globally or per-view.
 ### Filter Structure
 
 ```yaml
+
 # Single filter
 filters: 'status == "done"'
 
@@ -204,19 +206,23 @@ When subtracting two dates, the result is a **Duration** type (not a number).
 **IMPORTANT:** Duration does NOT support `.round()`, `.floor()`, `.ceil()` directly. Access a numeric field first (like `.days`), then apply number functions.
 
 ```yaml
+
 # CORRECT: Calculate days between dates
 "(date(due_date) - today()).days"                    # Returns number of days
 "(now() - file.ctime).days"                          # Days since created
 "(date(due_date) - today()).days.round(0)"           # Rounded days
 
 # WRONG - will cause error:
+
 # "((date(due) - today()) / 86400000).round(0)"      # Duration doesn't support division then round
 ```
 
 ### Date Arithmetic
 
 ```yaml
+
 # Duration units: y/year/years, M/month/months, d/day/days,
+
 #                 w/week/weeks, h/hour/hours, m/minute/minutes, s/second/seconds
 "now() + \"1 day\""       # Tomorrow
 "today() + \"7d\""        # A week from today
@@ -444,6 +450,7 @@ Embed in Markdown files:
 **Unquoted special characters**: Strings containing `:`, `{`, `}`, `[`, `]`, `,`, `&`, `*`, `#`, `?`, `|`, `-`, `<`, `>`, `=`, `!`, `%`, `@`, `` ` `` must be quoted.
 
 ```yaml
+
 # WRONG - colon in unquoted string
 displayName: Status: Active
 
@@ -454,6 +461,7 @@ displayName: "Status: Active"
 **Mismatched quotes in formulas**: When a formula contains double quotes, wrap the entire formula in single quotes.
 
 ```yaml
+
 # WRONG - double quotes inside double quotes
 formulas:
   label: "if(done, "Yes", "No")"
@@ -468,6 +476,7 @@ formulas:
 **Duration math without field access**: Subtracting dates returns a Duration, not a number. Always access `.days`, `.hours`, etc.
 
 ```yaml
+
 # WRONG - Duration is not a number
 "(now() - file.ctime).round(0)"
 
@@ -478,6 +487,7 @@ formulas:
 **Missing null checks**: Properties may not exist on all notes. Use `if()` to guard.
 
 ```yaml
+
 # WRONG - crashes if due_date is empty
 "(date(due_date) - today()).days"
 
@@ -488,6 +498,7 @@ formulas:
 **Referencing undefined formulas**: Ensure every `formula.X` in `order` or `properties` has a matching entry in `formulas`.
 
 ```yaml
+
 # This will fail silently if 'total' is not defined in formulas
 order:
   - formula.total

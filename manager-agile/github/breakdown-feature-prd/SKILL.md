@@ -1,4 +1,4 @@
-﻿---
+---
 name: breakdown-feature-prd
 description: 'Prompt for creating Product Requirements Documents (PRDs) for new features, based on an Epic.'
 ---

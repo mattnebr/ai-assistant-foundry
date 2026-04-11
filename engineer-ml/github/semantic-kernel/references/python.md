@@ -1,4 +1,4 @@
-﻿# Semantic Kernel for Python
+# Semantic Kernel for Python
 
 Use this reference when the target project is written in Python.
 

@@ -1,4 +1,4 @@
-﻿# Standup Notes Generator Implementation Playbook
+# Standup Notes Generator Implementation Playbook
 
 This file contains detailed patterns, checklists, and code samples referenced by the skill.
 
@@ -50,6 +50,7 @@ Modern remote-first teams rely on async standup notes to maintain visibility, co
 
 **Standard Format:**
 ```markdown
+
 # Standup - YYYY-MM-DD
 
 ## Yesterday / Last Update
@@ -160,6 +161,7 @@ Search vault for completed tasks (last 24-48h):
 
 **Blocker Escalation Format:**
 ```markdown
+
 ## Blockers
 • **[CRITICAL]** [Description] - Blocked since [date]
   - **Impact:** [What work is stopped, team/customer impact]
@@ -183,6 +185,7 @@ Search vault for completed tasks (last 24-48h):
 
 **Automated Generation Workflow:**
 ```bash
+
 # Generate standup notes from Git commits (last 24h)
 git log --author="$(git config user.name)" --since="24 hours ago" \
   --pretty=format:"%s" --no-merges | \
@@ -198,6 +201,7 @@ obsidian_get_recent_periodic_notes --period daily --limit 2 | \
   # Parse completed tasks and meeting notes
 
 # Combine all sources into structured standup note
+
 # AI synthesizes into coherent narrative with proper grouping
 ```
 
@@ -248,6 +252,7 @@ obsidian_get_recent_periodic_notes --period daily --limit 2 | \
 
 **Written-Only Standup (No Sync Meeting):**
 ```markdown
+
 # Post daily in #standup-team-name Slack channel
 
 **Posted:** 9:00 AM PT | **Read time:** ~2min
@@ -314,6 +319,7 @@ From standup notes, automatically extract:
 
 **Integration with Task Systems:**
 ```markdown
+
 ## Follow-Up Tasks (Auto-generated from standup)
 - [ ] Follow up with @infra-team on staging access (from blocker) - Due: Today EOD
 - [ ] Review PR #789 feedback from @teammate (from yesterday's post) - Due: Tomorrow
@@ -326,6 +332,7 @@ From standup notes, automatically extract:
 ### Example 1: Well-Structured Daily Standup Note
 
 ```markdown
+
 # Standup - 2025-10-11
 
 ## Yesterday
@@ -357,6 +364,7 @@ From standup notes, automatically extract:
 ### Example 2: AI-Generated Standup from Git History
 
 ```markdown
+
 # Standup - 2025-10-11 (Auto-generated from Git commits)
 
 ## Yesterday (12 commits analyzed)
@@ -419,6 +427,7 @@ React with 👀 when read | Reply in thread with questions
 ### Example 4: Blocker Escalation Format
 
 ```markdown
+
 # Standup - 2025-10-11
 
 ## Yesterday
@@ -475,27 +484,35 @@ React with 👀 when read | Reply in thread with questions
 **Morning Routine (30 minutes):**
 
 ```bash
+
 # 1. Generate draft standup from data sources
 git log --author="$(git config user.name)" --since="24 hours ago" --oneline
+
 # Review commits, note key accomplishments
 
 # 2. Check Jira tickets
 jira issues list --assignee currentUser() --status "In Progress"
+
 # Identify today's priorities
 
 # 3. Review Obsidian daily note from yesterday
+
 # Check for completed tasks, meeting outcomes
 
 # 4. Draft standup note in Obsidian
+
 # File: Daily Notes/Standup/2025-10-11.md
 
 # 5. Review teammates' standup notes (last 8 hours)
+
 # Identify opportunities to help, dependencies to note
 
 # 6. Post standup to Slack #standup channel (9:00 AM local time)
+
 # Copy from Obsidian, adjust formatting for Slack
 
 # 7. Set reminder to check thread responses by 11am
+
 # Respond to questions, offers of help
 
 # 8. Update task list with any new follow-ups from discussion
@@ -536,6 +553,7 @@ jira issues list --assignee currentUser() --status "In Progress"
 **Follow-Up Actions (Throughout Day):**
 
 ```markdown
+
 # 11:00 AM - Check thread responses
 Thread from @eve:
 > "Can you review my DB schema changes PR before your migration? Want to make sure no conflicts"
@@ -556,6 +574,7 @@ Add to tomorrow's "Today" section:
 **Weekly Retrospective (Friday):**
 
 ```markdown
+
 # Review week of standup notes
 Patterns observed:
 • ✅ Completed all 5 sprint stories
@@ -620,6 +639,7 @@ Action items:
 
 ```bash
 #!/bin/bash
+
 # generate-standup.sh - AI-powered standup note generator
 
 DATE=$(date +%Y-%m-%d)
@@ -752,11 +772,14 @@ Output only the standup note markdown, no preamble.
 **Cron Job Setup (Daily Automation):**
 
 ```bash
+
 # Add to crontab: Run every weekday at 8:45 AM
 45 8 * * 1-5 /usr/local/bin/generate-standup.sh
 
 # Sends notification when draft is ready:
+
 # "Your standup note is ready for review!"
+
 # Opens Obsidian note and prepares Slack message
 ```
 

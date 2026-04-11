@@ -1,4 +1,4 @@
-﻿# Rate Limits — Instagram Graph API
+# Rate Limits — Instagram Graph API
 
 ## Limites Principais
 
@@ -105,6 +105,7 @@ Use `--limit` para controlar quantos posts processar por sync.
 ## Monitoramento
 
 ```bash
+
 # Ver rate limit restante (estimativa baseada em logs)
 python scripts/auth.py --status
 

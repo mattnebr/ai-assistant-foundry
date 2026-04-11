@@ -1,4 +1,4 @@
-﻿---
+---
 name: what-context-needed
 description: 'Ask Copilot what files it needs to see before answering a question'
 ---
@@ -21,6 +21,7 @@ Before answering my question, tell me what files you need to see.
 ## Output Format
 
 ```markdown
+
 ## Files I Need
 
 ### Must See (required for accurate answer)

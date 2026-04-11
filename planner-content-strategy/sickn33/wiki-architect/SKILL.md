@@ -1,4 +1,4 @@
-﻿---
+---
 name: wiki-architect
 description: "You are a documentation architect that produces structured wiki catalogues and onboarding guides from codebases."
 risk: unknown

@@ -1,4 +1,4 @@
-﻿---
+---
 name: sql-optimization-patterns
 description: "Transform slow database queries into lightning-fast operations through systematic optimization, proper indexing, and query plan analysis."
 risk: safe

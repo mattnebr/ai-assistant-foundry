@@ -1,4 +1,4 @@
-﻿# Pandoc Reference
+# Pandoc Reference
 
 Pandoc is a universal document converter that can convert between numerous markup formats, including Markdown, HTML, LaTeX, Word, and many more.
 
@@ -7,6 +7,7 @@ Pandoc is a universal document converter that can convert between numerous marku
 ### Windows
 
 ```powershell
+
 # Using Chocolatey
 choco install pandoc
 
@@ -19,6 +20,7 @@ scoop install pandoc
 ### macOS
 
 ```bash
+
 # Using Homebrew
 brew install pandoc
 ```
@@ -26,6 +28,7 @@ brew install pandoc
 ### Linux
 
 ```bash
+
 # Debian/Ubuntu
 sudo apt-get install pandoc
 
@@ -40,6 +43,7 @@ sudo dnf install pandoc
 ### Convert Markdown to HTML
 
 ```bash
+
 # Basic conversion
 pandoc input.md -o output.html
 
@@ -53,6 +57,7 @@ pandoc input.md -s --css=style.css -o output.html
 ### Convert to Other Formats
 
 ```bash
+
 # To PDF (requires LaTeX)
 pandoc input.md -s -o output.pdf
 
@@ -69,6 +74,7 @@ pandoc input.md -s -o output.epub
 ### Convert from Other Formats
 
 ```bash
+
 # HTML to Markdown
 pandoc -f html -t markdown input.html -o output.md
 
@@ -102,6 +108,7 @@ pandoc -f latex -t html input.tex -o output.html
 Pandoc supports many markdown extensions:
 
 ```bash
+
 # Enable specific extensions
 pandoc -f markdown+emoji+footnotes input.md -o output.html
 
@@ -131,6 +138,7 @@ pandoc -f markdown_strict input.md -o output.html
 ### Using Built-in Templates
 
 ```bash
+
 # View default template
 pandoc -D html
 

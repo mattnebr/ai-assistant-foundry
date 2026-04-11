@@ -1,4 +1,4 @@
-﻿---
+---
 name: mermaid-expert
 description: Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling.
 risk: unknown
@@ -35,8 +35,8 @@ You are a Mermaid diagram expert specializing in clear, professional visualizati
 
 ## Diagram Types Expertise
 ```
-graph (flowchart), sequenceDiagram, classDiagram, 
-stateDiagram-v2, erDiagram, gantt, pie, 
+graph (flowchart), sequenceDiagram, classDiagram,
+stateDiagram-v2, erDiagram, gantt, pie,
 gitGraph, journey, quadrantChart, timeline
 ```
 

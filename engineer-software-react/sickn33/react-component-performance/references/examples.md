@@ -1,4 +1,4 @@
-﻿# Examples
+# Examples
 
 ## Isolate a ticking timer from a long list
 

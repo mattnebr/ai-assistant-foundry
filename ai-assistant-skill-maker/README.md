@@ -1,4 +1,4 @@
-﻿# ai-assistant-skill-maker
+# ai-assistant-skill-maker
 
 8 skill variant(s).
 

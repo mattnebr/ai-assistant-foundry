@@ -1,4 +1,4 @@
-﻿---
+---
 name: refactor-plan
 description: 'Plan a multi-file refactor with proper sequencing and rollback steps'
 ---
@@ -22,6 +22,7 @@ Create a detailed plan for this refactoring task.
 ## Output Format
 
 ```markdown
+
 ## Refactor Plan: [title]
 
 ### Current State

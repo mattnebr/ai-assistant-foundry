@@ -1,4 +1,4 @@
-﻿# DDD: Optional Patterns
+# DDD: Optional Patterns
 
 ## When to Use
 
@@ -20,14 +20,14 @@ Apply DDD patterns when:
 public abstract class AggregateRoot
 {
     private readonly List<DomainEvent> _domainEvents = [];
-    
+
     public IReadOnlyCollection<DomainEvent> DomainEvents => _domainEvents.AsReadOnly();
-    
+
     protected void AddDomainEvent(DomainEvent @event)
     {
         _domainEvents.Add(@event);
     }
-    
+
     public void ClearDomainEvents()
     {
         _domainEvents.Clear();
@@ -42,18 +42,18 @@ public abstract class AggregateRoot
 public sealed class Order : AggregateRoot
 {
     private readonly List<OrderLine> _lines = [];
-    
+
     public OrderId Id { get; }
     public CustomerId CustomerId { get; }
     public IReadOnlyCollection<OrderLine> Lines => _lines.AsReadOnly();
-    
+
     // Private constructor — enforce factory method
-    private Order(OrderId id, CustomerId customerId) 
+    private Order(OrderId id, CustomerId customerId)
     {
         Id = id;
         CustomerId = customerId;
     }
-    
+
     // Factory method is the ONLY way to create
     public static Order Create(OrderId id, CustomerId customerId)
     {
@@ -62,15 +62,15 @@ public sealed class Order : AggregateRoot
         order.AddDomainEvent(new OrderPlacedEvent(id, customerId, 0));
         return order;
     }
-    
+
     // Business intent methods (NOT CRUD)
     public void CancelOrder()
     {
         AddDomainEvent(new OrderCancelledEvent(Id));
     }
-    
+
     public void ShipOrder() { }
-    
+
     public void RegisterOrderItem(string productName, int quantity, decimal price)
     {
         if (quantity <= 0) throw new ArgumentException("Invalid quantity");
@@ -89,7 +89,7 @@ public sealed class OrderLine
     public string ProductName { get; }
     public int Quantity { get; }
     public decimal UnitPrice { get; }
-    
+
     private OrderLine(OrderLineId id, string productName, int quantity, decimal price)
     {
         Id = id;
@@ -97,12 +97,12 @@ public sealed class OrderLine
         Quantity = quantity;
         UnitPrice = price;
     }
-    
+
     public static OrderLine Create(string productName, int quantity, decimal price)
     {
         return new OrderLine(OrderLineId.New(), productName, quantity, price);
     }
-    
+
     // Entities are OWNED — never stand alone
     public decimal Total() => Quantity * UnitPrice;
 }
@@ -117,15 +117,15 @@ using SharedKernel.Abstractions;
 public sealed class OrderId : ValueObject
 {
     public Guid Value { get; }
-    
+
     private OrderId(Guid value)
     {
         Value = value;
     }
-    
+
     public static OrderId New() => new(Guid.NewGuid());
     public static OrderId From(Guid value) => new(value);
-    
+
     protected override IEnumerable<object?> GetEqualityComponents()
     {
         yield return Value;
@@ -139,20 +139,20 @@ public sealed class Money : ValueObject
 {
     public decimal Amount { get; }
     public string Currency { get; }
-    
+
     private Money(decimal amount, string currency)
     {
         Amount = amount;
         Currency = currency;
     }
-    
+
     public static Money Create(decimal amount, string currency)
     {
         if (amount < 0) throw new ArgumentException("Amount must be >= 0");
         if (string.IsNullOrWhiteSpace(currency)) throw new ArgumentException("Currency required");
         return new Money(amount, currency);
     }
-    
+
     protected override IEnumerable<object?> GetEqualityComponents()
     {
         yield return Amount;
@@ -177,7 +177,7 @@ public interface IOrderRepository
 public sealed class OrderRepository : IOrderRepository
 {
     private readonly OrderingDbContext _context;
-    
+
     public async Task PlaceOrderAsync(Order order, CancellationToken ct)
     {
         _context.Orders.Add(order);
@@ -203,7 +203,7 @@ public sealed class OrderPlacedEvent : DomainEvent
     public OrderId OrderId { get; }
     public CustomerId CustomerId { get; }
     public decimal Total { get; }
-    
+
     public OrderPlacedEvent(OrderId orderId, CustomerId customerId, decimal total)
     {
         OrderId = orderId;
@@ -216,7 +216,7 @@ public sealed class OrderPlacedEvent : DomainEvent
 public sealed class OrderCancelledEvent : DomainEvent
 {
     public OrderId OrderId { get; }
-    
+
     public OrderCancelledEvent(OrderId orderId)
     {
         OrderId = orderId;
@@ -271,20 +271,20 @@ public sealed class PlaceOrderCommandHandlerTests
         var orderId = OrderId.New();
         var customerId = CustomerId.New();
         var cmd = new PlaceOrderCommand(orderId, customerId);
-        
+
         var mockRepository = A.Fake<IOrderRepository>();
         var handler = new PlaceOrderCommandHandler(mockRepository);
-        
+
         // Act
         var result = await handler.HandleAsync(cmd, CancellationToken.None);
-        
+
         // Assert
         Assert.Equal(orderId, result);
         A.CallTo(() => mockRepository.AddAsync(A<Order>.That.Matches(
             o => o.Id == orderId && o.DomainEvents.Any(e => e is OrderPlacedEvent)
         ), A<CancellationToken>._)).MustHaveHappened();
     }
-    
+
     [Fact]
     public async Task Handle_InvalidQuantity_ShouldThrow()
     {
@@ -292,11 +292,11 @@ public sealed class PlaceOrderCommandHandlerTests
         var orderId = OrderId.New();
         var customerId = CustomerId.New();
         var cmd = new PlaceOrderCommandWithInvalidItem(orderId, customerId, quantity: -1);
-        
+
         var handler = new PlaceOrderCommandHandler(A.Fake<IOrderRepository>());
-        
+
         // Act & Assert
-        await Assert.ThrowsAsync<ArgumentException>(() => 
+        await Assert.ThrowsAsync<ArgumentException>(() =>
             handler.HandleAsync(cmd, CancellationToken.None));
     }
 }
@@ -312,10 +312,10 @@ public sealed class IsEligibleForUpgradeDomainServiceTests
         var order = Order.Create(OrderId.New(), CustomerId.New());
         var orderTotal = Money.Create(5000, "USD");
         var service = new IsEligibleForUpgradeDomainService();
-        
+
         // Act
         var result = service.IsEligible(order, orderTotal);
-        
+
         // Assert
         Assert.True(result);
     }
@@ -330,12 +330,12 @@ public void DomainMethods_ShouldNotUseCrudVerbs()
 {
     var methods = typeof(Order).GetMethods();
     var crudVerbs = new[] { "Create", "Update", "Delete", "Get", "Set" };
-    
+
     var violations = methods
         .Where(m => crudVerbs.Any(v => m.Name.StartsWith(v)))
         .ToList();
-    
-    Assert.Empty(violations, 
+
+    Assert.Empty(violations,
         $"Domain uses business intent, found CRUD: {string.Join(", ", violations.Select(m => m.Name))}");
 }
 ```
@@ -368,7 +368,7 @@ public sealed class Order : AggregateRoot  // Inherits from SharedKernel
 // Application handler implements SharedKernel interface
 using SharedKernel.Abstractions;
 
-public sealed class PlaceOrderCommandHandler 
+public sealed class PlaceOrderCommandHandler
     : ICommandHandler<PlaceOrderCommand, OrderId> { }
 ```
 

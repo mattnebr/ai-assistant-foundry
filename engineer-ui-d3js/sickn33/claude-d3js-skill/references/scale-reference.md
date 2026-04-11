@@ -1,4 +1,4 @@
-﻿# D3.js Scale Reference
+# D3.js Scale Reference
 
 Comprehensive guide to all d3 scale types with examples and use cases.
 
@@ -484,14 +484,14 @@ circle.attr("r", d => radiusScale(d.value));
 function createAdaptiveScale(data) {
   const extent = d3.extent(data);
   const range = extent[1] - extent[0];
-  
+
   // Use log scale if data spans >2 orders of magnitude
   if (extent[1] / extent[0] > 100) {
     return d3.scaleLog()
       .domain(extent)
       .range([0, width]);
   }
-  
+
   // Otherwise use linear
   return d3.scaleLinear()
     .domain(extent)

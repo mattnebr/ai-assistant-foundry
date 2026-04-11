@@ -1,4 +1,4 @@
-﻿---
+---
 name: architecture-decision-records
 description: "Comprehensive patterns for creating, maintaining, and managing Architecture Decision Records (ADRs) that capture the context and rationale behind significant technical decisions."
 risk: unknown
@@ -64,6 +64,7 @@ Proposed → Accepted → Deprecated → Superseded
 ### Template 1: Standard ADR (MADR Format)
 
 ```markdown
+
 # ADR-0001: Use PostgreSQL as Primary Database
 
 ## Status
@@ -163,6 +164,7 @@ additional services (no separate Elasticsearch needed).
 ### Template 2: Lightweight ADR
 
 ```markdown
+
 # ADR-0012: Adopt TypeScript for Frontend Development
 
 **Status**: Accepted
@@ -193,6 +195,7 @@ code.
 ### Template 3: Y-Statement Format
 
 ```markdown
+
 # ADR-0015: API Gateway Selection
 
 In the context of **building a microservices architecture**,
@@ -206,6 +209,7 @@ accepting that **we need to manage Kong infrastructure ourselves**.
 ### Template 4: ADR for Deprecation
 
 ```markdown
+
 # ADR-0020: Deprecate MongoDB in Favor of PostgreSQL
 
 ## Status
@@ -255,6 +259,7 @@ Document from ADR-0003 experience:
 ### Template 5: Request for Comments (RFC) Style
 
 ```markdown
+
 # RFC-0025: Adopt Event Sourcing for Order Management
 
 ## Summary
@@ -343,6 +348,7 @@ docs/
 ### ADR Index (README.md)
 
 ```markdown
+
 # Architecture Decision Records
 
 This directory contains Architecture Decision Records (ADRs) for [Project Name].
@@ -375,6 +381,7 @@ This directory contains Architecture Decision Records (ADRs) for [Project Name].
 ### Automation (adr-tools)
 
 ```bash
+
 # Install adr-tools
 brew install adr-tools
 
@@ -397,6 +404,7 @@ adr link 2 "Complements" 1 "Is complemented by"
 ## Review Process
 
 ```markdown
+
 ## ADR Review Checklist
 
 ### Before Submission

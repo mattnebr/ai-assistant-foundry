@@ -1,4 +1,4 @@
-﻿---
+---
 name: git-hooks-automation
 description: "Master Git hooks setup with Husky, lint-staged, pre-commit framework, and commitlint. Automate code quality gates, formatting, linting, and commit message enforcement before code reaches CI."
 risk: safe
@@ -40,6 +40,7 @@ Git hooks are scripts that run automatically at specific points in the Git workf
 ### Native Git Hooks (No Framework)
 
 ```bash
+
 # Create a pre-commit hook manually
 cat > .git/hooks/pre-commit << 'EOF'
 #!/bin/sh
@@ -66,6 +67,7 @@ The modern standard for JavaScript/TypeScript projects. Husky manages Git hooks;
 ### Quick Setup (Husky v9+)
 
 ```bash
+
 # Install
 npm install --save-dev husky lint-staged
 
@@ -99,6 +101,7 @@ echo "npx lint-staged" > .husky/pre-commit
 ### Add Commit Message Linting
 
 ```bash
+
 # Install commitlint
 npm install --save-dev @commitlint/cli @commitlint/config-conventional
 
@@ -124,6 +127,7 @@ echo "npx --no -- commitlint --edit \$1" > .husky/commit-msg
 ### Add Pre-Push Hook
 
 ```bash
+
 # Run tests before pushing
 echo "npm test" > .husky/pre-push
 ```
@@ -148,6 +152,7 @@ Language-agnostic framework that works with any project. Hooks are defined in YA
 ### Setup
 
 ```bash
+
 # Install (Python required)
 pip install pre-commit
 
@@ -221,6 +226,7 @@ For projects not using Node or Python, write hooks directly in shell.
 
 ```bash
 #!/bin/sh
+
 # .githooks/pre-commit — Team-shared hooks directory
 set -e
 
@@ -264,10 +270,12 @@ echo "✅ All pre-commit checks passed"
 ### Share Custom Hooks via `core.hooksPath`
 
 ```bash
+
 # In your repo, set a shared hooks directory
 git config core.hooksPath .githooks
 
 # Add to project setup docs or Makefile
+
 # Makefile
 setup:
 	git config core.hooksPath .githooks
@@ -281,6 +289,7 @@ Hooks are a first line of defense, but CI is the source of truth.
 ### Run pre-commit in CI (GitHub Actions)
 
 ```yaml
+
 # .github/workflows/lint.yml
 name: Lint
 on: [push, pull_request]
@@ -298,6 +307,7 @@ jobs:
 ### Run lint-staged in CI (Validation Only)
 
 ```yaml
+
 # Validate that lint-staged would pass (catch bypassed hooks)
 name: Lint Check
 on: [pull_request]
@@ -346,6 +356,7 @@ jobs:
 ### Bypassing Hooks (When Needed)
 
 ```bash
+
 # Skip all hooks for a single commit
 git commit --no-verify -m "wip: quick save"
 
@@ -363,11 +374,13 @@ SKIP=eslint git commit -m "fix: update config"
 ### Husky v4 → v9 Migration
 
 ```bash
+
 # 1. Remove old Husky
 npm uninstall husky
 rm -rf .husky
 
 # 2. Remove old config from package.json
+
 # Delete "husky": { "hooks": { ... } } section
 
 # 3. Install fresh
@@ -379,13 +392,16 @@ echo "npx lint-staged" > .husky/pre-commit
 echo "npx --no -- commitlint --edit \$1" > .husky/commit-msg
 
 # 5. Clean up — old Husky used package.json config,
+
 #    new Husky uses .husky/ directory with plain scripts
 ```
 
 ### Adopting Hooks on an Existing Project
 
 ```bash
+
 # Step 1: Start with formatting only (low friction)
+
 # lint-staged config:
 { "*.{js,ts}": ["prettier --write"] }
 
@@ -393,6 +409,7 @@ echo "npx --no -- commitlint --edit \$1" > .husky/commit-msg
 { "*.{js,ts}": ["eslint --fix", "prettier --write"] }
 
 # Step 3: Add commit message linting
+
 # Step 4: Add pre-push test runner
 
 # Gradual adoption prevents team resistance

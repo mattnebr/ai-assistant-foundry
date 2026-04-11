@@ -1,4 +1,4 @@
-﻿# Instagram Graph API — Referência de Endpoints
+# Instagram Graph API — Referência de Endpoints
 
 Base URL: `https://graph.instagram.com/v21.0`
 

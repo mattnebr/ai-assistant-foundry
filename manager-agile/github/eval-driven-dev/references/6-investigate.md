@@ -1,4 +1,4 @@
-﻿# Investigation and Iteration
+# Investigation and Iteration
 
 This reference covers Step 6 of the eval-driven-dev process: investigating test failures, root-causing them, and iterating on fixes.
 
@@ -96,6 +96,7 @@ For non-LLM failures: note them in the investigation log and recommend the code 
 **Every failure investigation should be documented** alongside the fix. Include:
 
 ````markdown
+
 ### <date> — failure investigation
 
 **Dataset**: `qa-golden-set`

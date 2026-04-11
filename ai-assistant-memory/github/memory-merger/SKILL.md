@@ -1,4 +1,4 @@
-﻿---
+---
 name: memory-merger
 description: 'Merges mature lessons from a domain memory file into its instruction file. Syntax: `/memory-merger >domain [scope]` where scope is `global` (default), `user`, `workspace`, or `ws`.'
 ---
@@ -50,6 +50,7 @@ Throughout this prompt, `<global-prompts>` and `<workspace-instructions>` refer 
 Review all memory sections and present them for merger consideration:
 
 ```
+
 ## Proposed Memories for Merger
 
 ### Memory: [Headline]

@@ -1,4 +1,4 @@
-﻿# Performance Optimization
+# Performance Optimization
 
 Patterns for optimizing React component performance, preventing unnecessary re-renders, and avoiding memory leaks.
 

@@ -1,4 +1,4 @@
-﻿# Diagram Conventions — Mermaid Diagrams for Threat Models & Architecture
+# Diagram Conventions — Mermaid Diagrams for Threat Models & Architecture
 
 This file contains ALL rules for creating Mermaid diagrams in threat model reports. It is self-contained — everything needed to produce correct diagrams is here.
 

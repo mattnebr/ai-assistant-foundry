@@ -1,4 +1,4 @@
-﻿# Skeleton: 3-findings.md
+# Skeleton: 3-findings.md
 
 > **⛔ Copy the template content below VERBATIM (excluding the outer code fence). Replace `[FILL]` placeholders. ALL 10 attribute rows are MANDATORY per finding. Organize by TIER, not by severity.**
 > **⛔ DO NOT abbreviate attribute names. Use EXACT names: `SDL Bugbar Severity` (not `Severity`), `Exploitation Prerequisites` (not `Prerequisites`), `Exploitability Tier` (not `Tier`), `Remediation Effort` (not `Effort`), `CVSS 4.0` (not `CVSS Score`).**
@@ -8,6 +8,7 @@
 ---
 
 ```markdown
+
 # Security Findings
 
 ---

@@ -1,4 +1,4 @@
-﻿# DDD Deliverables Checklist
+# DDD Deliverables Checklist
 
 Use this checklist to keep DDD adoption practical and measurable.
 

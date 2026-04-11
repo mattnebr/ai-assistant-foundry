@@ -1,4 +1,4 @@
-﻿# Jekyll Reference
+# Jekyll Reference
 
 Jekyll is a static site generator that transforms Markdown content into complete websites. It's blog-aware and powers GitHub Pages.
 
@@ -13,6 +13,7 @@ Jekyll is a static site generator that transforms Markdown content into complete
 ### Install Jekyll
 
 ```bash
+
 # Install Jekyll and Bundler
 gem install jekyll bundler
 ```
@@ -20,6 +21,7 @@ gem install jekyll bundler
 ### Platform-Specific Installation
 
 ```bash
+
 # macOS (install Xcode CLI tools first)
 xcode-select --install
 gem install jekyll bundler
@@ -29,6 +31,7 @@ sudo apt-get install ruby-full build-essential zlib1g-dev
 gem install jekyll bundler
 
 # Windows (use RubyInstaller)
+
 # Download from https://rubyinstaller.org/
 gem install jekyll bundler
 ```
@@ -38,6 +41,7 @@ gem install jekyll bundler
 ### Create New Site
 
 ```bash
+
 # Create new Jekyll site
 jekyll new myblog
 
@@ -79,6 +83,7 @@ myblog/
 ### Build Options
 
 ```bash
+
 # Build site
 bundle exec jekyll build
 
@@ -95,6 +100,7 @@ bundle exec jekyll build --incremental
 ### Serve Options
 
 ```bash
+
 # Serve with live reload
 bundle exec jekyll serve --livereload
 
@@ -111,6 +117,7 @@ bundle exec jekyll serve --host 0.0.0.0
 ## Configuration (_config.yml)
 
 ```yaml
+
 # Site settings
 title: My Blog
 description: A great blog
@@ -176,6 +183,7 @@ Your content here...
 ### Kramdown (Default)
 
 ```yaml
+
 # _config.yml
 markdown: kramdown
 kramdown:
@@ -189,11 +197,13 @@ kramdown:
 ### CommonMark
 
 ```ruby
+
 # Gemfile
 gem 'jekyll-commonmark-ghpages'
 ```
 
 ```yaml
+
 # _config.yml
 markdown: CommonMarkGhPages
 commonmark:
@@ -281,6 +291,7 @@ layout: default
 ### Common Plugins
 
 ```ruby
+
 # Gemfile
 group :jekyll_plugins do
   gem 'jekyll-feed'        # RSS feed
@@ -294,6 +305,7 @@ end
 ### Using Plugins
 
 ```yaml
+
 # _config.yml
 plugins:
   - jekyll-feed

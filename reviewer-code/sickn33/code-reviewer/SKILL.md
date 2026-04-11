@@ -1,4 +1,4 @@
-﻿---
+---
 name: code-reviewer
 description: "Elite code review expert specializing in modern AI-powered code"
 risk: unknown

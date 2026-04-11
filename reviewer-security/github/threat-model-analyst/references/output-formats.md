@@ -1,4 +1,4 @@
-﻿# Output Formats — Report File Templates
+# Output Formats — Report File Templates
 
 ⛔ **SELF-CORRECT DIRECTIVE:** After writing ANY file using templates from this document, immediately run the Self-Check section at the bottom. Your response to the orchestrator MUST include the filled checklist with ✅/❌ for each item. If ANY item is ❌, fix the file before proceeding to the next step.
 
@@ -61,6 +61,7 @@ Create a timestamped folder at the start of analysis:
 ### Content Structure
 
 ```markdown
+
 # Architecture Overview
 
 ## System Purpose
@@ -82,6 +83,7 @@ Create a timestamped folder at the start of analysis:
 <!-- Mermaid sequenceDiagram here -->
 
 ### Scenario 2: [Name]
+
 ### Scenario 3: [Name]
 
 ## Technology Stack
@@ -140,6 +142,7 @@ Create a timestamped folder at the start of analysis:
 ### 1-threatmodel.md Content
 
 ```markdown
+
 # Threat Model
 
 ## Data Flow Diagram
@@ -202,6 +205,7 @@ Component `## ` headings become link targets from `3-findings.md`.
 > **⛔ LEAKED DIRECTIVE CHECK:** The output file MUST NOT contain the text "RIGID TIER DEFINITIONS", "Do NOT use subjective judgment", or any line starting with `⛔`. These are skill instructions, not report content. If you see them in your output, remove them before finalizing.
 
 ```markdown
+
 # STRIDE + Abuse Cases — Threat Analysis
 
 ## Exploitability Tiers
@@ -380,6 +384,7 @@ Sort by severity **within** each tier, then by CVSS descending.
 ### Full Finding Example
 
 ```markdown
+
 ### FIND-01: Missing Authentication on API
 
 | Attribute | Value |
@@ -431,6 +436,7 @@ Send an unauthenticated GET request to `/api/v1/resources` — should return 401
 5. **Threat Coverage Verification table**: At the end of `3-findings.md`, include:
 
 ```markdown
+
 ## Threat Coverage Verification
 
 | Threat ID | Finding ID | Status |
@@ -481,6 +487,7 @@ If a threat in `2-stride-analysis.md` has a non-empty `Mitigation` column, it MU
 The Report Files table MUST list `0-assessment.md` (this file) as the FIRST row, followed by the other files:
 
 ```markdown
+
 ## Report Files
 
 | File | Description |
@@ -520,6 +527,7 @@ Include at end of Executive Summary:
 > **NEVER change the priority based on how many threats or findings exist in that tier.** Even if Tier 1 has 0 threats and 0 findings, the priority is still 🔴 Critical Risk — because IF a Tier 1 threat existed, it would be critical. The priority reflects the tier's inherent severity, not the count. A report with Tier 1 = "🟢 Low Risk" is WRONG and must be fixed.
 
 ```markdown
+
 ## Action Summary
 
 | Tier | Description | Threats | Findings | Priority |
@@ -568,6 +576,7 @@ Include at end of Executive Summary:
 ⚠️ **This ENTIRE section is REQUIRED.** Previous iterations skipped it entirely. Include ALL sub-sections below, even if tables are empty.
 
 ```markdown
+
 ## Analysis Context & Assumptions
 
 ### Analysis Scope
@@ -608,6 +617,7 @@ Include at end of Executive Summary:
 > **⛔ CRITICAL: This section MUST have TWO subsections with THREE-column tables including full URLs. Do NOT flatten into a simple 2-column `| Reference | Usage |` table. The model ALWAYS tries to simplify this — do NOT simplify it.**
 
 ```markdown
+
 ## References Consulted
 
 ### Security Standards
@@ -638,6 +648,7 @@ Include at end of Executive Summary:
 > **⛔ CRITICAL: ALL fields below are MANDATORY. Do NOT skip Model, Analysis Started, Analysis Completed, or Duration. The previous run omitted these — that is a critical failure. Run `Get-Date` at start and end to compute Duration.**
 
 ```markdown
+
 ## Report Metadata
 
 | Field | Value |

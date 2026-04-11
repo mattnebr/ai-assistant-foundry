@@ -1,4 +1,4 @@
-﻿---
+---
 name: network-engineer
 description: Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization.
 risk: safe

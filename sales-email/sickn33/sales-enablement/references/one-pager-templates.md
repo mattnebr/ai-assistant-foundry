@@ -1,4 +1,4 @@
-﻿# One-Pager Templates
+# One-Pager Templates
 
 Templates for different one-pager use cases, with layout guidance and copy prompts.
 

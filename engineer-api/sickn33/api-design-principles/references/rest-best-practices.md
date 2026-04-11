@@ -1,10 +1,11 @@
-﻿# REST API Best Practices
+# REST API Best Practices
 
 ## URL Structure
 
 ### Resource Naming
 
 ```
+
 # Good - Plural nouns
 GET /api/users
 GET /api/orders
@@ -19,12 +20,14 @@ POST /api/createOrder
 ### Nested Resources
 
 ```
+
 # Shallow nesting (preferred)
 GET /api/users/{id}/orders
 GET /api/orders/{id}
 
 # Deep nesting (avoid)
 GET /api/users/{id}/orders/{orderId}/items/{itemId}/reviews
+
 # Better:
 GET /api/order-items/{id}/reviews
 ```
@@ -87,6 +90,7 @@ DELETE /api/users/{id}
 ### Query Parameters
 
 ```
+
 # Filtering
 GET /api/users?status=active
 GET /api/users?role=admin&status=active
@@ -291,6 +295,7 @@ X-API-Key: your-api-key-here
 ### Cache Headers
 
 ```
+
 # Client caching
 Cache-Control: public, max-age=3600
 

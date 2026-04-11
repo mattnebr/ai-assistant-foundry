@@ -1,10 +1,10 @@
-﻿# Layer Responsibilities in Clean Architecture
+# Layer Responsibilities in Clean Architecture
 
 Detailed responsibilities and rules for each layer in Clean Architecture projects with DDD and CQRS.
 
 ## The Dependency Rule
 
-> "Source code dependencies must point only inward, toward higher-level policies."  
+> "Source code dependencies must point only inward, toward higher-level policies."
 > — Robert C. Martin, *Clean Architecture* (2017)
 
 ```
@@ -68,28 +68,28 @@ Contains **enterprise business rules** and **ubiquitous language**:
 public sealed class Order
 {
     private readonly List<OrderLine> _orderLines = new();
-    
+
     public OrderId Id { get; }
     public OrderStatus Status { get; private set; }
-    
+
     private Order(OrderId id)
     {
         Id = id;
         Status = OrderStatus.Draft;
     }
-    
+
     // Factory method (no public constructor)
     public static Order Create(OrderId id) => new Order(id);
-    
+
     // Business method (enforces invariants)
     public void Confirm()
     {
         if (!_orderLines.Any())
             throw new DomainException("Cannot confirm order without items");
-        
+
         if (Status != OrderStatus.Draft)
             throw new DomainException("Only draft orders can be confirmed");
-        
+
         Status = OrderStatus.Confirmed;
     }
 }
@@ -104,7 +104,7 @@ public interface IOrderRepository
 
 ### Authority
 
-> "The Domain Layer is the heart of business software. [...] It should be well isolated from other layers."  
+> "The Domain Layer is the heart of business software. [...] It should be well isolated from other layers."
 > — Eric Evans, *Domain-Driven Design* (2003)
 
 ---
@@ -155,7 +155,7 @@ public sealed class PlaceOrderCommandHandler : ICommandHandler<PlaceOrderCommand
 {
     private readonly IOrderRepository _orderRepository; // Interface from Domain
     private readonly IInventoryService _inventoryService; // Interface from Domain or Application
-    
+
     public PlaceOrderCommandHandler(
         IOrderRepository orderRepository,
         IInventoryService inventoryService)
@@ -163,24 +163,24 @@ public sealed class PlaceOrderCommandHandler : ICommandHandler<PlaceOrderCommand
         _orderRepository = orderRepository;
         _inventoryService = inventoryService;
     }
-    
+
     public async Task<OrderId> HandleAsync(
         PlaceOrderCommand command,
         CancellationToken ct = default)
     {
         // 1. Create Domain aggregate (business logic in Domain)
         var order = Order.Create(command.OrderId, command.CustomerId);
-        
+
         // 2. Apply business operations through Domain methods
         foreach (var line in command.OrderLines)
             order.RegisterOrderItem(line.ProductId, line.ProductName, line.Quantity, line.Price);
-        
+
         order.Confirm(); // Domain enforces invariants
-        
+
         // 3. Orchestrate Infrastructure calls
         await _inventoryService.ReserveItemsAsync(order.OrderLines, ct);
         await _orderRepository.AddAsync(order, ct);
-        
+
         return order.Id;
     }
 }
@@ -195,7 +195,7 @@ public sealed record OrderViewModel(
 
 ### Authority
 
-> "Application services orchestrate the execution of domain objects to perform the task."  
+> "Application services orchestrate the execution of domain objects to perform the task."
 > — Vaughn Vernon, *Implementing Domain-Driven Design* (2013)
 
 ---
@@ -239,19 +239,19 @@ Contains **implementation details** and **external dependencies**:
 public sealed class OrderRepository : IOrderRepository
 {
     private readonly OrderingDbContext _context;
-    
+
     public OrderRepository(OrderingDbContext context)
     {
         _context = context;
     }
-    
+
     public async Task<Order?> GetByIdAsync(OrderId id, CancellationToken ct = default)
     {
         return await _context.Orders
             .Include(o => o.OrderLines)
             .FirstOrDefaultAsync(o => o.Id == id, ct);
     }
-    
+
     public async Task AddAsync(Order order, CancellationToken ct = default)
     {
         await _context.Orders.AddAsync(order, ct);
@@ -266,14 +266,14 @@ public static class DependencyInjection
     {
         // Register repositories
         services.AddScoped<IOrderRepository, OrderRepository>();
-        
+
         // Register handlers via convention
         services.AddApplicationHandlers();
-        
+
         // Register EF Core
         services.AddDbContext<OrderingDbContext>(options =>
             options.UseSqlServer("ConnectionString"));
-        
+
         return services;
     }
 }
@@ -281,7 +281,7 @@ public static class DependencyInjection
 
 ### Authority
 
-> "The infrastructure layer contains adapters that translate between the domain model and external systems."  
+> "The infrastructure layer contains adapters that translate between the domain model and external systems."
 > — Eric Evans, *Domain-Driven Design* (2003)
 
 ---
@@ -326,11 +326,11 @@ public static class OrdersEndpoints
     public static void MapOrdersEndpoints(this IEndpointRouteBuilder app)
     {
         var group = app.MapGroup("/api/orders").WithTags("Orders");
-        
+
         group.MapPost("/", PlaceOrder);
         group.MapGet("/{orderId:guid}", GetOrder);
     }
-    
+
     private static async Task<IResult> PlaceOrder(
         PlaceOrderCommand command,
         ICommandHandler<PlaceOrderCommand, OrderId> handler, // Injected by DI (from Infrastructure)
@@ -339,7 +339,7 @@ public static class OrdersEndpoints
         var orderId = await handler.HandleAsync(command, ct);
         return Results.Created($"/api/orders/{orderId.Value}", orderId);
     }
-    
+
     private static async Task<IResult> GetOrder(
         Guid orderId,
         IQueryHandler<GetOrderQuery, OrderViewModel> handler,
@@ -354,7 +354,7 @@ public static class OrdersEndpoints
 
 ### Authority
 
-> "The web is a delivery mechanism. [...] The web is a detail. It should not affect the business rules."  
+> "The web is a delivery mechanism. [...] The web is a detail. It should not affect the business rules."
 > — Robert C. Martin, *Clean Architecture* (2017)
 
 ---

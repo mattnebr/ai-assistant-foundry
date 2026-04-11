@@ -1,4 +1,4 @@
-﻿# Data Fetching Patterns
+# Data Fetching Patterns
 
 Modern data fetching using TanStack Query with Suspense boundaries, cache-first strategies, and centralized API services.
 

@@ -1,4 +1,4 @@
-﻿# Dunning Playbook
+# Dunning Playbook
 
 Complete guide to recovering failed payments and reducing involuntary churn.
 

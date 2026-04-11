@@ -1,4 +1,4 @@
-﻿---
+---
 name: microsoft-skill-creator
 description: Create agent skills for Microsoft technologies using Learn MCP tools. Use when users want to create a skill that teaches agents about any Microsoft technology, library, framework, or service (Azure, .NET, M365, VS Code, Bicep, etc.). Investigates topics deeply, then generates a hybrid skill storing essential knowledge locally while enabling dynamic deeper investigation.
 context: fork
@@ -42,6 +42,7 @@ skill-name/
 If the Learn MCP server is not available, use the `mslearn` CLI from a terminal or shell (for example, Bash, PowerShell, or cmd) instead:
 
 ```bash
+
 # Run directly (no install needed)
 npx @microsoft/learn-cli search "semantic kernel overview"
 

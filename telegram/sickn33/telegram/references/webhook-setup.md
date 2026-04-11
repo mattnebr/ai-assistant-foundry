@@ -1,4 +1,4 @@
-﻿# Webhook Setup - Telegram Bot
+# Webhook Setup - Telegram Bot
 
 ## Table of Contents
 1. [Conceitos](#conceitos)
@@ -208,6 +208,7 @@ def health():
 Para desenvolvimento local, use ngrok para expor sua porta local via HTTPS:
 
 ```bash
+
 # Instalar ngrok: https://ngrok.com/download
 ngrok http 3000
 ```
@@ -231,6 +232,7 @@ npx localtunnel --port 3000
 
 ### Railway
 ```bash
+
 # railway.json
 {
   "build": { "builder": "nixpacks" },
@@ -240,6 +242,7 @@ npx localtunnel --port 3000
 
 ### Render
 ```yaml
+
 # render.yaml
 services:
   - type: web

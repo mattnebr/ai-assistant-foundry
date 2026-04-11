@@ -1,4 +1,4 @@
-﻿# Cold Email Copywriting Frameworks
+# Cold Email Copywriting Frameworks
 
 Frameworks beat templates — they teach thinking patterns, not copy-paste shortcuts.
 

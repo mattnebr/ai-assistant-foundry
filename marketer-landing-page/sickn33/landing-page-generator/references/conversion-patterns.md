@@ -1,4 +1,4 @@
-﻿# High-Converting Landing Page Patterns
+# High-Converting Landing Page Patterns
 
 ## Overview
 

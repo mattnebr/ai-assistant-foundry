@@ -1,4 +1,4 @@
-﻿---
+---
 name: telegram-mini-app
 description: Expert in building Telegram Mini Apps (TWA) - web apps that run
   inside Telegram with native-like experience. Covers the TON ecosystem,

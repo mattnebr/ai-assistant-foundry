@@ -1,4 +1,4 @@
-﻿---
+---
 name: gherkin-gate
 description: Use before writing any test or implementation task, when observable behavior needs to be captured in business language scenarios and approved by the user before code begins
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 name: react-component-performance
 description: Diagnose slow React components and suggest targeted performance fixes.
 risk: safe

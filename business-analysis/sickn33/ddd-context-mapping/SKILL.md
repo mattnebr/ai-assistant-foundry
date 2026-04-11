@@ -1,4 +1,4 @@
-﻿---
+---
 name: ddd-context-mapping
 description: "Map relationships between bounded contexts and define integration contracts using DDD context mapping patterns."
 risk: safe

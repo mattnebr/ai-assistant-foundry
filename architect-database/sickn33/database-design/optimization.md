@@ -1,4 +1,4 @@
-﻿# Query Optimization
+# Query Optimization
 
 > N+1 problem, EXPLAIN ANALYZE, optimization priorities.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 applyTo: '**/*.cs'
 ---
 # Rules for Unit and Integration Tests

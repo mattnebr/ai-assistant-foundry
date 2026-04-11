@@ -1,4 +1,4 @@
-﻿---
+---
 name: content-strategy
 description: "Plan a content strategy, topic clusters, editorial roadmap, and content mix for traffic, authority, and lead generation. Use when deciding what to publish, what topics to prioritize, or how to structure a content program."
 risk: unknown

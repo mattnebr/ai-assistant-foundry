@@ -1,4 +1,4 @@
-﻿---
+---
 name: keyword-extractor
 description: >
   Extracts up to 50 highly relevant SEO keywords from text. Use when user wants to generate or extract keywords for given text.
@@ -16,36 +16,36 @@ Extracts **max 50 relevant keywords** from text and formats them in a strict mac
 ## QUICK START
 
 Jump to any section:
-1. [CORE MANDATE](#core-mandate) – Output rules and formatting 
-2. [WHEN TO USE](#when-to-use) – Trigger conditions for this skill 
-3. [KEYWORD QUALITY RULES](#keyword-quality-rules) – Priorities and forbidden keywords 
-4. [WORKFLOW](#workflow) – Step-by-step generation and processing 
-5. [FAILURE HANDLING](#failure-handling) – Short text or edge cases 
+1. [CORE MANDATE](#core-mandate) – Output rules and formatting
+2. [WHEN TO USE](#when-to-use) – Trigger conditions for this skill
+3. [KEYWORD QUALITY RULES](#keyword-quality-rules) – Priorities and forbidden keywords
+4. [WORKFLOW](#workflow) – Step-by-step generation and processing
+5. [FAILURE HANDLING](#failure-handling) – Short text or edge cases
 
 ---
 
 # CORE MANDATE
 
 Return **exactly one comma-separated line** of keywords, following these rules:
-- max 50 keywords  
-- ordered by relevance  
-- all lowercase  
-- no duplicates or near-duplicates  
-- mix of single words and 2–4 word phrases  
+- max 50 keywords
+- ordered by relevance
+- all lowercase
+- no duplicates or near-duplicates
+- mix of single words and 2–4 word phrases
 - no numbering, bullets, explanations, or trailing period
 
 ---
 
 ## When to Use
 Use this skill when the user wants to generate or extract **SEO-friendly keywords or tags** from text including:
-- Extracting keywords or tags for any given text or paragraph  
-- Creating **comma-separated keywords or tags** suitable for SEO, search, or metadata  
-- Generating topic-specific keywords or tags based on the content’s main subjects and concepts  
+- Extracting keywords or tags for any given text or paragraph
+- Creating **comma-separated keywords or tags** suitable for SEO, search, or metadata
+- Generating topic-specific keywords or tags based on the content’s main subjects and concepts
 
 This skill should be triggered for **all text-based keyword extraction requests**, regardless of phrasing, as long as the goal is SEO, tagging, or metadata generation.
 
-Do NOT trigger this skill for:  
-- Summaries or paraphrasing requests  
+Do NOT trigger this skill for:
+- Summaries or paraphrasing requests
 - Text analysis without keyword generation
 
 ---

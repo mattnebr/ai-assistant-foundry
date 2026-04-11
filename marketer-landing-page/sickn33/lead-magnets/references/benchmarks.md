@@ -1,4 +1,4 @@
-﻿# Lead Magnet Benchmarks
+# Lead Magnet Benchmarks
 
 Reference data for planning and evaluating lead magnet performance.
 

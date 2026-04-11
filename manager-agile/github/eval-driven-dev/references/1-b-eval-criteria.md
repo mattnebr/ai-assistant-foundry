@@ -1,4 +1,4 @@
-﻿# Step 1b: Eval Criteria
+# Step 1b: Eval Criteria
 
 Define what quality dimensions matter for this app — based on the entry point (`01-entry-point.md`) you've already documented.
 
@@ -66,6 +66,7 @@ Write your findings to this file. **Keep it short** — the template below is th
 ### Template
 
 ```markdown
+
 # Eval Criteria
 
 ## Use cases

@@ -1,4 +1,4 @@
-﻿---
+---
 name: workflow-automation
 description: Workflow automation is the infrastructure that makes AI agents
   reliable. Without durable execution, a network hiccup during a 10-step payment
@@ -677,8 +677,11 @@ const orderId = await sideEffect(() => uuid());
 const now = workflow.now();  # Deterministic replay-safe time
 
 # Side effects that are safe in workflow code:
+
 # - Reading function arguments
+
 # - Simple calculations (no randomness)
+
 # - Logging (usually)
 
 ### Retry Configuration Without Exponential Backoff

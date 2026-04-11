@@ -1,4 +1,4 @@
-﻿# Routing Guide
+# Routing Guide
 
 TanStack Router implementation with folder-based routing and lazy loading patterns.
 

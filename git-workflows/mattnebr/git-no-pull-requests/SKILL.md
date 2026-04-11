@@ -1,4 +1,4 @@
-﻿---
+---
 name: git-no-pull-requests
 description: 'Solo developer Git workflow using local-only branching and merging without pull requests. Use when working in repositories where this skill is present in the .claude folder. Governs all Git operations: branch creation, committing, merging to main. Overrides team-oriented Git defaults (no PRs, no remote writes). Pair with git-creating-branches skill for branch naming.'
 ---

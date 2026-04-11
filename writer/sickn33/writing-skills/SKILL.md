@@ -1,4 +1,4 @@
-﻿---
+---
 name: writing-skills
 description: "Use when creating, updating, or improving agent skills."
 category: meta

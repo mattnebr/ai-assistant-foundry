@@ -1,4 +1,4 @@
-﻿---
+---
 applyTo: '**/*Domain/**/*.cs'
 description: Guidelines for encapsulating business rules in aggregates using the Specification pattern (DDD, C#)
 ---
@@ -87,7 +87,7 @@ public sealed class Order
             throw new ArgumentException("Quantity must be greater than zero");
         if (price <= 0)
             throw new ArgumentException("Price must be greater than zero");
-        
+
         var orderLine = new OrderLine(productName, quantity, price);
         _orderLines.Add(orderLine);
     }
@@ -108,8 +108,8 @@ public interface ISpecification<T>
 public sealed class TripEligibleForPromotionSpecification : ISpecification<Trip>
 {
     public bool IsSatisfiedBy(Trip trip) =>
-        trip.IsAvailable && 
-        trip.AvailableSeats >= 5 && 
+        trip.IsAvailable &&
+        trip.AvailableSeats >= 5 &&
         trip.DepartureDate > DateTime.UtcNow.AddDays(30) &&
         trip.Destination.IsPopular;
 
@@ -125,7 +125,7 @@ public sealed class Booking
     {
         if (!TripEligibleForPromotionSpecification.IsSatisfiedBy(trip))
             throw new InvalidOperationException("Trip is not eligible for promotional discount");
-        
+
         // Apply discount logic...
     }
 }
@@ -137,7 +137,7 @@ public sealed class Booking
 public sealed class TripIsAvailableSpecification : ISpecification<Trip>
 {
     public bool IsSatisfiedBy(Trip trip) => trip.IsAvailable;
-    
+
     public static bool IsSatisfiedBy(Trip trip) =>
         new TripIsAvailableSpecification().IsSatisfiedBy(trip);
 }
@@ -145,25 +145,25 @@ public sealed class TripIsAvailableSpecification : ISpecification<Trip>
 public sealed class TripHasMinimumSeatsSpecification : ISpecification<Trip>
 {
     private readonly int _minimumSeats;
-    
+
     public TripHasMinimumSeatsSpecification(int minimumSeats)
     {
         _minimumSeats = minimumSeats;
     }
-    
+
     public bool IsSatisfiedBy(Trip trip) => trip.AvailableSeats >= _minimumSeats;
 }
 
 public sealed class TripDepartsSoonSpecification : ISpecification<Trip>
 {
     private readonly int _daysBeforeDeparture;
-    
+
     public TripDepartsSoonSpecification(int daysBeforeDeparture)
     {
         _daysBeforeDeparture = daysBeforeDeparture;
     }
-    
-    public bool IsSatisfiedBy(Trip trip) => 
+
+    public bool IsSatisfiedBy(Trip trip) =>
         trip.DepartureDate <= DateTime.UtcNow.AddDays(_daysBeforeDeparture);
 }
 
@@ -179,7 +179,7 @@ public sealed class AndSpecification<T> : ISpecification<T>
         _right = right;
     }
 
-    public bool IsSatisfiedBy(T entity) => 
+    public bool IsSatisfiedBy(T entity) =>
         _left.IsSatisfiedBy(entity) && _right.IsSatisfiedBy(entity);
 }
 
@@ -191,14 +191,14 @@ public sealed class Booking
         var isAvailable = new TripIsAvailableSpecification();
         var hasMinimumSeats = new TripHasMinimumSeatsSpecification(5);
         var departsSoon = new TripDepartsSoonSpecification(7);
-        
+
         var combinedSpec = new AndSpecification<Trip>(
             new AndSpecification<Trip>(isAvailable, hasMinimumSeats),
             departsSoon);
-        
+
         if (!combinedSpec.IsSatisfiedBy(trip))
             throw new InvalidOperationException("Trip does not meet last-minute discount criteria");
-        
+
         // Apply last-minute discount logic...
     }
 }

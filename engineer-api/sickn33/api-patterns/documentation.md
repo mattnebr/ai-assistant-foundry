@@ -1,4 +1,4 @@
-﻿# API Documentation Principles
+# API Documentation Principles
 
 > Good docs = happy developers = API adoption.
 

@@ -1,4 +1,4 @@
-﻿# Code Review Excellence Implementation Playbook
+# Code Review Excellence Implementation Playbook
 
 This file contains detailed patterns, checklists, and code samples referenced by the skill.
 
@@ -153,6 +153,7 @@ For each file:
 ### Technique 1: The Checklist Method
 
 ```markdown
+
 ## Security Checklist
 - [ ] User input validated and sanitized
 - [ ] SQL queries use parameterization
@@ -194,6 +195,7 @@ Instead of stating problems, ask questions to encourage thinking:
 ### Technique 3: Suggest, Don't Command
 
 ```markdown
+
 ## Use Collaborative Language
 
 ❌ "You must change this to use async/await"
@@ -237,6 +239,7 @@ Example:
 ### Python Code Review
 
 ```python
+
 # Check for Python-specific issues
 
 # ❌ Mutable default arguments
@@ -381,6 +384,7 @@ test('displays incremented count when clicked', () => {
 ### Pattern 3: Security Review
 
 ```markdown
+
 ## Security Review Checklist
 
 ### Authentication & Authorization
@@ -482,6 +486,7 @@ When author disagrees with your feedback:
 ### PR Review Comment Template
 
 ```markdown
+
 ## Summary
 [Brief overview of what was reviewed]
 

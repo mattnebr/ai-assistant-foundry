@@ -1,4 +1,4 @@
-﻿# Architecture Patterns Implementation Playbook
+# Architecture Patterns Implementation Playbook
 
 This file contains detailed patterns, checklists, and code samples referenced by the skill.
 
@@ -88,6 +88,7 @@ app/
 ### Implementation Example
 
 ```python
+
 # domain/entities/user.py
 from dataclasses import dataclass
 from datetime import datetime
@@ -270,6 +271,7 @@ async def create_user(
 ## Hexagonal Architecture Pattern
 
 ```python
+
 # Core domain (hexagon center)
 class OrderService:
     """Domain service - no infrastructure dependencies."""
@@ -354,6 +356,7 @@ class MockPaymentAdapter(PaymentGatewayPort):
 ## Domain-Driven Design Pattern
 
 ```python
+
 # Value Objects (immutable)
 from dataclasses import dataclass
 from typing import Optional

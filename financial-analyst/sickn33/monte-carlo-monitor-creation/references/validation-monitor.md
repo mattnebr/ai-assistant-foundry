@@ -1,4 +1,4 @@
-﻿# Validation Monitor Reference
+# Validation Monitor Reference
 
 Detailed reference for building `createValidationMonitorMac` tool calls.
 

@@ -1,4 +1,4 @@
-﻿# Strategic Design Template
+# Strategic Design Template
 
 ## Subdomain classification
 

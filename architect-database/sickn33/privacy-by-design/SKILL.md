@@ -1,4 +1,4 @@
-﻿---
+---
 name: privacy-by-design
 description: "Use when building apps that collect user data. Ensures privacy protections are built in from the start—data minimization, consent, encryption."
 risk: safe
@@ -111,11 +111,13 @@ if (userConsent.analytics) {
 ### Python — Safe Logging
 
 ```python
+
 # BAD: Logging PII in plain text
 logger.info(f"User {user.email} logged in from {request.remote_addr}")
 
 # GOOD: Redact or hash identifiers
 logger.info(f"User {hash_user_id(user.id)} logged in")
+
 # Or: logger.info("User login", extra={"user_id_hash": hash_id(user.id)})
 ```
 
@@ -138,6 +140,7 @@ CREATE TABLE users (
 ### API — Return Only Needed Fields
 
 ```python
+
 # BAD: Returning full user object
 return jsonify(user)  # May include internal fields, hashed passwords
 

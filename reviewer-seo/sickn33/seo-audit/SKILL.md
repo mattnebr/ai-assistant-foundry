@@ -1,4 +1,4 @@
-﻿---
+---
 name: seo-audit
 description: Diagnose and audit SEO issues affecting crawlability, indexation, rankings, and organic performance.
 risk: safe

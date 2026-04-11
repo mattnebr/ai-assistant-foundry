@@ -1,4 +1,4 @@
-﻿---
+---
 name: update-markdown-file-index
 description: 'Update a markdown file section with an index/table of files from a specified folder.'
 ---
@@ -33,6 +33,7 @@ Choose format based on file types and existing content:
 ### Option 1: Simple List
 
 ```markdown
+
 ## Files in ${folder}
 
 - [filename.ext](path/to/filename.ext) - Description

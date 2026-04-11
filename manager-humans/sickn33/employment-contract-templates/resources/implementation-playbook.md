@@ -1,4 +1,4 @@
-﻿# Employment Contract Templates Implementation Playbook
+# Employment Contract Templates Implementation Playbook
 
 This file contains detailed patterns, checklists, and code samples referenced by the skill.
 
@@ -32,6 +32,7 @@ Employment Relationship:
 ### Template 1: Offer Letter
 
 ```markdown
+
 # EMPLOYMENT OFFER LETTER
 
 [Company Letterhead]
@@ -126,6 +127,7 @@ Anticipated Start Date: _________________________
 ### Template 2: Employment Agreement (Contract Position)
 
 ```markdown
+
 # EMPLOYMENT AGREEMENT
 
 This Employment Agreement ("Agreement") is entered into as of [DATE]
@@ -322,6 +324,7 @@ _________________________
 ### Template 3: Employee Handbook Policy Section
 
 ```markdown
+
 # EMPLOYEE HANDBOOK - POLICY SECTION
 
 ## EMPLOYMENT POLICIES

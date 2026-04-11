@@ -1,4 +1,4 @@
-﻿---
+---
 name: tldr-prompt
 description: 'Create tldr summaries for GitHub Copilot files (prompts, agents, instructions, collections), MCP servers, or documentation from URLs and queries.'
 ---
@@ -114,7 +114,9 @@ If the user **DOES** provide a specific URL or file, skip searching and fetch/re
 ### Syntax
 
 ```bash
+
 # UNAMBIGUOUS QUERIES
+
 # With specific files (any type)
 /tldr-prompt #file:{{name.prompt.md}}
 /tldr-prompt #file:{{name.agent.md}}
@@ -249,6 +251,7 @@ for file type
 Use this template structure when creating tldr pages:
 
 ```markdown
+
 # command
 
 > Short, snappy description.

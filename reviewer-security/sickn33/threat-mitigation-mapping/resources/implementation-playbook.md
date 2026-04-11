@@ -1,4 +1,4 @@
-﻿# Threat Mitigation Mapping Implementation Playbook
+# Threat Mitigation Mapping Implementation Playbook
 
 This file contains detailed patterns, checklists, and code samples referenced by the skill.
 
@@ -547,6 +547,7 @@ class MitigationAnalyzer:
         layer_coverage = self.defense_in_depth_analysis()
 
         report = f"""
+
 # Threat Mitigation Report
 
 ## Executive Summary
@@ -691,6 +692,7 @@ class ControlTester:
         passed = sum(1 for r in self.results if r["passed"])
 
         report = f"""
+
 # Control Effectiveness Test Report
 
 ## Summary

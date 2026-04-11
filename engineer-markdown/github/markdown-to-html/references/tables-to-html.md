@@ -1,4 +1,4 @@
-﻿# Tables to HTML
+# Tables to HTML
 
 ## Creating a table
 

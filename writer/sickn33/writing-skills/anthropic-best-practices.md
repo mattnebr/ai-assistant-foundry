@@ -1,4 +1,4 @@
-﻿# Skill authoring best practices
+# Skill authoring best practices
 
 > Learn how to write effective Skills that Claude can discover and use successfully.
 
@@ -30,6 +30,7 @@ Only add context Claude doesn't already have. Challenge each piece of informatio
 **Good example: Concise** (approximately 50 tokens):
 
 ````markdown  theme={null}
+
 ## Extract PDF text
 
 Use pdfplumber for text extraction:
@@ -45,6 +46,7 @@ with pdfplumber.open("file.pdf") as pdf:
 **Bad example: Too verbose** (approximately 150 tokens):
 
 ```markdown  theme={null}
+
 ## Extract PDF text
 
 PDF (Portable Document Format) files are a common file format that contains
@@ -71,6 +73,7 @@ Use when:
 Example:
 
 ```markdown  theme={null}
+
 ## Code review process
 
 1. Analyze the code structure and organization
@@ -90,6 +93,7 @@ Use when:
 Example:
 
 ````markdown  theme={null}
+
 ## Generate report
 
 Use this template and customize as needed:
@@ -113,6 +117,7 @@ Use when:
 Example:
 
 ````markdown  theme={null}
+
 ## Database migration
 
 Run exactly this script:
@@ -309,6 +314,7 @@ bigquery-skill/
 ```
 
 ````markdown SKILL.md theme={null}
+
 # BigQuery Data Analysis
 
 ## Available datasets
@@ -334,6 +340,7 @@ grep -i "api usage" reference/product.md
 Show basic content, link to advanced content:
 
 ```markdown  theme={null}
+
 # DOCX Processing
 
 ## Creating documents
@@ -359,6 +366,7 @@ Claude may partially read files when they're referenced from other referenced fi
 **Bad example: Too deep**:
 
 ```markdown  theme={null}
+
 # SKILL.md
 See advanced.md...
 
@@ -372,6 +380,7 @@ Here's the actual information...
 **Good example: One level deep**:
 
 ```markdown  theme={null}
+
 # SKILL.md
 
 **Basic usage**: [instructions in SKILL.md]
@@ -387,6 +396,7 @@ For reference files longer than 100 lines, include a table of contents at the to
 **Example**:
 
 ```markdown  theme={null}
+
 # API Reference
 
 ## Contents
@@ -416,6 +426,7 @@ Break complex operations into clear, sequential steps. For particularly complex 
 **Example 1: Research synthesis workflow** (for Skills without code):
 
 ````markdown  theme={null}
+
 ## Research synthesis workflow
 
 Copy this checklist and track your progress:
@@ -458,6 +469,7 @@ This example shows how workflows apply to analysis tasks that don't require code
 **Example 2: PDF form filling workflow** (for Skills with code):
 
 ````markdown  theme={null}
+
 ## PDF form filling workflow
 
 Copy this checklist and check off items as you complete them:
@@ -509,6 +521,7 @@ This pattern greatly improves output quality.
 **Example 1: Style guide compliance** (for Skills without code):
 
 ```markdown  theme={null}
+
 ## Content review process
 
 1. Draft your content following the guidelines in STYLE_GUIDE.md
@@ -529,6 +542,7 @@ This shows the validation loop pattern using reference documents instead of scri
 **Example 2: Document editing process** (for Skills with code):
 
 ```markdown  theme={null}
+
 ## Document editing process
 
 1. Make your edits to `word/document.xml`
@@ -560,6 +574,7 @@ After August 2025, use the new API.
 **Good example** (use "old patterns" section):
 
 ```markdown  theme={null}
+
 ## Current method
 
 Use the v2 API endpoint: `api.example.com/v2/messages`
@@ -604,11 +619,13 @@ Provide templates for output format. Match the level of strictness to your needs
 **For strict requirements** (like API responses or data formats):
 
 ````markdown  theme={null}
+
 ## Report structure
 
 ALWAYS use this exact template structure:
 
 ```markdown
+
 # [Analysis Title]
 
 ## Executive summary
@@ -628,11 +645,13 @@ ALWAYS use this exact template structure:
 **For flexible guidance** (when adaptation is useful):
 
 ````markdown  theme={null}
+
 ## Report structure
 
 Here is a sensible default format, but use your best judgment based on the analysis:
 
 ```markdown
+
 # [Analysis Title]
 
 ## Executive summary
@@ -653,6 +672,7 @@ Adjust sections as needed for the specific analysis type.
 For Skills where output quality depends on seeing examples, provide input/output pairs just like in regular prompting:
 
 ````markdown  theme={null}
+
 ## Commit message format
 
 Generate commit messages following these examples:
@@ -695,6 +715,7 @@ Examples help Claude understand the desired style and level of detail more clear
 Guide Claude through decision points:
 
 ```markdown  theme={null}
+
 ## Document modification workflow
 
 1. Determine the modification type:
@@ -889,11 +910,14 @@ Configuration parameters should also be justified and documented to avoid "voodo
 **Good example: Self-documenting**:
 
 ```python  theme={null}
+
 # HTTP requests typically complete within 30 seconds
+
 # Longer timeout accounts for slow connections
 REQUEST_TIMEOUT = 30
 
 # Three retries balances reliability vs speed
+
 # Most intermittent failures resolve by the second retry
 MAX_RETRIES = 3
 ```
@@ -930,6 +954,7 @@ For most utility scripts, execution is preferred because it's more reliable and 
 **Example**:
 
 ````markdown  theme={null}
+
 ## Utility scripts
 
 **analyze_form.py**: Extract all form fields from PDF
@@ -950,6 +975,7 @@ Output format:
 
 ```bash
 python scripts/validate_boxes.py fields.json
+
 # Returns: "OK" or lists conflicts
 ```
 
@@ -965,6 +991,7 @@ python scripts/fill_form.py input.pdf fields.json output.pdf
 When inputs can be rendered as images, have Claude analyze them:
 
 ````markdown  theme={null}
+
 ## Form layout analysis
 
 1. Convert PDF to images:

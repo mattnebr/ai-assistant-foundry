@@ -1,4 +1,4 @@
-﻿# Wrap API Reference
+# Wrap API Reference
 
 > Auto-generated from pixie source code docstrings.
 > Do not edit by hand — regenerate from the upstream [pixie-qa](https://github.com/yiouli/pixie-qa) source repository.
@@ -96,6 +96,7 @@ reference project modules (e.g., `from app import service`).
 **Example**:
 
 ```python
+
 # pixie_qa/scripts/run_app.py
 from __future__ import annotations
 from pydantic import BaseModel

@@ -1,4 +1,4 @@
-﻿# Dependabot Configuration Examples
+# Dependabot Configuration Examples
 
 Real-world `dependabot.yml` configurations for common scenarios.
 

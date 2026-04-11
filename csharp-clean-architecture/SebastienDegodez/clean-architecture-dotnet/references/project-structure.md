@@ -1,4 +1,4 @@
-﻿# Project Structure Best Practices
+# Project Structure Best Practices
 
 ## Domain Layer
 

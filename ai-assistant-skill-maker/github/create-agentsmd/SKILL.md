@@ -1,4 +1,4 @@
-﻿---
+---
 name: create-agentsmd
 description: 'Prompt for generating an AGENTS.md file for a repository'
 ---
@@ -109,6 +109,7 @@ AGENTS.md is a Markdown file that serves as a "README for agents" - a dedicated,
 Use this as a starting template and customize based on the specific project:
 
 ```markdown
+
 # AGENTS.md
 
 ## Project Overview
@@ -167,6 +168,7 @@ Use this as a starting template and customize based on the specific project:
 Here's a real example from the agents.md website:
 
 ```markdown
+
 # Sample AGENTS.md file
 
 ## Dev environment tips

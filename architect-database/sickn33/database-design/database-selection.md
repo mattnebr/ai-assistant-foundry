@@ -1,4 +1,4 @@
-﻿# Database Selection (2025)
+# Database Selection (2025)
 
 > Choose database based on context, not default.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 name: aspnet-minimal-api-openapi
 description: 'Create ASP.NET Minimal API endpoints with proper OpenAPI documentation'
 ---

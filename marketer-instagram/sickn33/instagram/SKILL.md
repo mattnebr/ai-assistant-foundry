@@ -1,4 +1,4 @@
-﻿---
+---
 name: instagram
 description: Integracao completa com Instagram via Graph API. Publicacao, analytics, comentarios, DMs, hashtags, agendamento, templates e gestao de contas Business/Creator.
 risk: critical
@@ -99,7 +99,7 @@ C:\Users\renat\skills\instagram\
 ├── static/
 │   └── dashboard.html                # Dashboard Chart.js
 └── data/
-    
+
 
 ## Instalação (Uma Vez)
 

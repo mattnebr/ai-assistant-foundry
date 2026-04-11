@@ -1,4 +1,4 @@
-﻿---
+---
 name: seo-page
 description: >
   Deep single-page SEO analysis covering on-page elements, content quality,

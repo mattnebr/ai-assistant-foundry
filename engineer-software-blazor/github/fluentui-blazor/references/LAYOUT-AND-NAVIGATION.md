@@ -1,4 +1,4 @@
-﻿# Layout and Navigation
+# Layout and Navigation
 
 ## Layout Components
 

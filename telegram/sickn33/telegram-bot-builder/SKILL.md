@@ -1,4 +1,4 @@
-﻿---
+---
 name: telegram-bot-builder
 description: Expert in building Telegram bots that solve real problems - from
   simple automation to complex AI-powered bots. Covers bot architecture, the

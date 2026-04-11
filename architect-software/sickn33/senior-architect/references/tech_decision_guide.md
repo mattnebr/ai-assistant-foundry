@@ -1,4 +1,4 @@
-﻿# Tech Decision Guide
+# Tech Decision Guide
 
 ## Overview
 

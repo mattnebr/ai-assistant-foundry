@@ -1,4 +1,4 @@
-﻿# Verification Report
+# Verification Report
 
 ## Summary
 

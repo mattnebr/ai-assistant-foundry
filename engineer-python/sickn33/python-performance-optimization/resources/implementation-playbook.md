@@ -1,4 +1,4 @@
-﻿# Python Performance Optimization Implementation Playbook
+# Python Performance Optimization Implementation Playbook
 
 This file contains detailed patterns, checklists, and code samples referenced by the skill.
 
@@ -113,19 +113,24 @@ if __name__ == "__main__":
 
 **Command-line profiling:**
 ```bash
+
 # Profile a script
 python -m cProfile -o output.prof script.py
 
 # View results
 python -m pstats output.prof
+
 # In pstats:
+
 # sort cumtime
+
 # stats 10
 ```
 
 ### Pattern 2: line_profiler - Line-by-Line Profiling
 
 ```python
+
 # Install: pip install line-profiler
 
 # Add @profile decorator (line_profiler provides this)
@@ -139,6 +144,7 @@ def process_data(data):
     return result
 
 # Run with:
+
 # kernprof -l -v script.py
 ```
 
@@ -169,6 +175,7 @@ if __name__ == "__main__":
 ### Pattern 3: memory_profiler - Memory Usage
 
 ```python
+
 # Install: pip install memory-profiler
 
 from memory_profiler import profile
@@ -191,12 +198,14 @@ if __name__ == "__main__":
     memory_intensive()
 
 # Run with:
+
 # python -m memory_profiler script.py
 ```
 
 ### Pattern 4: py-spy - Production Profiling
 
 ```bash
+
 # Install: pip install py-spy
 
 # Profile a running Python process
@@ -649,6 +658,7 @@ print(f"Speedup: {slow_time/fast_time:.2f}x")
 ### Pattern 17: Query Optimization
 
 ```python
+
 # Use indexes for frequently queried columns
 """
 -- Slow: No index
@@ -670,7 +680,9 @@ cursor.execute("EXPLAIN QUERY PLAN SELECT * FROM users WHERE email = ?", ("test@
 print(cursor.fetchall())
 
 # Use SELECT only needed columns
+
 # Slow: SELECT *
+
 # Fast: SELECT id, name
 ```
 
@@ -738,6 +750,7 @@ def process_file_iterator(filename):
         return sum(1 for line in f if line.strip())
 
 # Iterator uses constant memory
+
 # List loads entire file into memory
 ```
 
@@ -805,6 +818,7 @@ result = slow_function()
 ### Performance Testing with pytest-benchmark
 
 ```python
+
 # Install: pip install pytest-benchmark
 
 def test_list_comprehension(benchmark):

@@ -1,4 +1,4 @@
-﻿# Architecture Layers
+# Architecture Layers
 
 ## The Four Layers
 

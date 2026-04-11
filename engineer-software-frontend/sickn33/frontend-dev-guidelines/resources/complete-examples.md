@@ -1,4 +1,4 @@
-﻿# Complete Examples
+# Complete Examples
 
 Full working examples combining all modern patterns: React.FC, lazy loading, Suspense, useSuspenseQuery, styling, routing, and error handling.
 

@@ -1,4 +1,4 @@
-﻿# Metric Monitor Reference
+# Metric Monitor Reference
 
 Detailed reference for building `createMetricMonitorMac` tool calls.
 

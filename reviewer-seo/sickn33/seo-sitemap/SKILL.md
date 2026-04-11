@@ -1,4 +1,4 @@
-﻿---
+---
 name: seo-sitemap
 description: >
   Analyze existing XML sitemaps or generate new ones with industry templates.

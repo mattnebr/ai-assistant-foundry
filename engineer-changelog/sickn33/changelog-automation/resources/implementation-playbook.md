@@ -1,4 +1,4 @@
-﻿# Changelog Automation Implementation Playbook
+# Changelog Automation Implementation Playbook
 
 This file contains detailed patterns, checklists, and code samples referenced by the skill.
 
@@ -7,6 +7,7 @@ This file contains detailed patterns, checklists, and code samples referenced by
 ### 1. Keep a Changelog Format
 
 ```markdown
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
@@ -83,10 +84,12 @@ PATCH: Bug fixes (fix)
 ### Method 1: Conventional Changelog (Node.js)
 
 ```bash
+
 # Install tools
 npm install -D @commitlint/cli @commitlint/config-conventional
 npm install -D husky
 npm install -D standard-version
+
 # or
 npm install -D semantic-release
 
@@ -213,6 +216,7 @@ module.exports = {
 ### Method 4: GitHub Actions Workflow
 
 ```yaml
+
 # .github/workflows/release.yml
 name: Release
 
@@ -299,9 +303,11 @@ jobs:
 ### Method 5: git-cliff (Rust-based, Fast)
 
 ```toml
+
 # cliff.toml
 [changelog]
 header = """
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
@@ -364,6 +370,7 @@ repo = "repo"
 ```
 
 ```bash
+
 # Generate changelog
 git cliff -o CHANGELOG.md
 
@@ -377,6 +384,7 @@ git cliff --unreleased --dry-run
 ### Method 6: Python (commitizen)
 
 ```toml
+
 # pyproject.toml
 [tool.commitizen]
 name = "cz_conventional_commits"
@@ -399,6 +407,7 @@ bump_map = {"feat" = "MINOR", "fix" = "PATCH", "perf" = "PATCH", "refactor" = "P
 ```
 
 ```bash
+
 # Install
 pip install commitizen
 
@@ -417,6 +426,7 @@ cz check --rev-range HEAD~5..HEAD
 ### GitHub Release Template
 
 ```markdown
+
 ## What's Changed
 
 ### 🚀 Features
@@ -450,6 +460,7 @@ cz check --rev-range HEAD~5..HEAD
 ### Internal Release Notes
 
 ```markdown
+
 # Release v2.1.0 - January 15, 2024
 
 ## Summary
@@ -485,6 +496,7 @@ No special steps required. Standard deployment process applies.
 ## Commit Message Examples
 
 ```bash
+
 # Feature with scope
 feat(auth): add OAuth2 support for Google login
 

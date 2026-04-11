@@ -1,4 +1,4 @@
-﻿# Code Structure Exploration
+# Code Structure Exploration
 
 **Goal: Get outline/index of large files without reading entire file.**
 
@@ -21,6 +21,7 @@ Try tools in this order (stop when you get what you need):
 
 ### Basic Dart patterns
 ```bash
+
 # List all class definitions
 ast-grep -l dart -p 'class $NAME { $$$ }' file.dart
 
@@ -48,6 +49,7 @@ ast-grep -l dart -p 'extension $NAME on $TYPE { $$$ }' file.dart
 
 ### Advanced Dart patterns
 ```bash
+
 # List all async functions
 ast-grep -l dart -p 'Future<$TYPE> $NAME($$$) async { $$$ }' file.dart
 ast-grep -l dart -p 'Future<void> $NAME($$$) async { $$$ }' file.dart
@@ -78,6 +80,7 @@ ast-grep -l dart -p 'Widget build(BuildContext context) { $$$ }' file.dart
 
 ### Using Dart Analyzer
 ```bash
+
 # Get all symbols in a Dart file
 dart analyze --format=machine lib/your_file.dart
 
@@ -92,6 +95,7 @@ dart format --set-exit-if-changed lib/your_file.dart
 
 ### Using ctags with Dart
 ```bash
+
 # Generate tags for Dart files
 ctags -f - --languages=Dart file.dart
 
@@ -138,6 +142,7 @@ ast-grep -l typescript -p 'import $WHAT from $WHERE' file.ts
 
 ### Combine patterns for full outline
 ```bash
+
 # Get exports, classes, interfaces, types in one go
 ast-grep -l typescript -p 'export function $NAME($$$)' file.ts
 ast-grep -l typescript -p 'export class $NAME' file.ts
@@ -183,6 +188,7 @@ Shows symbol names and types.
 
 ### Filter by type
 ```bash
+
 # Functions only
 ctags -f - file.dart --kinds-Dart=f
 ctags -f - file.ts --kinds-TypeScript=f
@@ -226,7 +232,9 @@ Shows: type, name, line number
 
 **Step 1: Get quick outline**
 ```bash
+
 # Start with ast-grep (highest priority) - for any language
+
 # For Dart/Flutter files:
 ast-grep -l dart -p 'class $NAME { $$$ }' file.dart
 ast-grep -l dart -p '$TYPE $NAME($$$) { $$$ }' file.dart
@@ -244,6 +252,7 @@ Based on names, pick interesting functions/classes.
 
 **Step 3: Use ast-grep for targeted search**
 ```bash
+
 # Found "processData" function, now see how it's called
 ast-grep -l typescript -p 'processData($$$)' .
 ```
@@ -254,6 +263,7 @@ Now read just the relevant sections, not the entire file.
 ## Use Case: "What does this file export?"
 
 ```bash
+
 # Dart/Flutter (highest priority)
 ast-grep -l dart -p 'export $PATH' file.dart
 ast-grep -l dart -p 'class $NAME { $$$ }' file.dart  # Public classes
@@ -266,6 +276,7 @@ ast-grep -l typescript -p 'export $WHAT' file.ts
 ## Use Case: "What classes/interfaces are available?"
 
 ```bash
+
 # Dart/Flutter (highest priority)
 ast-grep -l dart -p 'class $NAME { $$$ }' file.dart
 ast-grep -l dart -p 'mixin $NAME on $SUPER { $$$ }' file.dart
@@ -314,6 +325,7 @@ Need to understand large file?
 
 ## 1. Start with Cheapest Tool
 ```bash
+
 # Fastest: ast-grep with known pattern (highest priority)
 ast-grep -l dart -p 'class $NAME { $$$ }' file.dart
 ast-grep -l typescript -p 'export function $NAME' file.ts
@@ -325,11 +337,13 @@ dart analyze --format=machine lib/file.dart
 ctags -f - file.ts | cut -f1
 
 # Expensive: Read entire file
+
 # Only after outline shows it's relevant
 ```
 
 ## 2. Combine with grep for Filtering
 ```bash
+
 # Get all Dart functions, filter to public (non-underscore)
 ast-grep -l dart -p '$TYPE $NAME($$$) { $$$ }' file.dart | grep -v '_.*('
 
@@ -347,6 +361,7 @@ Don't read blindly. Get outline, identify relevant sections, then read those.
 ## 4. Cache Results for Large Explorations
 If exploring many files:
 ```bash
+
 # Generate tags for entire directory
 ctags -R -f .tags .
 
@@ -363,6 +378,7 @@ Outlines give structure but not implementation. When you need details, read the 
 
 ## "What's in this 2000-line file?"
 ```bash
+
 # Start with ast-grep (highest priority)
 ast-grep -l dart -p 'class $NAME { $$$ }' large-file.dart
 ast-grep -l dart -p '$TYPE $NAME($$$) { $$$ }' large-file.dart
@@ -375,6 +391,7 @@ ctags -f - large-file.ts | grep -v '^!' | cut -f1,4 | sort
 
 ## "Find all API endpoints in this file"
 ```bash
+
 # For Dart/Flutter (HTTP clients or server)
 ast-grep -l dart -p 'Future<$TYPE> $NAME($$$) async { $$$ }' file.dart | grep -i "http\|api\|fetch\|request"
 ast-grep -l dart -p "http.$METHOD($$$)" file.dart
@@ -390,6 +407,7 @@ ast-grep -l javascript -p 'app.get($$$)' app.js
 
 ## "What widgets are in this Flutter file?"
 ```bash
+
 # All widgets (StatefulWidget/StatelessWidget)
 ast-grep -l dart -p 'class $NAME extends StatefulWidget { $$$ }' file.dart
 ast-grep -l dart -p 'class $NAME extends StatelessWidget { $$$ }' file.dart
@@ -435,6 +453,7 @@ Sometimes reading is the right answer:
 **Primary strategy: ast-grep for targeted extraction (highest priority)**
 ```bash
 ast-grep -l LANG -p 'export function $NAME' file
+
 # For Dart/Flutter:
 ast-grep -l dart -p 'class $NAME { $$$ }' file.dart
 ```

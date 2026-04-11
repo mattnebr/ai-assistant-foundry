@@ -1,4 +1,4 @@
-﻿# Copilot Instruction File: Quality Rules & Template
+# Copilot Instruction File: Quality Rules & Template
 
 ## Output Template
 

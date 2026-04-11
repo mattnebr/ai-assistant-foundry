@@ -1,4 +1,4 @@
-﻿---
+---
 applyTo: '**/*.cs'
 description: Architecture and structural guidelines for implementing modular monolith solutions in C# with clear module boundaries and dependency management.
 ---
@@ -85,9 +85,9 @@ Each module MUST follow the **Clean Architecture principles** as defined in `cle
 ### Key Adaptations for Modular Monolith
 
 - **Project Structure**: Each module replicates the 4-layer structure:
-  - `[Solution].[Module].Domain` 
+  - `[Solution].[Module].Domain`
   - `[Solution].[Module].Application`
-  - `[Solution].[Module].Infrastructure` 
+  - `[Solution].[Module].Infrastructure`
   - `[Solution].[Module].Api`
 
 - **Dependencies**: Follow the same dependency rules as Clean Architecture, but scoped per module
@@ -103,7 +103,7 @@ public sealed class Order
     public OrderId Id { get; }
     public CustomerId CustomerId { get; }
     public OrderStatus Status { get; private set; }
-    
+
     // Factory method following DDD guidelines
     public static Order CreateNew(OrderId id, CustomerId customerId)
     {
@@ -167,22 +167,22 @@ Each module must provide extension methods for clean registration:
 public static class ModuleServiceCollectionExtensions
 {
     public static IServiceCollection AddOrderingModule(
-        this IServiceCollection services, 
+        this IServiceCollection services,
         IConfiguration configuration)
     {
         // Register module-specific DbContext
         services.AddDbContext<OrderingDbContext>(options =>
             options.UseSqlServer(configuration.GetConnectionString("Ordering")));
-            
+
         // Register repositories
         services.AddScoped<IOrderRepository, OrderRepository>();
-        
+
         // Register MediatR for the module
         services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(ApplicationAssembly));
-        
+
         // Register module-specific services
         services.AddScoped<IOrderingService, OrderingService>();
-        
+
         return services;
     }
 }
@@ -198,11 +198,11 @@ public static class ModuleEndpointExtensions
         var group = app.MapGroup("/api/ordering")
             .WithTags("Ordering")
             .WithOpenApi();
-            
+
         group.MapPost("/orders", CreateOrder);
         group.MapGet("/orders/{id}", GetOrder);
         group.MapPut("/orders/{id}/status", UpdateOrderStatus);
-        
+
         return app;
     }
 }
@@ -229,8 +229,8 @@ public abstract record DomainEvent(Guid Id, DateTime OccurredOn) : IDomainEvent;
 public readonly record struct Money(decimal Amount, string Currency)
 {
     public static Money Zero(string currency) => new(0, currency);
-    public Money Add(Money other) => 
-        Currency == other.Currency 
+    public Money Add(Money other) =>
+        Currency == other.Currency
             ? new(Amount + other.Amount, Currency)
             : throw new InvalidOperationException("Cannot add different currencies");
 }
@@ -260,10 +260,10 @@ public sealed class ModuleArchitectureTests
                 "[Solution].*.Application",
                 "[Solution].*.Infrastructure")
             .GetResult();
-            
+
         result.IsSuccessful.Should().BeTrue();
     }
-    
+
     [Fact]
     public void Modules_ShouldNotReferenceOtherModules()
     {
@@ -272,7 +272,7 @@ public sealed class ModuleArchitectureTests
             .ShouldNot()
             .HaveDependencyOnAny("[Solution].OtherModule.*")
             .GetResult();
-            
+
         result.IsSuccessful.Should().BeTrue();
     }
 }

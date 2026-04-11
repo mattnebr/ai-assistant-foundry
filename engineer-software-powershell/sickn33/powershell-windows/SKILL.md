@@ -1,4 +1,4 @@
-﻿---
+---
 name: powershell-windows
 description: "PowerShell Windows patterns. Critical pitfalls, operator syntax, error handling."
 risk: unknown
@@ -145,6 +145,7 @@ Write-Output "Value: $value"
 ## 10. Script Template
 
 ```powershell
+
 # Strict mode
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Continue"

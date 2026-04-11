@@ -1,4 +1,4 @@
-﻿# Comparison Monitor Reference
+# Comparison Monitor Reference
 
 Detailed reference for building `createComparisonMonitorMac` tool calls.
 

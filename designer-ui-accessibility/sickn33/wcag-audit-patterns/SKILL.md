@@ -1,4 +1,4 @@
-﻿---
+---
 name: wcag-audit-patterns
 description: "Comprehensive guide to auditing web content against WCAG 2.2 guidelines with actionable remediation strategies."
 risk: safe

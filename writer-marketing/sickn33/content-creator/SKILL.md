@@ -1,4 +1,4 @@
-﻿---
+---
 name: content-creator
 description: "Professional-grade brand voice analysis, SEO optimization, and platform-specific content frameworks."
 category: marketing
@@ -47,7 +47,7 @@ When creating content for a new brand or client:
    ```bash
    python scripts/brand_voice_analyzer.py existing_content.txt
    ```
-   
+
 2. **Define Voice Attributes**
    - Review brand personality archetypes in `references/brand_guidelines.md`
    - Select primary and secondary archetypes
@@ -232,6 +232,7 @@ This skill works best with:
 ## Quick Commands
 
 ```bash
+
 # Analyze brand voice
 python scripts/brand_voice_analyzer.py content.txt
 

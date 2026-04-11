@@ -1,4 +1,4 @@
-﻿# Tactical Pattern Checklist
+# Tactical Pattern Checklist
 
 ## Aggregate design
 

@@ -1,4 +1,4 @@
-﻿---
+---
 name: ml-pipeline-workflow
 description: "Complete end-to-end MLOps pipeline orchestration from data preparation through model deployment."
 risk: unknown
@@ -89,6 +89,7 @@ The `assets/` directory contains:
 ### Basic Pipeline Setup
 
 ```python
+
 # 1. Define pipeline stages
 stages = [
     "data_ingestion",
@@ -100,6 +101,7 @@ stages = [
 ]
 
 # 2. Configure dependencies
+
 # See assets/pipeline-dag.yaml.template for full example
 ```
 
@@ -199,6 +201,7 @@ Start with the basics and gradually add complexity:
 ### Batch Training Pipeline
 
 ```yaml
+
 # See assets/pipeline-dag.yaml.template
 stages:
   - name: data_preparation
@@ -214,16 +217,22 @@ stages:
 ### Real-time Feature Pipeline
 
 ```python
+
 # Stream processing for real-time features
+
 # Combined with batch training
+
 # See references/data-preparation.md
 ```
 
 ### Continuous Training
 
 ```python
+
 # Automated retraining on schedule
+
 # Triggered by data drift detection
+
 # See references/model-training.md
 ```
 

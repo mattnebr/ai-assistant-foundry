@@ -1,4 +1,4 @@
-﻿# Padroes de Orquestracao Multi-Skill
+# Padroes de Orquestracao Multi-Skill
 
 Guia detalhado para coordenar multiplos skills em workflows complexos.
 

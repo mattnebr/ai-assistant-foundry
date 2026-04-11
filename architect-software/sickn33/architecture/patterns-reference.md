@@ -1,4 +1,4 @@
-﻿# Architecture Patterns Reference
+# Architecture Patterns Reference
 
 > Quick reference for common patterns with usage guidance.
 

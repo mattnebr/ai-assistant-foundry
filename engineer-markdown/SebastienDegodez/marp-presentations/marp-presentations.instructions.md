@@ -1,4 +1,4 @@
-﻿---
+---
 applyTo: 'presentation/*.md'
 ---
 # Marp Presentations Instructions

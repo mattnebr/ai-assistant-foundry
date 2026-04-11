@@ -1,4 +1,4 @@
-﻿# Platform Name Skill
+# Platform Name Skill
 
 Template for complex Tier 3 skills.
 

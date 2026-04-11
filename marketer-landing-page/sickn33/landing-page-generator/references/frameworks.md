@@ -1,4 +1,4 @@
-﻿# Landing Page Copywriting Frameworks
+# Landing Page Copywriting Frameworks
 
 ## Overview
 

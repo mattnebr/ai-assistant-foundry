@@ -1,4 +1,4 @@
-﻿# Brand Voice & Style Guidelines
+# Brand Voice & Style Guidelines
 
 ## Brand Voice Framework
 

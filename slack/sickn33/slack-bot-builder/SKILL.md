@@ -1,4 +1,4 @@
-﻿---
+---
 name: slack-bot-builder
 description: Build Slack apps using the Bolt framework across Python,
   JavaScript, and Java. Covers Block Kit for rich UIs, interactive components,
@@ -182,14 +182,21 @@ if __name__ == "__main__":
     handler.start()
 
 # For production, use HTTP mode with a web server
+
 # from flask import Flask, request
+
 # from slack_bolt.adapter.flask import SlackRequestHandler
 #
+
 # flask_app = Flask(__name__)
+
 # handler = SlackRequestHandler(app)
 #
+
 # @flask_app.route("/slack/events", methods=["POST"])
+
 # def slack_events():
+
 #     return handler.handle(request)
 
 ### Anti_patterns
@@ -430,6 +437,7 @@ from slack_sdk.oauth.state_store import FileOAuthStateStore
 import os
 
 # For production, use database-backed stores
+
 # For example: PostgreSQL, MongoDB, Redis
 
 class DatabaseInstallationStore:
@@ -481,7 +489,9 @@ app = App(
 )
 
 # OAuth routes are handled automatically by Bolt
+
 # /slack/install - Initiates OAuth flow
+
 # /slack/oauth_redirect - Handles callback
 
 # Flask integration
@@ -567,7 +577,9 @@ from slack_bolt.adapter.socket_mode import SocketModeHandler
 import os
 
 # Socket Mode requires an app-level token (xapp-...)
+
 # Create in App Settings > Basic Information > App-Level Tokens
+
 # Needs 'connections:write' scope
 
 app = App(token=os.environ["SLACK_BOT_TOKEN"])
@@ -823,6 +835,7 @@ def handle_modal(ack, body, client, view):
 ## For Bolt framework - use lazy listeners
 
 ```python
+
 # Bolt handles ack() automatically with lazy listeners
 @app.command("/slow-task")
 def handle_slow_task(ack, command, respond):
@@ -935,6 +948,7 @@ Recommended fix:
 ## Never hardcode or log tokens
 
 ```python
+
 # BAD - never do this
 client = WebClient(token="xoxb-12345-...")
 
@@ -1016,6 +1030,7 @@ Recommended fix:
 ## Request minimum required scopes
 
 ```python
+
 # For a simple notification bot
 MINIMAL_SCOPES = [
     "chat:write",        # Post messages
@@ -1023,8 +1038,11 @@ MINIMAL_SCOPES = [
 ]
 
 # NOT NEEDED for basic notification:
+
 # - channels:read (unless you list channels)
+
 # - users:read (unless you look up users)
+
 # - channels:history (unless you read messages)
 
 # For a slash command bot
@@ -1056,6 +1074,7 @@ MENTION_BOT_SCOPES = [
 ## Progressive scope requests
 
 ```python
+
 # Start with minimal scopes
 INITIAL_SCOPES = ["chat:write", "commands"]
 
@@ -1098,6 +1117,7 @@ Recommended fix:
 ## Know and respect the limits
 
 ```python
+
 # Constants for Block Kit limits
 BLOCK_KIT_LIMITS = {
     "blocks_per_message": 50,
@@ -1175,6 +1195,7 @@ Recommended fix:
 ## Socket Mode: Only for development
 
 ```python
+
 # Development with Socket Mode
 if os.environ.get("ENVIRONMENT") == "development":
     from slack_bolt.adapter.socket_mode import SocketModeHandler
@@ -1185,6 +1206,7 @@ if os.environ.get("ENVIRONMENT") == "development":
 ## Production: Use HTTP endpoints
 
 ```python
+
 # Production with HTTP (Flask example)
 from slack_bolt.adapter.flask import SlackRequestHandler
 from flask import Flask, request
@@ -1257,6 +1279,7 @@ app = App(
     token=os.environ["SLACK_BOT_TOKEN"],
     signing_secret=os.environ["SLACK_SIGNING_SECRET"]
 )
+
 # All requests to your handlers are verified
 ```
 

@@ -1,4 +1,4 @@
-﻿# Hugo Reference
+# Hugo Reference
 
 Hugo is the world's fastest static site generator. It builds sites in milliseconds and supports advanced content management features.
 
@@ -7,6 +7,7 @@ Hugo is the world's fastest static site generator. It builds sites in millisecon
 ### Windows
 
 ```powershell
+
 # Using Chocolatey
 choco install hugo-extended
 
@@ -20,6 +21,7 @@ winget install Hugo.Hugo.Extended
 ### macOS
 
 ```bash
+
 # Using Homebrew
 brew install hugo
 ```
@@ -27,6 +29,7 @@ brew install hugo
 ### Linux
 
 ```bash
+
 # Debian/Ubuntu (snap)
 snap install hugo --channel=extended
 
@@ -41,6 +44,7 @@ sudo apt-get install hugo
 ### Create New Site
 
 ```bash
+
 # Create site
 hugo new site mysite
 cd mysite
@@ -91,6 +95,7 @@ mysite/
 ### Build Options
 
 ```bash
+
 # Basic build
 hugo
 
@@ -113,6 +118,7 @@ hugo -v
 ### Server Options
 
 ```bash
+
 # Start with drafts
 hugo server -D
 
@@ -132,6 +138,7 @@ hugo server --navigateToChanged
 ## Configuration (hugo.toml)
 
 ```toml
+
 # Basic settings
 baseURL = 'https://example.com/'
 languageCode = 'en-us'

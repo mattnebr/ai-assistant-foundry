@@ -1,4 +1,5 @@
-﻿<!-- Updated: 2026-02-07 -->
+<!-- Updated: 2026-02-07 -->
+
 # SaaS SEO Strategy Template
 
 ## Industry Characteristics

@@ -1,10 +1,11 @@
 ﻿# architect-database
 
-5 skill variant(s).
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | database-schema-designer | [SKILL.md](alirezarezvani/database-schema-designer/SKILL.md) |
+| bmad-code-org | bmad-sprint-status | [SKILL.md](bmad-code-org/bmad-sprint-status/SKILL.md) |
 | sickn33 | database-architect | [SKILL.md](sickn33/database-architect/SKILL.md) |
 | sickn33 | database-design | [SKILL.md](sickn33/database-design/SKILL.md) |
 | sickn33 | database-migration | [SKILL.md](sickn33/database-migration/SKILL.md) |

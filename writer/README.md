@@ -1,9 +1,11 @@
 ﻿# writer
 
-2 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| bmad-code-org | bmad-editorial-review-prose | [SKILL.md](bmad-code-org/bmad-editorial-review-prose/SKILL.md) |
+| bmad-code-org | bmad-editorial-review-structure | [SKILL.md](bmad-code-org/bmad-editorial-review-structure/SKILL.md) |
 | cblecker | writing-skills | [SKILL.md](cblecker/writing-skills/SKILL.md) |
 | sickn33 | writing-skills | [SKILL.md](sickn33/writing-skills/SKILL.md) |
 

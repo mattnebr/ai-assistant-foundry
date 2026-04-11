@@ -1,9 +1,10 @@
 ﻿# doc-architecture
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| bmad-code-org | bmad-create-architecture | [SKILL.md](bmad-code-org/bmad-create-architecture/SKILL.md) |
 | SebastienDegodez | extracting-code-structure | [SKILL.md](SebastienDegodez/extracting-code-structure/SKILL.md) |
 | SebastienDegodez | modular-monolith-architecture | [modular-monolith-architecture.instructions.md](SebastienDegodez/modular-monolith-architecture/modular-monolith-architecture.instructions.md) |
 | SebastienDegodez | modular-monolith-communication | [modular-monolith-communication.instructions.md](SebastienDegodez/modular-monolith-communication/modular-monolith-communication.instructions.md) |

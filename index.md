@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*126 skill group(s) — 505 total variant(s)*
+*127 skill group(s) — 524 total variant(s)*
 
 ## agent-orchestration
 
@@ -23,6 +23,7 @@
 ## ai-assistant-orchistration
 
 - [alirezarezvani/agent-workflow-designer](ai-assistant-orchistration/alirezarezvani/agent-workflow-designer/SKILL.md)
+- [bmad-code-org/bmad-distillator](ai-assistant-orchistration/bmad-code-org/bmad-distillator/SKILL.md)
 - [sickn33/subagent-driven-development](ai-assistant-orchistration/sickn33/subagent-driven-development/SKILL.md)
 
 ## ai-assistant-phone
@@ -52,6 +53,7 @@
 ## architect-database
 
 - [alirezarezvani/database-schema-designer](architect-database/alirezarezvani/database-schema-designer/SKILL.md)
+- [bmad-code-org/bmad-sprint-status](architect-database/bmad-code-org/bmad-sprint-status/SKILL.md)
 - [sickn33/database-architect](architect-database/sickn33/database-architect/SKILL.md)
 - [sickn33/database-design](architect-database/sickn33/database-design/SKILL.md)
 - [sickn33/database-migration](architect-database/sickn33/database-migration/SKILL.md)
@@ -98,6 +100,7 @@
 
 ## brainstorming
 
+- [bmad-code-org/bmad-brainstorming](brainstorming/bmad-code-org/bmad-brainstorming/SKILL.md)
 - [cblecker/brainstorming](brainstorming/cblecker/brainstorming/SKILL.md)
 - [sickn33/brainstorming](brainstorming/sickn33/brainstorming/SKILL.md)
 - [sickn33/idea-darwin](brainstorming/sickn33/idea-darwin/SKILL.md)
@@ -105,6 +108,10 @@
 ## builder-documents
 
 - [anthropics/docx](builder-documents/anthropics/docx/SKILL.md)
+
+## builder-markdown-index
+
+- [bmad-code-org/bmad-index-docs](builder-markdown-index/bmad-code-org/bmad-index-docs/SKILL.md)
 
 ## builder-powerbi
 
@@ -249,9 +256,12 @@
 
 - [alirezarezvani/cs-ux-researcher](designer-ux/alirezarezvani/cs-ux-researcher/SKILL.md)
 - [alirezarezvani/ux-researcher-designer](designer-ux/alirezarezvani/ux-researcher-designer/SKILL.md)
+- [bmad-code-org/bmad-agent-ux-designer](designer-ux/bmad-code-org/bmad-agent-ux-designer/SKILL.md)
+- [bmad-code-org/bmad-create-ux-design](designer-ux/bmad-code-org/bmad-create-ux-design/SKILL.md)
 
 ## doc-architecture
 
+- [bmad-code-org/bmad-create-architecture](doc-architecture/bmad-code-org/bmad-create-architecture/SKILL.md)
 - [SebastienDegodez/extracting-code-structure](doc-architecture/SebastienDegodez/extracting-code-structure/SKILL.md)
 - [SebastienDegodez/modular-monolith-architecture](doc-architecture/SebastienDegodez/modular-monolith-architecture/modular-monolith-architecture.instructions.md)
 - [SebastienDegodez/modular-monolith-communication](doc-architecture/SebastienDegodez/modular-monolith-communication/modular-monolith-communication.instructions.md)
@@ -588,6 +598,11 @@
 - [alirezarezvani/spec-to-repo](manager-agile/alirezarezvani/spec-to-repo/SKILL.md)
 - [alirezarezvani/sprint-plan](manager-agile/alirezarezvani/sprint-plan/SKILL.md)
 - [alirezarezvani/user-story](manager-agile/alirezarezvani/user-story/SKILL.md)
+- [bmad-code-org/bmad-create-epics-and-stories](manager-agile/bmad-code-org/bmad-create-epics-and-stories/SKILL.md)
+- [bmad-code-org/bmad-create-story](manager-agile/bmad-code-org/bmad-create-story/SKILL.md)
+- [bmad-code-org/bmad-dev-story](manager-agile/bmad-code-org/bmad-dev-story/SKILL.md)
+- [bmad-code-org/bmad-retrospective](manager-agile/bmad-code-org/bmad-retrospective/SKILL.md)
+- [bmad-code-org/bmad-sprint-planning](manager-agile/bmad-code-org/bmad-sprint-planning/SKILL.md)
 - [cblecker/executing-plans](manager-agile/cblecker/executing-plans/SKILL.md)
 - [cblecker/writing-plans](manager-agile/cblecker/writing-plans/SKILL.md)
 - [github/breakdown-epic-arch](manager-agile/github/breakdown-epic-arch/SKILL.md)
@@ -619,6 +634,10 @@
 
 ## manager-project
 
+- [bmad-code-org/bmad-create-prd](manager-project/bmad-code-org/bmad-create-prd/SKILL.md)
+- [bmad-code-org/bmad-document-project](manager-project/bmad-code-org/bmad-document-project/SKILL.md)
+- [bmad-code-org/bmad-edit-prd](manager-project/bmad-code-org/bmad-edit-prd/SKILL.md)
+- [bmad-code-org/bmad-product-brief](manager-project/bmad-code-org/bmad-product-brief/SKILL.md)
 - [sickn33/progressive-estimation](manager-project/sickn33/progressive-estimation/SKILL.md)
 - [sickn33/project-development](manager-project/sickn33/project-development/SKILL.md)
 - [sickn33/projection-patterns](manager-project/sickn33/projection-patterns/SKILL.md)
@@ -838,6 +857,8 @@
 
 ## writer
 
+- [bmad-code-org/bmad-editorial-review-prose](writer/bmad-code-org/bmad-editorial-review-prose/SKILL.md)
+- [bmad-code-org/bmad-editorial-review-structure](writer/bmad-code-org/bmad-editorial-review-structure/SKILL.md)
 - [cblecker/writing-skills](writer/cblecker/writing-skills/SKILL.md)
 - [sickn33/writing-skills](writer/sickn33/writing-skills/SKILL.md)
 
@@ -872,6 +893,7 @@
 
 ## writer-technical
 
+- [bmad-code-org/bmad-agent-tech-writer](writer-technical/bmad-code-org/bmad-agent-tech-writer/SKILL.md)
 - [github/documentation-writer](writer-technical/github/documentation-writer/SKILL.md)
 - [mattnebr/technical-writing-style](writer-technical/mattnebr/technical-writing-style/SKILL.md)
 

@@ -1,6 +1,6 @@
 ﻿# manager-agile
 
-40 skill variant(s).
+45 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -26,6 +26,11 @@
 | alirezarezvani | spec-to-repo | [SKILL.md](alirezarezvani/spec-to-repo/SKILL.md) |
 | alirezarezvani | sprint-plan | [SKILL.md](alirezarezvani/sprint-plan/SKILL.md) |
 | alirezarezvani | user-story | [SKILL.md](alirezarezvani/user-story/SKILL.md) |
+| bmad-code-org | bmad-create-epics-and-stories | [SKILL.md](bmad-code-org/bmad-create-epics-and-stories/SKILL.md) |
+| bmad-code-org | bmad-create-story | [SKILL.md](bmad-code-org/bmad-create-story/SKILL.md) |
+| bmad-code-org | bmad-dev-story | [SKILL.md](bmad-code-org/bmad-dev-story/SKILL.md) |
+| bmad-code-org | bmad-retrospective | [SKILL.md](bmad-code-org/bmad-retrospective/SKILL.md) |
+| bmad-code-org | bmad-sprint-planning | [SKILL.md](bmad-code-org/bmad-sprint-planning/SKILL.md) |
 | cblecker | executing-plans | [SKILL.md](cblecker/executing-plans/SKILL.md) |
 | cblecker | writing-plans | [SKILL.md](cblecker/writing-plans/SKILL.md) |
 | github | breakdown-epic-arch | [SKILL.md](github/breakdown-epic-arch/SKILL.md) |

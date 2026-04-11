@@ -3905,6 +3905,139 @@
       "SkillFolder": "skills/writing-skills",
       "GroupName": "writer",
       "ArchivedAt": "2026-04-11T19:49:50.6856825Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/bmm-skills/1-analysis/bmad-agent-tech-writer",
+      "GroupName": "writer-technical",
+      "ArchivedAt": "2026-04-11T19:51:06.1296461Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/bmm-skills/1-analysis/bmad-document-project",
+      "GroupName": "manager-project",
+      "ArchivedAt": "2026-04-11T19:51:20.144051Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/bmm-skills/1-analysis/bmad-product-brief",
+      "GroupName": "manager-project",
+      "ArchivedAt": "2026-04-11T19:51:30.8221075Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/bmm-skills/2-plan-workflows/bmad-agent-ux-designer",
+      "GroupName": "designer-ux",
+      "ArchivedAt": "2026-04-11T19:51:49.9938058Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/bmm-skills/2-plan-workflows/bmad-create-prd",
+      "GroupName": "manager-project",
+      "ArchivedAt": "2026-04-11T19:51:59.6317207Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/bmm-skills/2-plan-workflows/bmad-create-ux-design",
+      "GroupName": "designer-ux",
+      "ArchivedAt": "2026-04-11T19:52:09.8478999Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/bmm-skills/2-plan-workflows/bmad-edit-prd",
+      "GroupName": "manager-project",
+      "ArchivedAt": "2026-04-11T19:52:22.4406786Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/bmm-skills/3-solutioning/bmad-create-architecture",
+      "GroupName": "doc-architecture",
+      "ArchivedAt": "2026-04-11T19:53:05.1747738Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/bmm-skills/3-solutioning/bmad-create-epics-and-stories",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T19:53:41.0621301Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/bmm-skills/4-implementation/bmad-create-story",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T19:54:16.3179194Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/bmm-skills/4-implementation/bmad-dev-story",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T19:54:30.1597693Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/bmm-skills/4-implementation/bmad-retrospective",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T19:54:45.7782221Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/bmm-skills/4-implementation/bmad-sprint-planning",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T19:55:10.0440367Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/bmm-skills/4-implementation/bmad-sprint-status",
+      "GroupName": "architect-database",
+      "ArchivedAt": "2026-04-11T19:55:25.086642Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/core-skills/bmad-brainstorming",
+      "GroupName": "brainstorming",
+      "ArchivedAt": "2026-04-11T19:55:36.5367432Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/core-skills/bmad-distillator",
+      "GroupName": "ai-assistant-orchistration",
+      "ArchivedAt": "2026-04-11T19:55:47.5524125Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/core-skills/bmad-editorial-review-prose",
+      "GroupName": "writer",
+      "ArchivedAt": "2026-04-11T19:55:55.1691563Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/core-skills/bmad-editorial-review-structure",
+      "GroupName": "writer",
+      "ArchivedAt": "2026-04-11T19:56:01.440233Z"
+    },
+    {
+      "Owner": "bmad-code-org",
+      "Repo": "BMAD-METHOD",
+      "SkillFolder": "src/core-skills/bmad-index-docs",
+      "GroupName": "builder-markdown-index",
+      "ArchivedAt": "2026-04-11T19:56:51.5849688Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*132 skill group(s) — 628 total variant(s)*
+*132 skill group(s) — 629 total variant(s)*
 
 ## agent-orchestration
 
@@ -410,6 +410,7 @@
 
 ## engineer-mermaid
 
+- [imxv/Pretty-mermaid-skills](engineer-mermaid/imxv/Pretty-mermaid-skills/SKILL.md)
 - [sickn33/mermaid-expert](engineer-mermaid/sickn33/mermaid-expert/SKILL.md)
 
 ## engineer-ml

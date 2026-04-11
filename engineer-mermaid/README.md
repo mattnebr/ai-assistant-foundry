@@ -1,9 +1,10 @@
 ﻿# engineer-mermaid
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| imxv | Pretty-mermaid-skills | [SKILL.md](imxv/Pretty-mermaid-skills/SKILL.md) |
 | sickn33 | mermaid-expert | [SKILL.md](sickn33/mermaid-expert/SKILL.md) |
 
 ---

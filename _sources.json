@@ -4843,6 +4843,13 @@
       "SkillFolder": ".",
       "GroupName": "designer-ui",
       "ArchivedAt": "2026-04-11T22:27:29.9356062Z"
+    },
+    {
+      "Owner": "michalparkola",
+      "Repo": "tapestry-skills",
+      "SkillFolder": "scrum-sage",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T22:28:45.1169956Z"
     }
   ]
 }

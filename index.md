@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*132 skill group(s) — 637 total variant(s)*
+*132 skill group(s) — 638 total variant(s)*
 
 ## agent-orchestration
 
@@ -713,6 +713,7 @@
 - [github/meeting-minutes](manager-agile/github/meeting-minutes/SKILL.md)
 - [github/prd](manager-agile/github/prd/SKILL.md)
 - [github/update-implementation-plan](manager-agile/github/update-implementation-plan/SKILL.md)
+- [michalparkola/scrum-sage](manager-agile/michalparkola/scrum-sage/SKILL.md)
 - [NeoLabHQ/kaizen](manager-agile/NeoLabHQ/kaizen/SKILL.md)
 - [SebastienDegodez/gherkin-gate](manager-agile/SebastienDegodez/gherkin-gate/SKILL.md)
 - [sickn33/team-collaboration-standup-notes](manager-agile/sickn33/team-collaboration-standup-notes/SKILL.md)

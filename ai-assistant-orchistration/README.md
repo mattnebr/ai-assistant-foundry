@@ -1,11 +1,12 @@
 ﻿# ai-assistant-orchistration
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | agent-workflow-designer | [SKILL.md](alirezarezvani/agent-workflow-designer/SKILL.md) |
 | bmad-code-org | bmad-distillator | [SKILL.md](bmad-code-org/bmad-distillator/SKILL.md) |
+| NeoLabHQ | multi-agent-patterns | [SKILL.md](NeoLabHQ/multi-agent-patterns/SKILL.md) |
 | sickn33 | subagent-driven-development | [SKILL.md](sickn33/subagent-driven-development/SKILL.md) |
 
 ---

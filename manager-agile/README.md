@@ -1,6 +1,6 @@
 ﻿# manager-agile
 
-45 skill variant(s).
+46 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -45,6 +45,7 @@
 | github | meeting-minutes | [SKILL.md](github/meeting-minutes/SKILL.md) |
 | github | prd | [SKILL.md](github/prd/SKILL.md) |
 | github | update-implementation-plan | [SKILL.md](github/update-implementation-plan/SKILL.md) |
+| NeoLabHQ | kaizen | [SKILL.md](NeoLabHQ/kaizen/SKILL.md) |
 | SebastienDegodez | gherkin-gate | [SKILL.md](SebastienDegodez/gherkin-gate/SKILL.md) |
 | sickn33 | team-collaboration-standup-notes | [SKILL.md](sickn33/team-collaboration-standup-notes/SKILL.md) |
 | sickn33 | todoist-automation | [SKILL.md](sickn33/todoist-automation/SKILL.md) |

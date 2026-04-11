@@ -1,12 +1,16 @@
 ﻿# brainstorming
 
-5 skill variant(s).
+9 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | bmad-code-org | bmad-brainstorming | [SKILL.md](bmad-code-org/bmad-brainstorming/SKILL.md) |
 | cblecker | brainstorming | [SKILL.md](cblecker/brainstorming/SKILL.md) |
 | K-Dense-AI | scientific-critical-thinking | [SKILL.md](K-Dense-AI/scientific-critical-thinking/SKILL.md) |
+| NeoLabHQ | brainstorm | [SKILL.md](NeoLabHQ/brainstorm/SKILL.md) |
+| NeoLabHQ | create-ideas | [SKILL.md](NeoLabHQ/create-ideas/SKILL.md) |
+| NeoLabHQ | thought-based-reasoning | [SKILL.md](NeoLabHQ/thought-based-reasoning/SKILL.md) |
+| NeoLabHQ | tree-of-thoughts | [SKILL.md](NeoLabHQ/tree-of-thoughts/SKILL.md) |
 | sickn33 | brainstorming | [SKILL.md](sickn33/brainstorming/SKILL.md) |
 | sickn33 | idea-darwin | [SKILL.md](sickn33/idea-darwin/SKILL.md) |
 

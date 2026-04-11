@@ -1,9 +1,10 @@
 ﻿# engineer-software-typescript
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| NeoLabHQ | add-typescript-best-practices | [SKILL.md](NeoLabHQ/add-typescript-best-practices/SKILL.md) |
 | sickn33 | typescript-advanced-types | [SKILL.md](sickn33/typescript-advanced-types/SKILL.md) |
 | sickn33 | typescript-expert | [SKILL.md](sickn33/typescript-expert/SKILL.md) |
 | sickn33 | typescript-pro | [SKILL.md](sickn33/typescript-pro/SKILL.md) |

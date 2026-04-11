@@ -1,6 +1,6 @@
 ﻿# git-pr
 
-5 skill variant(s).
+9 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -8,6 +8,10 @@
 | cblecker | finishing-a-development-branch | [SKILL.md](cblecker/finishing-a-development-branch/SKILL.md) |
 | cblecker | requesting-code-review | [SKILL.md](cblecker/requesting-code-review/SKILL.md) |
 | github | my-pull-requests | [SKILL.md](github/my-pull-requests/SKILL.md) |
+| NeoLabHQ | attach-review-to-pr | [SKILL.md](NeoLabHQ/attach-review-to-pr/SKILL.md) |
+| NeoLabHQ | create-pr | [SKILL.md](NeoLabHQ/create-pr/SKILL.md) |
+| NeoLabHQ | review-local-changes | [SKILL.md](NeoLabHQ/review-local-changes/SKILL.md) |
+| NeoLabHQ | review-pr | [SKILL.md](NeoLabHQ/review-pr/SKILL.md) |
 | sickn33 | create-pr | [SKILL.md](sickn33/create-pr/SKILL.md) |
 
 ---

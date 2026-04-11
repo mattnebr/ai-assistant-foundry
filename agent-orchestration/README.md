@@ -1,9 +1,10 @@
 ﻿# agent-orchestration
 
-5 skill variant(s).
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| NeoLabHQ | subagent-driven-development | [SKILL.md](NeoLabHQ/subagent-driven-development/SKILL.md) |
 | sickn33 | agent-orchestration-improve-agent | [SKILL.md](sickn33/agent-orchestration-improve-agent/SKILL.md) |
 | sickn33 | agent-orchestration-multi-agent-optimize | [SKILL.md](sickn33/agent-orchestration-multi-agent-optimize/SKILL.md) |
 | sickn33 | agent-orchestrator | [SKILL.md](sickn33/agent-orchestrator/SKILL.md) |

@@ -1,6 +1,6 @@
 ﻿# ai-assistant-skill-maker
 
-8 skill variant(s).
+10 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -11,6 +11,8 @@
 | github | microsoft-skill-creator | [SKILL.md](github/microsoft-skill-creator/SKILL.md) |
 | mattnebr | ai-assistant-skill-maker | [SKILL.md](mattnebr/ai-assistant-skill-maker/SKILL.md) |
 | mattnebr | copilot-instruction-writer | [SKILL.md](mattnebr/copilot-instruction-writer/SKILL.md) |
+| NeoLabHQ | apply-anthropic-skill-best-practices | [SKILL.md](NeoLabHQ/apply-anthropic-skill-best-practices/SKILL.md) |
+| NeoLabHQ | create-skill | [SKILL.md](NeoLabHQ/create-skill/SKILL.md) |
 | SebastienDegodez | skill-creator | [SKILL.md](SebastienDegodez/skill-creator/SKILL.md) |
 
 ---

@@ -1,6 +1,6 @@
 ﻿# engineer-software
 
-9 skill variant(s).
+10 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -9,6 +9,7 @@
 | github | microsoft-docs | [SKILL.md](github/microsoft-docs/SKILL.md) |
 | mattnebr | coding-style-project | [coding-style-project.instructions.md](mattnebr/coding-style-project/coding-style-project.instructions.md) |
 | mattnebr | coding-style-solution | [coding-style-solution.instructions.md](mattnebr/coding-style-solution/coding-style-solution.instructions.md) |
+| NeoLabHQ | setup-code-formating | [SKILL.md](NeoLabHQ/setup-code-formating/SKILL.md) |
 | SebastienDegodez | unit-and-integration-tests | [unit-and-integration-tests.instructions.md](SebastienDegodez/unit-and-integration-tests/unit-and-integration-tests.instructions.md) |
 | sickn33 | ai-engineer | [SKILL.md](sickn33/ai-engineer/SKILL.md) |
 | sickn33 | development | [SKILL.md](sickn33/development/SKILL.md) |

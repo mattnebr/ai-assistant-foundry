@@ -1,6 +1,6 @@
 ﻿# engineer-readme
 
-6 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -9,6 +9,7 @@
 | github | create-tldr-page | [SKILL.md](github/create-tldr-page/SKILL.md) |
 | github | readme-blueprint-generator | [SKILL.md](github/readme-blueprint-generator/SKILL.md) |
 | github | tldr-prompt | [SKILL.md](github/tldr-prompt/SKILL.md) |
+| NeoLabHQ | update-docs | [SKILL.md](NeoLabHQ/update-docs/SKILL.md) |
 | sickn33 | readme | [SKILL.md](sickn33/readme/SKILL.md) |
 
 ---

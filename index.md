@@ -1,20 +1,26 @@
 ﻿# skill index
 
-*127 skill group(s) — 550 total variant(s)*
+*129 skill group(s) — 578 total variant(s)*
 
 ## agent-orchestration
 
+- [NeoLabHQ/subagent-driven-development](agent-orchestration/NeoLabHQ/subagent-driven-development/SKILL.md)
 - [sickn33/agent-orchestration-improve-agent](agent-orchestration/sickn33/agent-orchestration-improve-agent/SKILL.md)
 - [sickn33/agent-orchestration-multi-agent-optimize](agent-orchestration/sickn33/agent-orchestration-multi-agent-optimize/SKILL.md)
 - [sickn33/agent-orchestrator](agent-orchestration/sickn33/agent-orchestrator/SKILL.md)
 - [sickn33/agentflow](agent-orchestration/sickn33/agentflow/SKILL.md)
 - [sickn33/dispatching-parallel-agents](agent-orchestration/sickn33/dispatching-parallel-agents/SKILL.md)
 
+## ai-assistant-hooks
+
+- [NeoLabHQ/create-hook](ai-assistant-hooks/NeoLabHQ/create-hook/SKILL.md)
+
 ## ai-assistant-memory
 
 - [alirezarezvani/decision-logger](ai-assistant-memory/alirezarezvani/decision-logger/SKILL.md)
 - [github/memory-merger](ai-assistant-memory/github/memory-merger/SKILL.md)
 - [github/remember](ai-assistant-memory/github/remember/SKILL.md)
+- [NeoLabHQ/memorize](ai-assistant-memory/NeoLabHQ/memorize/SKILL.md)
 - [sickn33/agent-memory-mcp](ai-assistant-memory/sickn33/agent-memory-mcp/SKILL.md)
 - [sickn33/agent-memory-systems](ai-assistant-memory/sickn33/agent-memory-systems/SKILL.md)
 - [sickn33/conversation-memory](ai-assistant-memory/sickn33/conversation-memory/SKILL.md)
@@ -24,6 +30,7 @@
 
 - [alirezarezvani/agent-workflow-designer](ai-assistant-orchistration/alirezarezvani/agent-workflow-designer/SKILL.md)
 - [bmad-code-org/bmad-distillator](ai-assistant-orchistration/bmad-code-org/bmad-distillator/SKILL.md)
+- [NeoLabHQ/multi-agent-patterns](ai-assistant-orchistration/NeoLabHQ/multi-agent-patterns/SKILL.md)
 - [sickn33/subagent-driven-development](ai-assistant-orchistration/sickn33/subagent-driven-development/SKILL.md)
 
 ## ai-assistant-phone
@@ -39,12 +46,15 @@
 - [github/microsoft-skill-creator](ai-assistant-skill-maker/github/microsoft-skill-creator/SKILL.md)
 - [mattnebr/ai-assistant-skill-maker](ai-assistant-skill-maker/mattnebr/ai-assistant-skill-maker/SKILL.md)
 - [mattnebr/copilot-instruction-writer](ai-assistant-skill-maker/mattnebr/copilot-instruction-writer/SKILL.md)
+- [NeoLabHQ/apply-anthropic-skill-best-practices](ai-assistant-skill-maker/NeoLabHQ/apply-anthropic-skill-best-practices/SKILL.md)
+- [NeoLabHQ/create-skill](ai-assistant-skill-maker/NeoLabHQ/create-skill/SKILL.md)
 - [SebastienDegodez/skill-creator](ai-assistant-skill-maker/SebastienDegodez/skill-creator/SKILL.md)
 
 ## ai-assistant-workflow
 
 - [cblecker/dispatching-parallel-agents](ai-assistant-workflow/cblecker/dispatching-parallel-agents/SKILL.md)
 - [cblecker/subagent-driven-development](ai-assistant-workflow/cblecker/subagent-driven-development/SKILL.md)
+- [NeoLabHQ/create-workflow-command](ai-assistant-workflow/NeoLabHQ/create-workflow-command/SKILL.md)
 
 ## ai-assitant-email
 
@@ -104,6 +114,10 @@
 - [bmad-code-org/bmad-brainstorming](brainstorming/bmad-code-org/bmad-brainstorming/SKILL.md)
 - [cblecker/brainstorming](brainstorming/cblecker/brainstorming/SKILL.md)
 - [K-Dense-AI/scientific-critical-thinking](brainstorming/K-Dense-AI/scientific-critical-thinking/SKILL.md)
+- [NeoLabHQ/brainstorm](brainstorming/NeoLabHQ/brainstorm/SKILL.md)
+- [NeoLabHQ/create-ideas](brainstorming/NeoLabHQ/create-ideas/SKILL.md)
+- [NeoLabHQ/thought-based-reasoning](brainstorming/NeoLabHQ/thought-based-reasoning/SKILL.md)
+- [NeoLabHQ/tree-of-thoughts](brainstorming/NeoLabHQ/tree-of-thoughts/SKILL.md)
 - [sickn33/brainstorming](brainstorming/sickn33/brainstorming/SKILL.md)
 - [sickn33/idea-darwin](brainstorming/sickn33/idea-darwin/SKILL.md)
 
@@ -205,6 +219,7 @@
 ## csharp-test-driven-development
 
 - [cblecker/test-driven-development](csharp-test-driven-development/cblecker/test-driven-development/SKILL.md)
+- [NeoLabHQ/test-driven-development](csharp-test-driven-development/NeoLabHQ/test-driven-development/SKILL.md)
 
 ## data-scientist
 
@@ -415,6 +430,7 @@
 - [github/create-tldr-page](engineer-readme/github/create-tldr-page/SKILL.md)
 - [github/readme-blueprint-generator](engineer-readme/github/readme-blueprint-generator/SKILL.md)
 - [github/tldr-prompt](engineer-readme/github/tldr-prompt/SKILL.md)
+- [NeoLabHQ/update-docs](engineer-readme/NeoLabHQ/update-docs/SKILL.md)
 - [sickn33/readme](engineer-readme/sickn33/readme/SKILL.md)
 
 ## engineer-software
@@ -424,6 +440,7 @@
 - [github/microsoft-docs](engineer-software/github/microsoft-docs/SKILL.md)
 - [mattnebr/coding-style-project](engineer-software/mattnebr/coding-style-project/coding-style-project.instructions.md)
 - [mattnebr/coding-style-solution](engineer-software/mattnebr/coding-style-solution/coding-style-solution.instructions.md)
+- [NeoLabHQ/setup-code-formating](engineer-software/NeoLabHQ/setup-code-formating/SKILL.md)
 - [SebastienDegodez/unit-and-integration-tests](engineer-software/SebastienDegodez/unit-and-integration-tests/unit-and-integration-tests.instructions.md)
 - [sickn33/ai-engineer](engineer-software/sickn33/ai-engineer/SKILL.md)
 - [sickn33/development](engineer-software/sickn33/development/SKILL.md)
@@ -440,6 +457,10 @@
 - [mattnebr/coding-style-csharp](engineer-software-csharp/mattnebr/coding-style-csharp/coding-style-csharp.instructions.md)
 - [SebastienDegodez/coding-style-csharp](engineer-software-csharp/SebastienDegodez/coding-style-csharp/coding-style-csharp.instructions.md)
 - [sickn33/csharp-pro](engineer-software-csharp/sickn33/csharp-pro/SKILL.md)
+
+## engineer-software-debug
+
+- [NeoLabHQ/root-cause-tracing](engineer-software-debug/NeoLabHQ/root-cause-tracing/SKILL.md)
 
 ## engineer-software-frontend
 
@@ -484,6 +505,7 @@
 
 ## engineer-software-typescript
 
+- [NeoLabHQ/add-typescript-best-practices](engineer-software-typescript/NeoLabHQ/add-typescript-best-practices/SKILL.md)
 - [sickn33/typescript-advanced-types](engineer-software-typescript/sickn33/typescript-advanced-types/SKILL.md)
 - [sickn33/typescript-expert](engineer-software-typescript/sickn33/typescript-expert/SKILL.md)
 - [sickn33/typescript-pro](engineer-software-typescript/sickn33/typescript-pro/SKILL.md)
@@ -547,6 +569,7 @@
 - [github/git-commit](git-commit/github/git-commit/SKILL.md)
 - [mattnebr/commit-message](git-commit/mattnebr/commit-message/SKILL.md)
 - [mattnebr/conventional-commits](git-commit/mattnebr/conventional-commits/conventional-commits.instructions.md)
+- [NeoLabHQ/commit](git-commit/NeoLabHQ/commit/SKILL.md)
 - [SebastienDegodez/conventional-commits](git-commit/SebastienDegodez/conventional-commits/conventional-commits.instructions.md)
 - [sickn33/accessibility-compliance-accessibility-audit](git-commit/sickn33/accessibility-compliance-accessibility-audit/SKILL.md)
 - [sickn33/commit](git-commit/sickn33/commit/SKILL.md)
@@ -557,6 +580,10 @@
 - [cblecker/finishing-a-development-branch](git-pr/cblecker/finishing-a-development-branch/SKILL.md)
 - [cblecker/requesting-code-review](git-pr/cblecker/requesting-code-review/SKILL.md)
 - [github/my-pull-requests](git-pr/github/my-pull-requests/SKILL.md)
+- [NeoLabHQ/attach-review-to-pr](git-pr/NeoLabHQ/attach-review-to-pr/SKILL.md)
+- [NeoLabHQ/create-pr](git-pr/NeoLabHQ/create-pr/SKILL.md)
+- [NeoLabHQ/review-local-changes](git-pr/NeoLabHQ/review-local-changes/SKILL.md)
+- [NeoLabHQ/review-pr](git-pr/NeoLabHQ/review-pr/SKILL.md)
 - [sickn33/create-pr](git-pr/sickn33/create-pr/SKILL.md)
 
 ## git-workflows
@@ -572,6 +599,10 @@
 
 - [alirezarezvani/git-worktree-manager](git-worktree/alirezarezvani/git-worktree-manager/SKILL.md)
 - [cblecker/using-git-worktrees](git-worktree/cblecker/using-git-worktrees/SKILL.md)
+- [NeoLabHQ/compare-worktrees](git-worktree/NeoLabHQ/compare-worktrees/SKILL.md)
+- [NeoLabHQ/create-worktree](git-worktree/NeoLabHQ/create-worktree/SKILL.md)
+- [NeoLabHQ/merge-worktree](git-worktree/NeoLabHQ/merge-worktree/SKILL.md)
+- [NeoLabHQ/worktrees](git-worktree/NeoLabHQ/worktrees/SKILL.md)
 
 ## java-junit
 
@@ -637,6 +668,7 @@
 - [github/meeting-minutes](manager-agile/github/meeting-minutes/SKILL.md)
 - [github/prd](manager-agile/github/prd/SKILL.md)
 - [github/update-implementation-plan](manager-agile/github/update-implementation-plan/SKILL.md)
+- [NeoLabHQ/kaizen](manager-agile/NeoLabHQ/kaizen/SKILL.md)
 - [SebastienDegodez/gherkin-gate](manager-agile/SebastienDegodez/gherkin-gate/SKILL.md)
 - [sickn33/team-collaboration-standup-notes](manager-agile/sickn33/team-collaboration-standup-notes/SKILL.md)
 - [sickn33/todoist-automation](manager-agile/sickn33/todoist-automation/SKILL.md)
@@ -659,6 +691,7 @@
 - [bmad-code-org/bmad-document-project](manager-project/bmad-code-org/bmad-document-project/SKILL.md)
 - [bmad-code-org/bmad-edit-prd](manager-project/bmad-code-org/bmad-edit-prd/SKILL.md)
 - [bmad-code-org/bmad-product-brief](manager-project/bmad-code-org/bmad-product-brief/SKILL.md)
+- [NeoLabHQ/plan-do-check-act](manager-project/NeoLabHQ/plan-do-check-act/SKILL.md)
 - [sickn33/progressive-estimation](manager-project/sickn33/progressive-estimation/SKILL.md)
 - [sickn33/project-development](manager-project/sickn33/project-development/SKILL.md)
 - [sickn33/projection-patterns](manager-project/sickn33/projection-patterns/SKILL.md)
@@ -922,6 +955,7 @@
 - [github/documentation-writer](writer-technical/github/documentation-writer/SKILL.md)
 - [K-Dense-AI/scientific-writing](writer-technical/K-Dense-AI/scientific-writing/SKILL.md)
 - [mattnebr/technical-writing-style](writer-technical/mattnebr/technical-writing-style/SKILL.md)
+- [NeoLabHQ/write-concisely](writer-technical/NeoLabHQ/write-concisely/SKILL.md)
 
 ## x
 

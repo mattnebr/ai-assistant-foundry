@@ -1,12 +1,13 @@
 ﻿# ai-assistant-memory
 
-7 skill variant(s).
+8 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | decision-logger | [SKILL.md](alirezarezvani/decision-logger/SKILL.md) |
 | github | memory-merger | [SKILL.md](github/memory-merger/SKILL.md) |
 | github | remember | [SKILL.md](github/remember/SKILL.md) |
+| NeoLabHQ | memorize | [SKILL.md](NeoLabHQ/memorize/SKILL.md) |
 | sickn33 | agent-memory-mcp | [SKILL.md](sickn33/agent-memory-mcp/SKILL.md) |
 | sickn33 | agent-memory-systems | [SKILL.md](sickn33/agent-memory-systems/SKILL.md) |
 | sickn33 | conversation-memory | [SKILL.md](sickn33/conversation-memory/SKILL.md) |

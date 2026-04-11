@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*132 skill group(s) — 639 total variant(s)*
+*133 skill group(s) — 640 total variant(s)*
 
 ## agent-orchestration
 
@@ -465,6 +465,10 @@
 - [github/tldr-prompt](engineer-readme/github/tldr-prompt/SKILL.md)
 - [NeoLabHQ/update-docs](engineer-readme/NeoLabHQ/update-docs/SKILL.md)
 - [sickn33/readme](engineer-readme/sickn33/readme/SKILL.md)
+
+## engineer-security
+
+- [fr33d3m0n/threat-modeling](engineer-security/fr33d3m0n/threat-modeling/SKILL.md)
 
 ## engineer-software
 

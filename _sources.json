@@ -4857,6 +4857,13 @@
       "SkillFolder": "skills/solid",
       "GroupName": "engineer-software",
       "ArchivedAt": "2026-04-11T22:30:35.5668565Z"
+    },
+    {
+      "Owner": "fr33d3m0n",
+      "Repo": "threat-modeling",
+      "SkillFolder": ".",
+      "GroupName": "engineer-security",
+      "ArchivedAt": "2026-04-11T22:32:54.8386419Z"
     }
   ]
 }

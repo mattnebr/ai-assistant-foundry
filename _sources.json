@@ -2575,6 +2575,153 @@
       "SkillFolder": "instructions/unit-and-integration-tests.instructions.md",
       "GroupName": "engineer-software",
       "ArchivedAt": "2026-04-11T16:34:31.5458227Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/ab-test-setup",
+      "GroupName": "engineer-ui-ab",
+      "ArchivedAt": "2026-04-11T18:02:45.4988647Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/ad-creative",
+      "GroupName": "marketer",
+      "ArchivedAt": "2026-04-11T18:02:54.0575125Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/ai-seo",
+      "GroupName": "reviewer-seo",
+      "ArchivedAt": "2026-04-11T18:03:00.7472577Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/analytics-tracking",
+      "GroupName": "engineer-ui-ga",
+      "ArchivedAt": "2026-04-11T18:03:13.4830884Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/churn-prevention",
+      "GroupName": "sales-email",
+      "ArchivedAt": "2026-04-11T18:09:59.6012327Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/cold-email",
+      "GroupName": "sales-email",
+      "ArchivedAt": "2026-04-11T18:10:58.3303932Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/content-strategy",
+      "GroupName": "planner-content-strategy",
+      "ArchivedAt": "2026-04-11T18:11:34.7736484Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/copy-editing",
+      "GroupName": "writer-copywriting",
+      "ArchivedAt": "2026-04-11T18:12:05.1607318Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/copywriting",
+      "GroupName": "writer-copywriting",
+      "ArchivedAt": "2026-04-11T18:12:11.4756196Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/email-sequence",
+      "GroupName": "sales-email",
+      "ArchivedAt": "2026-04-11T18:12:19.30747Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/lead-magnets",
+      "GroupName": "marketer-landing-page",
+      "ArchivedAt": "2026-04-11T18:14:22.7062574Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/marketing-ideas",
+      "GroupName": "marketer",
+      "ArchivedAt": "2026-04-11T18:14:27.8735589Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/marketing-psychology",
+      "GroupName": "writer-marketing",
+      "ArchivedAt": "2026-04-11T18:14:38.3262851Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/page-cro",
+      "GroupName": "marketer-landing-page",
+      "ArchivedAt": "2026-04-11T18:14:46.9340838Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/product-marketing-context",
+      "GroupName": "marketer-landing-page",
+      "ArchivedAt": "2026-04-11T18:16:01.8731142Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/programmatic-seo",
+      "GroupName": "reviewer-seo",
+      "ArchivedAt": "2026-04-11T18:16:07.1490066Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/sales-enablement",
+      "GroupName": "sales-email",
+      "ArchivedAt": "2026-04-11T18:16:15.9750322Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/schema-markup",
+      "GroupName": "reviewer-seo",
+      "ArchivedAt": "2026-04-11T18:16:32.8849669Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/seo-audit",
+      "GroupName": "reviewer-seo",
+      "ArchivedAt": "2026-04-11T18:16:45.09222Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/site-architecture",
+      "GroupName": "planner-content-strategy",
+      "ArchivedAt": "2026-04-11T18:16:56.0786147Z"
+    },
+    {
+      "Owner": "coreyhaines31",
+      "Repo": "marketingskills",
+      "SkillFolder": "skills/social-content",
+      "GroupName": "planner-content-strategy",
+      "ArchivedAt": "2026-04-11T18:17:15.8081359Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
-# skill index
+﻿# skill index
 
-*117 skill group(s) — 358 total variant(s)*
+*117 skill group(s) — 379 total variant(s)*
 
 ## agent-orchestration
 
@@ -400,6 +400,7 @@
 
 ## engineer-ui-ab
 
+- [coreyhaines31/ab-test-setup](engineer-ui-ab/coreyhaines31/ab-test-setup/SKILL.md)
 - [sickn33/ab-test-setup](engineer-ui-ab/sickn33/ab-test-setup/SKILL.md)
 
 ## engineer-ui-d3js
@@ -408,6 +409,7 @@
 
 ## engineer-ui-ga
 
+- [coreyhaines31/analytics-tracking](engineer-ui-ga/coreyhaines31/analytics-tracking/SKILL.md)
 - [sickn33/google-analytics-automation](engineer-ui-ga/sickn33/google-analytics-automation/SKILL.md)
 
 ## engineer-ui-tailwind
@@ -504,6 +506,8 @@
 
 ## marketer
 
+- [coreyhaines31/ad-creative](marketer/coreyhaines31/ad-creative/SKILL.md)
+- [coreyhaines31/marketing-ideas](marketer/coreyhaines31/marketing-ideas/SKILL.md)
 - [sickn33/marketing-ideas](marketer/sickn33/marketing-ideas/SKILL.md)
 - [sickn33/marketing-psychology](marketer/sickn33/marketing-psychology/SKILL.md)
 
@@ -514,6 +518,9 @@
 
 ## marketer-landing-page
 
+- [coreyhaines31/lead-magnets](marketer-landing-page/coreyhaines31/lead-magnets/SKILL.md)
+- [coreyhaines31/page-cro](marketer-landing-page/coreyhaines31/page-cro/SKILL.md)
+- [coreyhaines31/product-marketing-context](marketer-landing-page/coreyhaines31/product-marketing-context/SKILL.md)
 - [sickn33/landing-page-generator](marketer-landing-page/sickn33/landing-page-generator/SKILL.md)
 - [sickn33/lead-magnets](marketer-landing-page/sickn33/lead-magnets/SKILL.md)
 - [sickn33/seo-aeo-landing-page-writer](marketer-landing-page/sickn33/seo-aeo-landing-page-writer/SKILL.md)
@@ -543,6 +550,9 @@
 
 ## planner-content-strategy
 
+- [coreyhaines31/content-strategy](planner-content-strategy/coreyhaines31/content-strategy/SKILL.md)
+- [coreyhaines31/site-architecture](planner-content-strategy/coreyhaines31/site-architecture/SKILL.md)
+- [coreyhaines31/social-content](planner-content-strategy/coreyhaines31/social-content/SKILL.md)
 - [github/folder-structure-blueprint-generator](planner-content-strategy/github/folder-structure-blueprint-generator/SKILL.md)
 - [sickn33/content-strategy](planner-content-strategy/sickn33/content-strategy/SKILL.md)
 - [sickn33/growth-engine](planner-content-strategy/sickn33/growth-engine/SKILL.md)
@@ -605,6 +615,10 @@
 
 ## reviewer-seo
 
+- [coreyhaines31/ai-seo](reviewer-seo/coreyhaines31/ai-seo/SKILL.md)
+- [coreyhaines31/programmatic-seo](reviewer-seo/coreyhaines31/programmatic-seo/SKILL.md)
+- [coreyhaines31/schema-markup](reviewer-seo/coreyhaines31/schema-markup/SKILL.md)
+- [coreyhaines31/seo-audit](reviewer-seo/coreyhaines31/seo-audit/SKILL.md)
 - [sickn33/ai-seo](reviewer-seo/sickn33/ai-seo/SKILL.md)
 - [sickn33/keyword-extractor](reviewer-seo/sickn33/keyword-extractor/SKILL.md)
 - [sickn33/programmatic-seo](reviewer-seo/sickn33/programmatic-seo/SKILL.md)
@@ -629,6 +643,10 @@
 
 ## sales-email
 
+- [coreyhaines31/churn-prevention](sales-email/coreyhaines31/churn-prevention/SKILL.md)
+- [coreyhaines31/cold-email](sales-email/coreyhaines31/cold-email/SKILL.md)
+- [coreyhaines31/email-sequence](sales-email/coreyhaines31/email-sequence/SKILL.md)
+- [coreyhaines31/sales-enablement](sales-email/coreyhaines31/sales-enablement/SKILL.md)
 - [github/email-drafter](sales-email/github/email-drafter/SKILL.md)
 - [sickn33/cold-email](sales-email/sickn33/cold-email/SKILL.md)
 - [sickn33/email-sequence](sales-email/sickn33/email-sequence/SKILL.md)
@@ -687,12 +705,15 @@
 
 ## writer-copywriting
 
+- [coreyhaines31/copy-editing](writer-copywriting/coreyhaines31/copy-editing/SKILL.md)
+- [coreyhaines31/copywriting](writer-copywriting/coreyhaines31/copywriting/SKILL.md)
 - [sickn33/copy-editing](writer-copywriting/sickn33/copy-editing/SKILL.md)
 - [sickn33/copywriting](writer-copywriting/sickn33/copywriting/SKILL.md)
 - [sickn33/copywriting-psychologist](writer-copywriting/sickn33/copywriting-psychologist/SKILL.md)
 
 ## writer-marketing
 
+- [coreyhaines31/marketing-psychology](writer-marketing/coreyhaines31/marketing-psychology/SKILL.md)
 - [sickn33/ad-creative](writer-marketing/sickn33/ad-creative/SKILL.md)
 - [sickn33/content-creator](writer-marketing/sickn33/content-creator/SKILL.md)
 - [sickn33/content-marketer](writer-marketing/sickn33/content-marketer/SKILL.md)

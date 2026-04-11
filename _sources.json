@@ -11,7 +11,7 @@
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/acceptance-orchestrator",
-      "GroupName": "business-analysis",
+      "GroupName": "business-analyst",
       "ArchivedAt": "2026-04-11T03:06:06.3365383Z"
     },
     {
@@ -81,7 +81,7 @@
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/agentmail",
-      "GroupName": "ai-assitant-email",
+      "GroupName": "ai-assistant-email",
       "ArchivedAt": "2026-04-11T03:23:04.7603635Z"
     },
     {
@@ -508,21 +508,21 @@
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ddd-context-mapping",
-      "GroupName": "business-analysis",
+      "GroupName": "business-analyst",
       "ArchivedAt": "2026-04-11T03:47:08.1188289Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ddd-strategic-design",
-      "GroupName": "business-analysis",
+      "GroupName": "business-analyst",
       "ArchivedAt": "2026-04-11T03:47:30.3071362Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ddd-tactical-patterns",
-      "GroupName": "business-analysis",
+      "GroupName": "business-analyst",
       "ArchivedAt": "2026-04-11T03:47:46.7571736Z"
     },
     {
@@ -704,7 +704,7 @@
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/github-issue-creator",
-      "GroupName": "business-analysis",
+      "GroupName": "business-analyst",
       "ArchivedAt": "2026-04-11T04:02:55.5303175Z"
     },
     {
@@ -1488,21 +1488,21 @@
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/stripe-automation",
-      "GroupName": "stipe",
+      "GroupName": "stripe",
       "ArchivedAt": "2026-04-11T04:59:49.2377577Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/stripe-integration",
-      "GroupName": "stipe",
+      "GroupName": "stripe",
       "ArchivedAt": "2026-04-11T04:59:53.029828Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/subagent-driven-development",
-      "GroupName": "ai-assistant-orchistration",
+      "GroupName": "ai-assistant-orchestration",
       "ArchivedAt": "2026-04-11T05:00:16.2257352Z"
     },
     {
@@ -1999,7 +1999,7 @@
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/ember/skills/from-the-other-side-vega",
-      "GroupName": "brainstorm",
+      "GroupName": "brainstorming",
       "ArchivedAt": "2026-04-11T06:02:25.9702979Z"
     },
     {
@@ -2433,7 +2433,7 @@
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/write-coding-standards-from-file",
-      "GroupName": "enginner-editorconfig",
+      "GroupName": "engineer-editorconfig",
       "ArchivedAt": "2026-04-11T06:32:55.1570112Z"
     },
     {
@@ -2769,7 +2769,7 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/agent-workflow-designer",
-      "GroupName": "ai-assistant-orchistration",
+      "GroupName": "ai-assistant-orchestration",
       "ArchivedAt": "2026-04-11T18:32:13.5348286Z"
     },
     {
@@ -3378,7 +3378,7 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/stripe-integration-expert",
-      "GroupName": "stipe",
+      "GroupName": "stripe",
       "ArchivedAt": "2026-04-11T19:27:46.5933241Z"
     },
     {
@@ -3525,7 +3525,7 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering-team/stripe-integration-expert",
-      "GroupName": "stipe",
+      "GroupName": "stripe",
       "ArchivedAt": "2026-04-11T19:35:01.4334777Z"
     },
     {
@@ -3644,7 +3644,7 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "marketing-skill/ad-creative",
-      "GroupName": "stipe",
+      "GroupName": "stripe",
       "ArchivedAt": "2026-04-11T19:40:07.756347Z"
     },
     {
@@ -3735,7 +3735,7 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "product-team/product-analytics",
-      "GroupName": "business-analysis",
+      "GroupName": "business-analyst",
       "ArchivedAt": "2026-04-11T19:42:51.0058249Z"
     },
     {
@@ -3819,7 +3819,7 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "project-management/senior-pm",
-      "GroupName": "manager_agile",
+      "GroupName": "manager-agile",
       "ArchivedAt": "2026-04-11T19:45:12.8644888Z"
     },
     {
@@ -4015,7 +4015,7 @@
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/core-skills/bmad-distillator",
-      "GroupName": "ai-assistant-orchistration",
+      "GroupName": "ai-assistant-orchestration",
       "ArchivedAt": "2026-04-11T19:55:47.5524125Z"
     },
     {
@@ -4372,7 +4372,7 @@
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/sadd/skills/multi-agent-patterns",
-      "GroupName": "ai-assistant-orchistration",
+      "GroupName": "ai-assistant-orchestration",
       "ArchivedAt": "2026-04-11T21:48:27.3972924Z"
     },
     {
@@ -4617,14 +4617,14 @@
       "Owner": "obra",
       "Repo": "superpowers",
       "SkillFolder": "skills/dispatching-parallel-agents",
-      "GroupName": "ai-assistant-orchistration",
+      "GroupName": "ai-assistant-orchestration",
       "ArchivedAt": "2026-04-11T21:59:37.8068677Z"
     },
     {
       "Owner": "obra",
       "Repo": "superpowers",
       "SkillFolder": "skills/executing-plans",
-      "GroupName": "project-manager",
+      "GroupName": "manager-project",
       "ArchivedAt": "2026-04-11T21:59:46.589939Z"
     },
     {
@@ -4652,7 +4652,7 @@
       "Owner": "obra",
       "Repo": "superpowers",
       "SkillFolder": "skills/subagent-driven-development",
-      "GroupName": "ai-assistant-orchisration",
+      "GroupName": "ai-assistant-orchestration",
       "ArchivedAt": "2026-04-11T22:01:01.9161179Z"
     },
     {

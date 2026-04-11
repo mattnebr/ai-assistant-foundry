@@ -1,9 +1,10 @@
 ﻿# manager-project
 
-14 skill variant(s).
+15 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | planning-and-task-breakdown | [SKILL.md](addyosmani/planning-and-task-breakdown/SKILL.md) |
 | automazeio | ccpm | [SKILL.md](automazeio/ccpm/SKILL.md) |
 | bmad-code-org | bmad-create-prd | [SKILL.md](bmad-code-org/bmad-create-prd/SKILL.md) |
 | bmad-code-org | bmad-document-project | [SKILL.md](bmad-code-org/bmad-document-project/SKILL.md) |

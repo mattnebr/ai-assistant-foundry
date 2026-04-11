@@ -1,9 +1,10 @@
 ﻿# brainstorming
 
-11 skill variant(s).
+12 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | idea-refine | [SKILL.md](addyosmani/idea-refine/SKILL.md) |
 | bmad-code-org | bmad-brainstorming | [SKILL.md](bmad-code-org/bmad-brainstorming/SKILL.md) |
 | cblecker | brainstorming | [SKILL.md](cblecker/brainstorming/SKILL.md) |
 | K-Dense-AI | scientific-critical-thinking | [SKILL.md](K-Dense-AI/scientific-critical-thinking/SKILL.md) |

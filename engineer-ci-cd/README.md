@@ -1,9 +1,10 @@
 ﻿# engineer-ci-cd
 
-11 skill variant(s).
+12 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | ci-cd-and-automation | [SKILL.md](addyosmani/ci-cd-and-automation/SKILL.md) |
 | alirezarezvani | ci-cd-pipeline-builder | [SKILL.md](alirezarezvani/ci-cd-pipeline-builder/SKILL.md) |
 | alirezarezvani | devops-engineer | [SKILL.md](alirezarezvani/devops-engineer/SKILL.md) |
 | alirezarezvani | senior-devops | [SKILL.md](alirezarezvani/senior-devops/SKILL.md) |

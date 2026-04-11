@@ -1,9 +1,10 @@
 ﻿# engineer-software-debug
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | debugging-and-error-recovery | [SKILL.md](addyosmani/debugging-and-error-recovery/SKILL.md) |
 | NeoLabHQ | root-cause-tracing | [SKILL.md](NeoLabHQ/root-cause-tracing/SKILL.md) |
 | obra | systematic-debugging | [SKILL.md](obra/systematic-debugging/SKILL.md) |
 | whawkinsiv | debug | [SKILL.md](whawkinsiv/debug/SKILL.md) |

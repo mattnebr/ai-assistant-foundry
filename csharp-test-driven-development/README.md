@@ -1,9 +1,10 @@
 ﻿# csharp-test-driven-development
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | test-driven-development | [SKILL.md](addyosmani/test-driven-development/SKILL.md) |
 | cblecker | test-driven-development | [SKILL.md](cblecker/test-driven-development/SKILL.md) |
 | NeoLabHQ | test-driven-development | [SKILL.md](NeoLabHQ/test-driven-development/SKILL.md) |
 | obra | test-driven-development | [SKILL.md](obra/test-driven-development/SKILL.md) |

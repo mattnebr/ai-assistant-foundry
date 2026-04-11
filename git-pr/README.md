@@ -1,9 +1,10 @@
 ﻿# git-pr
 
-11 skill variant(s).
+12 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | code-review-and-quality | [SKILL.md](addyosmani/code-review-and-quality/SKILL.md) |
 | alirezarezvani | pr-review-expert | [SKILL.md](alirezarezvani/pr-review-expert/SKILL.md) |
 | cblecker | finishing-a-development-branch | [SKILL.md](cblecker/finishing-a-development-branch/SKILL.md) |
 | cblecker | requesting-code-review | [SKILL.md](cblecker/requesting-code-review/SKILL.md) |

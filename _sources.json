@@ -4871,6 +4871,118 @@
       "SkillFolder": ".",
       "GroupName": "engineer-qa",
       "ArchivedAt": "2026-04-11T22:34:33.8640639Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/api-and-interface-design",
+      "GroupName": "engineer-api",
+      "ArchivedAt": "2026-04-11T22:37:16.4953943Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/browser-testing-with-devtools",
+      "GroupName": "engineer-qa",
+      "ArchivedAt": "2026-04-11T22:37:27.1129977Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/ci-cd-and-automation",
+      "GroupName": "engineer-ci-cd",
+      "ArchivedAt": "2026-04-11T22:37:31.1150236Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/code-review-and-quality",
+      "GroupName": "git-pr",
+      "ArchivedAt": "2026-04-11T22:37:45.1715851Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/debugging-and-error-recovery",
+      "GroupName": "engineer-software-debug",
+      "ArchivedAt": "2026-04-11T22:37:55.6861976Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/deprecation-and-migration",
+      "GroupName": "engineer-janitor",
+      "ArchivedAt": "2026-04-11T22:38:09.8275353Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/documentation-and-adrs",
+      "GroupName": "architecture-decision-records",
+      "ArchivedAt": "2026-04-11T22:38:43.8142459Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/frontend-ui-engineering",
+      "GroupName": "engineer-software-frontend",
+      "ArchivedAt": "2026-04-11T22:38:50.8219279Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/git-workflow-and-versioning",
+      "GroupName": "git-workflows",
+      "ArchivedAt": "2026-04-11T22:38:57.2488978Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/idea-refine",
+      "GroupName": "brainstorming",
+      "ArchivedAt": "2026-04-11T22:39:08.6575866Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/incremental-implementation",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T22:39:18.8184292Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/planning-and-task-breakdown",
+      "GroupName": "manager-project",
+      "ArchivedAt": "2026-04-11T22:39:31.5808478Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/security-and-hardening",
+      "GroupName": "engineer-security",
+      "ArchivedAt": "2026-04-11T22:39:43.9921515Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/source-driven-development",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T22:40:06.7088217Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/spec-driven-development",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T22:40:12.9795396Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/test-driven-development",
+      "GroupName": "csharp-test-driven-development",
+      "ArchivedAt": "2026-04-11T22:40:16.0399692Z"
     }
   ]
 }

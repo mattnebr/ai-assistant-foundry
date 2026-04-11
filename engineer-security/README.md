@@ -1,9 +1,10 @@
 ﻿# engineer-security
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | security-and-hardening | [SKILL.md](addyosmani/security-and-hardening/SKILL.md) |
 | fr33d3m0n | threat-modeling | [SKILL.md](fr33d3m0n/threat-modeling/SKILL.md) |
 
 ---

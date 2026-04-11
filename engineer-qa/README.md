@@ -1,9 +1,10 @@
 ﻿# engineer-qa
 
-4 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | browser-testing-with-devtools | [SKILL.md](addyosmani/browser-testing-with-devtools/SKILL.md) |
 | alirezarezvani | senior-qa | [SKILL.md](alirezarezvani/senior-qa/SKILL.md) |
 | alirezarezvani | skill-tester | [SKILL.md](alirezarezvani/skill-tester/SKILL.md) |
 | omkamal | pypict-claude-skill | [SKILL.md](omkamal/pypict-claude-skill/SKILL.md) |

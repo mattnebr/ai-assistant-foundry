@@ -1,9 +1,10 @@
 ﻿# engineer-api
 
-6 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | api-and-interface-design | [SKILL.md](addyosmani/api-and-interface-design/SKILL.md) |
 | alirezarezvani | api-design-reviewer | [SKILL.md](alirezarezvani/api-design-reviewer/SKILL.md) |
 | alirezarezvani | api-test-suite-builder | [SKILL.md](alirezarezvani/api-test-suite-builder/SKILL.md) |
 | github | aspnet-minimal-api-openapi | [SKILL.md](github/aspnet-minimal-api-openapi/SKILL.md) |

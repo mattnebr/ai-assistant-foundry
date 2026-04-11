@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*133 skill group(s) — 641 total variant(s)*
+*133 skill group(s) — 657 total variant(s)*
 
 ## agent-orchestration
 
@@ -100,6 +100,7 @@
 
 ## architecture-decision-records
 
+- [addyosmani/documentation-and-adrs](architecture-decision-records/addyosmani/documentation-and-adrs/SKILL.md)
 - [github/architecture-blueprint-generator](architecture-decision-records/github/architecture-blueprint-generator/SKILL.md)
 - [github/create-architectural-decision-record](architecture-decision-records/github/create-architectural-decision-record/SKILL.md)
 - [sickn33/architecture-decision-records](architecture-decision-records/sickn33/architecture-decision-records/SKILL.md)
@@ -118,6 +119,7 @@
 
 ## brainstorming
 
+- [addyosmani/idea-refine](brainstorming/addyosmani/idea-refine/SKILL.md)
 - [bmad-code-org/bmad-brainstorming](brainstorming/bmad-code-org/bmad-brainstorming/SKILL.md)
 - [cblecker/brainstorming](brainstorming/cblecker/brainstorming/SKILL.md)
 - [K-Dense-AI/scientific-critical-thinking](brainstorming/K-Dense-AI/scientific-critical-thinking/SKILL.md)
@@ -232,6 +234,7 @@
 
 ## csharp-test-driven-development
 
+- [addyosmani/test-driven-development](csharp-test-driven-development/addyosmani/test-driven-development/SKILL.md)
 - [cblecker/test-driven-development](csharp-test-driven-development/cblecker/test-driven-development/SKILL.md)
 - [NeoLabHQ/test-driven-development](csharp-test-driven-development/NeoLabHQ/test-driven-development/SKILL.md)
 - [obra/test-driven-development](csharp-test-driven-development/obra/test-driven-development/SKILL.md)
@@ -321,6 +324,7 @@
 
 ## engineer-api
 
+- [addyosmani/api-and-interface-design](engineer-api/addyosmani/api-and-interface-design/SKILL.md)
 - [alirezarezvani/api-design-reviewer](engineer-api/alirezarezvani/api-design-reviewer/SKILL.md)
 - [alirezarezvani/api-test-suite-builder](engineer-api/alirezarezvani/api-test-suite-builder/SKILL.md)
 - [github/aspnet-minimal-api-openapi](engineer-api/github/aspnet-minimal-api-openapi/SKILL.md)
@@ -337,6 +341,7 @@
 
 ## engineer-ci-cd
 
+- [addyosmani/ci-cd-and-automation](engineer-ci-cd/addyosmani/ci-cd-and-automation/SKILL.md)
 - [alirezarezvani/ci-cd-pipeline-builder](engineer-ci-cd/alirezarezvani/ci-cd-pipeline-builder/SKILL.md)
 - [alirezarezvani/devops-engineer](engineer-ci-cd/alirezarezvani/devops-engineer/SKILL.md)
 - [alirezarezvani/senior-devops](engineer-ci-cd/alirezarezvani/senior-devops/SKILL.md)
@@ -396,6 +401,7 @@
 
 ## engineer-janitor
 
+- [addyosmani/deprecation-and-migration](engineer-janitor/addyosmani/deprecation-and-migration/SKILL.md)
 - [alirezarezvani/tech-debt](engineer-janitor/alirezarezvani/tech-debt/SKILL.md)
 - [alirezarezvani/tech-debt-tracker](engineer-janitor/alirezarezvani/tech-debt-tracker/SKILL.md)
 - [github/repo-story-time](engineer-janitor/github/repo-story-time/SKILL.md)
@@ -448,6 +454,7 @@
 
 ## engineer-qa
 
+- [addyosmani/browser-testing-with-devtools](engineer-qa/addyosmani/browser-testing-with-devtools/SKILL.md)
 - [alirezarezvani/senior-qa](engineer-qa/alirezarezvani/senior-qa/SKILL.md)
 - [alirezarezvani/skill-tester](engineer-qa/alirezarezvani/skill-tester/SKILL.md)
 - [omkamal/pypict-claude-skill](engineer-qa/omkamal/pypict-claude-skill/SKILL.md)
@@ -469,6 +476,7 @@
 
 ## engineer-security
 
+- [addyosmani/security-and-hardening](engineer-security/addyosmani/security-and-hardening/SKILL.md)
 - [fr33d3m0n/threat-modeling](engineer-security/fr33d3m0n/threat-modeling/SKILL.md)
 
 ## engineer-software
@@ -499,12 +507,14 @@
 
 ## engineer-software-debug
 
+- [addyosmani/debugging-and-error-recovery](engineer-software-debug/addyosmani/debugging-and-error-recovery/SKILL.md)
 - [NeoLabHQ/root-cause-tracing](engineer-software-debug/NeoLabHQ/root-cause-tracing/SKILL.md)
 - [obra/systematic-debugging](engineer-software-debug/obra/systematic-debugging/SKILL.md)
 - [whawkinsiv/debug](engineer-software-debug/whawkinsiv/debug/SKILL.md)
 
 ## engineer-software-frontend
 
+- [addyosmani/frontend-ui-engineering](engineer-software-frontend/addyosmani/frontend-ui-engineering/SKILL.md)
 - [alirezarezvani/senior-frontend](engineer-software-frontend/alirezarezvani/senior-frontend/SKILL.md)
 - [sickn33/frontend-dev-guidelines](engineer-software-frontend/sickn33/frontend-dev-guidelines/SKILL.md)
 - [sickn33/frontend-developer](engineer-software-frontend/sickn33/frontend-developer/SKILL.md)
@@ -621,6 +631,7 @@
 
 ## git-pr
 
+- [addyosmani/code-review-and-quality](git-pr/addyosmani/code-review-and-quality/SKILL.md)
 - [alirezarezvani/pr-review-expert](git-pr/alirezarezvani/pr-review-expert/SKILL.md)
 - [cblecker/finishing-a-development-branch](git-pr/cblecker/finishing-a-development-branch/SKILL.md)
 - [cblecker/requesting-code-review](git-pr/cblecker/requesting-code-review/SKILL.md)
@@ -635,6 +646,7 @@
 
 ## git-workflows
 
+- [addyosmani/git-workflow-and-versioning](git-workflows/addyosmani/git-workflow-and-versioning/SKILL.md)
 - [jefflester/git-workflow](git-workflows/jefflester/git-workflow/SKILL.md)
 - [mattnebr/git-no-pull-requests](git-workflows/mattnebr/git-no-pull-requests/SKILL.md)
 - [sickn33/git-advanced-workflows](git-workflows/sickn33/git-advanced-workflows/SKILL.md)
@@ -678,6 +690,9 @@
 
 ## manager-agile
 
+- [addyosmani/incremental-implementation](manager-agile/addyosmani/incremental-implementation/SKILL.md)
+- [addyosmani/source-driven-development](manager-agile/addyosmani/source-driven-development/SKILL.md)
+- [addyosmani/spec-driven-development](manager-agile/addyosmani/spec-driven-development/SKILL.md)
 - [alirezarezvani/agile-product-owner](manager-agile/alirezarezvani/agile-product-owner/SKILL.md)
 - [alirezarezvani/change-management](manager-agile/alirezarezvani/change-management/SKILL.md)
 - [alirezarezvani/code-to-prd](manager-agile/alirezarezvani/code-to-prd/SKILL.md)
@@ -742,6 +757,7 @@
 
 ## manager-project
 
+- [addyosmani/planning-and-task-breakdown](manager-project/addyosmani/planning-and-task-breakdown/SKILL.md)
 - [automazeio/ccpm](manager-project/automazeio/ccpm/SKILL.md)
 - [bmad-code-org/bmad-create-prd](manager-project/bmad-code-org/bmad-create-prd/SKILL.md)
 - [bmad-code-org/bmad-document-project](manager-project/bmad-code-org/bmad-document-project/SKILL.md)

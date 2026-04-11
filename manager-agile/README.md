@@ -1,9 +1,12 @@
 ﻿# manager-agile
 
-49 skill variant(s).
+52 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | incremental-implementation | [SKILL.md](addyosmani/incremental-implementation/SKILL.md) |
+| addyosmani | source-driven-development | [SKILL.md](addyosmani/source-driven-development/SKILL.md) |
+| addyosmani | spec-driven-development | [SKILL.md](addyosmani/spec-driven-development/SKILL.md) |
 | alirezarezvani | agile-product-owner | [SKILL.md](alirezarezvani/agile-product-owner/SKILL.md) |
 | alirezarezvani | change-management | [SKILL.md](alirezarezvani/change-management/SKILL.md) |
 | alirezarezvani | code-to-prd | [SKILL.md](alirezarezvani/code-to-prd/SKILL.md) |

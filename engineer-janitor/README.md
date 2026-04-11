@@ -1,9 +1,10 @@
 ﻿# engineer-janitor
 
-4 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | deprecation-and-migration | [SKILL.md](addyosmani/deprecation-and-migration/SKILL.md) |
 | alirezarezvani | tech-debt | [SKILL.md](alirezarezvani/tech-debt/SKILL.md) |
 | alirezarezvani | tech-debt-tracker | [SKILL.md](alirezarezvani/tech-debt-tracker/SKILL.md) |
 | github | repo-story-time | [SKILL.md](github/repo-story-time/SKILL.md) |

@@ -1,9 +1,10 @@
 ﻿# architecture-decision-records
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | documentation-and-adrs | [SKILL.md](addyosmani/documentation-and-adrs/SKILL.md) |
 | github | architecture-blueprint-generator | [SKILL.md](github/architecture-blueprint-generator/SKILL.md) |
 | github | create-architectural-decision-record | [SKILL.md](github/create-architectural-decision-record/SKILL.md) |
 | sickn33 | architecture-decision-records | [SKILL.md](sickn33/architecture-decision-records/SKILL.md) |

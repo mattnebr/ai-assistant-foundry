@@ -1,9 +1,10 @@
 ﻿# git-workflows
 
-7 skill variant(s).
+8 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | git-workflow-and-versioning | [SKILL.md](addyosmani/git-workflow-and-versioning/SKILL.md) |
 | jefflester | git-workflow | [SKILL.md](jefflester/git-workflow/SKILL.md) |
 | mattnebr | git-no-pull-requests | [SKILL.md](mattnebr/git-no-pull-requests/SKILL.md) |
 | sickn33 | git-advanced-workflows | [SKILL.md](sickn33/git-advanced-workflows/SKILL.md) |

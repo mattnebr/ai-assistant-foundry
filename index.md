@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*127 skill group(s) — 524 total variant(s)*
+*127 skill group(s) — 525 total variant(s)*
 
 ## agent-orchestration
 
@@ -634,6 +634,7 @@
 
 ## manager-project
 
+- [automazeio/ccpm](manager-project/automazeio/ccpm/SKILL.md)
 - [bmad-code-org/bmad-create-prd](manager-project/bmad-code-org/bmad-create-prd/SKILL.md)
 - [bmad-code-org/bmad-document-project](manager-project/bmad-code-org/bmad-document-project/SKILL.md)
 - [bmad-code-org/bmad-edit-prd](manager-project/bmad-code-org/bmad-edit-prd/SKILL.md)

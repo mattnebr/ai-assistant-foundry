@@ -4038,6 +4038,13 @@
       "SkillFolder": "src/core-skills/bmad-index-docs",
       "GroupName": "builder-markdown-index",
       "ArchivedAt": "2026-04-11T19:56:51.5849688Z"
+    },
+    {
+      "Owner": "automazeio",
+      "Repo": "ccpm",
+      "SkillFolder": "skill/ccpm",
+      "GroupName": "manager-project",
+      "ArchivedAt": "2026-04-11T20:00:03.4962322Z"
     }
   ]
 }

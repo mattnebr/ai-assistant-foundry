@@ -1,9 +1,10 @@
 ﻿# manager-project
 
-7 skill variant(s).
+8 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| automazeio | ccpm | [SKILL.md](automazeio/ccpm/SKILL.md) |
 | bmad-code-org | bmad-create-prd | [SKILL.md](bmad-code-org/bmad-create-prd/SKILL.md) |
 | bmad-code-org | bmad-document-project | [SKILL.md](bmad-code-org/bmad-document-project/SKILL.md) |
 | bmad-code-org | bmad-edit-prd | [SKILL.md](bmad-code-org/bmad-edit-prd/SKILL.md) |

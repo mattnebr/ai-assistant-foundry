@@ -4780,6 +4780,34 @@
       "SkillFolder": ".",
       "GroupName": "engineer-mermaid",
       "ArchivedAt": "2026-04-11T22:15:32.7002941Z"
+    },
+    {
+      "Owner": "feiskyer",
+      "Repo": "claude-code-settings",
+      "SkillFolder": "plugins/spec-kit-skill/skills/spec-kit-skill",
+      "GroupName": "manager-project",
+      "ArchivedAt": "2026-04-11T22:17:58.0193086Z"
+    },
+    {
+      "Owner": "feiskyer",
+      "Repo": "claude-code-settings",
+      "SkillFolder": "skills/github-review-pr",
+      "GroupName": "git-pr",
+      "ArchivedAt": "2026-04-11T22:18:22.2768266Z"
+    },
+    {
+      "Owner": "feiskyer",
+      "Repo": "claude-code-settings",
+      "SkillFolder": "skills/skill-creator",
+      "GroupName": "ai-assistant-skill-maker",
+      "ArchivedAt": "2026-04-11T22:18:33.059817Z"
+    },
+    {
+      "Owner": "feiskyer",
+      "Repo": "claude-code-settings",
+      "SkillFolder": "skills/spec-kit-skill",
+      "GroupName": "manager-project",
+      "ArchivedAt": "2026-04-11T22:18:48.0213759Z"
     }
   ]
 }

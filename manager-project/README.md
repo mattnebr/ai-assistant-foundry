@@ -1,6 +1,6 @@
 ﻿# manager-project
 
-13 skill variant(s).
+14 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -9,6 +9,7 @@
 | bmad-code-org | bmad-document-project | [SKILL.md](bmad-code-org/bmad-document-project/SKILL.md) |
 | bmad-code-org | bmad-edit-prd | [SKILL.md](bmad-code-org/bmad-edit-prd/SKILL.md) |
 | bmad-code-org | bmad-product-brief | [SKILL.md](bmad-code-org/bmad-product-brief/SKILL.md) |
+| feiskyer | spec-kit-skill | [SKILL.md](feiskyer/spec-kit-skill/SKILL.md) |
 | NeoLabHQ | plan-do-check-act | [SKILL.md](NeoLabHQ/plan-do-check-act/SKILL.md) |
 | obra | writing-plans | [SKILL.md](obra/writing-plans/SKILL.md) |
 | sanjay3290 | outline | [SKILL.md](sanjay3290/outline/SKILL.md) |

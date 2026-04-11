@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*132 skill group(s) — 629 total variant(s)*
+*132 skill group(s) — 632 total variant(s)*
 
 ## agent-orchestration
 
@@ -46,6 +46,7 @@
 ## ai-assistant-skill-maker
 
 - [anthropics/skill-creator](ai-assistant-skill-maker/anthropics/skill-creator/SKILL.md)
+- [feiskyer/skill-creator](ai-assistant-skill-maker/feiskyer/skill-creator/SKILL.md)
 - [github/copilot-instructions-blueprint-generator](ai-assistant-skill-maker/github/copilot-instructions-blueprint-generator/SKILL.md)
 - [github/create-agentsmd](ai-assistant-skill-maker/github/create-agentsmd/SKILL.md)
 - [github/make-skill-template](ai-assistant-skill-maker/github/make-skill-template/SKILL.md)
@@ -613,6 +614,7 @@
 - [alirezarezvani/pr-review-expert](git-pr/alirezarezvani/pr-review-expert/SKILL.md)
 - [cblecker/finishing-a-development-branch](git-pr/cblecker/finishing-a-development-branch/SKILL.md)
 - [cblecker/requesting-code-review](git-pr/cblecker/requesting-code-review/SKILL.md)
+- [feiskyer/github-review-pr](git-pr/feiskyer/github-review-pr/SKILL.md)
 - [github/my-pull-requests](git-pr/github/my-pull-requests/SKILL.md)
 - [NeoLabHQ/attach-review-to-pr](git-pr/NeoLabHQ/attach-review-to-pr/SKILL.md)
 - [NeoLabHQ/create-pr](git-pr/NeoLabHQ/create-pr/SKILL.md)
@@ -733,6 +735,7 @@
 - [bmad-code-org/bmad-document-project](manager-project/bmad-code-org/bmad-document-project/SKILL.md)
 - [bmad-code-org/bmad-edit-prd](manager-project/bmad-code-org/bmad-edit-prd/SKILL.md)
 - [bmad-code-org/bmad-product-brief](manager-project/bmad-code-org/bmad-product-brief/SKILL.md)
+- [feiskyer/spec-kit-skill](manager-project/feiskyer/spec-kit-skill/SKILL.md)
 - [NeoLabHQ/plan-do-check-act](manager-project/NeoLabHQ/plan-do-check-act/SKILL.md)
 - [obra/writing-plans](manager-project/obra/writing-plans/SKILL.md)
 - [sanjay3290/outline](manager-project/sanjay3290/outline/SKILL.md)

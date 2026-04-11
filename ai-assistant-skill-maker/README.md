@@ -1,10 +1,11 @@
 ﻿# ai-assistant-skill-maker
 
-10 skill variant(s).
+11 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | anthropics | skill-creator | [SKILL.md](anthropics/skill-creator/SKILL.md) |
+| feiskyer | skill-creator | [SKILL.md](feiskyer/skill-creator/SKILL.md) |
 | github | copilot-instructions-blueprint-generator | [SKILL.md](github/copilot-instructions-blueprint-generator/SKILL.md) |
 | github | create-agentsmd | [SKILL.md](github/create-agentsmd/SKILL.md) |
 | github | make-skill-template | [SKILL.md](github/make-skill-template/SKILL.md) |

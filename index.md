@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*133 skill group(s) — 640 total variant(s)*
+*133 skill group(s) — 641 total variant(s)*
 
 ## agent-orchestration
 
@@ -450,6 +450,7 @@
 
 - [alirezarezvani/senior-qa](engineer-qa/alirezarezvani/senior-qa/SKILL.md)
 - [alirezarezvani/skill-tester](engineer-qa/alirezarezvani/skill-tester/SKILL.md)
+- [omkamal/pypict-claude-skill](engineer-qa/omkamal/pypict-claude-skill/SKILL.md)
 - [whawkinsiv/test](engineer-qa/whawkinsiv/test/SKILL.md)
 
 ## engineer-rag

@@ -4864,6 +4864,13 @@
       "SkillFolder": ".",
       "GroupName": "engineer-security",
       "ArchivedAt": "2026-04-11T22:32:54.8386419Z"
+    },
+    {
+      "Owner": "omkamal",
+      "Repo": "pypict-claude-skill",
+      "SkillFolder": ".",
+      "GroupName": "engineer-qa",
+      "ArchivedAt": "2026-04-11T22:34:33.8640639Z"
     }
   ]
 }

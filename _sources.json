@@ -1784,6 +1784,76 @@
       "SkillFolder": "plugins/antigravity-awesome-skills/skills/accessibility-compliance-accessibility-audit",
       "GroupName": "git-commit",
       "ArchivedAt": "2026-04-11T05:16:54.7412211Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "ai-markdown-library",
+      "SkillFolder": "skills/ai-assistant-skill-maker",
+      "GroupName": "ai-assistant-skill-maker",
+      "ArchivedAt": "2026-04-11T05:38:09.2424228Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "ai-markdown-library",
+      "SkillFolder": "skills/commit-message",
+      "GroupName": "git-commit",
+      "ArchivedAt": "2026-04-11T05:38:15.2664786Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "ai-markdown-library",
+      "SkillFolder": "skills/copilot-instruction-writer",
+      "GroupName": "ai-assistant-skill-maker",
+      "ArchivedAt": "2026-04-11T05:38:47.3358051Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "ai-markdown-library",
+      "SkillFolder": "skills/csharp-console-app-menu",
+      "GroupName": "csharp-console-app-menu",
+      "ArchivedAt": "2026-04-11T05:39:08.0004089Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "ai-markdown-library",
+      "SkillFolder": "skills/csharp-logging-levels",
+      "GroupName": "csharp-logging-levels",
+      "ArchivedAt": "2026-04-11T05:39:12.6594947Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "ai-markdown-library",
+      "SkillFolder": "skills/csharp-mstest",
+      "GroupName": "csharp-mstest",
+      "ArchivedAt": "2026-04-11T05:39:15.1728445Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "ai-markdown-library",
+      "SkillFolder": "skills/csharp-project-scaffolding",
+      "GroupName": "csharp-project-scaffolding",
+      "ArchivedAt": "2026-04-11T05:39:21.8933237Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "ai-markdown-library",
+      "SkillFolder": "skills/git-creating-branches",
+      "GroupName": "git-branch",
+      "ArchivedAt": "2026-04-11T05:39:27.6868265Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "ai-markdown-library",
+      "SkillFolder": "skills/git-no-pull-requests",
+      "GroupName": "git-workflows",
+      "ArchivedAt": "2026-04-11T05:40:03.4183422Z"
+    },
+    {
+      "Owner": "mattnebr",
+      "Repo": "ai-markdown-library",
+      "SkillFolder": "skills/technical-writing-style",
+      "GroupName": "writer-technical",
+      "ArchivedAt": "2026-04-11T05:40:17.4081246Z"
     }
   ]
 }

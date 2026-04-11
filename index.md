@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*132 skill group(s) — 635 total variant(s)*
+*132 skill group(s) — 637 total variant(s)*
 
 ## agent-orchestration
 
@@ -275,7 +275,9 @@
 
 - [alirezarezvani/ui-design-system](designer-ui/alirezarezvani/ui-design-system/SKILL.md)
 - [anthropics/frontend-design](designer-ui/anthropics/frontend-design/SKILL.md)
+- [axiaoge2/Apple-Hig-Designer](designer-ui/axiaoge2/Apple-Hig-Designer/SKILL.md)
 - [github/web-design-reviewer](designer-ui/github/web-design-reviewer/SKILL.md)
+- [pbakaus/impeccable](designer-ui/pbakaus/impeccable/SKILL.md)
 - [sickn33/ui-pattern](designer-ui/sickn33/ui-pattern/SKILL.md)
 - [sickn33/ui-ux-designer](designer-ui/sickn33/ui-ux-designer/SKILL.md)
 - [sickn33/ui-ux-pro-max](designer-ui/sickn33/ui-ux-pro-max/SKILL.md)

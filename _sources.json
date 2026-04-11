@@ -4836,6 +4836,13 @@
       "SkillFolder": ".agents/skills/impeccable",
       "GroupName": "designer-ui",
       "ArchivedAt": "2026-04-11T22:25:10.4544876Z"
+    },
+    {
+      "Owner": "axiaoge2",
+      "Repo": "Apple-Hig-Designer",
+      "SkillFolder": ".",
+      "GroupName": "designer-ui",
+      "ArchivedAt": "2026-04-11T22:27:29.9356062Z"
     }
   ]
 }

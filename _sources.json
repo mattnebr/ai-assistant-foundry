@@ -4416,6 +4416,195 @@
       "SkillFolder": "plugins/tech-stack/skills/add-typescript-best-practices",
       "GroupName": "engineer-software-typescript",
       "ArchivedAt": "2026-04-11T21:49:28.7524619Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/accounting",
+      "GroupName": "financial-analyst",
+      "ArchivedAt": "2026-04-11T21:53:03.5590812Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/analytics",
+      "GroupName": "data-scientist",
+      "ArchivedAt": "2026-04-11T21:53:17.732295Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/brand-identity-generator",
+      "GroupName": "designer-branding",
+      "ArchivedAt": "2026-04-11T21:53:39.7105192Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/copywriting",
+      "GroupName": "writer-copywriting",
+      "ArchivedAt": "2026-04-11T21:53:50.3490837Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/database",
+      "GroupName": "engineer-database",
+      "ArchivedAt": "2026-04-11T21:54:00.8970398Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/debug",
+      "GroupName": "engineer-software-debug",
+      "ArchivedAt": "2026-04-11T21:54:04.8482972Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/deploy",
+      "GroupName": "engineer-ci-cd",
+      "ArchivedAt": "2026-04-11T21:54:22.0802315Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/design-review",
+      "GroupName": "designer-ui",
+      "ArchivedAt": "2026-04-11T21:54:29.7355871Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/dry",
+      "GroupName": "csharp-dry",
+      "ArchivedAt": "2026-04-11T21:54:44.1571317Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/email",
+      "GroupName": "designer-email",
+      "ArchivedAt": "2026-04-11T21:55:00.0318298Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/finances",
+      "GroupName": "financial-analyst",
+      "ArchivedAt": "2026-04-11T21:55:04.5873382Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/growth",
+      "GroupName": "marketer",
+      "ArchivedAt": "2026-04-11T21:55:15.6935364Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/hiring",
+      "GroupName": "manager-humans",
+      "ArchivedAt": "2026-04-11T21:55:22.7803592Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/journey",
+      "GroupName": "designer-ux",
+      "ArchivedAt": "2026-04-11T21:55:43.9926245Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/landing-page",
+      "GroupName": "marketer-landing-page",
+      "ArchivedAt": "2026-04-11T21:55:46.8866495Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/legal",
+      "GroupName": "legal-advisor",
+      "ArchivedAt": "2026-04-11T21:55:53.2739257Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/plan",
+      "GroupName": "manager-agile",
+      "ArchivedAt": "2026-04-11T21:56:15.1648051Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/prioritize",
+      "GroupName": "manager-project",
+      "ArchivedAt": "2026-04-11T21:56:27.2227091Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/retention",
+      "GroupName": "manager-humans",
+      "ArchivedAt": "2026-04-11T21:56:40.1739268Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/sales",
+      "GroupName": "sales-email",
+      "ArchivedAt": "2026-04-11T21:56:42.7648298Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/seo-audit",
+      "GroupName": "reviewer-seo",
+      "ArchivedAt": "2026-04-11T21:56:52.4265192Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/seo-content",
+      "GroupName": "reviewer-seo",
+      "ArchivedAt": "2026-04-11T21:57:01.7881843Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/seo",
+      "GroupName": "reviewer-seo",
+      "ArchivedAt": "2026-04-11T21:57:09.973824Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/technical-seo",
+      "GroupName": "reviewer-seo",
+      "ArchivedAt": "2026-04-11T21:57:16.7078683Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/test",
+      "GroupName": "engineer-qa",
+      "ArchivedAt": "2026-04-11T21:57:55.043675Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/ui-patterns",
+      "GroupName": "designer-ui",
+      "ArchivedAt": "2026-04-11T21:58:13.1198166Z"
+    },
+    {
+      "Owner": "whawkinsiv",
+      "Repo": "solo-founder-superpowers",
+      "SkillFolder": "skills/ux-design",
+      "GroupName": "designer-ux",
+      "ArchivedAt": "2026-04-11T21:58:20.1395789Z"
     }
   ]
 }

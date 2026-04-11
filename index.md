@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*129 skill group(s) — 578 total variant(s)*
+*130 skill group(s) — 605 total variant(s)*
 
 ## agent-orchestration
 
@@ -194,6 +194,10 @@
 - [SebastienDegodez/domain-driven-design](csharp-domain-driven-design/SebastienDegodez/domain-driven-design/domain-driven-design.instructions.md)
 - [SebastienDegodez/domain-driven-design-event-csharp](csharp-domain-driven-design/SebastienDegodez/domain-driven-design-event-csharp/domain-driven-design-event-csharp.instructions.md)
 
+## csharp-dry
+
+- [whawkinsiv/dry](csharp-dry/whawkinsiv/dry/SKILL.md)
+
 ## csharp-logging-levels
 
 - [mattnebr/csharp-logging-levels](csharp-logging-levels/mattnebr/csharp-logging-levels/SKILL.md)
@@ -230,6 +234,7 @@
 - [sickn33/data-scientist](data-scientist/sickn33/data-scientist/SKILL.md)
 - [sickn33/data-storytelling](data-scientist/sickn33/data-storytelling/SKILL.md)
 - [sickn33/kpi-dashboard-design](data-scientist/sickn33/kpi-dashboard-design/SKILL.md)
+- [whawkinsiv/analytics](data-scientist/whawkinsiv/analytics/SKILL.md)
 
 ## designer-ascii
 
@@ -244,10 +249,12 @@
 - [sickn33/brand-guidelines](designer-branding/sickn33/brand-guidelines/SKILL.md)
 - [sickn33/brand-guidelines-anthropic](designer-branding/sickn33/brand-guidelines-anthropic/SKILL.md)
 - [sickn33/brand-perception-psychologist](designer-branding/sickn33/brand-perception-psychologist/SKILL.md)
+- [whawkinsiv/brand-identity-generator](designer-branding/whawkinsiv/brand-identity-generator/SKILL.md)
 
 ## designer-email
 
 - [alirezarezvani/email-template-builder](designer-email/alirezarezvani/email-template-builder/SKILL.md)
+- [whawkinsiv/email](designer-email/whawkinsiv/email/SKILL.md)
 
 ## designer-favicon
 
@@ -262,6 +269,8 @@
 - [sickn33/ui-ux-designer](designer-ui/sickn33/ui-ux-designer/SKILL.md)
 - [sickn33/ui-ux-pro-max](designer-ui/sickn33/ui-ux-pro-max/SKILL.md)
 - [sickn33/web-design-guidelines](designer-ui/sickn33/web-design-guidelines/SKILL.md)
+- [whawkinsiv/design-review](designer-ui/whawkinsiv/design-review/SKILL.md)
+- [whawkinsiv/ui-patterns](designer-ui/whawkinsiv/ui-patterns/SKILL.md)
 
 ## designer-ui-ab
 
@@ -282,6 +291,8 @@
 - [alirezarezvani/ux-researcher-designer](designer-ux/alirezarezvani/ux-researcher-designer/SKILL.md)
 - [bmad-code-org/bmad-agent-ux-designer](designer-ux/bmad-code-org/bmad-agent-ux-designer/SKILL.md)
 - [bmad-code-org/bmad-create-ux-design](designer-ux/bmad-code-org/bmad-create-ux-design/SKILL.md)
+- [whawkinsiv/journey](designer-ux/whawkinsiv/journey/SKILL.md)
+- [whawkinsiv/ux-design](designer-ux/whawkinsiv/ux-design/SKILL.md)
 
 ## doc-architecture
 
@@ -322,6 +333,7 @@
 - [sickn33/deployment-pipeline-design](engineer-ci-cd/sickn33/deployment-pipeline-design/SKILL.md)
 - [sickn33/github-actions-templates](engineer-ci-cd/sickn33/github-actions-templates/SKILL.md)
 - [sickn33/github-automation](engineer-ci-cd/sickn33/github-automation/SKILL.md)
+- [whawkinsiv/deploy](engineer-ci-cd/whawkinsiv/deploy/SKILL.md)
 
 ## engineer-cli
 
@@ -350,6 +362,7 @@
 - [github/sql-optimization](engineer-database/github/sql-optimization/SKILL.md)
 - [sickn33/sql-optimization-patterns](engineer-database/sickn33/sql-optimization-patterns/SKILL.md)
 - [sickn33/sql-pro](engineer-database/sickn33/sql-pro/SKILL.md)
+- [whawkinsiv/database](engineer-database/whawkinsiv/database/SKILL.md)
 
 ## engineer-database-nosql
 
@@ -418,6 +431,7 @@
 
 - [alirezarezvani/senior-qa](engineer-qa/alirezarezvani/senior-qa/SKILL.md)
 - [alirezarezvani/skill-tester](engineer-qa/alirezarezvani/skill-tester/SKILL.md)
+- [whawkinsiv/test](engineer-qa/whawkinsiv/test/SKILL.md)
 
 ## engineer-rag
 
@@ -461,6 +475,7 @@
 ## engineer-software-debug
 
 - [NeoLabHQ/root-cause-tracing](engineer-software-debug/NeoLabHQ/root-cause-tracing/SKILL.md)
+- [whawkinsiv/debug](engineer-software-debug/whawkinsiv/debug/SKILL.md)
 
 ## engineer-software-frontend
 
@@ -557,6 +572,8 @@
 - [alirezarezvani/financial-health](financial-analyst/alirezarezvani/financial-health/SKILL.md)
 - [alirezarezvani/statistical-analyst](financial-analyst/alirezarezvani/statistical-analyst/SKILL.md)
 - [sickn33/monte-carlo-monitor-creation](financial-analyst/sickn33/monte-carlo-monitor-creation/SKILL.md)
+- [whawkinsiv/accounting](financial-analyst/whawkinsiv/accounting/SKILL.md)
+- [whawkinsiv/finances](financial-analyst/whawkinsiv/finances/SKILL.md)
 
 ## git-branch
 
@@ -620,6 +637,7 @@
 ## legal-advisor
 
 - [sickn33/legal-advisor](legal-advisor/sickn33/legal-advisor/SKILL.md)
+- [whawkinsiv/legal](legal-advisor/whawkinsiv/legal/SKILL.md)
 
 ## manager_agile
 
@@ -673,6 +691,7 @@
 - [sickn33/team-collaboration-standup-notes](manager-agile/sickn33/team-collaboration-standup-notes/SKILL.md)
 - [sickn33/todoist-automation](manager-agile/sickn33/todoist-automation/SKILL.md)
 - [sickn33/writing-plans](manager-agile/sickn33/writing-plans/SKILL.md)
+- [whawkinsiv/plan](manager-agile/whawkinsiv/plan/SKILL.md)
 
 ## manager-humans
 
@@ -683,6 +702,8 @@
 - [sickn33/employment-contract-templates](manager-humans/sickn33/employment-contract-templates/SKILL.md)
 - [sickn33/goal-analyzer](manager-humans/sickn33/goal-analyzer/SKILL.md)
 - [sickn33/on-call-handoff-patterns](manager-humans/sickn33/on-call-handoff-patterns/SKILL.md)
+- [whawkinsiv/hiring](manager-humans/whawkinsiv/hiring/SKILL.md)
+- [whawkinsiv/retention](manager-humans/whawkinsiv/retention/SKILL.md)
 
 ## manager-project
 
@@ -695,6 +716,7 @@
 - [sickn33/progressive-estimation](manager-project/sickn33/progressive-estimation/SKILL.md)
 - [sickn33/project-development](manager-project/sickn33/project-development/SKILL.md)
 - [sickn33/projection-patterns](manager-project/sickn33/projection-patterns/SKILL.md)
+- [whawkinsiv/prioritize](manager-project/whawkinsiv/prioritize/SKILL.md)
 
 ## marketer
 
@@ -708,6 +730,7 @@
 - [coreyhaines31/marketing-ideas](marketer/coreyhaines31/marketing-ideas/SKILL.md)
 - [sickn33/marketing-ideas](marketer/sickn33/marketing-ideas/SKILL.md)
 - [sickn33/marketing-psychology](marketer/sickn33/marketing-psychology/SKILL.md)
+- [whawkinsiv/growth](marketer/whawkinsiv/growth/SKILL.md)
 
 ## marketer-instagram
 
@@ -726,6 +749,7 @@
 - [sickn33/lead-magnets](marketer-landing-page/sickn33/lead-magnets/SKILL.md)
 - [sickn33/seo-aeo-landing-page-writer](marketer-landing-page/sickn33/seo-aeo-landing-page-writer/SKILL.md)
 - [sickn33/seo-aeo-meta-description-generator](marketer-landing-page/sickn33/seo-aeo-meta-description-generator/SKILL.md)
+- [whawkinsiv/landing-page](marketer-landing-page/whawkinsiv/landing-page/SKILL.md)
 
 ## marketer-linkedin
 
@@ -852,6 +876,10 @@
 - [sickn33/seo-schema](reviewer-seo/sickn33/seo-schema/SKILL.md)
 - [sickn33/seo-sitemap](reviewer-seo/sickn33/seo-sitemap/SKILL.md)
 - [sickn33/seo-technical](reviewer-seo/sickn33/seo-technical/SKILL.md)
+- [whawkinsiv/seo](reviewer-seo/whawkinsiv/seo/SKILL.md)
+- [whawkinsiv/seo-audit](reviewer-seo/whawkinsiv/seo-audit/SKILL.md)
+- [whawkinsiv/seo-content](reviewer-seo/whawkinsiv/seo-content/SKILL.md)
+- [whawkinsiv/technical-seo](reviewer-seo/whawkinsiv/technical-seo/SKILL.md)
 
 ## reviewer-software-pci
 
@@ -875,6 +903,7 @@
 - [sickn33/sales-automator](sales-email/sickn33/sales-automator/SKILL.md)
 - [sickn33/sales-enablement](sales-email/sickn33/sales-enablement/SKILL.md)
 - [sickn33/subject-line-psychologist](sales-email/sickn33/subject-line-psychologist/SKILL.md)
+- [whawkinsiv/sales](sales-email/whawkinsiv/sales/SKILL.md)
 
 ## security-auditor
 
@@ -941,6 +970,7 @@
 - [sickn33/copy-editing](writer-copywriting/sickn33/copy-editing/SKILL.md)
 - [sickn33/copywriting](writer-copywriting/sickn33/copywriting/SKILL.md)
 - [sickn33/copywriting-psychologist](writer-copywriting/sickn33/copywriting-psychologist/SKILL.md)
+- [whawkinsiv/copywriting](writer-copywriting/whawkinsiv/copywriting/SKILL.md)
 
 ## writer-marketing
 

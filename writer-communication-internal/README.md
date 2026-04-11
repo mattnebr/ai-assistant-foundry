@@ -1,9 +1,10 @@
 ﻿# writer-communication-internal
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| anthropics | internal-comms | [SKILL.md](anthropics/internal-comms/SKILL.md) |
 | sickn33 | internal-comms | [SKILL.md](sickn33/internal-comms/SKILL.md) |
 | sickn33 | internal-comms-anthropic | [SKILL.md](sickn33/internal-comms-anthropic/SKILL.md) |
 | sickn33 | internal-comms-community | [SKILL.md](sickn33/internal-comms-community/SKILL.md) |

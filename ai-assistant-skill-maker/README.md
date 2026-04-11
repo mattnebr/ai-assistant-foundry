@@ -1,9 +1,10 @@
 ﻿# ai-assistant-skill-maker
 
-2 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| anthropics | skill-creator | [SKILL.md](anthropics/skill-creator/SKILL.md) |
 | mattnebr | ai-assistant-skill-maker | [SKILL.md](mattnebr/ai-assistant-skill-maker/SKILL.md) |
 | mattnebr | copilot-instruction-writer | [SKILL.md](mattnebr/copilot-instruction-writer/SKILL.md) |
 

@@ -1,9 +1,10 @@
 ﻿# builder-spreadsheet
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| anthropics | xlsx | [SKILL.md](anthropics/xlsx/SKILL.md) |
 | sickn33 | xlsx-official | [SKILL.md](sickn33/xlsx-official/SKILL.md) |
 
 ---

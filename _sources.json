@@ -1854,6 +1854,62 @@
       "SkillFolder": "skills/technical-writing-style",
       "GroupName": "writer-technical",
       "ArchivedAt": "2026-04-11T05:40:17.4081246Z"
+    },
+    {
+      "Owner": "anthropics",
+      "Repo": "skills",
+      "SkillFolder": "skills/algorithmic-art",
+      "GroupName": "designer-ascii",
+      "ArchivedAt": "2026-04-11T05:53:12.9350438Z"
+    },
+    {
+      "Owner": "anthropics",
+      "Repo": "skills",
+      "SkillFolder": "skills/brand-guidelines",
+      "GroupName": "designer-branding",
+      "ArchivedAt": "2026-04-11T05:53:19.9582374Z"
+    },
+    {
+      "Owner": "anthropics",
+      "Repo": "skills",
+      "SkillFolder": "skills/docx",
+      "GroupName": "builder-documents",
+      "ArchivedAt": "2026-04-11T05:53:47.4457395Z"
+    },
+    {
+      "Owner": "anthropics",
+      "Repo": "skills",
+      "SkillFolder": "skills/frontend-design",
+      "GroupName": "designer-ui",
+      "ArchivedAt": "2026-04-11T05:54:00.6951142Z"
+    },
+    {
+      "Owner": "anthropics",
+      "Repo": "skills",
+      "SkillFolder": "skills/internal-comms",
+      "GroupName": "writer-communication-internal",
+      "ArchivedAt": "2026-04-11T05:54:07.5951965Z"
+    },
+    {
+      "Owner": "anthropics",
+      "Repo": "skills",
+      "SkillFolder": "skills/pptx",
+      "GroupName": "builder-slide-presentation",
+      "ArchivedAt": "2026-04-11T05:54:45.4508917Z"
+    },
+    {
+      "Owner": "anthropics",
+      "Repo": "skills",
+      "SkillFolder": "skills/skill-creator",
+      "GroupName": "ai-assistant-skill-maker",
+      "ArchivedAt": "2026-04-11T05:54:55.0058024Z"
+    },
+    {
+      "Owner": "anthropics",
+      "Repo": "skills",
+      "SkillFolder": "skills/xlsx",
+      "GroupName": "builder-spreadsheet",
+      "ArchivedAt": "2026-04-11T05:55:28.3580463Z"
     }
   ]
 }

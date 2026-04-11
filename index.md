@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*101 skill group(s) — 265 total variant(s)*
+*102 skill group(s) — 273 total variant(s)*
 
 ## agent-orchestration
 
@@ -27,6 +27,7 @@
 
 ## ai-assistant-skill-maker
 
+- [anthropics/skill-creator](ai-assistant-skill-maker/anthropics/skill-creator/SKILL.md)
 - [mattnebr/ai-assistant-skill-maker](ai-assistant-skill-maker/mattnebr/ai-assistant-skill-maker/SKILL.md)
 - [mattnebr/copilot-instruction-writer](ai-assistant-skill-maker/mattnebr/copilot-instruction-writer/SKILL.md)
 
@@ -74,12 +75,18 @@
 - [sickn33/brainstorming](brainstorming/sickn33/brainstorming/SKILL.md)
 - [sickn33/idea-darwin](brainstorming/sickn33/idea-darwin/SKILL.md)
 
+## builder-documents
+
+- [anthropics/docx](builder-documents/anthropics/docx/SKILL.md)
+
 ## builder-slide-presentation
 
+- [anthropics/pptx](builder-slide-presentation/anthropics/pptx/SKILL.md)
 - [sickn33/pptx-official](builder-slide-presentation/sickn33/pptx-official/SKILL.md)
 
 ## builder-spreadsheet
 
+- [anthropics/xlsx](builder-spreadsheet/anthropics/xlsx/SKILL.md)
 - [sickn33/xlsx-official](builder-spreadsheet/sickn33/xlsx-official/SKILL.md)
 
 ## business-analysis
@@ -123,10 +130,12 @@
 
 ## designer-ascii
 
+- [anthropics/algorithmic-art](designer-ascii/anthropics/algorithmic-art/SKILL.md)
 - [sickn33/algorithmic-art](designer-ascii/sickn33/algorithmic-art/SKILL.md)
 
 ## designer-branding
 
+- [anthropics/brand-guidelines](designer-branding/anthropics/brand-guidelines/SKILL.md)
 - [sickn33/brand-guidelines](designer-branding/sickn33/brand-guidelines/SKILL.md)
 - [sickn33/brand-guidelines-anthropic](designer-branding/sickn33/brand-guidelines-anthropic/SKILL.md)
 - [sickn33/brand-perception-psychologist](designer-branding/sickn33/brand-perception-psychologist/SKILL.md)
@@ -137,6 +146,7 @@
 
 ## designer-ui
 
+- [anthropics/frontend-design](designer-ui/anthropics/frontend-design/SKILL.md)
 - [sickn33/ui-pattern](designer-ui/sickn33/ui-pattern/SKILL.md)
 - [sickn33/ui-ux-designer](designer-ui/sickn33/ui-ux-designer/SKILL.md)
 - [sickn33/ui-ux-pro-max](designer-ui/sickn33/ui-ux-pro-max/SKILL.md)
@@ -541,6 +551,7 @@
 
 ## writer-communication-internal
 
+- [anthropics/internal-comms](writer-communication-internal/anthropics/internal-comms/SKILL.md)
 - [sickn33/internal-comms](writer-communication-internal/sickn33/internal-comms/SKILL.md)
 - [sickn33/internal-comms-anthropic](writer-communication-internal/sickn33/internal-comms-anthropic/SKILL.md)
 - [sickn33/internal-comms-community](writer-communication-internal/sickn33/internal-comms-community/SKILL.md)

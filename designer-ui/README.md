@@ -1,9 +1,10 @@
 ﻿# designer-ui
 
-4 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| anthropics | frontend-design | [SKILL.md](anthropics/frontend-design/SKILL.md) |
 | sickn33 | ui-pattern | [SKILL.md](sickn33/ui-pattern/SKILL.md) |
 | sickn33 | ui-ux-designer | [SKILL.md](sickn33/ui-ux-designer/SKILL.md) |
 | sickn33 | ui-ux-pro-max | [SKILL.md](sickn33/ui-ux-pro-max/SKILL.md) |

@@ -1,9 +1,10 @@
 ﻿# designer-branding
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| anthropics | brand-guidelines | [SKILL.md](anthropics/brand-guidelines/SKILL.md) |
 | sickn33 | brand-guidelines | [SKILL.md](sickn33/brand-guidelines/SKILL.md) |
 | sickn33 | brand-guidelines-anthropic | [SKILL.md](sickn33/brand-guidelines-anthropic/SKILL.md) |
 | sickn33 | brand-perception-psychologist | [SKILL.md](sickn33/brand-perception-psychologist/SKILL.md) |

@@ -1,9 +1,10 @@
 ﻿# builder-slide-presentation
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| anthropics | pptx | [SKILL.md](anthropics/pptx/SKILL.md) |
 | sickn33 | pptx-official | [SKILL.md](sickn33/pptx-official/SKILL.md) |
 
 ---

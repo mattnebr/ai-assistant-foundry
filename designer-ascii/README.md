@@ -1,9 +1,10 @@
 ﻿# designer-ascii
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| anthropics | algorithmic-art | [SKILL.md](anthropics/algorithmic-art/SKILL.md) |
 | sickn33 | algorithmic-art | [SKILL.md](sickn33/algorithmic-art/SKILL.md) |
 
 ---

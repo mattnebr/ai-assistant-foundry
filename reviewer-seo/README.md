@@ -1,9 +1,14 @@
 ﻿# reviewer-seo
 
-21 skill variant(s).
+26 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | ai-seo | [SKILL.md](alirezarezvani/ai-seo/SKILL.md) |
+| alirezarezvani | programmatic-seo | [SKILL.md](alirezarezvani/programmatic-seo/SKILL.md) |
+| alirezarezvani | schema-markup | [SKILL.md](alirezarezvani/schema-markup/SKILL.md) |
+| alirezarezvani | seo-audit | [SKILL.md](alirezarezvani/seo-audit/SKILL.md) |
+| alirezarezvani | seo-auditor | [SKILL.md](alirezarezvani/seo-auditor/SKILL.md) |
 | coreyhaines31 | ai-seo | [SKILL.md](coreyhaines31/ai-seo/SKILL.md) |
 | coreyhaines31 | programmatic-seo | [SKILL.md](coreyhaines31/programmatic-seo/SKILL.md) |
 | coreyhaines31 | schema-markup | [SKILL.md](coreyhaines31/schema-markup/SKILL.md) |

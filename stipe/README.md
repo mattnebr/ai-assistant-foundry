@@ -1,9 +1,11 @@
 ﻿# stipe
 
-2 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | ad-creative | [SKILL.md](alirezarezvani/ad-creative/SKILL.md) |
+| alirezarezvani | stripe-integration-expert | [SKILL.md](alirezarezvani/stripe-integration-expert/SKILL.md) |
 | sickn33 | stripe-automation | [SKILL.md](sickn33/stripe-automation/SKILL.md) |
 | sickn33 | stripe-integration | [SKILL.md](sickn33/stripe-integration/SKILL.md) |
 

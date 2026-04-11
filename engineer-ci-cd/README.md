@@ -1,9 +1,12 @@
 ﻿# engineer-ci-cd
 
-7 skill variant(s).
+10 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | ci-cd-pipeline-builder | [SKILL.md](alirezarezvani/ci-cd-pipeline-builder/SKILL.md) |
+| alirezarezvani | devops-engineer | [SKILL.md](alirezarezvani/devops-engineer/SKILL.md) |
+| alirezarezvani | senior-devops | [SKILL.md](alirezarezvani/senior-devops/SKILL.md) |
 | github | create-github-action-workflow-specification | [SKILL.md](github/create-github-action-workflow-specification/SKILL.md) |
 | github | dependabot | [SKILL.md](github/dependabot/SKILL.md) |
 | sickn33 | cicd-automation-workflow-automate | [SKILL.md](sickn33/cicd-automation-workflow-automate/SKILL.md) |

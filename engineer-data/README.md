@@ -1,9 +1,11 @@
 ﻿# engineer-data
 
-5 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | data-quality-auditor | [SKILL.md](alirezarezvani/data-quality-auditor/SKILL.md) |
+| alirezarezvani | senior-data-engineer | [SKILL.md](alirezarezvani/senior-data-engineer/SKILL.md) |
 | sickn33 | data-engineer | [SKILL.md](sickn33/data-engineer/SKILL.md) |
 | sickn33 | data-engineering-data-driven-feature | [SKILL.md](sickn33/data-engineering-data-driven-feature/SKILL.md) |
 | sickn33 | data-engineering-data-pipeline | [SKILL.md](sickn33/data-engineering-data-pipeline/SKILL.md) |

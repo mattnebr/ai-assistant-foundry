@@ -1,9 +1,31 @@
 ﻿# manager-agile
 
-16 skill variant(s).
+38 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | agile-product-owner | [SKILL.md](alirezarezvani/agile-product-owner/SKILL.md) |
+| alirezarezvani | change-management | [SKILL.md](alirezarezvani/change-management/SKILL.md) |
+| alirezarezvani | code-to-prd | [SKILL.md](alirezarezvani/code-to-prd/SKILL.md) |
+| alirezarezvani | cs-agile-product-owner | [SKILL.md](alirezarezvani/cs-agile-product-owner/SKILL.md) |
+| alirezarezvani | cs-product-manager | [SKILL.md](alirezarezvani/cs-product-manager/SKILL.md) |
+| alirezarezvani | cs-project-manager | [SKILL.md](alirezarezvani/cs-project-manager/SKILL.md) |
+| alirezarezvani | epic-design | [SKILL.md](alirezarezvani/epic-design/SKILL.md) |
+| alirezarezvani | meeting-analyzer | [SKILL.md](alirezarezvani/meeting-analyzer/SKILL.md) |
+| alirezarezvani | okr | [SKILL.md](alirezarezvani/okr/SKILL.md) |
+| alirezarezvani | postmortem | [SKILL.md](alirezarezvani/postmortem/SKILL.md) |
+| alirezarezvani | prd | [SKILL.md](alirezarezvani/prd/SKILL.md) |
+| alirezarezvani | product-manager | [SKILL.md](alirezarezvani/product-manager/SKILL.md) |
+| alirezarezvani | project-health | [SKILL.md](alirezarezvani/project-health/SKILL.md) |
+| alirezarezvani | project-management | [SKILL.md](alirezarezvani/project-management/SKILL.md) |
+| alirezarezvani | release-manager | [SKILL.md](alirezarezvani/release-manager/SKILL.md) |
+| alirezarezvani | roadmap-communicator | [SKILL.md](alirezarezvani/roadmap-communicator/SKILL.md) |
+| alirezarezvani | scrum-master | [SKILL.md](alirezarezvani/scrum-master/SKILL.md) |
+| alirezarezvani | senior-pm | [SKILL.md](alirezarezvani/senior-pm/SKILL.md) |
+| alirezarezvani | spec-driven-workflow | [SKILL.md](alirezarezvani/spec-driven-workflow/SKILL.md) |
+| alirezarezvani | spec-to-repo | [SKILL.md](alirezarezvani/spec-to-repo/SKILL.md) |
+| alirezarezvani | sprint-plan | [SKILL.md](alirezarezvani/sprint-plan/SKILL.md) |
+| alirezarezvani | user-story | [SKILL.md](alirezarezvani/user-story/SKILL.md) |
 | github | breakdown-epic-arch | [SKILL.md](github/breakdown-epic-arch/SKILL.md) |
 | github | breakdown-epic-pm | [SKILL.md](github/breakdown-epic-pm/SKILL.md) |
 | github | breakdown-feature-implementation | [SKILL.md](github/breakdown-feature-implementation/SKILL.md) |

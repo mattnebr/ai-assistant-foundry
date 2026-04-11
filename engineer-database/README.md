@@ -1,9 +1,13 @@
 ﻿# engineer-database
 
-4 skill variant(s).
+8 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | database-designer | [SKILL.md](alirezarezvani/database-designer/SKILL.md) |
+| alirezarezvani | database-schema-designer | [SKILL.md](alirezarezvani/database-schema-designer/SKILL.md) |
+| alirezarezvani | senior-backend | [SKILL.md](alirezarezvani/senior-backend/SKILL.md) |
+| alirezarezvani | sql-database-assistant | [SKILL.md](alirezarezvani/sql-database-assistant/SKILL.md) |
 | github | sql-code-review | [SKILL.md](github/sql-code-review/SKILL.md) |
 | github | sql-optimization | [SKILL.md](github/sql-optimization/SKILL.md) |
 | sickn33 | sql-optimization-patterns | [SKILL.md](sickn33/sql-optimization-patterns/SKILL.md) |

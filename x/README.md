@@ -1,9 +1,10 @@
 ﻿# x
 
-2 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | x-twitter-growth | [SKILL.md](alirezarezvani/x-twitter-growth/SKILL.md) |
 | sickn33 | x-article-publisher-skill | [SKILL.md](sickn33/x-article-publisher-skill/SKILL.md) |
 | sickn33 | x-twitter-scraper | [SKILL.md](sickn33/x-twitter-scraper/SKILL.md) |
 

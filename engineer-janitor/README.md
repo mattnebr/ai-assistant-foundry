@@ -1,9 +1,11 @@
 ﻿# engineer-janitor
 
-2 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | tech-debt | [SKILL.md](alirezarezvani/tech-debt/SKILL.md) |
+| alirezarezvani | tech-debt-tracker | [SKILL.md](alirezarezvani/tech-debt-tracker/SKILL.md) |
 | github | repo-story-time | [SKILL.md](github/repo-story-time/SKILL.md) |
 | sickn33 | codebase-cleanup-tech-debt | [SKILL.md](sickn33/codebase-cleanup-tech-debt/SKILL.md) |
 

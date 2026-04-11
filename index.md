@@ -1,6 +1,6 @@
 ﻿# skill index
 
-*117 skill group(s) — 381 total variant(s)*
+*124 skill group(s) — 494 total variant(s)*
 
 ## agent-orchestration
 
@@ -12,6 +12,7 @@
 
 ## ai-assistant-memory
 
+- [alirezarezvani/decision-logger](ai-assistant-memory/alirezarezvani/decision-logger/SKILL.md)
 - [github/memory-merger](ai-assistant-memory/github/memory-merger/SKILL.md)
 - [github/remember](ai-assistant-memory/github/remember/SKILL.md)
 - [sickn33/agent-memory-mcp](ai-assistant-memory/sickn33/agent-memory-mcp/SKILL.md)
@@ -21,6 +22,7 @@
 
 ## ai-assistant-orchistration
 
+- [alirezarezvani/agent-workflow-designer](ai-assistant-orchistration/alirezarezvani/agent-workflow-designer/SKILL.md)
 - [sickn33/subagent-driven-development](ai-assistant-orchistration/sickn33/subagent-driven-development/SKILL.md)
 
 ## ai-assistant-phone
@@ -44,6 +46,7 @@
 
 ## architect-database
 
+- [alirezarezvani/database-schema-designer](architect-database/alirezarezvani/database-schema-designer/SKILL.md)
 - [sickn33/database-architect](architect-database/sickn33/database-architect/SKILL.md)
 - [sickn33/database-design](architect-database/sickn33/database-design/SKILL.md)
 - [sickn33/database-migration](architect-database/sickn33/database-migration/SKILL.md)
@@ -55,6 +58,8 @@
 
 ## architect-software
 
+- [alirezarezvani/senior-architect](architect-software/alirezarezvani/senior-architect/SKILL.md)
+- [alirezarezvani/tech-stack-evaluator](architect-software/alirezarezvani/tech-stack-evaluator/SKILL.md)
 - [sickn33/architect-review](architect-software/sickn33/architect-review/SKILL.md)
 - [sickn33/architecture](architect-software/sickn33/architecture/SKILL.md)
 - [sickn33/architecture-patterns](architect-software/sickn33/architecture-patterns/SKILL.md)
@@ -111,6 +116,7 @@
 
 ## business-analysis
 
+- [alirezarezvani/product-analytics](business-analysis/alirezarezvani/product-analytics/SKILL.md)
 - [sickn33/acceptance-orchestrator](business-analysis/sickn33/acceptance-orchestrator/SKILL.md)
 - [sickn33/ddd-context-mapping](business-analysis/sickn33/ddd-context-mapping/SKILL.md)
 - [sickn33/ddd-strategic-design](business-analysis/sickn33/ddd-strategic-design/SKILL.md)
@@ -119,11 +125,15 @@
 
 ## business-analyst
 
+- [alirezarezvani/cs-product-analyst](business-analyst/alirezarezvani/cs-product-analyst/SKILL.md)
 - [sickn33/business-analyst](business-analyst/sickn33/business-analyst/SKILL.md)
 - [sickn33/jobs-to-be-done-analyst](business-analyst/sickn33/jobs-to-be-done-analyst/SKILL.md)
 
 ## confluence
 
+- [alirezarezvani/atlassian-admin](confluence/alirezarezvani/atlassian-admin/SKILL.md)
+- [alirezarezvani/atlassian-templates](confluence/alirezarezvani/atlassian-templates/SKILL.md)
+- [alirezarezvani/confluence-expert](confluence/alirezarezvani/confluence-expert/SKILL.md)
 - [langpingxue/atlassian-skills](confluence/langpingxue/atlassian-skills/SKILL.md)
 - [sickn33/confluence-automation](confluence/sickn33/confluence-automation/SKILL.md)
 
@@ -174,6 +184,9 @@
 
 ## data-scientist
 
+- [alirezarezvani/product-analytics](data-scientist/alirezarezvani/product-analytics/SKILL.md)
+- [alirezarezvani/senior-data-scientist](data-scientist/alirezarezvani/senior-data-scientist/SKILL.md)
+- [alirezarezvani/statistical-analyst](data-scientist/alirezarezvani/statistical-analyst/SKILL.md)
 - [sickn33/data-scientist](data-scientist/sickn33/data-scientist/SKILL.md)
 - [sickn33/data-storytelling](data-scientist/sickn33/data-storytelling/SKILL.md)
 - [sickn33/kpi-dashboard-design](data-scientist/sickn33/kpi-dashboard-design/SKILL.md)
@@ -185,10 +198,15 @@
 
 ## designer-branding
 
+- [alirezarezvani/brand-guidelines](designer-branding/alirezarezvani/brand-guidelines/SKILL.md)
 - [anthropics/brand-guidelines](designer-branding/anthropics/brand-guidelines/SKILL.md)
 - [sickn33/brand-guidelines](designer-branding/sickn33/brand-guidelines/SKILL.md)
 - [sickn33/brand-guidelines-anthropic](designer-branding/sickn33/brand-guidelines-anthropic/SKILL.md)
 - [sickn33/brand-perception-psychologist](designer-branding/sickn33/brand-perception-psychologist/SKILL.md)
+
+## designer-email
+
+- [alirezarezvani/email-template-builder](designer-email/alirezarezvani/email-template-builder/SKILL.md)
 
 ## designer-favicon
 
@@ -196,6 +214,7 @@
 
 ## designer-ui
 
+- [alirezarezvani/ui-design-system](designer-ui/alirezarezvani/ui-design-system/SKILL.md)
 - [anthropics/frontend-design](designer-ui/anthropics/frontend-design/SKILL.md)
 - [github/web-design-reviewer](designer-ui/github/web-design-reviewer/SKILL.md)
 - [sickn33/ui-pattern](designer-ui/sickn33/ui-pattern/SKILL.md)
@@ -203,11 +222,23 @@
 - [sickn33/ui-ux-pro-max](designer-ui/sickn33/ui-ux-pro-max/SKILL.md)
 - [sickn33/web-design-guidelines](designer-ui/sickn33/web-design-guidelines/SKILL.md)
 
+## designer-ui-ab
+
+- [alirezarezvani/ab-test-setup](designer-ui-ab/alirezarezvani/ab-test-setup/SKILL.md)
+- [alirezarezvani/experiment-designer](designer-ui-ab/alirezarezvani/experiment-designer/SKILL.md)
+
 ## designer-ui-accessibility
 
+- [alirezarezvani/a11y-audit](designer-ui-accessibility/alirezarezvani/a11y-audit/SKILL.md)
+- [alirezarezvani/cmd-a11y-audit](designer-ui-accessibility/alirezarezvani/cmd-a11y-audit/SKILL.md)
 - [sickn33/accessibility-compliance-accessibility-audit](designer-ui-accessibility/sickn33/accessibility-compliance-accessibility-audit/SKILL.md)
 - [sickn33/ui-a11y](designer-ui-accessibility/sickn33/ui-a11y/SKILL.md)
 - [sickn33/wcag-audit-patterns](designer-ui-accessibility/sickn33/wcag-audit-patterns/SKILL.md)
+
+## designer-ux
+
+- [alirezarezvani/cs-ux-researcher](designer-ux/alirezarezvani/cs-ux-researcher/SKILL.md)
+- [alirezarezvani/ux-researcher-designer](designer-ux/alirezarezvani/ux-researcher-designer/SKILL.md)
 
 ## doc-architecture
 
@@ -222,16 +253,23 @@
 
 ## engineer-api
 
+- [alirezarezvani/api-design-reviewer](engineer-api/alirezarezvani/api-design-reviewer/SKILL.md)
+- [alirezarezvani/api-test-suite-builder](engineer-api/alirezarezvani/api-test-suite-builder/SKILL.md)
 - [github/aspnet-minimal-api-openapi](engineer-api/github/aspnet-minimal-api-openapi/SKILL.md)
 - [sickn33/api-design-principles](engineer-api/sickn33/api-design-principles/SKILL.md)
 - [sickn33/api-patterns](engineer-api/sickn33/api-patterns/SKILL.md)
 
 ## engineer-changelog
 
+- [alirezarezvani/changelog](engineer-changelog/alirezarezvani/changelog/SKILL.md)
+- [alirezarezvani/changelog-generator](engineer-changelog/alirezarezvani/changelog-generator/SKILL.md)
 - [sickn33/changelog-automation](engineer-changelog/sickn33/changelog-automation/SKILL.md)
 
 ## engineer-ci-cd
 
+- [alirezarezvani/ci-cd-pipeline-builder](engineer-ci-cd/alirezarezvani/ci-cd-pipeline-builder/SKILL.md)
+- [alirezarezvani/devops-engineer](engineer-ci-cd/alirezarezvani/devops-engineer/SKILL.md)
+- [alirezarezvani/senior-devops](engineer-ci-cd/alirezarezvani/senior-devops/SKILL.md)
 - [github/create-github-action-workflow-specification](engineer-ci-cd/github/create-github-action-workflow-specification/SKILL.md)
 - [github/dependabot](engineer-ci-cd/github/dependabot/SKILL.md)
 - [sickn33/cicd-automation-workflow-automate](engineer-ci-cd/sickn33/cicd-automation-workflow-automate/SKILL.md)
@@ -248,6 +286,8 @@
 
 ## engineer-data
 
+- [alirezarezvani/data-quality-auditor](engineer-data/alirezarezvani/data-quality-auditor/SKILL.md)
+- [alirezarezvani/senior-data-engineer](engineer-data/alirezarezvani/senior-data-engineer/SKILL.md)
 - [sickn33/data-engineer](engineer-data/sickn33/data-engineer/SKILL.md)
 - [sickn33/data-engineering-data-driven-feature](engineer-data/sickn33/data-engineering-data-driven-feature/SKILL.md)
 - [sickn33/data-engineering-data-pipeline](engineer-data/sickn33/data-engineering-data-pipeline/SKILL.md)
@@ -256,6 +296,10 @@
 
 ## engineer-database
 
+- [alirezarezvani/database-designer](engineer-database/alirezarezvani/database-designer/SKILL.md)
+- [alirezarezvani/database-schema-designer](engineer-database/alirezarezvani/database-schema-designer/SKILL.md)
+- [alirezarezvani/senior-backend](engineer-database/alirezarezvani/senior-backend/SKILL.md)
+- [alirezarezvani/sql-database-assistant](engineer-database/alirezarezvani/sql-database-assistant/SKILL.md)
 - [github/sql-code-review](engineer-database/github/sql-code-review/SKILL.md)
 - [github/sql-optimization](engineer-database/github/sql-optimization/SKILL.md)
 - [sickn33/sql-optimization-patterns](engineer-database/sickn33/sql-optimization-patterns/SKILL.md)
@@ -276,6 +320,8 @@
 
 ## engineer-janitor
 
+- [alirezarezvani/tech-debt](engineer-janitor/alirezarezvani/tech-debt/SKILL.md)
+- [alirezarezvani/tech-debt-tracker](engineer-janitor/alirezarezvani/tech-debt-tracker/SKILL.md)
 - [github/repo-story-time](engineer-janitor/github/repo-story-time/SKILL.md)
 - [sickn33/codebase-cleanup-tech-debt](engineer-janitor/sickn33/codebase-cleanup-tech-debt/SKILL.md)
 
@@ -295,6 +341,7 @@
 
 ## engineer-ml
 
+- [alirezarezvani/senior-ml-engineer](engineer-ml/alirezarezvani/senior-ml-engineer/SKILL.md)
 - [github/semantic-kernel](engineer-ml/github/semantic-kernel/SKILL.md)
 - [sickn33/ai-ml](engineer-ml/sickn33/ai-ml/SKILL.md)
 - [sickn33/machine-learning-ops-ml-pipeline](engineer-ml/sickn33/machine-learning-ops-ml-pipeline/SKILL.md)
@@ -320,8 +367,18 @@
 - [sickn33/python-patterns](engineer-python/sickn33/python-patterns/SKILL.md)
 - [sickn33/python-performance-optimization](engineer-python/sickn33/python-performance-optimization/SKILL.md)
 
+## engineer-qa
+
+- [alirezarezvani/senior-qa](engineer-qa/alirezarezvani/senior-qa/SKILL.md)
+- [alirezarezvani/skill-tester](engineer-qa/alirezarezvani/skill-tester/SKILL.md)
+
+## engineer-rag
+
+- [alirezarezvani/rag-architect](engineer-rag/alirezarezvani/rag-architect/SKILL.md)
+
 ## engineer-readme
 
+- [alirezarezvani/README](engineer-readme/alirezarezvani/README/SKILL.md)
 - [github/create-readme](engineer-readme/github/create-readme/SKILL.md)
 - [github/create-tldr-page](engineer-readme/github/create-tldr-page/SKILL.md)
 - [github/readme-blueprint-generator](engineer-readme/github/readme-blueprint-generator/SKILL.md)
@@ -330,6 +387,7 @@
 
 ## engineer-software
 
+- [alirezarezvani/cs-senior-engineer](engineer-software/alirezarezvani/cs-senior-engineer/SKILL.md)
 - [github/microsoft-code-reference](engineer-software/github/microsoft-code-reference/SKILL.md)
 - [github/microsoft-docs](engineer-software/github/microsoft-docs/SKILL.md)
 - [SebastienDegodez/unit-and-integration-tests](engineer-software/SebastienDegodez/unit-and-integration-tests/unit-and-integration-tests.instructions.md)
@@ -350,6 +408,7 @@
 
 ## engineer-software-frontend
 
+- [alirezarezvani/senior-frontend](engineer-software-frontend/alirezarezvani/senior-frontend/SKILL.md)
 - [sickn33/frontend-dev-guidelines](engineer-software-frontend/sickn33/frontend-dev-guidelines/SKILL.md)
 - [sickn33/frontend-developer](engineer-software-frontend/sickn33/frontend-developer/SKILL.md)
 - [sickn33/frontend-security-coder](engineer-software-frontend/sickn33/frontend-security-coder/SKILL.md)
@@ -410,6 +469,8 @@
 
 ## engineer-ui-ga
 
+- [alirezarezvani/analytics-tracking](engineer-ui-ga/alirezarezvani/analytics-tracking/SKILL.md)
+- [alirezarezvani/campaign-analytics](engineer-ui-ga/alirezarezvani/campaign-analytics/SKILL.md)
 - [coreyhaines31/analytics-tracking](engineer-ui-ga/coreyhaines31/analytics-tracking/SKILL.md)
 - [sickn33/google-analytics-automation](engineer-ui-ga/sickn33/google-analytics-automation/SKILL.md)
 
@@ -430,6 +491,11 @@
 
 ## financial-analyst
 
+- [alirezarezvani/finance](financial-analyst/alirezarezvani/finance/SKILL.md)
+- [alirezarezvani/finance-lead](financial-analyst/alirezarezvani/finance-lead/SKILL.md)
+- [alirezarezvani/financial-analyst](financial-analyst/alirezarezvani/financial-analyst/SKILL.md)
+- [alirezarezvani/financial-health](financial-analyst/alirezarezvani/financial-health/SKILL.md)
+- [alirezarezvani/statistical-analyst](financial-analyst/alirezarezvani/statistical-analyst/SKILL.md)
 - [sickn33/monte-carlo-monitor-creation](financial-analyst/sickn33/monte-carlo-monitor-creation/SKILL.md)
 
 ## git-branch
@@ -448,6 +514,7 @@
 
 ## git-pr
 
+- [alirezarezvani/pr-review-expert](git-pr/alirezarezvani/pr-review-expert/SKILL.md)
 - [github/my-pull-requests](git-pr/github/my-pull-requests/SKILL.md)
 - [sickn33/create-pr](git-pr/sickn33/create-pr/SKILL.md)
 
@@ -460,12 +527,19 @@
 - [sickn33/github](git-workflows/sickn33/github/SKILL.md)
 - [sickn33/github-workflow-automation](git-workflows/sickn33/github-workflow-automation/SKILL.md)
 
+## git-worktree
+
+- [alirezarezvani/git-worktree-manager](git-worktree/alirezarezvani/git-worktree-manager/SKILL.md)
+
 ## java-junit
 
 - [github/java-junit](java-junit/github/java-junit/SKILL.md)
 
 ## jira
 
+- [alirezarezvani/atlassian-admin](jira/alirezarezvani/atlassian-admin/SKILL.md)
+- [alirezarezvani/atlassian-templates](jira/alirezarezvani/atlassian-templates/SKILL.md)
+- [alirezarezvani/jira-expert](jira/alirezarezvani/jira-expert/SKILL.md)
 - [langpingxue/atlassian-readonly-skills](jira/langpingxue/atlassian-readonly-skills/SKILL.md)
 - [sickn33/jira-automation](jira/sickn33/jira-automation/SKILL.md)
 
@@ -473,8 +547,34 @@
 
 - [sickn33/legal-advisor](legal-advisor/sickn33/legal-advisor/SKILL.md)
 
+## manager_agile
+
+- [alirezarezvani/senior-pm](manager_agile/alirezarezvani/senior-pm/SKILL.md)
+
 ## manager-agile
 
+- [alirezarezvani/agile-product-owner](manager-agile/alirezarezvani/agile-product-owner/SKILL.md)
+- [alirezarezvani/change-management](manager-agile/alirezarezvani/change-management/SKILL.md)
+- [alirezarezvani/code-to-prd](manager-agile/alirezarezvani/code-to-prd/SKILL.md)
+- [alirezarezvani/cs-agile-product-owner](manager-agile/alirezarezvani/cs-agile-product-owner/SKILL.md)
+- [alirezarezvani/cs-product-manager](manager-agile/alirezarezvani/cs-product-manager/SKILL.md)
+- [alirezarezvani/cs-project-manager](manager-agile/alirezarezvani/cs-project-manager/SKILL.md)
+- [alirezarezvani/epic-design](manager-agile/alirezarezvani/epic-design/SKILL.md)
+- [alirezarezvani/meeting-analyzer](manager-agile/alirezarezvani/meeting-analyzer/SKILL.md)
+- [alirezarezvani/okr](manager-agile/alirezarezvani/okr/SKILL.md)
+- [alirezarezvani/postmortem](manager-agile/alirezarezvani/postmortem/SKILL.md)
+- [alirezarezvani/prd](manager-agile/alirezarezvani/prd/SKILL.md)
+- [alirezarezvani/product-manager](manager-agile/alirezarezvani/product-manager/SKILL.md)
+- [alirezarezvani/project-health](manager-agile/alirezarezvani/project-health/SKILL.md)
+- [alirezarezvani/project-management](manager-agile/alirezarezvani/project-management/SKILL.md)
+- [alirezarezvani/release-manager](manager-agile/alirezarezvani/release-manager/SKILL.md)
+- [alirezarezvani/roadmap-communicator](manager-agile/alirezarezvani/roadmap-communicator/SKILL.md)
+- [alirezarezvani/scrum-master](manager-agile/alirezarezvani/scrum-master/SKILL.md)
+- [alirezarezvani/senior-pm](manager-agile/alirezarezvani/senior-pm/SKILL.md)
+- [alirezarezvani/spec-driven-workflow](manager-agile/alirezarezvani/spec-driven-workflow/SKILL.md)
+- [alirezarezvani/spec-to-repo](manager-agile/alirezarezvani/spec-to-repo/SKILL.md)
+- [alirezarezvani/sprint-plan](manager-agile/alirezarezvani/sprint-plan/SKILL.md)
+- [alirezarezvani/user-story](manager-agile/alirezarezvani/user-story/SKILL.md)
 - [github/breakdown-epic-arch](manager-agile/github/breakdown-epic-arch/SKILL.md)
 - [github/breakdown-epic-pm](manager-agile/github/breakdown-epic-pm/SKILL.md)
 - [github/breakdown-feature-implementation](manager-agile/github/breakdown-feature-implementation/SKILL.md)
@@ -494,6 +594,8 @@
 
 ## manager-humans
 
+- [alirezarezvani/churn-prevention](manager-humans/alirezarezvani/churn-prevention/SKILL.md)
+- [alirezarezvani/culture-architect](manager-humans/alirezarezvani/culture-architect/SKILL.md)
 - [github/mentoring-juniors](manager-humans/github/mentoring-juniors/SKILL.md)
 - [sickn33/churn-prevention](manager-humans/sickn33/churn-prevention/SKILL.md)
 - [sickn33/employment-contract-templates](manager-humans/sickn33/employment-contract-templates/SKILL.md)
@@ -508,6 +610,11 @@
 
 ## marketer
 
+- [alirezarezvani/ad-creative](marketer/alirezarezvani/ad-creative/SKILL.md)
+- [alirezarezvani/growth-marketer](marketer/alirezarezvani/growth-marketer/SKILL.md)
+- [alirezarezvani/marketing-ideas](marketer/alirezarezvani/marketing-ideas/SKILL.md)
+- [alirezarezvani/marketing-ops](marketer/alirezarezvani/marketing-ops/SKILL.md)
+- [alirezarezvani/marketing-skill](marketer/alirezarezvani/marketing-skill/SKILL.md)
 - [coreyhaines31/ad-creative](marketer/coreyhaines31/ad-creative/SKILL.md)
 - [coreyhaines31/marketing-ideas](marketer/coreyhaines31/marketing-ideas/SKILL.md)
 - [sickn33/marketing-ideas](marketer/sickn33/marketing-ideas/SKILL.md)
@@ -520,6 +627,9 @@
 
 ## marketer-landing-page
 
+- [alirezarezvani/cs-growth-strategist](marketer-landing-page/alirezarezvani/cs-growth-strategist/SKILL.md)
+- [alirezarezvani/landing-page-generator](marketer-landing-page/alirezarezvani/landing-page-generator/SKILL.md)
+- [alirezarezvani/marketing-psychology](marketer-landing-page/alirezarezvani/marketing-psychology/SKILL.md)
 - [coreyhaines31/lead-magnets](marketer-landing-page/coreyhaines31/lead-magnets/SKILL.md)
 - [coreyhaines31/page-cro](marketer-landing-page/coreyhaines31/page-cro/SKILL.md)
 - [coreyhaines31/product-marketing-context](marketer-landing-page/coreyhaines31/product-marketing-context/SKILL.md)
@@ -552,6 +662,11 @@
 
 ## planner-content-strategy
 
+- [alirezarezvani/content-creator](planner-content-strategy/alirezarezvani/content-creator/SKILL.md)
+- [alirezarezvani/content-humanizer](planner-content-strategy/alirezarezvani/content-humanizer/SKILL.md)
+- [alirezarezvani/content-strategist](planner-content-strategy/alirezarezvani/content-strategist/SKILL.md)
+- [alirezarezvani/content-strategy](planner-content-strategy/alirezarezvani/content-strategy/SKILL.md)
+- [alirezarezvani/cs-content-creator](planner-content-strategy/alirezarezvani/cs-content-creator/SKILL.md)
 - [coreyhaines31/content-strategy](planner-content-strategy/coreyhaines31/content-strategy/SKILL.md)
 - [coreyhaines31/site-architecture](planner-content-strategy/coreyhaines31/site-architecture/SKILL.md)
 - [coreyhaines31/social-content](planner-content-strategy/coreyhaines31/social-content/SKILL.md)
@@ -613,10 +728,18 @@
 
 ## reviewer-security-web
 
+- [alirezarezvani/security-pen-testing](reviewer-security-web/alirezarezvani/security-pen-testing/SKILL.md)
+- [alirezarezvani/senior-secops](reviewer-security-web/alirezarezvani/senior-secops/SKILL.md)
+- [alirezarezvani/senior-security](reviewer-security-web/alirezarezvani/senior-security/SKILL.md)
 - [sickn33/html-injection-testing](reviewer-security-web/sickn33/html-injection-testing/SKILL.md)
 
 ## reviewer-seo
 
+- [alirezarezvani/ai-seo](reviewer-seo/alirezarezvani/ai-seo/SKILL.md)
+- [alirezarezvani/programmatic-seo](reviewer-seo/alirezarezvani/programmatic-seo/SKILL.md)
+- [alirezarezvani/schema-markup](reviewer-seo/alirezarezvani/schema-markup/SKILL.md)
+- [alirezarezvani/seo-audit](reviewer-seo/alirezarezvani/seo-audit/SKILL.md)
+- [alirezarezvani/seo-auditor](reviewer-seo/alirezarezvani/seo-auditor/SKILL.md)
 - [coreyhaines31/ai-seo](reviewer-seo/coreyhaines31/ai-seo/SKILL.md)
 - [coreyhaines31/programmatic-seo](reviewer-seo/coreyhaines31/programmatic-seo/SKILL.md)
 - [coreyhaines31/schema-markup](reviewer-seo/coreyhaines31/schema-markup/SKILL.md)
@@ -645,6 +768,11 @@
 
 ## sales-email
 
+- [alirezarezvani/cold-email](sales-email/alirezarezvani/cold-email/SKILL.md)
+- [alirezarezvani/cs-demand-gen-specialist](sales-email/alirezarezvani/cs-demand-gen-specialist/SKILL.md)
+- [alirezarezvani/cs-engineering-lead](sales-email/alirezarezvani/cs-engineering-lead/SKILL.md)
+- [alirezarezvani/email-sequence](sales-email/alirezarezvani/email-sequence/SKILL.md)
+- [alirezarezvani/sales-engineer](sales-email/alirezarezvani/sales-engineer/SKILL.md)
 - [coreyhaines31/churn-prevention](sales-email/coreyhaines31/churn-prevention/SKILL.md)
 - [coreyhaines31/cold-email](sales-email/coreyhaines31/cold-email/SKILL.md)
 - [coreyhaines31/email-sequence](sales-email/coreyhaines31/email-sequence/SKILL.md)
@@ -669,6 +797,8 @@
 
 ## stipe
 
+- [alirezarezvani/ad-creative](stipe/alirezarezvani/ad-creative/SKILL.md)
+- [alirezarezvani/stripe-integration-expert](stipe/alirezarezvani/stripe-integration-expert/SKILL.md)
 - [sickn33/stripe-automation](stipe/sickn33/stripe-automation/SKILL.md)
 - [sickn33/stripe-integration](stipe/sickn33/stripe-integration/SKILL.md)
 
@@ -700,6 +830,7 @@
 
 ## writer-communication-internal
 
+- [alirezarezvani/team-communications](writer-communication-internal/alirezarezvani/team-communications/SKILL.md)
 - [anthropics/internal-comms](writer-communication-internal/anthropics/internal-comms/SKILL.md)
 - [sickn33/internal-comms](writer-communication-internal/sickn33/internal-comms/SKILL.md)
 - [sickn33/internal-comms-anthropic](writer-communication-internal/sickn33/internal-comms-anthropic/SKILL.md)
@@ -707,6 +838,8 @@
 
 ## writer-copywriting
 
+- [alirezarezvani/copy-editing](writer-copywriting/alirezarezvani/copy-editing/SKILL.md)
+- [alirezarezvani/copywriting](writer-copywriting/alirezarezvani/copywriting/SKILL.md)
 - [coreyhaines31/copy-editing](writer-copywriting/coreyhaines31/copy-editing/SKILL.md)
 - [coreyhaines31/copywriting](writer-copywriting/coreyhaines31/copywriting/SKILL.md)
 - [sickn33/copy-editing](writer-copywriting/sickn33/copy-editing/SKILL.md)
@@ -727,6 +860,7 @@
 
 ## x
 
+- [alirezarezvani/x-twitter-growth](x/alirezarezvani/x-twitter-growth/SKILL.md)
 - [sickn33/x-article-publisher-skill](x/sickn33/x-article-publisher-skill/SKILL.md)
 - [sickn33/x-twitter-scraper](x/sickn33/x-twitter-scraper/SKILL.md)
 

@@ -1,9 +1,10 @@
 ﻿# designer-ui
 
-6 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | ui-design-system | [SKILL.md](alirezarezvani/ui-design-system/SKILL.md) |
 | anthropics | frontend-design | [SKILL.md](anthropics/frontend-design/SKILL.md) |
 | github | web-design-reviewer | [SKILL.md](github/web-design-reviewer/SKILL.md) |
 | sickn33 | ui-pattern | [SKILL.md](sickn33/ui-pattern/SKILL.md) |

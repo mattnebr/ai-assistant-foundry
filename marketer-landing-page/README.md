@@ -1,9 +1,12 @@
 ﻿# marketer-landing-page
 
-7 skill variant(s).
+10 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | cs-growth-strategist | [SKILL.md](alirezarezvani/cs-growth-strategist/SKILL.md) |
+| alirezarezvani | landing-page-generator | [SKILL.md](alirezarezvani/landing-page-generator/SKILL.md) |
+| alirezarezvani | marketing-psychology | [SKILL.md](alirezarezvani/marketing-psychology/SKILL.md) |
 | coreyhaines31 | lead-magnets | [SKILL.md](coreyhaines31/lead-magnets/SKILL.md) |
 | coreyhaines31 | page-cro | [SKILL.md](coreyhaines31/page-cro/SKILL.md) |
 | coreyhaines31 | product-marketing-context | [SKILL.md](coreyhaines31/product-marketing-context/SKILL.md) |

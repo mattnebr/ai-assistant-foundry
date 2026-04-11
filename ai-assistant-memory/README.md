@@ -1,9 +1,10 @@
 ﻿# ai-assistant-memory
 
-6 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | decision-logger | [SKILL.md](alirezarezvani/decision-logger/SKILL.md) |
 | github | memory-merger | [SKILL.md](github/memory-merger/SKILL.md) |
 | github | remember | [SKILL.md](github/remember/SKILL.md) |
 | sickn33 | agent-memory-mcp | [SKILL.md](sickn33/agent-memory-mcp/SKILL.md) |

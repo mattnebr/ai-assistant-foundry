@@ -1,9 +1,11 @@
 ﻿# engineer-ui-ga
 
-2 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | analytics-tracking | [SKILL.md](alirezarezvani/analytics-tracking/SKILL.md) |
+| alirezarezvani | campaign-analytics | [SKILL.md](alirezarezvani/campaign-analytics/SKILL.md) |
 | coreyhaines31 | analytics-tracking | [SKILL.md](coreyhaines31/analytics-tracking/SKILL.md) |
 | sickn33 | google-analytics-automation | [SKILL.md](sickn33/google-analytics-automation/SKILL.md) |
 

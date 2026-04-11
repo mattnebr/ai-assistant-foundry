@@ -1,9 +1,12 @@
 ﻿# reviewer-security-web
 
-1 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | security-pen-testing | [SKILL.md](alirezarezvani/security-pen-testing/SKILL.md) |
+| alirezarezvani | senior-secops | [SKILL.md](alirezarezvani/senior-secops/SKILL.md) |
+| alirezarezvani | senior-security | [SKILL.md](alirezarezvani/senior-security/SKILL.md) |
 | sickn33 | html-injection-testing | [SKILL.md](sickn33/html-injection-testing/SKILL.md) |
 
 ---

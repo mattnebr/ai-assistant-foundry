@@ -1,9 +1,14 @@
 ﻿# sales-email
 
-10 skill variant(s).
+15 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | cold-email | [SKILL.md](alirezarezvani/cold-email/SKILL.md) |
+| alirezarezvani | cs-demand-gen-specialist | [SKILL.md](alirezarezvani/cs-demand-gen-specialist/SKILL.md) |
+| alirezarezvani | cs-engineering-lead | [SKILL.md](alirezarezvani/cs-engineering-lead/SKILL.md) |
+| alirezarezvani | email-sequence | [SKILL.md](alirezarezvani/email-sequence/SKILL.md) |
+| alirezarezvani | sales-engineer | [SKILL.md](alirezarezvani/sales-engineer/SKILL.md) |
 | coreyhaines31 | churn-prevention | [SKILL.md](coreyhaines31/churn-prevention/SKILL.md) |
 | coreyhaines31 | cold-email | [SKILL.md](coreyhaines31/cold-email/SKILL.md) |
 | coreyhaines31 | email-sequence | [SKILL.md](coreyhaines31/email-sequence/SKILL.md) |

@@ -1,9 +1,10 @@
 ﻿# designer-branding
 
-4 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | brand-guidelines | [SKILL.md](alirezarezvani/brand-guidelines/SKILL.md) |
 | anthropics | brand-guidelines | [SKILL.md](anthropics/brand-guidelines/SKILL.md) |
 | sickn33 | brand-guidelines | [SKILL.md](sickn33/brand-guidelines/SKILL.md) |
 | sickn33 | brand-guidelines-anthropic | [SKILL.md](sickn33/brand-guidelines-anthropic/SKILL.md) |

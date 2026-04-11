@@ -1,9 +1,10 @@
 ﻿# business-analyst
 
-2 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | cs-product-analyst | [SKILL.md](alirezarezvani/cs-product-analyst/SKILL.md) |
 | sickn33 | business-analyst | [SKILL.md](sickn33/business-analyst/SKILL.md) |
 | sickn33 | jobs-to-be-done-analyst | [SKILL.md](sickn33/jobs-to-be-done-analyst/SKILL.md) |
 

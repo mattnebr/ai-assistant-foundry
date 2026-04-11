@@ -1,9 +1,12 @@
 ﻿# confluence
 
-2 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | atlassian-admin | [SKILL.md](alirezarezvani/atlassian-admin/SKILL.md) |
+| alirezarezvani | atlassian-templates | [SKILL.md](alirezarezvani/atlassian-templates/SKILL.md) |
+| alirezarezvani | confluence-expert | [SKILL.md](alirezarezvani/confluence-expert/SKILL.md) |
 | langpingxue | atlassian-skills | [SKILL.md](langpingxue/atlassian-skills/SKILL.md) |
 | sickn33 | confluence-automation | [SKILL.md](sickn33/confluence-automation/SKILL.md) |
 

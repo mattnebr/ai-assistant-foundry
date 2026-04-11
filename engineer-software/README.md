@@ -1,9 +1,10 @@
 ﻿# engineer-software
 
-6 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | cs-senior-engineer | [SKILL.md](alirezarezvani/cs-senior-engineer/SKILL.md) |
 | github | microsoft-code-reference | [SKILL.md](github/microsoft-code-reference/SKILL.md) |
 | github | microsoft-docs | [SKILL.md](github/microsoft-docs/SKILL.md) |
 | SebastienDegodez | unit-and-integration-tests | [unit-and-integration-tests.instructions.md](SebastienDegodez/unit-and-integration-tests/unit-and-integration-tests.instructions.md) |

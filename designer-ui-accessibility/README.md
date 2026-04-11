@@ -1,9 +1,11 @@
 ﻿# designer-ui-accessibility
 
-3 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | a11y-audit | [SKILL.md](alirezarezvani/a11y-audit/SKILL.md) |
+| alirezarezvani | cmd-a11y-audit | [SKILL.md](alirezarezvani/cmd-a11y-audit/SKILL.md) |
 | sickn33 | accessibility-compliance-accessibility-audit | [SKILL.md](sickn33/accessibility-compliance-accessibility-audit/SKILL.md) |
 | sickn33 | ui-a11y | [SKILL.md](sickn33/ui-a11y/SKILL.md) |
 | sickn33 | wcag-audit-patterns | [SKILL.md](sickn33/wcag-audit-patterns/SKILL.md) |

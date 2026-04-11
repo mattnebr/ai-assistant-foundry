@@ -1,9 +1,10 @@
 ﻿# business-analysis
 
-5 skill variant(s).
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | product-analytics | [SKILL.md](alirezarezvani/product-analytics/SKILL.md) |
 | sickn33 | acceptance-orchestrator | [SKILL.md](sickn33/acceptance-orchestrator/SKILL.md) |
 | sickn33 | ddd-context-mapping | [SKILL.md](sickn33/ddd-context-mapping/SKILL.md) |
 | sickn33 | ddd-strategic-design | [SKILL.md](sickn33/ddd-strategic-design/SKILL.md) |

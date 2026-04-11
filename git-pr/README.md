@@ -1,9 +1,10 @@
 ﻿# git-pr
 
-2 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | pr-review-expert | [SKILL.md](alirezarezvani/pr-review-expert/SKILL.md) |
 | github | my-pull-requests | [SKILL.md](github/my-pull-requests/SKILL.md) |
 | sickn33 | create-pr | [SKILL.md](sickn33/create-pr/SKILL.md) |
 

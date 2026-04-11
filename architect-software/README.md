@@ -1,9 +1,11 @@
 ﻿# architect-software
 
-13 skill variant(s).
+15 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | senior-architect | [SKILL.md](alirezarezvani/senior-architect/SKILL.md) |
+| alirezarezvani | tech-stack-evaluator | [SKILL.md](alirezarezvani/tech-stack-evaluator/SKILL.md) |
 | sickn33 | architect-review | [SKILL.md](sickn33/architect-review/SKILL.md) |
 | sickn33 | architecture | [SKILL.md](sickn33/architecture/SKILL.md) |
 | sickn33 | architecture-patterns | [SKILL.md](sickn33/architecture-patterns/SKILL.md) |

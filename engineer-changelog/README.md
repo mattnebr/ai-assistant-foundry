@@ -1,9 +1,11 @@
 ﻿# engineer-changelog
 
-1 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | changelog | [SKILL.md](alirezarezvani/changelog/SKILL.md) |
+| alirezarezvani | changelog-generator | [SKILL.md](alirezarezvani/changelog-generator/SKILL.md) |
 | sickn33 | changelog-automation | [SKILL.md](sickn33/changelog-automation/SKILL.md) |
 
 ---

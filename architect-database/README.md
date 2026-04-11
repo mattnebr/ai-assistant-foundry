@@ -1,9 +1,10 @@
 ﻿# architect-database
 
-4 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | database-schema-designer | [SKILL.md](alirezarezvani/database-schema-designer/SKILL.md) |
 | sickn33 | database-architect | [SKILL.md](sickn33/database-architect/SKILL.md) |
 | sickn33 | database-design | [SKILL.md](sickn33/database-design/SKILL.md) |
 | sickn33 | database-migration | [SKILL.md](sickn33/database-migration/SKILL.md) |

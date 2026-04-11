@@ -1,9 +1,10 @@
 ﻿# ai-assistant-orchistration
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | agent-workflow-designer | [SKILL.md](alirezarezvani/agent-workflow-designer/SKILL.md) |
 | sickn33 | subagent-driven-development | [SKILL.md](sickn33/subagent-driven-development/SKILL.md) |
 
 ---

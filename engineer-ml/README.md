@@ -1,9 +1,10 @@
 ﻿# engineer-ml
 
-5 skill variant(s).
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | senior-ml-engineer | [SKILL.md](alirezarezvani/senior-ml-engineer/SKILL.md) |
 | github | semantic-kernel | [SKILL.md](github/semantic-kernel/SKILL.md) |
 | sickn33 | ai-ml | [SKILL.md](sickn33/ai-ml/SKILL.md) |
 | sickn33 | machine-learning-ops-ml-pipeline | [SKILL.md](sickn33/machine-learning-ops-ml-pipeline/SKILL.md) |

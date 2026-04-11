@@ -1,9 +1,11 @@
 ﻿# writer-copywriting
 
-5 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | copy-editing | [SKILL.md](alirezarezvani/copy-editing/SKILL.md) |
+| alirezarezvani | copywriting | [SKILL.md](alirezarezvani/copywriting/SKILL.md) |
 | coreyhaines31 | copy-editing | [SKILL.md](coreyhaines31/copy-editing/SKILL.md) |
 | coreyhaines31 | copywriting | [SKILL.md](coreyhaines31/copywriting/SKILL.md) |
 | sickn33 | copy-editing | [SKILL.md](sickn33/copy-editing/SKILL.md) |

@@ -1,9 +1,10 @@
 ﻿# engineer-software-frontend
 
-6 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | senior-frontend | [SKILL.md](alirezarezvani/senior-frontend/SKILL.md) |
 | sickn33 | frontend-dev-guidelines | [SKILL.md](sickn33/frontend-dev-guidelines/SKILL.md) |
 | sickn33 | frontend-developer | [SKILL.md](sickn33/frontend-developer/SKILL.md) |
 | sickn33 | frontend-security-coder | [SKILL.md](sickn33/frontend-security-coder/SKILL.md) |

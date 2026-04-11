@@ -1,9 +1,11 @@
 ﻿# manager-humans
 
-5 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | churn-prevention | [SKILL.md](alirezarezvani/churn-prevention/SKILL.md) |
+| alirezarezvani | culture-architect | [SKILL.md](alirezarezvani/culture-architect/SKILL.md) |
 | github | mentoring-juniors | [SKILL.md](github/mentoring-juniors/SKILL.md) |
 | sickn33 | churn-prevention | [SKILL.md](sickn33/churn-prevention/SKILL.md) |
 | sickn33 | employment-contract-templates | [SKILL.md](sickn33/employment-contract-templates/SKILL.md) |

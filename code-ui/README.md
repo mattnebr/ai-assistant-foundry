@@ -1,17 +1,17 @@
 ---
-aliases: [engineer-ui]
+aliases: [engineer-ui, pwa, progressive-web-app]
+description: "Skills for crafting immersive, high-performance premium web experiences and progressive web apps with advanced UI polish."
 ---
 
 # code-ui
 
 <!-- AUTO-GENERATED -->
 
-3 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | github | premium-frontend-ui | [SKILL.md](github/premium-frontend-ui/SKILL.md) |
-| sickn33 | performance-engineer | [SKILL.md](sickn33/performance-engineer/SKILL.md) |
 | sickn33 | progressive-web-app | [SKILL.md](sickn33/progressive-web-app/SKILL.md) |
 
 ---

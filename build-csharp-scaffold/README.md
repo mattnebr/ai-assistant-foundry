@@ -1,15 +1,17 @@
 ---
 aliases: [csharp-project-scaffolding]
+description: "Scaffold new C# projects with correct structure, NuGet packages, target framework settings, and Visual Studio solution integration."
 ---
 
 # build-csharp-scaffold
 
 <!-- AUTO-GENERATED -->
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | spec-to-repo | [SKILL.md](alirezarezvani/spec-to-repo/SKILL.md) |
 | mattnebr | csharp-project-scaffolding | [SKILL.md](mattnebr/csharp-project-scaffolding/SKILL.md) |
 
 ---

@@ -1,20 +1,19 @@
 ---
-aliases: [engineer-api]
+aliases: [engineer-api, openapi, aspnet-api, interface-design]
+description: "Design REST and GraphQL APIs with proper endpoint structure, OpenAPI documentation, versioning, and test suites for ASP.NET and other frameworks."
 ---
 
 # code-api
 
 <!-- AUTO-GENERATED -->
 
-7 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | api-and-interface-design | [SKILL.md](addyosmani/api-and-interface-design/SKILL.md) |
-| alirezarezvani | api-design-reviewer | [SKILL.md](alirezarezvani/api-design-reviewer/SKILL.md) |
 | alirezarezvani | api-test-suite-builder | [SKILL.md](alirezarezvani/api-test-suite-builder/SKILL.md) |
 | github | aspnet-minimal-api-openapi | [SKILL.md](github/aspnet-minimal-api-openapi/SKILL.md) |
-| jefflester | api-security | [SKILL.md](jefflester/api-security/SKILL.md) |
 | sickn33 | api-design-principles | [SKILL.md](sickn33/api-design-principles/SKILL.md) |
 | sickn33 | api-patterns | [SKILL.md](sickn33/api-patterns/SKILL.md) |
 

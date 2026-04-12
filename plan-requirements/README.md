@@ -1,5 +1,6 @@
 ---
-aliases: [ask-questions-if-underspecified]
+aliases: [ask-questions-if-underspecified, follow-up-questions, context-gathering, specification]
+description: "Skills for clarifying and refining requirements through targeted questions before implementation begins."
 ---
 
 # plan-requirements

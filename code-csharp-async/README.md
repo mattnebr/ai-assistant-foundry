@@ -1,5 +1,6 @@
 ---
 aliases: [csharp-async]
+description: "Apply C# async/await best practices including naming conventions, return types, cancellation, ConfigureAwait, and error handling patterns."
 ---
 
 # code-csharp-async

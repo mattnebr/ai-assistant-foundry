@@ -1,5 +1,6 @@
 ---
 aliases: [engineer-software-powershell]
+description: "PowerShell scripting patterns for Windows including operator syntax, error handling, and critical pitfalls to avoid."
 ---
 
 # code-powershell

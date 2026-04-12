@@ -1,5 +1,6 @@
 ---
-aliases: [manager-project, project-manager]
+aliases: [manager-project, project-manager, prd, product-brief, estimation, prioritize, task-breakdown, pdca]
+description: "Project management skills covering PRDs, estimation, prioritization, roadmaps, and product development lifecycle."
 ---
 
 # manage-project
@@ -20,10 +21,10 @@ aliases: [manager-project, project-manager]
 | NeoLabHQ | plan-do-check-act | [SKILL.md](NeoLabHQ/plan-do-check-act/SKILL.md) |
 | obra | executing-plans | [SKILL.md](obra/executing-plans/SKILL.md) |
 | obra | writing-plans | [SKILL.md](obra/writing-plans/SKILL.md) |
-| sanjay3290 | outline | [SKILL.md](sanjay3290/outline/SKILL.md) |
+| sickn33 | product-manager | [SKILL.md](sickn33/product-manager/SKILL.md) |
+| sickn33 | product-manager-toolkit | [SKILL.md](sickn33/product-manager-toolkit/SKILL.md) |
 | sickn33 | progressive-estimation | [SKILL.md](sickn33/progressive-estimation/SKILL.md) |
 | sickn33 | project-development | [SKILL.md](sickn33/project-development/SKILL.md) |
-| sickn33 | projection-patterns | [SKILL.md](sickn33/projection-patterns/SKILL.md) |
 | SuperClaude-Org | pm | [SKILL.md](SuperClaude-Org/pm/SKILL.md) |
 | whawkinsiv | prioritize | [SKILL.md](whawkinsiv/prioritize/SKILL.md) |
 

@@ -1,5 +1,6 @@
 ---
-aliases: [engineer-ui-tailwind]
+aliases: [engineer-ui-tailwind, tailwind, design-system]
+description: "Build production-ready design systems with Tailwind CSS including design tokens, component variants, and responsive patterns."
 ---
 
 # code-ui-tailwind

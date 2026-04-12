@@ -1,5 +1,6 @@
 ---
-aliases: [planner-software]
+aliases: [planner-software, refactor-plan, automate]
+description: "Skills for planning software projects including refactoring plans, automation analysis, and persistent file-based planning."
 ---
 
 # plan-software

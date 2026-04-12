@@ -1,16 +1,19 @@
 ---
-aliases: [security-auditor]
+aliases: [security-auditor, active-directory, pci, compliance, privacy-by-design]
+description: "Skills for comprehensive security auditing including compliance checks, privacy reviews, and vulnerability assessments."
 ---
 
 # secure-audit
 
 <!-- AUTO-GENERATED -->
 
-3 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | sickn33 | active-directory-attacks | [SKILL.md](sickn33/active-directory-attacks/SKILL.md) |
+| sickn33 | pci-compliance | [SKILL.md](sickn33/pci-compliance/SKILL.md) |
+| sickn33 | privacy-by-design | [SKILL.md](sickn33/privacy-by-design/SKILL.md) |
 | sickn33 | security-audit | [SKILL.md](sickn33/security-audit/SKILL.md) |
 | sickn33 | security-auditor | [SKILL.md](sickn33/security-auditor/SKILL.md) |
 

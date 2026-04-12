@@ -1,24 +1,26 @@
 ---
-aliases: [engineer-database]
+aliases: [engineer-database, sql, mssql, mysql, postgres, postgresql, powerbi, sql-optimization]
+description: "Skills for SQL query writing and optimization, database schema design, migrations, and working with MSSQL, MySQL, PostgreSQL, and Power BI."
 ---
 
 # data-database
 
 <!-- AUTO-GENERATED -->
 
-12 skill variant(s).
+13 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | database-designer | [SKILL.md](alirezarezvani/database-designer/SKILL.md) |
 | alirezarezvani | database-schema-designer | [SKILL.md](alirezarezvani/database-schema-designer/SKILL.md) |
-| alirezarezvani | senior-backend | [SKILL.md](alirezarezvani/senior-backend/SKILL.md) |
 | alirezarezvani | sql-database-assistant | [SKILL.md](alirezarezvani/sql-database-assistant/SKILL.md) |
+| github | powerbi-modeling | [SKILL.md](github/powerbi-modeling/SKILL.md) |
 | github | sql-code-review | [SKILL.md](github/sql-code-review/SKILL.md) |
 | github | sql-optimization | [SKILL.md](github/sql-optimization/SKILL.md) |
 | sanjay3290 | mssql | [SKILL.md](sanjay3290/mssql/SKILL.md) |
 | sanjay3290 | mysql | [SKILL.md](sanjay3290/mysql/SKILL.md) |
 | sanjay3290 | postgres | [SKILL.md](sanjay3290/postgres/SKILL.md) |
+| sickn33 | database-optimizer | [SKILL.md](sickn33/database-optimizer/SKILL.md) |
 | sickn33 | sql-optimization-patterns | [SKILL.md](sickn33/sql-optimization-patterns/SKILL.md) |
 | sickn33 | sql-pro | [SKILL.md](sickn33/sql-pro/SKILL.md) |
 | whawkinsiv | database | [SKILL.md](whawkinsiv/database/SKILL.md) |

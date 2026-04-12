@@ -1,17 +1,17 @@
 ---
 aliases: [verification-before-completion]
+description: "Skills that enforce evidence-based verification of work before claiming completion."
 ---
 
 # plan-verification
 
 <!-- AUTO-GENERATED -->
 
-3 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | cblecker | verification-before-completion | [SKILL.md](cblecker/verification-before-completion/SKILL.md) |
-| github | doublecheck | [SKILL.md](github/doublecheck/SKILL.md) |
 | sickn33 | verification-before-completion | [SKILL.md](sickn33/verification-before-completion/SKILL.md) |
 
 ---

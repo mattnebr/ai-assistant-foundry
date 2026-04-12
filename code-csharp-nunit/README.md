@@ -1,5 +1,6 @@
 ---
 aliases: [csharp-nunit]
+description: "Best practices for writing NUnit unit tests in C# including data-driven testing, project setup, and assertion patterns."
 ---
 
 # code-csharp-nunit

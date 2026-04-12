@@ -1,16 +1,16 @@
 ---
 aliases: [stripe, stipe]
+description: "Skills for integrating Stripe payment processing including checkout flows, subscriptions, webhooks, refunds, and PCI compliance."
 ---
 
 # integrate-stripe
 
 <!-- AUTO-GENERATED -->
 
-4 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
-| alirezarezvani | ad-creative | [SKILL.md](alirezarezvani/ad-creative/SKILL.md) |
 | alirezarezvani | stripe-integration-expert | [SKILL.md](alirezarezvani/stripe-integration-expert/SKILL.md) |
 | sickn33 | stripe-automation | [SKILL.md](sickn33/stripe-automation/SKILL.md) |
 | sickn33 | stripe-integration | [SKILL.md](sickn33/stripe-integration/SKILL.md) |

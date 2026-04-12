@@ -1,17 +1,16 @@
 ---
-aliases: [manager-agile, manager_agile]
+aliases: [manager-agile, manager_agile, scrum, sprint, kanban, epic, user-story, prd, okr, kaizen, standup, retrospective, postmortem]
+description: "Agile methodology skills including sprint planning, scrum mastering, user stories, PRDs, epics, retrospectives, and backlog management."
 ---
 
 # manage-agile
 
 <!-- AUTO-GENERATED -->
 
-52 skill variant(s).
+43 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
-| addyosmani | incremental-implementation | [SKILL.md](addyosmani/incremental-implementation/SKILL.md) |
-| addyosmani | source-driven-development | [SKILL.md](addyosmani/source-driven-development/SKILL.md) |
 | addyosmani | spec-driven-development | [SKILL.md](addyosmani/spec-driven-development/SKILL.md) |
 | alirezarezvani | agile-product-owner | [SKILL.md](alirezarezvani/agile-product-owner/SKILL.md) |
 | alirezarezvani | change-management | [SKILL.md](alirezarezvani/change-management/SKILL.md) |
@@ -19,7 +18,6 @@ aliases: [manager-agile, manager_agile]
 | alirezarezvani | cs-agile-product-owner | [SKILL.md](alirezarezvani/cs-agile-product-owner/SKILL.md) |
 | alirezarezvani | cs-product-manager | [SKILL.md](alirezarezvani/cs-product-manager/SKILL.md) |
 | alirezarezvani | cs-project-manager | [SKILL.md](alirezarezvani/cs-project-manager/SKILL.md) |
-| alirezarezvani | epic-design | [SKILL.md](alirezarezvani/epic-design/SKILL.md) |
 | alirezarezvani | meeting-analyzer | [SKILL.md](alirezarezvani/meeting-analyzer/SKILL.md) |
 | alirezarezvani | okr | [SKILL.md](alirezarezvani/okr/SKILL.md) |
 | alirezarezvani | postmortem | [SKILL.md](alirezarezvani/postmortem/SKILL.md) |
@@ -27,12 +25,9 @@ aliases: [manager-agile, manager_agile]
 | alirezarezvani | product-manager | [SKILL.md](alirezarezvani/product-manager/SKILL.md) |
 | alirezarezvani | project-health | [SKILL.md](alirezarezvani/project-health/SKILL.md) |
 | alirezarezvani | project-management | [SKILL.md](alirezarezvani/project-management/SKILL.md) |
-| alirezarezvani | release-manager | [SKILL.md](alirezarezvani/release-manager/SKILL.md) |
-| alirezarezvani | roadmap-communicator | [SKILL.md](alirezarezvani/roadmap-communicator/SKILL.md) |
 | alirezarezvani | scrum-master | [SKILL.md](alirezarezvani/scrum-master/SKILL.md) |
 | alirezarezvani | senior-pm | [SKILL.md](alirezarezvani/senior-pm/SKILL.md) |
 | alirezarezvani | spec-driven-workflow | [SKILL.md](alirezarezvani/spec-driven-workflow/SKILL.md) |
-| alirezarezvani | spec-to-repo | [SKILL.md](alirezarezvani/spec-to-repo/SKILL.md) |
 | alirezarezvani | sprint-plan | [SKILL.md](alirezarezvani/sprint-plan/SKILL.md) |
 | alirezarezvani | user-story | [SKILL.md](alirezarezvani/user-story/SKILL.md) |
 | bmad-code-org | bmad-create-epics-and-stories | [SKILL.md](bmad-code-org/bmad-create-epics-and-stories/SKILL.md) |
@@ -49,16 +44,13 @@ aliases: [manager-agile, manager_agile]
 | github | create-implementation-plan | [SKILL.md](github/create-implementation-plan/SKILL.md) |
 | github | create-specification | [SKILL.md](github/create-specification/SKILL.md) |
 | github | create-technical-spike | [SKILL.md](github/create-technical-spike/SKILL.md) |
-| github | eval-driven-dev | [SKILL.md](github/eval-driven-dev/SKILL.md) |
 | github | gen-specs-as-issues | [SKILL.md](github/gen-specs-as-issues/SKILL.md) |
 | github | meeting-minutes | [SKILL.md](github/meeting-minutes/SKILL.md) |
 | github | prd | [SKILL.md](github/prd/SKILL.md) |
 | github | update-implementation-plan | [SKILL.md](github/update-implementation-plan/SKILL.md) |
 | michalparkola | scrum-sage | [SKILL.md](michalparkola/scrum-sage/SKILL.md) |
 | NeoLabHQ | kaizen | [SKILL.md](NeoLabHQ/kaizen/SKILL.md) |
-| SebastienDegodez | gherkin-gate | [SKILL.md](SebastienDegodez/gherkin-gate/SKILL.md) |
 | sickn33 | team-collaboration-standup-notes | [SKILL.md](sickn33/team-collaboration-standup-notes/SKILL.md) |
-| sickn33 | todoist-automation | [SKILL.md](sickn33/todoist-automation/SKILL.md) |
 | sickn33 | writing-plans | [SKILL.md](sickn33/writing-plans/SKILL.md) |
 | SuperClaude-Org | confidence-check | [SKILL.md](SuperClaude-Org/confidence-check/SKILL.md) |
 | whawkinsiv | plan | [SKILL.md](whawkinsiv/plan/SKILL.md) |

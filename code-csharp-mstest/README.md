@@ -1,15 +1,17 @@
 ---
-aliases: [csharp-mstest]
+aliases: [csharp-mstest, unit-test, integration-test, qa]
+description: "Best practices and conventions for writing MSTest unit tests in C# including assertions, data-driven tests, and naming standards."
 ---
 
 # code-csharp-mstest
 
 <!-- AUTO-GENERATED -->
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | senior-qa | [SKILL.md](alirezarezvani/senior-qa/SKILL.md) |
 | github | csharp-mstest | [SKILL.md](github/csharp-mstest/SKILL.md) |
 | mattnebr | csharp-mstest | [SKILL.md](mattnebr/csharp-mstest/SKILL.md) |
 | mattnebr | unit-and-integration-tests | [unit-and-integration-tests.instructions.md](mattnebr/unit-and-integration-tests/unit-and-integration-tests.instructions.md) |

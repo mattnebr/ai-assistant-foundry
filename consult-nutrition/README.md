@@ -1,16 +1,18 @@
 ---
-aliases: [nutritionist]
+aliases: [nutritionist, food-database, meal-planning, goal-analyzer]
+description: "Skills for analyzing nutritional data, querying food databases, assessing dietary patterns, and providing nutrition guidance."
 ---
 
 # consult-nutrition
 
 <!-- AUTO-GENERATED -->
 
-2 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | sickn33 | food-database-query | [SKILL.md](sickn33/food-database-query/SKILL.md) |
+| sickn33 | goal-analyzer | [SKILL.md](sickn33/goal-analyzer/SKILL.md) |
 | sickn33 | nutrition-analyzer | [SKILL.md](sickn33/nutrition-analyzer/SKILL.md) |
 
 ---

@@ -1,5 +1,6 @@
 ---
-aliases: [csharp-command-cqrs]
+aliases: [csharp-command-cqrs, command, query, specification, business-rules]
+description: "Implement CQRS command/query separation and specification-based business rules in C# following Clean Architecture principles."
 ---
 
 # code-csharp-cqrs

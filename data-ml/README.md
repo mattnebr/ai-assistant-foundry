@@ -1,5 +1,6 @@
 ---
-aliases: [engineer-ml]
+aliases: [engineer-ml, machine-learning, ai-engineer, ml-pipeline, mlops]
+description: "Skills for machine learning engineering including model training, ML pipelines, MLOps, RAG systems, and production AI/ML development."
 ---
 
 # data-ml
@@ -11,7 +12,7 @@ aliases: [engineer-ml]
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | senior-ml-engineer | [SKILL.md](alirezarezvani/senior-ml-engineer/SKILL.md) |
-| github | semantic-kernel | [SKILL.md](github/semantic-kernel/SKILL.md) |
+| sickn33 | ai-engineer | [SKILL.md](sickn33/ai-engineer/SKILL.md) |
 | sickn33 | ai-ml | [SKILL.md](sickn33/ai-ml/SKILL.md) |
 | sickn33 | machine-learning-ops-ml-pipeline | [SKILL.md](sickn33/machine-learning-ops-ml-pipeline/SKILL.md) |
 | sickn33 | ml-engineer | [SKILL.md](sickn33/ml-engineer/SKILL.md) |

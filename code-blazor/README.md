@@ -1,5 +1,6 @@
 ---
-aliases: [engineer-software-blazor]
+aliases: [engineer-software-blazor, fluentui]
+description: "Build Blazor applications using the Microsoft Fluent UI component library with correct providers, theming, and component usage patterns."
 ---
 
 # code-blazor

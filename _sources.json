@@ -256,7 +256,7 @@
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/changelog-automation",
-      "GroupName": "code-changelog",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T03:35:47.1999538Z"
     },
     {
@@ -627,7 +627,7 @@
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/fixing-accessibility",
-      "GroupName": "review-accessibility",
+      "GroupName": "design-accessibility",
       "ArchivedAt": "2026-04-11T03:58:15.5259802Z"
     },
     {
@@ -956,7 +956,7 @@
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/network-engineer",
-      "GroupName": "devops-network",
+      "GroupName": "architecture-network",
       "ArchivedAt": "2026-04-11T04:22:18.1078741Z"
     },
     {
@@ -1040,7 +1040,7 @@
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/pci-compliance",
-      "GroupName": "review-pci-compliance",
+      "GroupName": "secure-audit",
       "ArchivedAt": "2026-04-11T04:27:09.6565917Z"
     },
     {
@@ -1215,7 +1215,7 @@
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/readme",
-      "GroupName": "code-readme",
+      "GroupName": "write-technical",
       "ArchivedAt": "2026-04-11T04:37:16.9900259Z"
     },
     {
@@ -2132,7 +2132,7 @@
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/create-readme",
-      "GroupName": "code-readme",
+      "GroupName": "write-technical",
       "ArchivedAt": "2026-04-11T06:11:55.3112159Z"
     },
     {
@@ -2153,7 +2153,7 @@
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/create-tldr-page",
-      "GroupName": "code-readme",
+      "GroupName": "write-technical",
       "ArchivedAt": "2026-04-11T06:14:20.2335801Z"
     },
     {
@@ -2328,7 +2328,7 @@
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/powerbi-modeling",
-      "GroupName": "build-powerbi",
+      "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T06:26:09.7502091Z"
     },
     {
@@ -2349,7 +2349,7 @@
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/readme-blueprint-generator",
-      "GroupName": "code-readme",
+      "GroupName": "write-technical",
       "ArchivedAt": "2026-04-11T06:27:09.7720221Z"
     },
     {
@@ -2398,7 +2398,7 @@
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/tldr-prompt",
-      "GroupName": "code-readme",
+      "GroupName": "write-technical",
       "ArchivedAt": "2026-04-11T06:31:33.5557058Z"
     },
     {
@@ -2741,7 +2741,7 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/README",
-      "GroupName": "code-readme",
+      "GroupName": "write-technical",
       "ArchivedAt": "2026-04-11T18:29:05.4306755Z"
     },
     {
@@ -2755,7 +2755,7 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/ab-test-setup",
-      "GroupName": "design-ab-testing",
+      "GroupName": "data-science",
       "ArchivedAt": "2026-04-11T18:30:31.4185424Z"
     },
     {
@@ -2839,14 +2839,14 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/changelog-generator",
-      "GroupName": "code-changelog",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T18:41:36.5791322Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/changelog",
-      "GroupName": "code-changelog",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T18:41:39.1325844Z"
     },
     {
@@ -3056,7 +3056,7 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/email-template-builder",
-      "GroupName": "design-email",
+      "GroupName": "code-frontend",
       "ArchivedAt": "2026-04-11T19:04:12.327393Z"
     },
     {
@@ -3070,7 +3070,7 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/experiment-designer",
-      "GroupName": "design-ab-testing",
+      "GroupName": "data-science",
       "ArchivedAt": "2026-04-11T19:04:49.3959072Z"
     },
     {
@@ -3203,7 +3203,7 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/rag-architect",
-      "GroupName": "code-rag",
+      "GroupName": "data-vector-db",
       "ArchivedAt": "2026-04-11T19:20:44.3850812Z"
     },
     {
@@ -3469,7 +3469,7 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering-team/email-template-builder",
-      "GroupName": "design-email",
+      "GroupName": "code-frontend",
       "ArchivedAt": "2026-04-11T19:32:57.3544132Z"
     },
     {
@@ -3539,7 +3539,7 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering/changelog-generator",
-      "GroupName": "code-changelog",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T19:36:00.3227293Z"
     },
     {
@@ -3588,7 +3588,7 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering/rag-architect",
-      "GroupName": "code-rag",
+      "GroupName": "data-vector-db",
       "ArchivedAt": "2026-04-11T19:37:39.1540632Z"
     },
     {
@@ -3637,7 +3637,7 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "marketing-skill/ab-test-setup",
-      "GroupName": "design-ab-testing",
+      "GroupName": "data-science",
       "ArchivedAt": "2026-04-11T19:40:01.0363734Z"
     },
     {
@@ -3721,7 +3721,7 @@
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "product-team/experiment-designer",
-      "GroupName": "design-ab-testing",
+      "GroupName": "data-science",
       "ArchivedAt": "2026-04-11T19:42:42.4797946Z"
     },
     {
@@ -4162,7 +4162,7 @@
       "Owner": "ComposioHQ",
       "Repo": "awesome-claude-skills",
       "SkillFolder": "changelog-generator",
-      "GroupName": "code-changelog",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T21:26:33.175297Z"
     },
     {
@@ -4281,7 +4281,7 @@
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/docs/skills/update-docs",
-      "GroupName": "code-readme",
+      "GroupName": "write-technical",
       "ArchivedAt": "2026-04-11T21:44:31.7095704Z"
     },
     {
@@ -4484,7 +4484,7 @@
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/email",
-      "GroupName": "design-email",
+      "GroupName": "code-frontend",
       "ArchivedAt": "2026-04-11T21:55:00.0318298Z"
     },
     {

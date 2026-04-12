@@ -1,5 +1,6 @@
 ---
 aliases: [engineer-software-sveltekit]
+description: "Build full-stack web applications with SvelteKit using file-based routing, SSR, SSG, API routes, and form actions."
 ---
 
 # code-sveltekit

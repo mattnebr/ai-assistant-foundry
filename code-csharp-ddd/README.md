@@ -1,5 +1,6 @@
 ---
-aliases: [csharp-domain-driven-design]
+aliases: [csharp-domain-driven-design, domain-event]
+description: "Skills for applying Domain-Driven Design principles in C# including aggregates, entities, value objects, domain events, and ubiquitous language."
 ---
 
 # code-csharp-ddd

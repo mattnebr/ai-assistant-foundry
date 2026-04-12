@@ -1,5 +1,6 @@
 ---
-aliases: [designer-ascii]
+aliases: [designer-ascii, algorithmic-art]
+description: "Skills for creating algorithmic and generative art using p5.js with seeded randomness and interactive parameter exploration."
 ---
 
 # design-ascii

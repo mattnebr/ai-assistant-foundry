@@ -1,15 +1,17 @@
 ---
-aliases: [reviewer-security-api]
+aliases: [reviewer-security-api, api-fuzzing, bug-bounty]
+description: "Skills for testing and securing REST and GraphQL APIs covering authentication, authorization, and input validation."
 ---
 
 # secure-api
 
 <!-- AUTO-GENERATED -->
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| jefflester | api-security | [SKILL.md](jefflester/api-security/SKILL.md) |
 | sickn33 | api-fuzzing-bug-bounty | [SKILL.md](sickn33/api-fuzzing-bug-bounty/SKILL.md) |
 | sickn33 | api-security-best-practices | [SKILL.md](sickn33/api-security-best-practices/SKILL.md) |
 | sickn33 | api-security-testing | [SKILL.md](sickn33/api-security-testing/SKILL.md) |

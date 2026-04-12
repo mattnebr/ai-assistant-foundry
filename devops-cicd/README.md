@@ -1,26 +1,35 @@
 ---
-aliases: [engineer-ci-cd]
+aliases: [engineer-ci-cd, github-actions, changelog, dependabot, deploy, deployment, release, on-call, vercel-deployment]
+description: "Skills for CI/CD pipeline automation, GitHub Actions workflows, deployment pipelines, Dependabot configuration, and release automation."
 ---
 
 # devops-cicd
 
 <!-- AUTO-GENERATED -->
 
-12 skill variant(s).
+20 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | ci-cd-and-automation | [SKILL.md](addyosmani/ci-cd-and-automation/SKILL.md) |
+| alirezarezvani | changelog | [SKILL.md](alirezarezvani/changelog/SKILL.md) |
+| alirezarezvani | changelog-generator | [SKILL.md](alirezarezvani/changelog-generator/SKILL.md) |
 | alirezarezvani | ci-cd-pipeline-builder | [SKILL.md](alirezarezvani/ci-cd-pipeline-builder/SKILL.md) |
 | alirezarezvani | devops-engineer | [SKILL.md](alirezarezvani/devops-engineer/SKILL.md) |
+| alirezarezvani | release-manager | [SKILL.md](alirezarezvani/release-manager/SKILL.md) |
 | alirezarezvani | senior-devops | [SKILL.md](alirezarezvani/senior-devops/SKILL.md) |
+| ComposioHQ | changelog-generator | [SKILL.md](ComposioHQ/changelog-generator/SKILL.md) |
 | github | create-github-action-workflow-specification | [SKILL.md](github/create-github-action-workflow-specification/SKILL.md) |
 | github | dependabot | [SKILL.md](github/dependabot/SKILL.md) |
+| sickn33 | changelog-automation | [SKILL.md](sickn33/changelog-automation/SKILL.md) |
 | sickn33 | cicd-automation-workflow-automate | [SKILL.md](sickn33/cicd-automation-workflow-automate/SKILL.md) |
 | sickn33 | deployment-engineer | [SKILL.md](sickn33/deployment-engineer/SKILL.md) |
 | sickn33 | deployment-pipeline-design | [SKILL.md](sickn33/deployment-pipeline-design/SKILL.md) |
 | sickn33 | github-actions-templates | [SKILL.md](sickn33/github-actions-templates/SKILL.md) |
 | sickn33 | github-automation | [SKILL.md](sickn33/github-automation/SKILL.md) |
+| sickn33 | github-issue-creator | [SKILL.md](sickn33/github-issue-creator/SKILL.md) |
+| sickn33 | on-call-handoff-patterns | [SKILL.md](sickn33/on-call-handoff-patterns/SKILL.md) |
+| sickn33 | vercel-deployment | [SKILL.md](sickn33/vercel-deployment/SKILL.md) |
 | whawkinsiv | deploy | [SKILL.md](whawkinsiv/deploy/SKILL.md) |
 
 ---

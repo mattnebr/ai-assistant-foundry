@@ -1,5 +1,6 @@
 ---
-aliases: [writer-copywriting]
+aliases: [writer-copywriting, copy-editing, copywriting-psychology]
+description: "Skills for writing and editing conversion-focused marketing copy for landing pages, emails, and campaigns."
 ---
 
 # write-copywriting

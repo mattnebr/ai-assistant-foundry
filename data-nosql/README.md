@@ -1,5 +1,6 @@
 ---
-aliases: [engineer-database-nosql]
+aliases: [engineer-database-nosql, mongodb, nosql]
+description: "Skills for distributed NoSQL database design and optimization, covering query-first modeling for Cassandra, DynamoDB, and similar systems."
 ---
 
 # data-nosql

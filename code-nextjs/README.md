@@ -1,5 +1,6 @@
 ---
-aliases: [engineer-nextjs, engineer-software-nextjs]
+aliases: [engineer-nextjs, engineer-software-nextjs, app-router, react-nextjs]
+description: "Next.js App Router development patterns including Server Components, data fetching, routing, and React integration best practices."
 ---
 
 # code-nextjs

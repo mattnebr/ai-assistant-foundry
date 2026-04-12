@@ -1,5 +1,6 @@
 ---
 aliases: [marketer-instagram]
+description: "Skills for Instagram automation and content management via the Graph API, including publishing, analytics, and DMs."
 ---
 
 # marketing-instagram

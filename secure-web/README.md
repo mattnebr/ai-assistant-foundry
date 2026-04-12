@@ -1,18 +1,20 @@
 ---
-aliases: [reviewer-security-web]
+aliases: [reviewer-security-web, html-injection, secops, xss]
+description: "Skills for web application security including XSS prevention, HTML injection testing, and frontend security best practices."
 ---
 
 # secure-web
 
 <!-- AUTO-GENERATED -->
 
-4 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | security-pen-testing | [SKILL.md](alirezarezvani/security-pen-testing/SKILL.md) |
 | alirezarezvani | senior-secops | [SKILL.md](alirezarezvani/senior-secops/SKILL.md) |
 | alirezarezvani | senior-security | [SKILL.md](alirezarezvani/senior-security/SKILL.md) |
+| sickn33 | frontend-security-coder | [SKILL.md](sickn33/frontend-security-coder/SKILL.md) |
 | sickn33 | html-injection-testing | [SKILL.md](sickn33/html-injection-testing/SKILL.md) |
 
 ---

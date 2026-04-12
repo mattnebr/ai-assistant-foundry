@@ -1,5 +1,6 @@
 ---
-aliases: [engineer-mermaid]
+aliases: [engineer-mermaid, diagram, flowchart]
+description: "Create and style Mermaid diagrams for flowcharts, sequence diagrams, ERDs, architecture diagrams, and more."
 ---
 
 # code-mermaid

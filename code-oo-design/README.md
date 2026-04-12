@@ -1,5 +1,6 @@
 ---
-aliases: [engineer-software-oo]
+aliases: [engineer-software-oo, object-calisthenics, oop]
+description: "Enforce Object Calisthenics rules and clean OO design principles for maintainable, robust business domain code."
 ---
 
 # code-oo-design

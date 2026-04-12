@@ -1,18 +1,20 @@
 ---
-aliases: [builder-slide-presentation]
+aliases: [builder-slide-presentation, marp, slides, presentation, posters]
+description: "Create, read, edit, and manipulate PowerPoint (.pptx) presentations including slides, templates, speaker notes, and visual layouts."
 ---
 
 # build-pptx
 
 <!-- AUTO-GENERATED -->
 
-5 skill variant(s).
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | anthropics | pptx | [SKILL.md](anthropics/pptx/SKILL.md) |
 | K-Dense-AI | pptx | [SKILL.md](K-Dense-AI/pptx/SKILL.md) |
 | K-Dense-AI | pptx-posters | [SKILL.md](K-Dense-AI/pptx-posters/SKILL.md) |
+| SebastienDegodez | marp-presentations | [marp-presentations.instructions.md](SebastienDegodez/marp-presentations/marp-presentations.instructions.md) |
 | sickn33 | pptx-official | [SKILL.md](sickn33/pptx-official/SKILL.md) |
 | zarazhangrui | frontend-slides | [SKILL.md](zarazhangrui/frontend-slides/SKILL.md) |
 

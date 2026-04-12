@@ -1,5 +1,6 @@
 ---
-aliases: [marketer-linkedin]
+aliases: [marketer-linkedin, linkedin]
+description: "Skills for automating LinkedIn tasks such as profile management, connection handling, messaging, and post creation via CLI."
 ---
 
 # marketing-linkedin

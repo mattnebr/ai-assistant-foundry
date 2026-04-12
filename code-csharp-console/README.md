@@ -1,5 +1,6 @@
 ---
 aliases: [csharp-console-app-menu]
+description: "Scaffold interactive .NET console applications with numbered menu loops using the BackgroundService/Worker pattern and Generic Host."
 ---
 
 # code-csharp-console

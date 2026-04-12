@@ -1,5 +1,6 @@
 ---
 aliases: [ai-assistant-hooks]
+description: "Create and configure git hooks with intelligent project analysis, automated suggestions, and validation testing."
 ---
 
 # agent-hooks

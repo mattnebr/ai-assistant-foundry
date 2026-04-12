@@ -1,17 +1,20 @@
 ---
-aliases: [reviewer-security]
+aliases: [reviewer-security, pentest, penetration-testing, threat-model, threat-modeling, sql-injection, vulnerability]
+description: "Skills for threat modeling, penetration testing, and security architecture review using methodologies like STRIDE and PASTA."
 ---
 
 # secure-general
 
 <!-- AUTO-GENERATED -->
 
-7 skill variant(s).
+9 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| fr33d3m0n | threat-modeling | [SKILL.md](fr33d3m0n/threat-modeling/SKILL.md) |
 | github | threat-model-analyst | [SKILL.md](github/threat-model-analyst/SKILL.md) |
 | sickn33 | cloud-penetration-testing | [SKILL.md](sickn33/cloud-penetration-testing/SKILL.md) |
+| sickn33 | network-101 | [SKILL.md](sickn33/network-101/SKILL.md) |
 | sickn33 | pentest-checklist | [SKILL.md](sickn33/pentest-checklist/SKILL.md) |
 | sickn33 | sql-injection-testing | [SKILL.md](sickn33/sql-injection-testing/SKILL.md) |
 | sickn33 | threat-mitigation-mapping | [SKILL.md](sickn33/threat-mitigation-mapping/SKILL.md) |

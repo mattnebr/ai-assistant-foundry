@@ -1,5 +1,6 @@
 ---
 aliases: [csharp-clean-architecture]
+description: "Structure .NET projects using Clean Architecture layers (Domain, Application, Infrastructure, API) with strict dependency rules and CQRS."
 ---
 
 # code-csharp-clean-arch

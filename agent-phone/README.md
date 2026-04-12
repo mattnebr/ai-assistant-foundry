@@ -1,5 +1,6 @@
 ---
 aliases: [ai-assistant-phone]
+description: "Build AI phone agents with telephony capabilities including voice calls, SMS, phone number management, and webhook integrations via AgentPhone API."
 ---
 
 # agent-phone

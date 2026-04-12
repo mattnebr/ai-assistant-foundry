@@ -1,5 +1,6 @@
 ---
 aliases: [builder-markdown-index]
+description: "Generate or update an index.md file that catalogs and links all documents within a target folder."
 ---
 
 # build-markdown-index

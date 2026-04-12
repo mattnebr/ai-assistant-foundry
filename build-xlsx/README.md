@@ -1,5 +1,6 @@
 ---
 aliases: [builder-spreadsheet]
+description: "Create, read, edit, and manipulate Excel spreadsheets (.xlsx/.csv) with formulas, formatting, charts, and data cleaning."
 ---
 
 # build-xlsx

@@ -1,12 +1,13 @@
 ---
-aliases: [ai-assistant-memory]
+aliases: [ai-assistant-memory, mcp, memorize, remember, conversation-memory]
+description: "Design and implement agent memory systems including short-term context, long-term storage, conversation recall, and cross-session knowledge persistence."
 ---
 
 # agent-memory
 
 <!-- AUTO-GENERATED -->
 
-9 skill variant(s).
+10 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -18,6 +19,7 @@ aliases: [ai-assistant-memory]
 | sickn33 | agent-memory-mcp | [SKILL.md](sickn33/agent-memory-mcp/SKILL.md) |
 | sickn33 | agent-memory-systems | [SKILL.md](sickn33/agent-memory-systems/SKILL.md) |
 | sickn33 | conversation-memory | [SKILL.md](sickn33/conversation-memory/SKILL.md) |
+| sickn33 | data-structure-protocol | [SKILL.md](sickn33/data-structure-protocol/SKILL.md) |
 | sickn33 | memory-systems | [SKILL.md](sickn33/memory-systems/SKILL.md) |
 
 ---

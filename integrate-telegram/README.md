@@ -1,5 +1,6 @@
 ---
-aliases: [telegram]
+aliases: [telegram, telegram-bot, telegram-mini-app]
+description: "Skills for building Telegram bots using the Bot API, including webhooks, inline keyboards, and boilerplate setup for Node.js and Python."
 ---
 
 # integrate-telegram

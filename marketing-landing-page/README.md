@@ -1,22 +1,21 @@
 ---
-aliases: [marketer-landing-page]
+aliases: [marketer-landing-page, cro, conversion, lead-magnet, meta-description]
+description: "Skills for creating and optimizing landing pages, lead magnets, CRO analysis, and conversion-focused page design."
 ---
 
 # marketing-landing-page
 
 <!-- AUTO-GENERATED -->
 
-11 skill variant(s).
+9 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | cs-growth-strategist | [SKILL.md](alirezarezvani/cs-growth-strategist/SKILL.md) |
-| alirezarezvani | landing-page-generator | [SKILL.md](alirezarezvani/landing-page-generator/SKILL.md) |
 | alirezarezvani | marketing-psychology | [SKILL.md](alirezarezvani/marketing-psychology/SKILL.md) |
 | coreyhaines31 | lead-magnets | [SKILL.md](coreyhaines31/lead-magnets/SKILL.md) |
 | coreyhaines31 | page-cro | [SKILL.md](coreyhaines31/page-cro/SKILL.md) |
 | coreyhaines31 | product-marketing-context | [SKILL.md](coreyhaines31/product-marketing-context/SKILL.md) |
-| sickn33 | landing-page-generator | [SKILL.md](sickn33/landing-page-generator/SKILL.md) |
 | sickn33 | lead-magnets | [SKILL.md](sickn33/lead-magnets/SKILL.md) |
 | sickn33 | seo-aeo-landing-page-writer | [SKILL.md](sickn33/seo-aeo-landing-page-writer/SKILL.md) |
 | sickn33 | seo-aeo-meta-description-generator | [SKILL.md](sickn33/seo-aeo-meta-description-generator/SKILL.md) |

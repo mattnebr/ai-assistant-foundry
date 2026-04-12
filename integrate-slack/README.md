@@ -1,5 +1,6 @@
 ---
-aliases: [slack]
+aliases: [slack, slack-bot]
+description: "Skills for automating Slack workspace operations including messaging, channel management, search, and reaction workflows."
 ---
 
 # integrate-slack

@@ -1,19 +1,19 @@
 ---
-aliases: [engineer-janitor]
+aliases: [engineer-janitor, tech-debt, deprecation, migration]
+description: "Identify, quantify, and remediate technical debt through codebase analysis, deprecation planning, and prioritized cleanup strategies."
 ---
 
 # code-cleanup
 
 <!-- AUTO-GENERATED -->
 
-5 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | deprecation-and-migration | [SKILL.md](addyosmani/deprecation-and-migration/SKILL.md) |
 | alirezarezvani | tech-debt | [SKILL.md](alirezarezvani/tech-debt/SKILL.md) |
 | alirezarezvani | tech-debt-tracker | [SKILL.md](alirezarezvani/tech-debt-tracker/SKILL.md) |
-| github | repo-story-time | [SKILL.md](github/repo-story-time/SKILL.md) |
 | sickn33 | codebase-cleanup-tech-debt | [SKILL.md](sickn33/codebase-cleanup-tech-debt/SKILL.md) |
 
 ---

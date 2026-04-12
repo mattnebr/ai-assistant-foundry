@@ -1,5 +1,6 @@
 ---
 aliases: [java-junit]
+description: "Best practices for writing JUnit 5 unit tests in Java including parameterized and data-driven testing approaches."
 ---
 
 # code-java-junit

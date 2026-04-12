@@ -1,5 +1,6 @@
 ---
 aliases: [engineer-software-javascript]
+description: "JavaScript development skills covering core language concepts, patterns, and best practices for modern JS development."
 ---
 
 # code-javascript

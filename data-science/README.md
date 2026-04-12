@@ -1,15 +1,18 @@
 ---
-aliases: [data-scientist]
+aliases: [data-scientist, analytics, statistics, kpi, monte-carlo, ab-test, experiment, data-storytelling]
+description: "Skills for advanced analytics, statistical modeling, predictive analysis, data storytelling, and KPI dashboard design."
 ---
 
 # data-science
 
 <!-- AUTO-GENERATED -->
 
-8 skill variant(s).
+11 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | ab-test-setup | [SKILL.md](alirezarezvani/ab-test-setup/SKILL.md) |
+| alirezarezvani | experiment-designer | [SKILL.md](alirezarezvani/experiment-designer/SKILL.md) |
 | alirezarezvani | product-analytics | [SKILL.md](alirezarezvani/product-analytics/SKILL.md) |
 | alirezarezvani | senior-data-scientist | [SKILL.md](alirezarezvani/senior-data-scientist/SKILL.md) |
 | alirezarezvani | statistical-analyst | [SKILL.md](alirezarezvani/statistical-analyst/SKILL.md) |
@@ -17,6 +20,7 @@ aliases: [data-scientist]
 | sickn33 | data-scientist | [SKILL.md](sickn33/data-scientist/SKILL.md) |
 | sickn33 | data-storytelling | [SKILL.md](sickn33/data-storytelling/SKILL.md) |
 | sickn33 | kpi-dashboard-design | [SKILL.md](sickn33/kpi-dashboard-design/SKILL.md) |
+| sickn33 | monte-carlo-monitor-creation | [SKILL.md](sickn33/monte-carlo-monitor-creation/SKILL.md) |
 | whawkinsiv | analytics | [SKILL.md](whawkinsiv/analytics/SKILL.md) |
 
 ---

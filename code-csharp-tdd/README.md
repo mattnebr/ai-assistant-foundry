@@ -1,5 +1,6 @@
 ---
-aliases: [csharp-test-driven-development]
+aliases: [csharp-test-driven-development, gherkin, eval-driven, bdd]
+description: "Skills for test-driven development in C# -- write failing tests first, reproduce bugs with tests, and prove code correctness before shipping."
 ---
 
 # code-csharp-tdd

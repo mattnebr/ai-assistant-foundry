@@ -1,18 +1,20 @@
 ---
-aliases: [designer-ui-accessibility]
+aliases: [designer-ui-accessibility, a11y, wcag, aria]
+description: "Skills for auditing web content against WCAG 2.2 guidelines, running accessibility compliance checks, and implementing a11y remediation."
 ---
 
 # design-accessibility
 
 <!-- AUTO-GENERATED -->
 
-5 skill variant(s).
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | a11y-audit | [SKILL.md](alirezarezvani/a11y-audit/SKILL.md) |
 | alirezarezvani | cmd-a11y-audit | [SKILL.md](alirezarezvani/cmd-a11y-audit/SKILL.md) |
 | sickn33 | accessibility-compliance-accessibility-audit | [SKILL.md](sickn33/accessibility-compliance-accessibility-audit/SKILL.md) |
+| sickn33 | fixing-accessibility | [SKILL.md](sickn33/fixing-accessibility/SKILL.md) |
 | sickn33 | ui-a11y | [SKILL.md](sickn33/ui-a11y/SKILL.md) |
 | sickn33 | wcag-audit-patterns | [SKILL.md](sickn33/wcag-audit-patterns/SKILL.md) |
 

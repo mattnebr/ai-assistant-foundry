@@ -1,17 +1,17 @@
 ---
-aliases: [engineer-python]
+aliases: [engineer-python, python-patterns, python-performance]
+description: "Python development principles covering framework selection, async patterns, type hints, project structure, and performance."
 ---
 
 # code-python
 
 <!-- AUTO-GENERATED -->
 
-4 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | jefflester | python-best-practices | [SKILL.md](jefflester/python-best-practices/SKILL.md) |
-| sickn33 | agents-v2-py | [SKILL.md](sickn33/agents-v2-py/SKILL.md) |
 | sickn33 | python-patterns | [SKILL.md](sickn33/python-patterns/SKILL.md) |
 | sickn33 | python-performance-optimization | [SKILL.md](sickn33/python-performance-optimization/SKILL.md) |
 

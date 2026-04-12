@@ -1,5 +1,6 @@
 ---
 aliases: [engineer-ui-ab]
+description: "Structured guides for setting up rigorous A/B tests with hypothesis validation, metric selection, and execution readiness gates."
 ---
 
 # code-ui-ab-testing

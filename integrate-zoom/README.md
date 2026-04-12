@@ -1,5 +1,6 @@
 ---
 aliases: [zoom]
+description: "Skills for automating Zoom operations such as meeting scheduling, recording retrieval, and participant tracking."
 ---
 
 # integrate-zoom

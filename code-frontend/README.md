@@ -1,22 +1,27 @@
 ---
-aliases: [engineer-software-frontend]
+aliases: [engineer-software-frontend, email-template, landing-page, dark-mode, vercel-ai-sdk, web-performance, ui-engineering]
+description: "Skills for building production-quality frontend UIs including components, layouts, landing pages, email templates, and web performance."
 ---
 
 # code-frontend
 
 <!-- AUTO-GENERATED -->
 
-8 skill variant(s).
+12 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | frontend-ui-engineering | [SKILL.md](addyosmani/frontend-ui-engineering/SKILL.md) |
+| alirezarezvani | email-template-builder | [SKILL.md](alirezarezvani/email-template-builder/SKILL.md) |
+| alirezarezvani | epic-design | [SKILL.md](alirezarezvani/epic-design/SKILL.md) |
+| alirezarezvani | landing-page-generator | [SKILL.md](alirezarezvani/landing-page-generator/SKILL.md) |
 | alirezarezvani | senior-frontend | [SKILL.md](alirezarezvani/senior-frontend/SKILL.md) |
 | sickn33 | frontend-dev-guidelines | [SKILL.md](sickn33/frontend-dev-guidelines/SKILL.md) |
 | sickn33 | frontend-developer | [SKILL.md](sickn33/frontend-developer/SKILL.md) |
-| sickn33 | frontend-security-coder | [SKILL.md](sickn33/frontend-security-coder/SKILL.md) |
 | sickn33 | frontend-ui-dark-ts | [SKILL.md](sickn33/frontend-ui-dark-ts/SKILL.md) |
+| sickn33 | landing-page-generator | [SKILL.md](sickn33/landing-page-generator/SKILL.md) |
 | sickn33 | senior-frontend | [SKILL.md](sickn33/senior-frontend/SKILL.md) |
+| sickn33 | vercel-ai-sdk-expert | [SKILL.md](sickn33/vercel-ai-sdk-expert/SKILL.md) |
 | sickn33 | web-performance-optimization | [SKILL.md](sickn33/web-performance-optimization/SKILL.md) |
 
 ---

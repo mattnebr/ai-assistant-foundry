@@ -1,5 +1,6 @@
 ---
 aliases: [engineer-nestjs]
+description: "Expert guidance for building enterprise-grade NestJS applications with dependency injection, guards, interceptors, and testing."
 ---
 
 # code-nestjs

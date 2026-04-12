@@ -1,5 +1,6 @@
 ---
-aliases: [designer-branding]
+aliases: [designer-branding, brand-identity, brand-guidelines, brand-perception]
+description: "Skills for creating and applying brand guidelines, defining brand identity systems, voice and tone standards, and brand perception analysis."
 ---
 
 # design-branding

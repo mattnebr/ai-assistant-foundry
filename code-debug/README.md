@@ -1,5 +1,6 @@
 ---
-aliases: [engineer-software-debug]
+aliases: [engineer-software-debug, error-recovery, root-cause, troubleshoot]
+description: "Systematic debugging and root-cause analysis skills for diagnosing test failures, build breaks, runtime bugs, and production incidents."
 ---
 
 # code-debug

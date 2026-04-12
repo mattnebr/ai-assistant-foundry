@@ -1,5 +1,6 @@
 ---
 aliases: [ai-assistant-email]
+description: "Provision email accounts for AI agents to send/receive messages, handle signups and verification flows via the AgentMail API."
 ---
 
 # agent-email

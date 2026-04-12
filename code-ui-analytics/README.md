@@ -1,19 +1,17 @@
 ---
-aliases: [engineer-ui-ga]
+aliases: [engineer-ui-ga, google-analytics, ga, tracking]
+description: "Automate analytics tracking and Google Analytics reporting including GA4 property management, funnels, and key events."
 ---
 
 # code-ui-analytics
 
 <!-- AUTO-GENERATED -->
 
-6 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | analytics-tracking | [SKILL.md](alirezarezvani/analytics-tracking/SKILL.md) |
-| alirezarezvani | campaign-analytics | [SKILL.md](alirezarezvani/campaign-analytics/SKILL.md) |
-| chadboyda | gtm-engineering | [SKILL.md](chadboyda/gtm-engineering/SKILL.md) |
-| chadboyda | gtm-metrics | [SKILL.md](chadboyda/gtm-metrics/SKILL.md) |
 | coreyhaines31 | analytics-tracking | [SKILL.md](coreyhaines31/analytics-tracking/SKILL.md) |
 | sickn33 | google-analytics-automation | [SKILL.md](sickn33/google-analytics-automation/SKILL.md) |
 

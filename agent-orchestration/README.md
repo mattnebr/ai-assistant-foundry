@@ -1,21 +1,26 @@
 ---
-aliases: [ai-assistant-orchestration, ai-assistant-orchistration, ai-assistant-orchisration]
+aliases: [ai-assistant-orchestration, ai-assistant-orchistration, ai-assistant-orchisration, multi-agent, subagent, parallel-agents, semantic-kernel, agentflow]
+description: "Coordinate multi-agent workflows with skill discovery, parallel dispatch, sub-agent delegation, and workflow optimization."
 ---
 
 # agent-orchestration
 
 <!-- AUTO-GENERATED -->
 
-12 skill variant(s).
+16 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | agent-workflow-designer | [SKILL.md](alirezarezvani/agent-workflow-designer/SKILL.md) |
 | bmad-code-org | bmad-distillator | [SKILL.md](bmad-code-org/bmad-distillator/SKILL.md) |
+| github | from-the-other-side-vega | [SKILL.md](github/from-the-other-side-vega/SKILL.md) |
+| github | semantic-kernel | [SKILL.md](github/semantic-kernel/SKILL.md) |
 | NeoLabHQ | multi-agent-patterns | [SKILL.md](NeoLabHQ/multi-agent-patterns/SKILL.md) |
 | NeoLabHQ | subagent-driven-development | [SKILL.md](NeoLabHQ/subagent-driven-development/SKILL.md) |
+| NeoLabHQ | thought-based-reasoning | [SKILL.md](NeoLabHQ/thought-based-reasoning/SKILL.md) |
 | obra | dispatching-parallel-agents | [SKILL.md](obra/dispatching-parallel-agents/SKILL.md) |
 | obra | subagent-driven-development | [SKILL.md](obra/subagent-driven-development/SKILL.md) |
+| sickn33 | acceptance-orchestrator | [SKILL.md](sickn33/acceptance-orchestrator/SKILL.md) |
 | sickn33 | agent-orchestration-improve-agent | [SKILL.md](sickn33/agent-orchestration-improve-agent/SKILL.md) |
 | sickn33 | agent-orchestration-multi-agent-optimize | [SKILL.md](sickn33/agent-orchestration-multi-agent-optimize/SKILL.md) |
 | sickn33 | agent-orchestrator | [SKILL.md](sickn33/agent-orchestrator/SKILL.md) |

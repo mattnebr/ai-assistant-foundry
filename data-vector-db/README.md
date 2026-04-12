@@ -1,15 +1,17 @@
 ---
-aliases: [engineer-database-vector]
+aliases: [engineer-database-vector, rag, vector-index, embeddings]
+description: "Skills for vector database implementation, embedding strategies, semantic search, and RAG pipeline architecture with Pinecone, Weaviate, Qdrant, and others."
 ---
 
 # data-vector-db
 
 <!-- AUTO-GENERATED -->
 
-2 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | rag-architect | [SKILL.md](alirezarezvani/rag-architect/SKILL.md) |
 | sickn33 | vector-database-engineer | [SKILL.md](sickn33/vector-database-engineer/SKILL.md) |
 | sickn33 | vector-index-tuning | [SKILL.md](sickn33/vector-index-tuning/SKILL.md) |
 

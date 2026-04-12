@@ -1,5 +1,6 @@
 ---
-aliases: [engineer-cli]
+aliases: [engineer-cli, mcp-cli, winapp]
+description: "Build and interact with command-line tools including MCP server CLIs, Windows app packaging (winapp), and AI-native terminal interfaces."
 ---
 
 # code-cli

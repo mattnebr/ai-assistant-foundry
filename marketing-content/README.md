@@ -1,15 +1,21 @@
 ---
-aliases: [writer-marketing]
+aliases: [writer-marketing, ad-creative, content-humanizer, content-pipeline]
+description: "Skills for creating marketing content with brand voice analysis, SEO optimization, ad creatives, and content humanization."
 ---
 
 # marketing-content
 
 <!-- AUTO-GENERATED -->
 
-4 skill variant(s).
+9 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| alirezarezvani | ad-creative | [SKILL.md](alirezarezvani/ad-creative/SKILL.md) |
+| alirezarezvani | content-creator | [SKILL.md](alirezarezvani/content-creator/SKILL.md) |
+| alirezarezvani | content-humanizer | [SKILL.md](alirezarezvani/content-humanizer/SKILL.md) |
+| alirezarezvani | cs-content-creator | [SKILL.md](alirezarezvani/cs-content-creator/SKILL.md) |
+| chadboyda | content-to-pipeline | [SKILL.md](chadboyda/content-to-pipeline/SKILL.md) |
 | coreyhaines31 | marketing-psychology | [SKILL.md](coreyhaines31/marketing-psychology/SKILL.md) |
 | sickn33 | ad-creative | [SKILL.md](sickn33/ad-creative/SKILL.md) |
 | sickn33 | content-creator | [SKILL.md](sickn33/content-creator/SKILL.md) |

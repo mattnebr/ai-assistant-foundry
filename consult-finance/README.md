@@ -1,12 +1,13 @@
 ---
-aliases: [financial-analyst]
+aliases: [financial-analyst, accounting, financial-health]
+description: "Financial analysis skills including ratio analysis, DCF valuation, budget variance, rolling forecasts, and accounting guidance."
 ---
 
 # consult-finance
 
 <!-- AUTO-GENERATED -->
 
-8 skill variant(s).
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -14,8 +15,6 @@ aliases: [financial-analyst]
 | alirezarezvani | finance-lead | [SKILL.md](alirezarezvani/finance-lead/SKILL.md) |
 | alirezarezvani | financial-analyst | [SKILL.md](alirezarezvani/financial-analyst/SKILL.md) |
 | alirezarezvani | financial-health | [SKILL.md](alirezarezvani/financial-health/SKILL.md) |
-| alirezarezvani | statistical-analyst | [SKILL.md](alirezarezvani/statistical-analyst/SKILL.md) |
-| sickn33 | monte-carlo-monitor-creation | [SKILL.md](sickn33/monte-carlo-monitor-creation/SKILL.md) |
 | whawkinsiv | accounting | [SKILL.md](whawkinsiv/accounting/SKILL.md) |
 | whawkinsiv | finances | [SKILL.md](whawkinsiv/finances/SKILL.md) |
 

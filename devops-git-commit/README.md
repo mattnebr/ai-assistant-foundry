@@ -1,12 +1,13 @@
 ---
-aliases: [git-commit]
+aliases: [git-commit, conventional-commits, commit-message]
+description: "Skills for writing structured commit messages following conventional commits specification with proper type prefixes and issue references."
 ---
 
 # devops-git-commit
 
 <!-- AUTO-GENERATED -->
 
-8 skill variant(s).
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -14,9 +15,7 @@ aliases: [git-commit]
 | mattnebr | commit-message | [SKILL.md](mattnebr/commit-message/SKILL.md) |
 | mattnebr | conventional-commits | [conventional-commits.instructions.md](mattnebr/conventional-commits/conventional-commits.instructions.md) |
 | NeoLabHQ | commit | [SKILL.md](NeoLabHQ/commit/SKILL.md) |
-| obra | verification-before-completion | [SKILL.md](obra/verification-before-completion/SKILL.md) |
 | SebastienDegodez | conventional-commits | [conventional-commits.instructions.md](SebastienDegodez/conventional-commits/conventional-commits.instructions.md) |
-| sickn33 | accessibility-compliance-accessibility-audit | [SKILL.md](sickn33/accessibility-compliance-accessibility-audit/SKILL.md) |
 | sickn33 | commit | [SKILL.md](sickn33/commit/SKILL.md) |
 
 ---

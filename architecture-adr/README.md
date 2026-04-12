@@ -1,17 +1,17 @@
 ---
-aliases: [architecture-decision-records]
+aliases: [architecture-decision-records, adr]
+description: "Create and maintain Architectural Decision Records (ADRs) to document design choices with context, alternatives, and rationale."
 ---
 
 # architecture-adr
 
 <!-- AUTO-GENERATED -->
 
-4 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | documentation-and-adrs | [SKILL.md](addyosmani/documentation-and-adrs/SKILL.md) |
-| github | architecture-blueprint-generator | [SKILL.md](github/architecture-blueprint-generator/SKILL.md) |
 | github | create-architectural-decision-record | [SKILL.md](github/create-architectural-decision-record/SKILL.md) |
 | sickn33 | architecture-decision-records | [SKILL.md](sickn33/architecture-decision-records/SKILL.md) |
 

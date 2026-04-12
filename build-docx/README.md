@@ -1,5 +1,6 @@
 ---
 aliases: [builder-documents]
+description: "Create, read, edit, and manipulate Word (.docx) documents including formatting, tables of contents, images, and template-based generation."
 ---
 
 # build-docx

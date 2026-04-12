@@ -1,5 +1,6 @@
 ---
 aliases: [engineer-software-typescript]
+description: "Advanced TypeScript skills including type-level programming, performance optimization, monorepo management, and migration strategies."
 ---
 
 # code-typescript

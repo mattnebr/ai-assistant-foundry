@@ -1,25 +1,21 @@
 ---
-aliases: [git-pr]
+aliases: [git-pr, pull-request]
+description: "Skills for creating pull requests, writing PR descriptions, requesting code reviews, and managing the PR lifecycle."
 ---
 
 # devops-git-pr
 
 <!-- AUTO-GENERATED -->
 
-12 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
-| addyosmani | code-review-and-quality | [SKILL.md](addyosmani/code-review-and-quality/SKILL.md) |
-| alirezarezvani | pr-review-expert | [SKILL.md](alirezarezvani/pr-review-expert/SKILL.md) |
 | cblecker | finishing-a-development-branch | [SKILL.md](cblecker/finishing-a-development-branch/SKILL.md) |
 | cblecker | requesting-code-review | [SKILL.md](cblecker/requesting-code-review/SKILL.md) |
-| feiskyer | github-review-pr | [SKILL.md](feiskyer/github-review-pr/SKILL.md) |
 | github | my-pull-requests | [SKILL.md](github/my-pull-requests/SKILL.md) |
 | NeoLabHQ | attach-review-to-pr | [SKILL.md](NeoLabHQ/attach-review-to-pr/SKILL.md) |
 | NeoLabHQ | create-pr | [SKILL.md](NeoLabHQ/create-pr/SKILL.md) |
-| NeoLabHQ | review-local-changes | [SKILL.md](NeoLabHQ/review-local-changes/SKILL.md) |
-| NeoLabHQ | review-pr | [SKILL.md](NeoLabHQ/review-pr/SKILL.md) |
 | obra | requesting-code-review | [SKILL.md](obra/requesting-code-review/SKILL.md) |
 | sickn33 | create-pr | [SKILL.md](sickn33/create-pr/SKILL.md) |
 

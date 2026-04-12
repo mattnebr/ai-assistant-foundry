@@ -1,5 +1,6 @@
 ---
-aliases: [writer-communication-internal]
+aliases: [writer-communication-internal, team-communications, community-comms]
+description: "Skills for writing internal communications such as status reports, leadership updates, newsletters, and incident reports."
 ---
 
 # write-internal-comms

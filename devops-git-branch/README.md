@@ -1,5 +1,6 @@
 ---
-aliases: [git-branch]
+aliases: [git-branch, git-flow, feature-branch]
+description: "Skills for creating and managing git branches following naming conventions such as feature, bugfix, and release prefixes."
 ---
 
 # devops-git-branch

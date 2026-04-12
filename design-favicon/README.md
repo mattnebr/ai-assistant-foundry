@@ -1,5 +1,6 @@
 ---
 aliases: [designer-favicon]
+description: "Skills for generating a complete set of favicons from a source image and updating project HTML with appropriate link tags."
 ---
 
 # design-favicon

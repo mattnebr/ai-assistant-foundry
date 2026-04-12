@@ -1,16 +1,24 @@
 ---
-aliases: [reviewer-code]
+aliases: [reviewer-code, clean-code, code-simplifier, pr-review]
+description: "Skills for code review, architecture review, PR review, and clean code assessment across codebases."
 ---
 
 # review-code
 
 <!-- AUTO-GENERATED -->
 
-6 skill variant(s).
+13 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | code-review-and-quality | [SKILL.md](addyosmani/code-review-and-quality/SKILL.md) |
+| alirezarezvani | api-design-reviewer | [SKILL.md](alirezarezvani/api-design-reviewer/SKILL.md) |
+| alirezarezvani | pr-review-expert | [SKILL.md](alirezarezvani/pr-review-expert/SKILL.md) |
+| feiskyer | github-review-pr | [SKILL.md](feiskyer/github-review-pr/SKILL.md) |
+| NeoLabHQ | review-local-changes | [SKILL.md](NeoLabHQ/review-local-changes/SKILL.md) |
+| NeoLabHQ | review-pr | [SKILL.md](NeoLabHQ/review-pr/SKILL.md) |
 | obra | receiving-code-review | [SKILL.md](obra/receiving-code-review/SKILL.md) |
+| sickn33 | architect-review | [SKILL.md](sickn33/architect-review/SKILL.md) |
 | sickn33 | clean-code | [SKILL.md](sickn33/clean-code/SKILL.md) |
 | sickn33 | code-review-checklist | [SKILL.md](sickn33/code-review-checklist/SKILL.md) |
 | sickn33 | code-review-excellence | [SKILL.md](sickn33/code-review-excellence/SKILL.md) |

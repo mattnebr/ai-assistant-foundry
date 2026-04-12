@@ -1,5 +1,6 @@
 ---
-aliases: [csharp-mcp-server-generator]
+aliases: [csharp-mcp-server-generator, mcp-server]
+description: "Generate complete Model Context Protocol (MCP) server projects in C# with tools, DI configuration, and stdio transport."
 ---
 
 # build-mcp-server

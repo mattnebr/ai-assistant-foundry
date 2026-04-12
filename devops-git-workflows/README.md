@@ -1,5 +1,6 @@
 ---
-aliases: [git-workflows]
+aliases: [git-workflows, git-hooks, github-automation]
+description: "Skills for advanced Git workflows including branching strategies, hooks automation, PR-based collaboration, and versioning practices."
 ---
 
 # devops-git-workflows

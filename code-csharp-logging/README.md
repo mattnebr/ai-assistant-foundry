@@ -1,5 +1,6 @@
 ---
 aliases: [csharp-logging-levels]
+description: "Guidance for selecting correct ILogger logging levels (Trace through Critical) when writing or reviewing C# code with Microsoft.Extensions.Logging."
 ---
 
 # code-csharp-logging

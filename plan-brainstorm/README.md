@@ -1,23 +1,21 @@
 ---
-aliases: [brainstorming, brainstorm]
+aliases: [brainstorming, brainstorm, ideation, tree-of-thoughts, idea-generation]
+description: "Skills for structured brainstorming, idea generation, and exploring solution spaces using techniques like tree-of-thoughts."
 ---
 
 # plan-brainstorm
 
 <!-- AUTO-GENERATED -->
 
-13 skill variant(s).
+10 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | idea-refine | [SKILL.md](addyosmani/idea-refine/SKILL.md) |
 | bmad-code-org | bmad-brainstorming | [SKILL.md](bmad-code-org/bmad-brainstorming/SKILL.md) |
 | cblecker | brainstorming | [SKILL.md](cblecker/brainstorming/SKILL.md) |
-| github | from-the-other-side-vega | [SKILL.md](github/from-the-other-side-vega/SKILL.md) |
-| K-Dense-AI | scientific-critical-thinking | [SKILL.md](K-Dense-AI/scientific-critical-thinking/SKILL.md) |
 | NeoLabHQ | brainstorm | [SKILL.md](NeoLabHQ/brainstorm/SKILL.md) |
 | NeoLabHQ | create-ideas | [SKILL.md](NeoLabHQ/create-ideas/SKILL.md) |
-| NeoLabHQ | thought-based-reasoning | [SKILL.md](NeoLabHQ/thought-based-reasoning/SKILL.md) |
 | NeoLabHQ | tree-of-thoughts | [SKILL.md](NeoLabHQ/tree-of-thoughts/SKILL.md) |
 | obra | brainstorming | [SKILL.md](obra/brainstorming/SKILL.md) |
 | sickn33 | brainstorming | [SKILL.md](sickn33/brainstorming/SKILL.md) |

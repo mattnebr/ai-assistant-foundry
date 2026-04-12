@@ -1,5 +1,6 @@
 ---
-aliases: [confluence]
+aliases: [confluence, atlassian]
+description: "Skills for automating Confluence operations including page creation, CQL search, space management, labels, and Atlassian administration."
 ---
 
 # integrate-confluence

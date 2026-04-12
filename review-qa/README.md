@@ -1,19 +1,22 @@
 ---
-aliases: [engineer-qa]
+aliases: [engineer-qa, browser-testing, devtools, performance, test-automation]
+description: "Skills for QA testing including manual test checklists, pairwise test design, browser testing, and performance engineering."
 ---
 
 # review-qa
 
 <!-- AUTO-GENERATED -->
 
-5 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | browser-testing-with-devtools | [SKILL.md](addyosmani/browser-testing-with-devtools/SKILL.md) |
-| alirezarezvani | senior-qa | [SKILL.md](alirezarezvani/senior-qa/SKILL.md) |
 | alirezarezvani | skill-tester | [SKILL.md](alirezarezvani/skill-tester/SKILL.md) |
+| github | doublecheck | [SKILL.md](github/doublecheck/SKILL.md) |
+| obra | verification-before-completion | [SKILL.md](obra/verification-before-completion/SKILL.md) |
 | omkamal | pypict-claude-skill | [SKILL.md](omkamal/pypict-claude-skill/SKILL.md) |
+| sickn33 | performance-engineer | [SKILL.md](sickn33/performance-engineer/SKILL.md) |
 | whawkinsiv | test | [SKILL.md](whawkinsiv/test/SKILL.md) |
 
 ---

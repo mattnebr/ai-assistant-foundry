@@ -1,5 +1,6 @@
 ---
-aliases: [engineer-software-react]
+aliases: [engineer-software-react, react-flow, react-state, react-component, react-patterns]
+description: "React component best practices covering performance optimization, state management, component patterns, and UI design."
 ---
 
 # code-react

@@ -1,15 +1,17 @@
 ---
-aliases: [legal-advisor]
+aliases: [legal-advisor, employment-contract]
+description: "Skills for drafting legal documents such as privacy policies, terms of service, employment contracts, and compliance notices."
 ---
 
 # consult-legal
 
 <!-- AUTO-GENERATED -->
 
-2 skill variant(s).
+3 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| sickn33 | employment-contract-templates | [SKILL.md](sickn33/employment-contract-templates/SKILL.md) |
 | sickn33 | legal-advisor | [SKILL.md](sickn33/legal-advisor/SKILL.md) |
 | whawkinsiv | legal | [SKILL.md](whawkinsiv/legal/SKILL.md) |
 

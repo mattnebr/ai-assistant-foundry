@@ -1,5 +1,6 @@
 ---
-aliases: [engineer-ui-d3js]
+aliases: [engineer-ui-d3js, d3, data-visualization, dataviz]
+description: "Create sophisticated, interactive data visualizations using D3.js with precise control over bindings, scales, and transitions."
 ---
 
 # code-ui-d3js

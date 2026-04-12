@@ -1,5 +1,6 @@
 ---
 aliases: [csharp-dry]
+description: "Skills to find and eliminate code duplication across UI components, database schemas, and workflow logic in C# projects."
 ---
 
 # code-csharp-dry

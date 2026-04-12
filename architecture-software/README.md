@@ -1,28 +1,33 @@
 ---
-aliases: [architect-software]
+aliases: [architect-software, ddd, domain-driven-design, event-sourcing, microservices, monolith, monorepo, cloud-architect, tech-stack]
+description: "Apply backend architecture patterns like Clean Architecture, DDD, event sourcing, microservices, and hexagonal design to build maintainable systems."
 ---
 
 # architecture-software
 
 <!-- AUTO-GENERATED -->
 
-15 skill variant(s).
+19 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | senior-architect | [SKILL.md](alirezarezvani/senior-architect/SKILL.md) |
 | alirezarezvani | tech-stack-evaluator | [SKILL.md](alirezarezvani/tech-stack-evaluator/SKILL.md) |
-| sickn33 | architect-review | [SKILL.md](sickn33/architect-review/SKILL.md) |
+| github | folder-structure-blueprint-generator | [SKILL.md](github/folder-structure-blueprint-generator/SKILL.md) |
+| SebastienDegodez | modular-monolith-architecture | [modular-monolith-architecture.instructions.md](SebastienDegodez/modular-monolith-architecture/modular-monolith-architecture.instructions.md) |
+| SebastienDegodez | modular-monolith-communication | [modular-monolith-communication.instructions.md](SebastienDegodez/modular-monolith-communication/modular-monolith-communication.instructions.md) |
 | sickn33 | architecture | [SKILL.md](sickn33/architecture/SKILL.md) |
 | sickn33 | architecture-patterns | [SKILL.md](sickn33/architecture-patterns/SKILL.md) |
 | sickn33 | cloud-architect | [SKILL.md](sickn33/cloud-architect/SKILL.md) |
+| sickn33 | ddd-context-mapping | [SKILL.md](sickn33/ddd-context-mapping/SKILL.md) |
+| sickn33 | ddd-strategic-design | [SKILL.md](sickn33/ddd-strategic-design/SKILL.md) |
+| sickn33 | ddd-tactical-patterns | [SKILL.md](sickn33/ddd-tactical-patterns/SKILL.md) |
 | sickn33 | domain-driven-design | [SKILL.md](sickn33/domain-driven-design/SKILL.md) |
-| sickn33 | dotnet-architect | [SKILL.md](sickn33/dotnet-architect/SKILL.md) |
-| sickn33 | dotnet-backend-patterns | [SKILL.md](sickn33/dotnet-backend-patterns/SKILL.md) |
 | sickn33 | event-sourcing-architect | [SKILL.md](sickn33/event-sourcing-architect/SKILL.md) |
 | sickn33 | event-store-design | [SKILL.md](sickn33/event-store-design/SKILL.md) |
 | sickn33 | microservices-patterns | [SKILL.md](sickn33/microservices-patterns/SKILL.md) |
 | sickn33 | monorepo-architect | [SKILL.md](sickn33/monorepo-architect/SKILL.md) |
+| sickn33 | projection-patterns | [SKILL.md](sickn33/projection-patterns/SKILL.md) |
 | sickn33 | senior-architect | [SKILL.md](sickn33/senior-architect/SKILL.md) |
 | sickn33 | software-architecture | [SKILL.md](sickn33/software-architecture/SKILL.md) |
 

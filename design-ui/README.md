@@ -1,5 +1,6 @@
 ---
-aliases: [designer-ui]
+aliases: [designer-ui, hig, apple-hig, design-system, ui-patterns, web-design]
+description: "Skills for UI design including wireframes, design systems, interface patterns, web design guidelines, and frontend design review."
 ---
 
 # design-ui

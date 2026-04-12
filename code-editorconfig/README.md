@@ -1,5 +1,6 @@
 ---
-aliases: [engineer-editorconfig, enginner-editorconfig]
+aliases: [engineer-editorconfig, enginner-editorconfig, coding-standards]
+description: "Generate comprehensive .editorconfig files with best-practice coding style rules tailored to your project's languages and structure."
 ---
 
 # code-editorconfig

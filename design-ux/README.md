@@ -1,5 +1,6 @@
 ---
-aliases: [designer-ux]
+aliases: [designer-ux, ux-research, user-journey, journey-mapping]
+description: "Skills for UX research and design including persona generation, journey mapping, usability testing, and design validation workflows."
 ---
 
 # design-ux

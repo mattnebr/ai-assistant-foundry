@@ -1,12 +1,13 @@
 ---
-aliases: [reviewer-seo]
+aliases: [reviewer-seo, schema-markup, structured-data, sitemap, keyword, meta-optimizer, internal-linking, content-audit, aeo]
+description: "Skills for SEO auditing, technical SEO analysis, schema markup, keyword strategy, and content quality assessment."
 ---
 
 # review-seo
 
 <!-- AUTO-GENERATED -->
 
-31 skill variant(s).
+34 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -15,6 +16,7 @@ aliases: [reviewer-seo]
 | alirezarezvani | schema-markup | [SKILL.md](alirezarezvani/schema-markup/SKILL.md) |
 | alirezarezvani | seo-audit | [SKILL.md](alirezarezvani/seo-audit/SKILL.md) |
 | alirezarezvani | seo-auditor | [SKILL.md](alirezarezvani/seo-auditor/SKILL.md) |
+| alirezarezvani | site-architecture | [SKILL.md](alirezarezvani/site-architecture/SKILL.md) |
 | chadboyda | ai-seo | [SKILL.md](chadboyda/ai-seo/SKILL.md) |
 | coreyhaines31 | ai-seo | [SKILL.md](coreyhaines31/ai-seo/SKILL.md) |
 | coreyhaines31 | programmatic-seo | [SKILL.md](coreyhaines31/programmatic-seo/SKILL.md) |
@@ -23,23 +25,25 @@ aliases: [reviewer-seo]
 | sickn33 | ai-seo | [SKILL.md](sickn33/ai-seo/SKILL.md) |
 | sickn33 | keyword-extractor | [SKILL.md](sickn33/keyword-extractor/SKILL.md) |
 | sickn33 | programmatic-seo | [SKILL.md](sickn33/programmatic-seo/SKILL.md) |
-| sickn33 | seo-aeo-content-cluster | [SKILL.md](sickn33/seo-aeo-content-cluster/SKILL.md) |
 | sickn33 | seo-aeo-content-quality-auditor | [SKILL.md](sickn33/seo-aeo-content-quality-auditor/SKILL.md) |
 | sickn33 | seo-aeo-internal-linking | [SKILL.md](sickn33/seo-aeo-internal-linking/SKILL.md) |
-| sickn33 | seo-aeo-keyword-research | [SKILL.md](sickn33/seo-aeo-keyword-research/SKILL.md) |
 | sickn33 | seo-aeo-schema-generator | [SKILL.md](sickn33/seo-aeo-schema-generator/SKILL.md) |
 | sickn33 | seo-audit | [SKILL.md](sickn33/seo-audit/SKILL.md) |
 | sickn33 | seo-authority-builder | [SKILL.md](sickn33/seo-authority-builder/SKILL.md) |
 | sickn33 | seo-cannibalization-detector | [SKILL.md](sickn33/seo-cannibalization-detector/SKILL.md) |
+| sickn33 | seo-content | [SKILL.md](sickn33/seo-content/SKILL.md) |
+| sickn33 | seo-content-auditor | [SKILL.md](sickn33/seo-content-auditor/SKILL.md) |
+| sickn33 | seo-content-refresher | [SKILL.md](sickn33/seo-content-refresher/SKILL.md) |
+| sickn33 | seo-keyword-strategist | [SKILL.md](sickn33/seo-keyword-strategist/SKILL.md) |
 | sickn33 | seo-meta-optimizer | [SKILL.md](sickn33/seo-meta-optimizer/SKILL.md) |
 | sickn33 | seo-page | [SKILL.md](sickn33/seo-page/SKILL.md) |
 | sickn33 | seo-programmatic | [SKILL.md](sickn33/seo-programmatic/SKILL.md) |
 | sickn33 | seo-schema | [SKILL.md](sickn33/seo-schema/SKILL.md) |
 | sickn33 | seo-sitemap | [SKILL.md](sickn33/seo-sitemap/SKILL.md) |
+| sickn33 | seo-structure-architect | [SKILL.md](sickn33/seo-structure-architect/SKILL.md) |
 | sickn33 | seo-technical | [SKILL.md](sickn33/seo-technical/SKILL.md) |
 | whawkinsiv | seo | [SKILL.md](whawkinsiv/seo/SKILL.md) |
 | whawkinsiv | seo-audit | [SKILL.md](whawkinsiv/seo-audit/SKILL.md) |
-| whawkinsiv | seo-content | [SKILL.md](whawkinsiv/seo-content/SKILL.md) |
 | whawkinsiv | technical-seo | [SKILL.md](whawkinsiv/technical-seo/SKILL.md) |
 
 ---

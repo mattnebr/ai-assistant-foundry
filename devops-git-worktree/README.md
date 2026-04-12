@@ -1,5 +1,6 @@
 ---
 aliases: [git-worktree]
+description: "Skills for managing git worktrees to enable parallel feature development with branch isolation, port allocation, and environment sync."
 ---
 
 # devops-git-worktree

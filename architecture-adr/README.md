@@ -7,11 +7,12 @@ description: "Create and maintain Architectural Decision Records (ADRs) to docum
 
 <!-- AUTO-GENERATED -->
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | documentation-and-adrs | [SKILL.md](addyosmani/documentation-and-adrs/SKILL.md) |
+| affaan-m | architecture-decision-records | [SKILL.md](affaan-m/architecture-decision-records/SKILL.md) |
 | github | create-architectural-decision-record | [SKILL.md](github/create-architectural-decision-record/SKILL.md) |
 | sickn33 | architecture-decision-records | [SKILL.md](sickn33/architecture-decision-records/SKILL.md) |
 

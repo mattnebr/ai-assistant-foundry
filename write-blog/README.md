@@ -7,10 +7,11 @@ description: "Skills for writing SEO-optimized and AEO-ready long-form blog post
 
 <!-- AUTO-GENERATED -->
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| affaan-m | article-writing | [SKILL.md](affaan-m/article-writing/SKILL.md) |
 | sickn33 | seo-aeo-blog-writer | [SKILL.md](sickn33/seo-aeo-blog-writer/SKILL.md) |
 | sickn33 | seo-content-writer | [SKILL.md](sickn33/seo-content-writer/SKILL.md) |
 | whawkinsiv | seo-content | [SKILL.md](whawkinsiv/seo-content/SKILL.md) |

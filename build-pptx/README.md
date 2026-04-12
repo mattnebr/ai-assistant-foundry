@@ -7,10 +7,11 @@ description: "Create, read, edit, and manipulate PowerPoint (.pptx) presentation
 
 <!-- AUTO-GENERATED -->
 
-6 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| affaan-m | frontend-slides | [SKILL.md](affaan-m/frontend-slides/SKILL.md) |
 | anthropics | pptx | [SKILL.md](anthropics/pptx/SKILL.md) |
 | K-Dense-AI | pptx | [SKILL.md](K-Dense-AI/pptx/SKILL.md) |
 | K-Dense-AI | pptx-posters | [SKILL.md](K-Dense-AI/pptx-posters/SKILL.md) |

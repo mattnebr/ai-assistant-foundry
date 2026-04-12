@@ -7,10 +7,11 @@ description: "Python development principles covering framework selection, async 
 
 <!-- AUTO-GENERATED -->
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| affaan-m | python-patterns | [SKILL.md](affaan-m/python-patterns/SKILL.md) |
 | jefflester | python-best-practices | [SKILL.md](jefflester/python-best-practices/SKILL.md) |
 | sickn33 | python-patterns | [SKILL.md](sickn33/python-patterns/SKILL.md) |
 | sickn33 | python-performance-optimization | [SKILL.md](sickn33/python-performance-optimization/SKILL.md) |

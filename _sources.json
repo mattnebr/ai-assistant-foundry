@@ -4983,6 +4983,83 @@
       "SkillFolder": "skills/test-driven-development",
       "GroupName": "code-csharp-tdd",
       "ArchivedAt": "2026-04-11T22:40:16.0399692Z"
+    },
+    {
+      "Owner": "affaan-m",
+      "Repo": "everything-claude-code",
+      "SkillFolder": ".agents/skills/api-design",
+      "GroupName": "code-api",
+      "ArchivedAt": "2026-04-12T01:31:50.5222354Z"
+    },
+    {
+      "Owner": "affaan-m",
+      "Repo": "everything-claude-code",
+      "SkillFolder": ".agents/skills/claude-api",
+      "GroupName": "code-api",
+      "ArchivedAt": "2026-04-12T01:32:17.3820148Z"
+    },
+    {
+      "Owner": "affaan-m",
+      "Repo": "everything-claude-code",
+      "SkillFolder": ".agents/skills/frontend-slides",
+      "GroupName": "build-pptx",
+      "ArchivedAt": "2026-04-12T01:33:25.3712544Z"
+    },
+    {
+      "Owner": "affaan-m",
+      "Repo": "everything-claude-code",
+      "SkillFolder": ".agents/skills/x-api",
+      "GroupName": "integrate-x",
+      "ArchivedAt": "2026-04-12T01:33:58.117303Z"
+    },
+    {
+      "Owner": "affaan-m",
+      "Repo": "everything-claude-code",
+      "SkillFolder": ".cursor/skills/article-writing",
+      "GroupName": "write-blog",
+      "ArchivedAt": "2026-04-12T01:34:10.1088635Z"
+    },
+    {
+      "Owner": "affaan-m",
+      "Repo": "everything-claude-code",
+      "SkillFolder": ".cursor/skills/nextjs-turbopack",
+      "GroupName": "code-nextjs",
+      "ArchivedAt": "2026-04-12T01:35:05.7180507Z"
+    },
+    {
+      "Owner": "affaan-m",
+      "Repo": "everything-claude-code",
+      "SkillFolder": ".kiro/skills/api-design",
+      "GroupName": "code-api",
+      "ArchivedAt": "2026-04-12T01:35:16.5072541Z"
+    },
+    {
+      "Owner": "affaan-m",
+      "Repo": "everything-claude-code",
+      "SkillFolder": "docs/ja-JP/skills/python-patterns",
+      "GroupName": "code-python",
+      "ArchivedAt": "2026-04-12T01:35:53.3919111Z"
+    },
+    {
+      "Owner": "affaan-m",
+      "Repo": "everything-claude-code",
+      "SkillFolder": "docs/zh-CN/skills/api-design",
+      "GroupName": "code-api",
+      "ArchivedAt": "2026-04-12T01:36:43.7279531Z"
+    },
+    {
+      "Owner": "affaan-m",
+      "Repo": "everything-claude-code",
+      "SkillFolder": "docs/zh-CN/skills/architecture-decision-records",
+      "GroupName": "architecture-adr",
+      "ArchivedAt": "2026-04-12T01:36:49.6698564Z"
+    },
+    {
+      "Owner": "affaan-m",
+      "Repo": "everything-claude-code",
+      "SkillFolder": "docs/zh-CN/skills/java-coding-standards",
+      "GroupName": "code-java",
+      "ArchivedAt": "2026-04-12T01:37:39.4426989Z"
     }
   ]
 }

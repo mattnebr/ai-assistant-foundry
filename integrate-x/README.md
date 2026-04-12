@@ -7,10 +7,11 @@ description: "Skills for publishing and managing content on X/Twitter, including
 
 <!-- AUTO-GENERATED -->
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| affaan-m | x-api | [SKILL.md](affaan-m/x-api/SKILL.md) |
 | sickn33 | x-article-publisher-skill | [SKILL.md](sickn33/x-article-publisher-skill/SKILL.md) |
 
 ---

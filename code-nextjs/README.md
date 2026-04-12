@@ -7,10 +7,11 @@ description: "Next.js App Router development patterns including Server Component
 
 <!-- AUTO-GENERATED -->
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| affaan-m | nextjs-turbopack | [SKILL.md](affaan-m/nextjs-turbopack/SKILL.md) |
 | sickn33 | nextjs-app-router-patterns | [SKILL.md](sickn33/nextjs-app-router-patterns/SKILL.md) |
 | sickn33 | nextjs-best-practices | [SKILL.md](sickn33/nextjs-best-practices/SKILL.md) |
 | sickn33 | react-nextjs-development | [SKILL.md](sickn33/react-nextjs-development/SKILL.md) |

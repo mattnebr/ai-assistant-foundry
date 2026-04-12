@@ -7,11 +7,13 @@ description: "Design REST and GraphQL APIs with proper endpoint structure, OpenA
 
 <!-- AUTO-GENERATED -->
 
-5 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | api-and-interface-design | [SKILL.md](addyosmani/api-and-interface-design/SKILL.md) |
+| affaan-m | api-design | [SKILL.md](affaan-m/api-design/SKILL.md) |
+| affaan-m | claude-api | [SKILL.md](affaan-m/claude-api/SKILL.md) |
 | alirezarezvani | api-test-suite-builder | [SKILL.md](alirezarezvani/api-test-suite-builder/SKILL.md) |
 | github | aspnet-minimal-api-openapi | [SKILL.md](github/aspnet-minimal-api-openapi/SKILL.md) |
 | sickn33 | api-design-principles | [SKILL.md](sickn33/api-design-principles/SKILL.md) |

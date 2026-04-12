@@ -1,6 +1,6 @@
 # skill index
 
-*116 skill group(s) — 654 total variant(s)*
+*117 skill group(s) — 663 total variant(s)*
 
 ## agent-email
 
@@ -76,6 +76,7 @@
 ## architecture-adr
 
 - [addyosmani/documentation-and-adrs](architecture-adr/addyosmani/documentation-and-adrs/SKILL.md)
+- [affaan-m/architecture-decision-records](architecture-adr/affaan-m/architecture-decision-records/SKILL.md)
 - [github/create-architectural-decision-record](architecture-adr/github/create-architectural-decision-record/SKILL.md)
 - [sickn33/architecture-decision-records](architecture-adr/sickn33/architecture-decision-records/SKILL.md)
 
@@ -143,6 +144,7 @@
 
 ## build-pptx
 
+- [affaan-m/frontend-slides](build-pptx/affaan-m/frontend-slides/SKILL.md)
 - [anthropics/pptx](build-pptx/anthropics/pptx/SKILL.md)
 - [K-Dense-AI/pptx](build-pptx/K-Dense-AI/pptx/SKILL.md)
 - [K-Dense-AI/pptx-posters](build-pptx/K-Dense-AI/pptx-posters/SKILL.md)
@@ -159,6 +161,8 @@
 ## code-api
 
 - [addyosmani/api-and-interface-design](code-api/addyosmani/api-and-interface-design/SKILL.md)
+- [affaan-m/api-design](code-api/affaan-m/api-design/SKILL.md)
+- [affaan-m/claude-api](code-api/affaan-m/claude-api/SKILL.md)
 - [alirezarezvani/api-test-suite-builder](code-api/alirezarezvani/api-test-suite-builder/SKILL.md)
 - [github/aspnet-minimal-api-openapi](code-api/github/aspnet-minimal-api-openapi/SKILL.md)
 - [sickn33/api-design-principles](code-api/sickn33/api-design-principles/SKILL.md)
@@ -288,6 +292,10 @@
 - [SebastienDegodez/unit-and-integration-tests](code-general/SebastienDegodez/unit-and-integration-tests/unit-and-integration-tests.instructions.md)
 - [sickn33/development](code-general/sickn33/development/SKILL.md)
 
+## code-java
+
+- [affaan-m/java-coding-standards](code-java/affaan-m/java-coding-standards/SKILL.md)
+
 ## code-java-junit
 
 - [github/java-junit](code-java-junit/github/java-junit/SKILL.md)
@@ -316,6 +324,7 @@
 
 ## code-nextjs
 
+- [affaan-m/nextjs-turbopack](code-nextjs/affaan-m/nextjs-turbopack/SKILL.md)
 - [sickn33/nextjs-app-router-patterns](code-nextjs/sickn33/nextjs-app-router-patterns/SKILL.md)
 - [sickn33/nextjs-best-practices](code-nextjs/sickn33/nextjs-best-practices/SKILL.md)
 - [sickn33/react-nextjs-development](code-nextjs/sickn33/react-nextjs-development/SKILL.md)
@@ -331,6 +340,7 @@
 
 ## code-python
 
+- [affaan-m/python-patterns](code-python/affaan-m/python-patterns/SKILL.md)
 - [jefflester/python-best-practices](code-python/jefflester/python-best-practices/SKILL.md)
 - [sickn33/python-patterns](code-python/sickn33/python-patterns/SKILL.md)
 - [sickn33/python-performance-optimization](code-python/sickn33/python-performance-optimization/SKILL.md)
@@ -657,6 +667,7 @@
 
 ## integrate-x
 
+- [affaan-m/x-api](integrate-x/affaan-m/x-api/SKILL.md)
 - [sickn33/x-article-publisher-skill](integrate-x/sickn33/x-article-publisher-skill/SKILL.md)
 
 ## integrate-zoom
@@ -959,6 +970,7 @@
 
 ## write-blog
 
+- [affaan-m/article-writing](write-blog/affaan-m/article-writing/SKILL.md)
 - [sickn33/seo-aeo-blog-writer](write-blog/sickn33/seo-aeo-blog-writer/SKILL.md)
 - [sickn33/seo-content-writer](write-blog/sickn33/seo-content-writer/SKILL.md)
 - [whawkinsiv/seo-content](write-blog/whawkinsiv/seo-content/SKILL.md)

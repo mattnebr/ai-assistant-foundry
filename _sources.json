@@ -4,49 +4,49 @@
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ab-test-setup",
-      "GroupName": "engineer-ui-ab",
+      "GroupName": "code-ui-ab-testing",
       "ArchivedAt": "2026-04-11T03:05:39.6552647Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/acceptance-orchestrator",
-      "GroupName": "business-analyst",
+      "GroupName": "consult-business",
       "ArchivedAt": "2026-04-11T03:06:06.3365383Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/accessibility-compliance-accessibility-audit",
-      "GroupName": "designer-ui-accessibility",
+      "GroupName": "design-accessibility",
       "ArchivedAt": "2026-04-11T03:14:59.0364392Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/active-directory-attacks",
-      "GroupName": "security-auditor",
+      "GroupName": "secure-audit",
       "ArchivedAt": "2026-04-11T03:15:25.6474884Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ad-creative",
-      "GroupName": "writer-marketing",
+      "GroupName": "marketing-content",
       "ArchivedAt": "2026-04-11T03:15:56.6084546Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/agent-memory-mcp",
-      "GroupName": "ai-assistant-memory",
+      "GroupName": "agent-memory",
       "ArchivedAt": "2026-04-11T03:16:38.6749836Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/agent-memory-systems",
-      "GroupName": "ai-assistant-memory",
+      "GroupName": "agent-memory",
       "ArchivedAt": "2026-04-11T03:16:46.0134552Z"
     },
     {
@@ -81,476 +81,476 @@
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/agentmail",
-      "GroupName": "ai-assistant-email",
+      "GroupName": "agent-email",
       "ArchivedAt": "2026-04-11T03:23:04.7603635Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/agentphone",
-      "GroupName": "ai-assistant-phone",
+      "GroupName": "agent-phone",
       "ArchivedAt": "2026-04-11T03:23:23.0103401Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/agents-md",
-      "GroupName": "engineer-markdown",
+      "GroupName": "code-markdown",
       "ArchivedAt": "2026-04-11T03:23:49.2023296Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/agents-v2-py",
-      "GroupName": "engineer-python",
+      "GroupName": "code-python",
       "ArchivedAt": "2026-04-11T03:24:06.0085776Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ai-engineer",
-      "GroupName": "engineer-software",
+      "GroupName": "code-general",
       "ArchivedAt": "2026-04-11T03:25:15.3241134Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ai-md",
-      "GroupName": "engineer-markdown",
+      "GroupName": "code-markdown",
       "ArchivedAt": "2026-04-11T03:25:33.6526953Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ai-ml",
-      "GroupName": "engineer-ml",
+      "GroupName": "data-ml",
       "ArchivedAt": "2026-04-11T03:25:41.7282471Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ai-native-cli",
-      "GroupName": "engineer-cli",
+      "GroupName": "code-cli",
       "ArchivedAt": "2026-04-11T03:25:51.5077262Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ai-seo",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T03:26:38.0646347Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/algorithmic-art",
-      "GroupName": "designer-ascii",
+      "GroupName": "design-ascii",
       "ArchivedAt": "2026-04-11T03:27:09.1134146Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/api-design-principles",
-      "GroupName": "engineer-api",
+      "GroupName": "code-api",
       "ArchivedAt": "2026-04-11T03:28:10.202199Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/api-fuzzing-bug-bounty",
-      "GroupName": "reviewer-security-api",
+      "GroupName": "secure-api",
       "ArchivedAt": "2026-04-11T03:28:45.5458156Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/api-patterns",
-      "GroupName": "engineer-api",
+      "GroupName": "code-api",
       "ArchivedAt": "2026-04-11T03:28:57.8424405Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/api-security-best-practices",
-      "GroupName": "reviewer-security-api",
+      "GroupName": "secure-api",
       "ArchivedAt": "2026-04-11T03:29:19.5800152Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/api-security-testing",
-      "GroupName": "reviewer-security-api",
+      "GroupName": "secure-api",
       "ArchivedAt": "2026-04-11T03:29:24.0950238Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/architect-review",
-      "GroupName": "architect-software",
+      "GroupName": "architecture-software",
       "ArchivedAt": "2026-04-11T03:30:20.6412273Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/architecture-decision-records",
-      "GroupName": "architecture-decision-records",
+      "GroupName": "architecture-adr",
       "ArchivedAt": "2026-04-11T03:30:25.9978168Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/architecture-patterns",
-      "GroupName": "architect-software",
+      "GroupName": "architecture-software",
       "ArchivedAt": "2026-04-11T03:30:30.2866285Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/architecture",
-      "GroupName": "architect-software",
+      "GroupName": "architecture-software",
       "ArchivedAt": "2026-04-11T03:30:36.8931258Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ask-questions-if-underspecified",
-      "GroupName": "ask-questions-if-underspecified",
+      "GroupName": "plan-requirements",
       "ArchivedAt": "2026-04-11T03:30:52.617735Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/brainstorming",
-      "GroupName": "brainstorming",
+      "GroupName": "plan-brainstorm",
       "ArchivedAt": "2026-04-11T03:33:36.172358Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/brand-guidelines-anthropic",
-      "GroupName": "designer-branding",
+      "GroupName": "design-branding",
       "ArchivedAt": "2026-04-11T03:33:49.0717195Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/brand-guidelines",
-      "GroupName": "designer-branding",
+      "GroupName": "design-branding",
       "ArchivedAt": "2026-04-11T03:34:02.9352377Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/brand-perception-psychologist",
-      "GroupName": "designer-branding",
+      "GroupName": "design-branding",
       "ArchivedAt": "2026-04-11T03:34:23.0556211Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/business-analyst",
-      "GroupName": "business-analyst",
+      "GroupName": "consult-business",
       "ArchivedAt": "2026-04-11T03:35:03.8789445Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/changelog-automation",
-      "GroupName": "engineer-changelog",
+      "GroupName": "code-changelog",
       "ArchivedAt": "2026-04-11T03:35:47.1999538Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/churn-prevention",
-      "GroupName": "manager-humans",
+      "GroupName": "manage-people",
       "ArchivedAt": "2026-04-11T03:36:03.7022552Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/cicd-automation-workflow-automate",
-      "GroupName": "engineer-ci-cd",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T03:36:38.6869524Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/claude-d3js-skill",
-      "GroupName": "engineer-ui-d3js",
+      "GroupName": "code-ui-d3js",
       "ArchivedAt": "2026-04-11T03:37:24.2721379Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/clean-code",
-      "GroupName": "reviewer-code",
+      "GroupName": "review-code",
       "ArchivedAt": "2026-04-11T03:38:06.7764527Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/cloud-architect",
-      "GroupName": "architect-software",
+      "GroupName": "architecture-software",
       "ArchivedAt": "2026-04-11T03:38:20.7836525Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/cloud-penetration-testing",
-      "GroupName": "reviewer-security",
+      "GroupName": "secure-general",
       "ArchivedAt": "2026-04-11T03:38:47.3276101Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/code-review-checklist",
-      "GroupName": "reviewer-code",
+      "GroupName": "review-code",
       "ArchivedAt": "2026-04-11T03:39:08.360524Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/code-review-excellence",
-      "GroupName": "reviewer-code",
+      "GroupName": "review-code",
       "ArchivedAt": "2026-04-11T03:39:13.6278124Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/code-reviewer",
-      "GroupName": "reviewer-code",
+      "GroupName": "review-code",
       "ArchivedAt": "2026-04-11T03:39:19.5050093Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/code-simplifier",
-      "GroupName": "reviewer-code",
+      "GroupName": "review-code",
       "ArchivedAt": "2026-04-11T03:39:29.4679322Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/codebase-cleanup-tech-debt",
-      "GroupName": "engineer-janitor",
+      "GroupName": "code-cleanup",
       "ArchivedAt": "2026-04-11T03:39:57.1833569Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/cold-email",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T03:40:10.7642268Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/commit",
-      "GroupName": "git-commit",
+      "GroupName": "devops-git-commit",
       "ArchivedAt": "2026-04-11T03:40:23.6681056Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/concise-planning",
-      "GroupName": "planner-software",
+      "GroupName": "plan-software",
       "ArchivedAt": "2026-04-11T03:40:55.1448202Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/confluence-automation",
-      "GroupName": "confluence",
+      "GroupName": "integrate-confluence",
       "ArchivedAt": "2026-04-11T03:41:18.3092039Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/content-creator",
-      "GroupName": "writer-marketing",
+      "GroupName": "marketing-content",
       "ArchivedAt": "2026-04-11T03:41:35.0048616Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/content-marketer",
-      "GroupName": "writer-marketing",
+      "GroupName": "marketing-content",
       "ArchivedAt": "2026-04-11T03:41:42.463162Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/content-strategy",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T03:42:03.0688737Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/conversation-memory",
-      "GroupName": "ai-assistant-memory",
+      "GroupName": "agent-memory",
       "ArchivedAt": "2026-04-11T03:42:36.2699193Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/copy-editing",
-      "GroupName": "writer-copywriting",
+      "GroupName": "write-copywriting",
       "ArchivedAt": "2026-04-11T03:42:58.2907371Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/copywriting-psychologist",
-      "GroupName": "writer-copywriting",
+      "GroupName": "write-copywriting",
       "ArchivedAt": "2026-04-11T03:43:02.9906759Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/copywriting",
-      "GroupName": "writer-copywriting",
+      "GroupName": "write-copywriting",
       "ArchivedAt": "2026-04-11T03:43:05.8126934Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/create-branch",
-      "GroupName": "git-branch",
+      "GroupName": "devops-git-branch",
       "ArchivedAt": "2026-04-11T03:43:24.7356548Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/create-pr",
-      "GroupName": "git-pr",
+      "GroupName": "devops-git-pr",
       "ArchivedAt": "2026-04-11T03:43:38.4261392Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/csharp-pro",
-      "GroupName": "engineer-software-csharp",
+      "GroupName": "code-csharp",
       "ArchivedAt": "2026-04-11T03:44:07.9134421Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/data-engineer",
-      "GroupName": "engineer-data",
+      "GroupName": "data-engineering",
       "ArchivedAt": "2026-04-11T03:44:39.3080577Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/data-engineering-data-driven-feature",
-      "GroupName": "engineer-data",
+      "GroupName": "data-engineering",
       "ArchivedAt": "2026-04-11T03:44:43.7265353Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/data-engineering-data-pipeline",
-      "GroupName": "engineer-data",
+      "GroupName": "data-engineering",
       "ArchivedAt": "2026-04-11T03:44:46.9765012Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/data-scientist",
-      "GroupName": "data-scientist",
+      "GroupName": "data-science",
       "ArchivedAt": "2026-04-11T03:44:56.3560136Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/data-storytelling",
-      "GroupName": "data-scientist",
+      "GroupName": "data-science",
       "ArchivedAt": "2026-04-11T03:45:01.1949967Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/data-structure-protocol",
-      "GroupName": "engineer-data",
+      "GroupName": "data-engineering",
       "ArchivedAt": "2026-04-11T03:45:14.5113462Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/database-architect",
-      "GroupName": "architect-database",
+      "GroupName": "architecture-database",
       "ArchivedAt": "2026-04-11T03:45:36.8892156Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/database-design",
-      "GroupName": "architect-database",
+      "GroupName": "architecture-database",
       "ArchivedAt": "2026-04-11T03:45:47.8101124Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/database-migration",
-      "GroupName": "architect-database",
+      "GroupName": "architecture-database",
       "ArchivedAt": "2026-04-11T03:46:18.9364724Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/database-optimizer",
-      "GroupName": "engineer-data",
+      "GroupName": "data-engineering",
       "ArchivedAt": "2026-04-11T03:46:39.160268Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ddd-context-mapping",
-      "GroupName": "business-analyst",
+      "GroupName": "consult-business",
       "ArchivedAt": "2026-04-11T03:47:08.1188289Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ddd-strategic-design",
-      "GroupName": "business-analyst",
+      "GroupName": "consult-business",
       "ArchivedAt": "2026-04-11T03:47:30.3071362Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ddd-tactical-patterns",
-      "GroupName": "business-analyst",
+      "GroupName": "consult-business",
       "ArchivedAt": "2026-04-11T03:47:46.7571736Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/deployment-engineer",
-      "GroupName": "engineer-ci-cd",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T03:48:31.7214177Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/deployment-pipeline-design",
-      "GroupName": "engineer-ci-cd",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T03:48:38.7565887Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/design-md",
-      "GroupName": "engineer-markdown",
+      "GroupName": "code-markdown",
       "ArchivedAt": "2026-04-11T03:48:53.8119903Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/development",
-      "GroupName": "engineer-software",
+      "GroupName": "code-general",
       "ArchivedAt": "2026-04-11T03:49:31.2721705Z"
     },
     {
@@ -564,3815 +564,3815 @@
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/domain-driven-design",
-      "GroupName": "architect-software",
+      "GroupName": "architecture-software",
       "ArchivedAt": "2026-04-11T03:51:41.764413Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/dotnet-architect",
-      "GroupName": "architect-software",
+      "GroupName": "architecture-software",
       "ArchivedAt": "2026-04-11T03:51:47.4341511Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/dotnet-backend-patterns",
-      "GroupName": "architect-software",
+      "GroupName": "architecture-software",
       "ArchivedAt": "2026-04-11T03:52:01.7539058Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/dotnet-backend",
-      "GroupName": "engineer-software",
+      "GroupName": "code-general",
       "ArchivedAt": "2026-04-11T03:52:16.3116935Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/email-sequence",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T03:52:48.8460414Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/employment-contract-templates",
-      "GroupName": "manager-humans",
+      "GroupName": "manage-people",
       "ArchivedAt": "2026-04-11T03:53:20.4874427Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/event-sourcing-architect",
-      "GroupName": "architect-software",
+      "GroupName": "architecture-software",
       "ArchivedAt": "2026-04-11T03:53:57.6305816Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/event-store-design",
-      "GroupName": "architect-software",
+      "GroupName": "architecture-software",
       "ArchivedAt": "2026-04-11T03:54:14.8800098Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/favicon",
-      "GroupName": "designer-favicon",
+      "GroupName": "design-favicon",
       "ArchivedAt": "2026-04-11T03:56:31.4885215Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/fixing-accessibility",
-      "GroupName": "reviewer-accessibility",
+      "GroupName": "review-accessibility",
       "ArchivedAt": "2026-04-11T03:58:15.5259802Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/food-database-query",
-      "GroupName": "nutritionist",
+      "GroupName": "consult-nutrition",
       "ArchivedAt": "2026-04-11T03:58:50.5514658Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/frontend-dev-guidelines",
-      "GroupName": "engineer-software-frontend",
+      "GroupName": "code-frontend",
       "ArchivedAt": "2026-04-11T03:59:56.8702044Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/frontend-developer",
-      "GroupName": "engineer-software-frontend",
+      "GroupName": "code-frontend",
       "ArchivedAt": "2026-04-11T04:00:06.9789864Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/frontend-security-coder",
-      "GroupName": "engineer-software-frontend",
+      "GroupName": "code-frontend",
       "ArchivedAt": "2026-04-11T04:00:17.9914758Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/frontend-ui-dark-ts",
-      "GroupName": "engineer-software-frontend",
+      "GroupName": "code-frontend",
       "ArchivedAt": "2026-04-11T04:00:31.7036375Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/git-advanced-workflows",
-      "GroupName": "git-workflows",
+      "GroupName": "devops-git-workflows",
       "ArchivedAt": "2026-04-11T04:01:31.1719061Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/git-hooks-automation",
-      "GroupName": "git-workflows",
+      "GroupName": "devops-git-workflows",
       "ArchivedAt": "2026-04-11T04:01:37.7545214Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/git-pr-workflows-git-workflow",
-      "GroupName": "git-workflows",
+      "GroupName": "devops-git-workflows",
       "ArchivedAt": "2026-04-11T04:01:44.6088444Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/github-actions-templates",
-      "GroupName": "engineer-ci-cd",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T04:02:19.7241027Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/github-automation",
-      "GroupName": "engineer-ci-cd",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T04:02:35.3109848Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/github-issue-creator",
-      "GroupName": "business-analyst",
+      "GroupName": "consult-business",
       "ArchivedAt": "2026-04-11T04:02:55.5303175Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/github-workflow-automation",
-      "GroupName": "git-workflows",
+      "GroupName": "devops-git-workflows",
       "ArchivedAt": "2026-04-11T04:03:08.3914555Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/github",
-      "GroupName": "git-workflows",
+      "GroupName": "devops-git-workflows",
       "ArchivedAt": "2026-04-11T04:03:14.5129383Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/goal-analyzer",
-      "GroupName": "manager-humans",
+      "GroupName": "manage-people",
       "ArchivedAt": "2026-04-11T04:03:41.9824519Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/google-analytics-automation",
-      "GroupName": "engineer-ui-ga",
+      "GroupName": "code-ui-analytics",
       "ArchivedAt": "2026-04-11T04:04:11.8284726Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/growth-engine",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T04:05:11.3402377Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/html-injection-testing",
-      "GroupName": "reviewer-security-web",
+      "GroupName": "secure-web",
       "ArchivedAt": "2026-04-11T04:06:18.8087063Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/idea-darwin",
-      "GroupName": "brainstorming",
+      "GroupName": "plan-brainstorm",
       "ArchivedAt": "2026-04-11T04:07:18.9844189Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/instagram-automation",
-      "GroupName": "marketer-instagram",
+      "GroupName": "marketing-instagram",
       "ArchivedAt": "2026-04-11T04:08:24.4740321Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/instagram",
-      "GroupName": "marketer-instagram",
+      "GroupName": "marketing-instagram",
       "ArchivedAt": "2026-04-11T04:08:35.0252049Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/internal-comms-anthropic",
-      "GroupName": "writer-communication-internal",
+      "GroupName": "write-internal-comms",
       "ArchivedAt": "2026-04-11T04:09:12.9235987Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/internal-comms-community",
-      "GroupName": "writer-communication-internal",
+      "GroupName": "write-internal-comms",
       "ArchivedAt": "2026-04-11T04:09:18.9901777Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/internal-comms",
-      "GroupName": "writer-communication-internal",
+      "GroupName": "write-internal-comms",
       "ArchivedAt": "2026-04-11T04:09:22.7870355Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/javascript-mastery",
-      "GroupName": "engineer-software-javascript",
+      "GroupName": "code-javascript",
       "ArchivedAt": "2026-04-11T04:09:58.6727835Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/javascript-pro",
-      "GroupName": "engineer-software-javascript",
+      "GroupName": "code-javascript",
       "ArchivedAt": "2026-04-11T04:10:02.4639127Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/jira-automation",
-      "GroupName": "jira",
+      "GroupName": "integrate-jira",
       "ArchivedAt": "2026-04-11T04:10:25.2128552Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/jobs-to-be-done-analyst",
-      "GroupName": "business-analyst",
+      "GroupName": "consult-business",
       "ArchivedAt": "2026-04-11T04:10:41.3342729Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/keyword-extractor",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T04:11:00.9525614Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/kpi-dashboard-design",
-      "GroupName": "data-scientist",
+      "GroupName": "data-science",
       "ArchivedAt": "2026-04-11T04:11:12.4124937Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/landing-page-generator",
-      "GroupName": "marketer-landing-page",
+      "GroupName": "marketing-landing-page",
       "ArchivedAt": "2026-04-11T04:11:37.4849431Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/lead-magnets",
-      "GroupName": "marketer-landing-page",
+      "GroupName": "marketing-landing-page",
       "ArchivedAt": "2026-04-11T04:12:09.3776535Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/legal-advisor",
-      "GroupName": "legal-advisor",
+      "GroupName": "consult-legal",
       "ArchivedAt": "2026-04-11T04:12:36.2510886Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/linkedin-automation",
-      "GroupName": "marketer-linkedin",
+      "GroupName": "marketing-linkedin",
       "ArchivedAt": "2026-04-11T04:13:20.3264741Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/linkedin-cli",
-      "GroupName": "marketer-linkedin",
+      "GroupName": "marketing-linkedin",
       "ArchivedAt": "2026-04-11T04:13:27.8488571Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/machine-learning-ops-ml-pipeline",
-      "GroupName": "engineer-ml",
+      "GroupName": "data-ml",
       "ArchivedAt": "2026-04-11T04:15:02.5620294Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/marketing-ideas",
-      "GroupName": "marketer",
+      "GroupName": "marketing-general",
       "ArchivedAt": "2026-04-11T04:15:49.27215Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/marketing-psychology",
-      "GroupName": "marketer",
+      "GroupName": "marketing-general",
       "ArchivedAt": "2026-04-11T04:16:03.0127192Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/memory-systems",
-      "GroupName": "ai-assistant-memory",
+      "GroupName": "agent-memory",
       "ArchivedAt": "2026-04-11T04:16:26.9198301Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/mermaid-expert",
-      "GroupName": "engineer-mermaid",
+      "GroupName": "code-mermaid",
       "ArchivedAt": "2026-04-11T04:16:40.375743Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/microservices-patterns",
-      "GroupName": "architect-software",
+      "GroupName": "architecture-software",
       "ArchivedAt": "2026-04-11T04:17:07.9818303Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ml-engineer",
-      "GroupName": "engineer-ml",
+      "GroupName": "data-ml",
       "ArchivedAt": "2026-04-11T04:17:30.5803881Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ml-pipeline-workflow",
-      "GroupName": "engineer-ml",
+      "GroupName": "data-ml",
       "ArchivedAt": "2026-04-11T04:17:35.8239813Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/monorepo-architect",
-      "GroupName": "architect-software",
+      "GroupName": "architecture-software",
       "ArchivedAt": "2026-04-11T04:18:26.2796569Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/monte-carlo-monitor-creation",
-      "GroupName": "financial-analyst",
+      "GroupName": "consult-finance",
       "ArchivedAt": "2026-04-11T04:19:11.6616786Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/nestjs-expert",
-      "GroupName": "engineer-nestjs",
+      "GroupName": "code-nestjs",
       "ArchivedAt": "2026-04-11T04:21:44.2447729Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/network-101",
-      "GroupName": "architect-network",
+      "GroupName": "architecture-network",
       "ArchivedAt": "2026-04-11T04:22:00.2713673Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/network-engineer",
-      "GroupName": "engineer-network",
+      "GroupName": "devops-network",
       "ArchivedAt": "2026-04-11T04:22:18.1078741Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/nextjs-app-router-patterns",
-      "GroupName": "engineer-nextjs",
+      "GroupName": "code-nextjs",
       "ArchivedAt": "2026-04-11T04:22:37.2427434Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/nextjs-best-practices",
-      "GroupName": "engineer-nextjs",
+      "GroupName": "code-nextjs",
       "ArchivedAt": "2026-04-11T04:22:54.6317558Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/nosql-expert",
-      "GroupName": "engineer-database-nosql",
+      "GroupName": "data-nosql",
       "ArchivedAt": "2026-04-11T04:23:34.8538971Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/notion-automation",
-      "GroupName": "notion",
+      "GroupName": "integrate-notion",
       "ArchivedAt": "2026-04-11T04:23:44.1179924Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/notion-template-business",
-      "GroupName": "notion",
+      "GroupName": "integrate-notion",
       "ArchivedAt": "2026-04-11T04:23:59.5249888Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/nutrition-analyzer",
-      "GroupName": "nutritionist",
+      "GroupName": "consult-nutrition",
       "ArchivedAt": "2026-04-11T04:24:05.2057632Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/obsidian-bases",
-      "GroupName": "obsidian",
+      "GroupName": "integrate-obsidian",
       "ArchivedAt": "2026-04-11T04:24:24.3128975Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/obsidian-cli",
-      "GroupName": "obsidian",
+      "GroupName": "integrate-obsidian",
       "ArchivedAt": "2026-04-11T04:24:31.49476Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/obsidian-clipper-template-creator",
-      "GroupName": "obsidian",
+      "GroupName": "integrate-obsidian",
       "ArchivedAt": "2026-04-11T04:24:39.3636136Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/obsidian-markdown",
-      "GroupName": "obsidian",
+      "GroupName": "integrate-obsidian",
       "ArchivedAt": "2026-04-11T04:24:46.6937237Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/on-call-handoff-patterns",
-      "GroupName": "manager-humans",
+      "GroupName": "manage-people",
       "ArchivedAt": "2026-04-11T04:25:45.0338561Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/pci-compliance",
-      "GroupName": "reviewer-software-pci",
+      "GroupName": "review-pci-compliance",
       "ArchivedAt": "2026-04-11T04:27:09.6565917Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/pentest-checklist",
-      "GroupName": "reviewer-security",
+      "GroupName": "secure-general",
       "ArchivedAt": "2026-04-11T04:27:19.8886274Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/performance-engineer",
-      "GroupName": "engineer-ui",
+      "GroupName": "code-ui",
       "ArchivedAt": "2026-04-11T04:27:47.2200559Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/plan-writing",
-      "GroupName": "planner-software",
+      "GroupName": "plan-software",
       "ArchivedAt": "2026-04-11T04:28:37.7478079Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/planning-with-files",
-      "GroupName": "planner-software",
+      "GroupName": "plan-software",
       "ArchivedAt": "2026-04-11T04:28:45.298629Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/powershell-windows",
-      "GroupName": "engineer-software-powershell",
+      "GroupName": "code-powershell",
       "ArchivedAt": "2026-04-11T04:29:29.8222159Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/pptx-official",
-      "GroupName": "builder-slide-presentation",
+      "GroupName": "build-pptx",
       "ArchivedAt": "2026-04-11T04:30:07.7022818Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/privacy-by-design",
-      "GroupName": "architect-database",
+      "GroupName": "architecture-database",
       "ArchivedAt": "2026-04-11T04:30:45.8845689Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/product-design",
-      "GroupName": "product-design",
+      "GroupName": "design-product",
       "ArchivedAt": "2026-04-11T04:30:59.7002508Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/product-manager-toolkit",
-      "GroupName": "product-design",
+      "GroupName": "design-product",
       "ArchivedAt": "2026-04-11T04:31:17.8242909Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/product-manager",
-      "GroupName": "product-design",
+      "GroupName": "design-product",
       "ArchivedAt": "2026-04-11T04:31:22.4186301Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/programmatic-seo",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T04:31:46.729528Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/progressive-estimation",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T04:33:29.1051177Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/progressive-web-app",
-      "GroupName": "engineer-ui",
+      "GroupName": "code-ui",
       "ArchivedAt": "2026-04-11T04:33:36.977944Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/project-development",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T04:33:44.4511558Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/projection-patterns",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T04:33:51.1748607Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/python-patterns",
-      "GroupName": "engineer-python",
+      "GroupName": "code-python",
       "ArchivedAt": "2026-04-11T04:34:21.634473Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/python-performance-optimization",
-      "GroupName": "engineer-python",
+      "GroupName": "code-python",
       "ArchivedAt": "2026-04-11T04:34:26.9825169Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/react-best-practices",
-      "GroupName": "engineer-software-react",
+      "GroupName": "code-react",
       "ArchivedAt": "2026-04-11T04:35:11.8852371Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/react-component-performance",
-      "GroupName": "engineer-software-react",
+      "GroupName": "code-react",
       "ArchivedAt": "2026-04-11T04:35:31.5751676Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/react-flow-architect",
-      "GroupName": "engineer-software-react",
+      "GroupName": "code-react",
       "ArchivedAt": "2026-04-11T04:35:43.9114696Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/react-nextjs-development",
-      "GroupName": "engineer-software-nextjs",
+      "GroupName": "code-nextjs",
       "ArchivedAt": "2026-04-11T04:36:35.1734574Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/react-patterns",
-      "GroupName": "engineer-software-react",
+      "GroupName": "code-react",
       "ArchivedAt": "2026-04-11T04:36:46.2029986Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/react-state-management",
-      "GroupName": "engineer-software-react",
+      "GroupName": "code-react",
       "ArchivedAt": "2026-04-11T04:36:52.6338694Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/react-ui-patterns",
-      "GroupName": "engineer-software-react",
+      "GroupName": "code-react",
       "ArchivedAt": "2026-04-11T04:37:03.1880403Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/readme",
-      "GroupName": "engineer-readme",
+      "GroupName": "code-readme",
       "ArchivedAt": "2026-04-11T04:37:16.9900259Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/sales-automator",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T04:39:21.3191126Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/sales-enablement",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T04:39:29.114804Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/security-audit",
-      "GroupName": "security-auditor",
+      "GroupName": "secure-audit",
       "ArchivedAt": "2026-04-11T04:40:20.5911726Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/security-auditor",
-      "GroupName": "security-auditor",
+      "GroupName": "secure-audit",
       "ArchivedAt": "2026-04-11T04:40:27.7847854Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/senior-architect",
-      "GroupName": "architect-software",
+      "GroupName": "architecture-software",
       "ArchivedAt": "2026-04-11T04:41:24.250672Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/senior-frontend",
-      "GroupName": "engineer-software-frontend",
+      "GroupName": "code-frontend",
       "ArchivedAt": "2026-04-11T04:41:35.9244354Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-aeo-blog-writer",
-      "GroupName": "writer-blog",
+      "GroupName": "write-blog",
       "ArchivedAt": "2026-04-11T04:42:02.2833951Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-aeo-content-cluster",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T04:42:37.8455787Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-aeo-content-quality-auditor",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T04:42:47.9231589Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-aeo-internal-linking",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T04:42:55.1743495Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-aeo-keyword-research",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T04:42:59.3017845Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-aeo-landing-page-writer",
-      "GroupName": "marketer-landing-page",
+      "GroupName": "marketing-landing-page",
       "ArchivedAt": "2026-04-11T04:43:05.6785654Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-aeo-meta-description-generator",
-      "GroupName": "marketer-landing-page",
+      "GroupName": "marketing-landing-page",
       "ArchivedAt": "2026-04-11T04:43:18.5112755Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-aeo-schema-generator",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T04:43:25.8834376Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-audit",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T04:43:32.5822088Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-authority-builder",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T04:43:47.6291378Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-cannibalization-detector",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T04:43:53.9213111Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-content-auditor",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T04:44:07.1061798Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-content-planner",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T04:44:13.0536927Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-content-refresher",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T04:44:19.4937169Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-content-writer",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T04:44:23.1203221Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-content",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T04:44:26.1548176Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-keyword-strategist",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T04:45:06.1821226Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-meta-optimizer",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T04:45:11.8625931Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-page",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T04:45:16.5410334Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-plan",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T04:46:23.8247873Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-programmatic",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T04:46:43.8995567Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-schema",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T04:46:50.498928Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-sitemap",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T04:46:57.7840079Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-structure-architect",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T04:47:07.2254973Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/seo-technical",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T04:47:15.567792Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/site-architecture",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T04:49:30.9049865Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/slack-automation",
-      "GroupName": "slack",
+      "GroupName": "integrate-slack",
       "ArchivedAt": "2026-04-11T04:52:24.3602193Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/slack-bot-builder",
-      "GroupName": "slack",
+      "GroupName": "integrate-slack",
       "ArchivedAt": "2026-04-11T04:52:32.1817466Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/software-architecture",
-      "GroupName": "architect-software",
+      "GroupName": "architecture-software",
       "ArchivedAt": "2026-04-11T04:54:32.3955201Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/sql-injection-testing",
-      "GroupName": "reviewer-security",
+      "GroupName": "secure-general",
       "ArchivedAt": "2026-04-11T04:56:27.9607516Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/sql-optimization-patterns",
-      "GroupName": "engineer-database",
+      "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T04:56:42.4272825Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/sql-pro",
-      "GroupName": "engineer-database",
+      "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T04:56:52.7783125Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/stripe-automation",
-      "GroupName": "stripe",
+      "GroupName": "integrate-stripe",
       "ArchivedAt": "2026-04-11T04:59:49.2377577Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/stripe-integration",
-      "GroupName": "stripe",
+      "GroupName": "integrate-stripe",
       "ArchivedAt": "2026-04-11T04:59:53.029828Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/subagent-driven-development",
-      "GroupName": "ai-assistant-orchestration",
+      "GroupName": "agent-orchestration",
       "ArchivedAt": "2026-04-11T05:00:16.2257352Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/subject-line-psychologist",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T05:00:36.5353411Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/sveltekit",
-      "GroupName": "engineer-software-sveltekit",
+      "GroupName": "code-sveltekit",
       "ArchivedAt": "2026-04-11T05:01:01.9479744Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/tailwind-design-system",
-      "GroupName": "engineer-ui-tailwind",
+      "GroupName": "code-ui-tailwind",
       "ArchivedAt": "2026-04-11T05:01:38.9836523Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/tailwind-patterns",
-      "GroupName": "engineer-ui-tailwind",
+      "GroupName": "code-ui-tailwind",
       "ArchivedAt": "2026-04-11T05:01:42.1591549Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/team-collaboration-standup-notes",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T05:02:18.1984401Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/telegram-automation",
-      "GroupName": "telegram",
+      "GroupName": "integrate-telegram",
       "ArchivedAt": "2026-04-11T05:02:35.4162003Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/telegram-bot-builder",
-      "GroupName": "telegram",
+      "GroupName": "integrate-telegram",
       "ArchivedAt": "2026-04-11T05:02:39.4751306Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/telegram-mini-app",
-      "GroupName": "telegram",
+      "GroupName": "integrate-telegram",
       "ArchivedAt": "2026-04-11T05:02:42.6379876Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/telegram",
-      "GroupName": "telegram",
+      "GroupName": "integrate-telegram",
       "ArchivedAt": "2026-04-11T05:02:46.8504836Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/threat-mitigation-mapping",
-      "GroupName": "reviewer-security",
+      "GroupName": "secure-general",
       "ArchivedAt": "2026-04-11T05:03:33.8343299Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/threat-modeling-expert",
-      "GroupName": "reviewer-security",
+      "GroupName": "secure-general",
       "ArchivedAt": "2026-04-11T05:03:53.6939332Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/todoist-automation",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T05:04:21.163152Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/top-web-vulnerabilities",
-      "GroupName": "reviewer-security",
+      "GroupName": "secure-general",
       "ArchivedAt": "2026-04-11T05:04:39.3106074Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/typescript-advanced-types",
-      "GroupName": "engineer-software-typescript",
+      "GroupName": "code-typescript",
       "ArchivedAt": "2026-04-11T05:05:18.8655887Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/typescript-expert",
-      "GroupName": "engineer-software-typescript",
+      "GroupName": "code-typescript",
       "ArchivedAt": "2026-04-11T05:05:23.5028499Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/typescript-pro",
-      "GroupName": "engineer-software-typescript",
+      "GroupName": "code-typescript",
       "ArchivedAt": "2026-04-11T05:05:28.2731208Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ui-a11y",
-      "GroupName": "designer-ui-accessibility",
+      "GroupName": "design-accessibility",
       "ArchivedAt": "2026-04-11T05:05:39.4703545Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ui-pattern",
-      "GroupName": "designer-ui",
+      "GroupName": "design-ui",
       "ArchivedAt": "2026-04-11T05:06:10.276879Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ui-ux-designer",
-      "GroupName": "designer-ui",
+      "GroupName": "design-ui",
       "ArchivedAt": "2026-04-11T05:06:29.1065125Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/ui-ux-pro-max",
-      "GroupName": "designer-ui",
+      "GroupName": "design-ui",
       "ArchivedAt": "2026-04-11T05:06:46.7629934Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/vector-database-engineer",
-      "GroupName": "engineer-database-vector",
+      "GroupName": "data-vector-db",
       "ArchivedAt": "2026-04-11T05:07:59.7055751Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/vector-index-tuning",
-      "GroupName": "engineer-database-vector",
+      "GroupName": "data-vector-db",
       "ArchivedAt": "2026-04-11T05:08:04.0511313Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/vercel-ai-sdk-expert",
-      "GroupName": "vercel",
+      "GroupName": "integrate-vercel",
       "ArchivedAt": "2026-04-11T05:08:21.3796247Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/vercel-automation",
-      "GroupName": "vercel",
+      "GroupName": "integrate-vercel",
       "ArchivedAt": "2026-04-11T05:08:25.0245528Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/vercel-deployment",
-      "GroupName": "vercel",
+      "GroupName": "integrate-vercel",
       "ArchivedAt": "2026-04-11T05:08:27.1628327Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/verification-before-completion",
-      "GroupName": "verification-before-completion",
+      "GroupName": "plan-verification",
       "ArchivedAt": "2026-04-11T05:09:35.1492098Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/wcag-audit-patterns",
-      "GroupName": "designer-ui-accessibility",
+      "GroupName": "design-accessibility",
       "ArchivedAt": "2026-04-11T05:10:29.4531287Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/web-design-guidelines",
-      "GroupName": "designer-ui",
+      "GroupName": "design-ui",
       "ArchivedAt": "2026-04-11T05:10:51.0040089Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/web-performance-optimization",
-      "GroupName": "engineer-software-frontend",
+      "GroupName": "code-frontend",
       "ArchivedAt": "2026-04-11T05:11:11.6017843Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/wiki-architect",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T05:12:10.6048031Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/workflow-automation",
-      "GroupName": "engineer-workflow",
+      "GroupName": "code-workflow-automation",
       "ArchivedAt": "2026-04-11T05:13:19.5866542Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/workflow-orchestration-patterns",
-      "GroupName": "engineer-workflow",
+      "GroupName": "code-workflow-automation",
       "ArchivedAt": "2026-04-11T05:13:28.0592321Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/workflow-patterns",
-      "GroupName": "engineer-workflow",
+      "GroupName": "code-workflow-automation",
       "ArchivedAt": "2026-04-11T05:13:32.7238742Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/writing-plans",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T05:13:43.9531178Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/writing-skills",
-      "GroupName": "writer",
+      "GroupName": "write-general",
       "ArchivedAt": "2026-04-11T05:13:59.198141Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/x-article-publisher-skill",
-      "GroupName": "x",
+      "GroupName": "integrate-x",
       "ArchivedAt": "2026-04-11T05:14:25.7260871Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/x-twitter-scraper",
-      "GroupName": "x",
+      "GroupName": "integrate-x",
       "ArchivedAt": "2026-04-11T05:14:39.7407086Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/xlsx-official",
-      "GroupName": "builder-spreadsheet",
+      "GroupName": "build-xlsx",
       "ArchivedAt": "2026-04-11T05:15:23.3288042Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills-claude/skills/zoom-automation",
-      "GroupName": "zoom",
+      "GroupName": "integrate-zoom",
       "ArchivedAt": "2026-04-11T05:16:26.5442571Z"
     },
     {
       "Owner": "sickn33",
       "Repo": "antigravity-awesome-skills",
       "SkillFolder": "plugins/antigravity-awesome-skills/skills/accessibility-compliance-accessibility-audit",
-      "GroupName": "git-commit",
+      "GroupName": "devops-git-commit",
       "ArchivedAt": "2026-04-11T05:16:54.7412211Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "ai-markdown-library",
       "SkillFolder": "skills/ai-assistant-skill-maker",
-      "GroupName": "ai-assistant-skill-maker",
+      "GroupName": "agent-skill-maker",
       "ArchivedAt": "2026-04-11T05:38:09.2424228Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "ai-markdown-library",
       "SkillFolder": "skills/commit-message",
-      "GroupName": "git-commit",
+      "GroupName": "devops-git-commit",
       "ArchivedAt": "2026-04-11T05:38:15.2664786Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "ai-markdown-library",
       "SkillFolder": "skills/copilot-instruction-writer",
-      "GroupName": "ai-assistant-skill-maker",
+      "GroupName": "agent-skill-maker",
       "ArchivedAt": "2026-04-11T05:38:47.3358051Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "ai-markdown-library",
       "SkillFolder": "skills/csharp-console-app-menu",
-      "GroupName": "csharp-console-app-menu",
+      "GroupName": "code-csharp-console",
       "ArchivedAt": "2026-04-11T05:39:08.0004089Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "ai-markdown-library",
       "SkillFolder": "skills/csharp-logging-levels",
-      "GroupName": "csharp-logging-levels",
+      "GroupName": "code-csharp-logging",
       "ArchivedAt": "2026-04-11T05:39:12.6594947Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "ai-markdown-library",
       "SkillFolder": "skills/csharp-mstest",
-      "GroupName": "csharp-mstest",
+      "GroupName": "code-csharp-mstest",
       "ArchivedAt": "2026-04-11T05:39:15.1728445Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "ai-markdown-library",
       "SkillFolder": "skills/csharp-project-scaffolding",
-      "GroupName": "csharp-project-scaffolding",
+      "GroupName": "build-csharp-scaffold",
       "ArchivedAt": "2026-04-11T05:39:21.8933237Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "ai-markdown-library",
       "SkillFolder": "skills/git-creating-branches",
-      "GroupName": "git-branch",
+      "GroupName": "devops-git-branch",
       "ArchivedAt": "2026-04-11T05:39:27.6868265Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "ai-markdown-library",
       "SkillFolder": "skills/git-no-pull-requests",
-      "GroupName": "git-workflows",
+      "GroupName": "devops-git-workflows",
       "ArchivedAt": "2026-04-11T05:40:03.4183422Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "ai-markdown-library",
       "SkillFolder": "skills/technical-writing-style",
-      "GroupName": "writer-technical",
+      "GroupName": "write-technical",
       "ArchivedAt": "2026-04-11T05:40:17.4081246Z"
     },
     {
       "Owner": "anthropics",
       "Repo": "skills",
       "SkillFolder": "skills/algorithmic-art",
-      "GroupName": "designer-ascii",
+      "GroupName": "design-ascii",
       "ArchivedAt": "2026-04-11T05:53:12.9350438Z"
     },
     {
       "Owner": "anthropics",
       "Repo": "skills",
       "SkillFolder": "skills/brand-guidelines",
-      "GroupName": "designer-branding",
+      "GroupName": "design-branding",
       "ArchivedAt": "2026-04-11T05:53:19.9582374Z"
     },
     {
       "Owner": "anthropics",
       "Repo": "skills",
       "SkillFolder": "skills/docx",
-      "GroupName": "builder-documents",
+      "GroupName": "build-docx",
       "ArchivedAt": "2026-04-11T05:53:47.4457395Z"
     },
     {
       "Owner": "anthropics",
       "Repo": "skills",
       "SkillFolder": "skills/frontend-design",
-      "GroupName": "designer-ui",
+      "GroupName": "design-ui",
       "ArchivedAt": "2026-04-11T05:54:00.6951142Z"
     },
     {
       "Owner": "anthropics",
       "Repo": "skills",
       "SkillFolder": "skills/internal-comms",
-      "GroupName": "writer-communication-internal",
+      "GroupName": "write-internal-comms",
       "ArchivedAt": "2026-04-11T05:54:07.5951965Z"
     },
     {
       "Owner": "anthropics",
       "Repo": "skills",
       "SkillFolder": "skills/pptx",
-      "GroupName": "builder-slide-presentation",
+      "GroupName": "build-pptx",
       "ArchivedAt": "2026-04-11T05:54:45.4508917Z"
     },
     {
       "Owner": "anthropics",
       "Repo": "skills",
       "SkillFolder": "skills/skill-creator",
-      "GroupName": "ai-assistant-skill-maker",
+      "GroupName": "agent-skill-maker",
       "ArchivedAt": "2026-04-11T05:54:55.0058024Z"
     },
     {
       "Owner": "anthropics",
       "Repo": "skills",
       "SkillFolder": "skills/xlsx",
-      "GroupName": "builder-spreadsheet",
+      "GroupName": "build-xlsx",
       "ArchivedAt": "2026-04-11T05:55:28.3580463Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/automate-this/skills/automate-this",
-      "GroupName": "planner-software",
+      "GroupName": "plan-software",
       "ArchivedAt": "2026-04-11T05:57:57.0810159Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/context-engineering/skills/refactor-plan",
-      "GroupName": "planner-software",
+      "GroupName": "plan-software",
       "ArchivedAt": "2026-04-11T05:58:40.1459812Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/context-engineering/skills/what-context-needed",
-      "GroupName": "ask-questions-if-underspecified",
+      "GroupName": "plan-requirements",
       "ArchivedAt": "2026-04-11T05:58:48.2452697Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/csharp-dotnet-development/skills/aspnet-minimal-api-openapi",
-      "GroupName": "engineer-api",
+      "GroupName": "code-api",
       "ArchivedAt": "2026-04-11T05:59:44.0287618Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/csharp-dotnet-development/skills/csharp-async",
-      "GroupName": "csharp-async",
+      "GroupName": "code-csharp-async",
       "ArchivedAt": "2026-04-11T05:59:54.3854177Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/csharp-dotnet-development/skills/csharp-mstest",
-      "GroupName": "csharp-mstest",
+      "GroupName": "code-csharp-mstest",
       "ArchivedAt": "2026-04-11T06:00:00.9741236Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/csharp-dotnet-development/skills/csharp-nunit",
-      "GroupName": "csharp-nunit",
+      "GroupName": "code-csharp-nunit",
       "ArchivedAt": "2026-04-11T06:00:07.2180309Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/csharp-dotnet-development/skills/dotnet-best-practices",
-      "GroupName": "engineer-software-csharp",
+      "GroupName": "code-csharp",
       "ArchivedAt": "2026-04-11T06:00:34.3939533Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/csharp-mcp-development/skills/csharp-mcp-server-generator",
-      "GroupName": "csharp-mcp-server-generator",
+      "GroupName": "build-mcp-server",
       "ArchivedAt": "2026-04-11T06:00:50.8638897Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/database-data-management/skills/sql-code-review",
-      "GroupName": "engineer-database",
+      "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T06:01:13.7285707Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/database-data-management/skills/sql-optimization",
-      "GroupName": "engineer-database",
+      "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T06:01:21.1222296Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/doublecheck/skills/doublecheck",
-      "GroupName": "verification-before-completion",
+      "GroupName": "plan-verification",
       "ArchivedAt": "2026-04-11T06:02:06.9328496Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/ember/skills/from-the-other-side-vega",
-      "GroupName": "brainstorming",
+      "GroupName": "plan-brainstorm",
       "ArchivedAt": "2026-04-11T06:02:25.9702979Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/java-development/skills/java-junit",
-      "GroupName": "java-junit",
+      "GroupName": "code-java-junit",
       "ArchivedAt": "2026-04-11T06:03:21.6766291Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/project-planning/skills/breakdown-epic-arch",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T06:04:21.357029Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/project-planning/skills/breakdown-epic-pm",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T06:04:50.2713356Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/project-planning/skills/breakdown-feature-implementation",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T06:04:57.2545614Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/project-planning/skills/breakdown-feature-prd",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T06:05:09.6707413Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/project-planning/skills/create-implementation-plan",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T06:05:25.1838294Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/project-planning/skills/create-technical-spike",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T06:05:35.7309278Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/project-planning/skills/update-implementation-plan",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T06:05:48.7256315Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/technical-spike/skills/create-technical-spike",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T06:06:48.8279767Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/testing-automation/skills/csharp-nunit",
-      "GroupName": "csharp-nunit",
+      "GroupName": "code-csharp-nunit",
       "ArchivedAt": "2026-04-11T06:07:07.8843678Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "plugins/testing-automation/skills/java-junit",
-      "GroupName": "java-junit",
+      "GroupName": "code-java-junit",
       "ArchivedAt": "2026-04-11T06:07:15.5901593Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/architecture-blueprint-generator",
-      "GroupName": "architecture-decision-records",
+      "GroupName": "architecture-adr",
       "ArchivedAt": "2026-04-11T06:08:11.3525184Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/convert-plaintext-to-md",
-      "GroupName": "engineer-markdown",
+      "GroupName": "code-markdown",
       "ArchivedAt": "2026-04-11T06:09:23.6279035Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/copilot-instructions-blueprint-generator",
-      "GroupName": "ai-assistant-skill-maker",
+      "GroupName": "agent-skill-maker",
       "ArchivedAt": "2026-04-11T06:10:19.8781985Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/create-agentsmd",
-      "GroupName": "ai-assistant-skill-maker",
+      "GroupName": "agent-skill-maker",
       "ArchivedAt": "2026-04-11T06:10:46.0953027Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/create-architectural-decision-record",
-      "GroupName": "architecture-decision-records",
+      "GroupName": "architecture-adr",
       "ArchivedAt": "2026-04-11T06:10:58.2150157Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/create-github-action-workflow-specification",
-      "GroupName": "engineer-ci-cd",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T06:11:13.7129522Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/create-implementation-plan",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T06:11:38.4485278Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/create-readme",
-      "GroupName": "engineer-readme",
+      "GroupName": "code-readme",
       "ArchivedAt": "2026-04-11T06:11:55.3112159Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/create-specification",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T06:12:06.413558Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/create-technical-spike",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T06:13:57.7520275Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/create-tldr-page",
-      "GroupName": "engineer-readme",
+      "GroupName": "code-readme",
       "ArchivedAt": "2026-04-11T06:14:20.2335801Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/csharp-mstest",
-      "GroupName": "csharp-mstest",
+      "GroupName": "code-csharp-mstest",
       "ArchivedAt": "2026-04-11T06:14:38.7899331Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/dependabot",
-      "GroupName": "engineer-ci-cd",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T06:15:32.1729898Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/documentation-writer",
-      "GroupName": "writer-technical",
+      "GroupName": "write-technical",
       "ArchivedAt": "2026-04-11T06:15:44.4548705Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/dotnet-best-practices",
-      "GroupName": "engineer-software-csharp",
+      "GroupName": "code-csharp",
       "ArchivedAt": "2026-04-11T06:16:01.8114144Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/dotnet-design-pattern-review",
-      "GroupName": "engineer-software-csharp",
+      "GroupName": "code-csharp",
       "ArchivedAt": "2026-04-11T06:16:21.3072588Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/editorconfig",
-      "GroupName": "engineer-editorconfig",
+      "GroupName": "code-editorconfig",
       "ArchivedAt": "2026-04-11T06:17:10.2761348Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/email-drafter",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T06:17:19.1714094Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/eval-driven-dev",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T06:17:42.2384405Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/first-ask",
-      "GroupName": "ask-questions-if-underspecified",
+      "GroupName": "plan-requirements",
       "ArchivedAt": "2026-04-11T06:18:05.1439249Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/fluentui-blazor",
-      "GroupName": "engineer-software-blazor",
+      "GroupName": "code-blazor",
       "ArchivedAt": "2026-04-11T06:18:40.337783Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/folder-structure-blueprint-generator",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T06:19:24.3958396Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/gen-specs-as-issues",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T06:19:51.5338097Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/git-commit",
-      "GroupName": "git-commit",
+      "GroupName": "devops-git-commit",
       "ArchivedAt": "2026-04-11T06:20:14.0878923Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/git-flow-branch-creator",
-      "GroupName": "git-branch",
+      "GroupName": "devops-git-branch",
       "ArchivedAt": "2026-04-11T06:20:20.170587Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/make-skill-template",
-      "GroupName": "ai-assistant-skill-maker",
+      "GroupName": "agent-skill-maker",
       "ArchivedAt": "2026-04-11T06:21:47.940681Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/markdown-to-html",
-      "GroupName": "engineer-markdown",
+      "GroupName": "code-markdown",
       "ArchivedAt": "2026-04-11T06:21:55.364268Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/mcp-cli",
-      "GroupName": "engineer-cli",
+      "GroupName": "code-cli",
       "ArchivedAt": "2026-04-11T06:22:15.3587833Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/meeting-minutes",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T06:22:38.1979204Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/memory-merger",
-      "GroupName": "ai-assistant-memory",
+      "GroupName": "agent-memory",
       "ArchivedAt": "2026-04-11T06:22:42.9328049Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/mentoring-juniors",
-      "GroupName": "manager-humans",
+      "GroupName": "manage-people",
       "ArchivedAt": "2026-04-11T06:22:58.5739682Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/microsoft-code-reference",
-      "GroupName": "engineer-software",
+      "GroupName": "code-general",
       "ArchivedAt": "2026-04-11T06:23:33.8864128Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/microsoft-docs",
-      "GroupName": "engineer-software",
+      "GroupName": "code-general",
       "ArchivedAt": "2026-04-11T06:23:54.5742718Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/microsoft-skill-creator",
-      "GroupName": "ai-assistant-skill-maker",
+      "GroupName": "agent-skill-maker",
       "ArchivedAt": "2026-04-11T06:23:57.9036939Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/my-pull-requests",
-      "GroupName": "git-pr",
+      "GroupName": "devops-git-pr",
       "ArchivedAt": "2026-04-11T06:24:49.2068771Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/powerbi-modeling",
-      "GroupName": "builder-powerbi",
+      "GroupName": "build-powerbi",
       "ArchivedAt": "2026-04-11T06:26:09.7502091Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/prd",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T06:26:20.2835414Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/premium-frontend-ui",
-      "GroupName": "engineer-ui",
+      "GroupName": "code-ui",
       "ArchivedAt": "2026-04-11T06:26:29.3609736Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/readme-blueprint-generator",
-      "GroupName": "engineer-readme",
+      "GroupName": "code-readme",
       "ArchivedAt": "2026-04-11T06:27:09.7720221Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/remember",
-      "GroupName": "ai-assistant-memory",
+      "GroupName": "agent-memory",
       "ArchivedAt": "2026-04-11T06:27:37.5503017Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/repo-story-time",
-      "GroupName": "engineer-janitor",
+      "GroupName": "code-cleanup",
       "ArchivedAt": "2026-04-11T06:28:00.9835317Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/semantic-kernel",
-      "GroupName": "engineer-ml",
+      "GroupName": "data-ml",
       "ArchivedAt": "2026-04-11T06:29:36.5762777Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/sql-code-review",
-      "GroupName": "engineer-database",
+      "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T06:30:08.264098Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/sql-optimization",
-      "GroupName": "engineer-database",
+      "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T06:30:18.5405787Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/threat-model-analyst",
-      "GroupName": "reviewer-security",
+      "GroupName": "secure-general",
       "ArchivedAt": "2026-04-11T06:31:13.315938Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/tldr-prompt",
-      "GroupName": "engineer-readme",
+      "GroupName": "code-readme",
       "ArchivedAt": "2026-04-11T06:31:33.5557058Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/update-markdown-file-index",
-      "GroupName": "engineer-markdown",
+      "GroupName": "code-markdown",
       "ArchivedAt": "2026-04-11T06:31:55.6463095Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/web-design-reviewer",
-      "GroupName": "designer-ui",
+      "GroupName": "design-ui",
       "ArchivedAt": "2026-04-11T06:32:10.281159Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/what-context-needed",
-      "GroupName": "ask-questions-if-underspecified",
+      "GroupName": "plan-requirements",
       "ArchivedAt": "2026-04-11T06:32:19.8977393Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/winapp-cli",
-      "GroupName": "engineer-cli",
+      "GroupName": "code-cli",
       "ArchivedAt": "2026-04-11T06:32:26.0612957Z"
     },
     {
       "Owner": "github",
       "Repo": "awesome-copilot",
       "SkillFolder": "skills/write-coding-standards-from-file",
-      "GroupName": "engineer-editorconfig",
+      "GroupName": "code-editorconfig",
       "ArchivedAt": "2026-04-11T06:32:55.1570112Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "plugins/csharp-clean-architecture-development/skills/clean-architecture-dotnet",
-      "GroupName": "csharp-clean-architecture",
+      "GroupName": "code-csharp-clean-arch",
       "ArchivedAt": "2026-04-11T16:00:41.9605465Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "plugins/minimal-context-tools/skills/analyzing-code-structure",
-      "GroupName": "document-surface",
+      "GroupName": "architecture-codebase-analysis",
       "ArchivedAt": "2026-04-11T16:01:55.3745093Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "plugins/minimal-context-tools/skills/analyzing-code",
-      "GroupName": "document-surface",
+      "GroupName": "architecture-codebase-analysis",
       "ArchivedAt": "2026-04-11T16:02:11.8286673Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "plugins/minimal-context-tools/skills/extracting-code-structure",
-      "GroupName": "doc-architecture",
+      "GroupName": "architecture-documentation",
       "ArchivedAt": "2026-04-11T16:02:37.1162035Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "plugins/superpowers-whetstone/skills/gherkin-gate",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T16:03:33.6940646Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "skills/skill-creator",
-      "GroupName": "ai-assistant-skill-maker",
+      "GroupName": "agent-skill-maker",
       "ArchivedAt": "2026-04-11T16:04:55.4013324Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "instructions/clean-architecture.instructions.md",
-      "GroupName": "csharp-clean-architecture",
+      "GroupName": "code-csharp-clean-arch",
       "ArchivedAt": "2026-04-11T16:27:57.0370226Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "instructions/coding-style-csharp.instructions.md",
-      "GroupName": "engineer-software-csharp",
+      "GroupName": "code-csharp",
       "ArchivedAt": "2026-04-11T16:28:18.4643458Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "instructions/command-cqrs-csharp.instructions.md",
-      "GroupName": "csharp-command-cqrs",
+      "GroupName": "code-csharp-cqrs",
       "ArchivedAt": "2026-04-11T16:28:47.6987767Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "instructions/conventional-commits.instructions.md",
-      "GroupName": "git-commit",
+      "GroupName": "devops-git-commit",
       "ArchivedAt": "2026-04-11T16:28:51.112671Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "instructions/domain-driven-design-event-csharp.instructions.md",
-      "GroupName": "csharp-domain-driven-design",
+      "GroupName": "code-csharp-ddd",
       "ArchivedAt": "2026-04-11T16:30:38.5942362Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "instructions/domain-driven-design.instructions.md",
-      "GroupName": "csharp-domain-driven-design",
+      "GroupName": "code-csharp-ddd",
       "ArchivedAt": "2026-04-11T16:30:43.9697257Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "instructions/follow-up-question.instructions.md",
-      "GroupName": "ask-questions-if-underspecified",
+      "GroupName": "plan-requirements",
       "ArchivedAt": "2026-04-11T16:30:48.9407246Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "instructions/marp-presentations.instructions.md",
-      "GroupName": "engineer-markdown",
+      "GroupName": "code-markdown",
       "ArchivedAt": "2026-04-11T16:32:05.5707635Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "instructions/modular-monolith-architecture.instructions.md",
-      "GroupName": "doc-architecture",
+      "GroupName": "architecture-documentation",
       "ArchivedAt": "2026-04-11T16:32:44.9289328Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "instructions/modular-monolith-communication.instructions.md",
-      "GroupName": "doc-architecture",
+      "GroupName": "architecture-documentation",
       "ArchivedAt": "2026-04-11T16:33:09.4524065Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "instructions/object-calisthenics.instructions.md",
-      "GroupName": "engineer-software-oo",
+      "GroupName": "code-oo-design",
       "ArchivedAt": "2026-04-11T16:33:31.3626689Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "instructions/query-cqrs-csharp.instructions.md",
-      "GroupName": "csharp-command-cqrs",
+      "GroupName": "code-csharp-cqrs",
       "ArchivedAt": "2026-04-11T16:33:39.6405622Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "instructions/specification-business-rules-csharp.instructions.md",
-      "GroupName": "csharp-command-cqrs",
+      "GroupName": "code-csharp-cqrs",
       "ArchivedAt": "2026-04-11T16:34:10.7688616Z"
     },
     {
       "Owner": "SebastienDegodez",
       "Repo": "copilot-instructions",
       "SkillFolder": "instructions/unit-and-integration-tests.instructions.md",
-      "GroupName": "engineer-software",
+      "GroupName": "code-general",
       "ArchivedAt": "2026-04-11T16:34:31.5458227Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/ab-test-setup",
-      "GroupName": "engineer-ui-ab",
+      "GroupName": "code-ui-ab-testing",
       "ArchivedAt": "2026-04-11T18:02:45.4988647Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/ad-creative",
-      "GroupName": "marketer",
+      "GroupName": "marketing-general",
       "ArchivedAt": "2026-04-11T18:02:54.0575125Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/ai-seo",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T18:03:00.7472577Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/analytics-tracking",
-      "GroupName": "engineer-ui-ga",
+      "GroupName": "code-ui-analytics",
       "ArchivedAt": "2026-04-11T18:03:13.4830884Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/churn-prevention",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T18:09:59.6012327Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/cold-email",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T18:10:58.3303932Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/content-strategy",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T18:11:34.7736484Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/copy-editing",
-      "GroupName": "writer-copywriting",
+      "GroupName": "write-copywriting",
       "ArchivedAt": "2026-04-11T18:12:05.1607318Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/copywriting",
-      "GroupName": "writer-copywriting",
+      "GroupName": "write-copywriting",
       "ArchivedAt": "2026-04-11T18:12:11.4756196Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/email-sequence",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T18:12:19.30747Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/lead-magnets",
-      "GroupName": "marketer-landing-page",
+      "GroupName": "marketing-landing-page",
       "ArchivedAt": "2026-04-11T18:14:22.7062574Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/marketing-ideas",
-      "GroupName": "marketer",
+      "GroupName": "marketing-general",
       "ArchivedAt": "2026-04-11T18:14:27.8735589Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/marketing-psychology",
-      "GroupName": "writer-marketing",
+      "GroupName": "marketing-content",
       "ArchivedAt": "2026-04-11T18:14:38.3262851Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/page-cro",
-      "GroupName": "marketer-landing-page",
+      "GroupName": "marketing-landing-page",
       "ArchivedAt": "2026-04-11T18:14:46.9340838Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/product-marketing-context",
-      "GroupName": "marketer-landing-page",
+      "GroupName": "marketing-landing-page",
       "ArchivedAt": "2026-04-11T18:16:01.8731142Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/programmatic-seo",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T18:16:07.1490066Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/sales-enablement",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T18:16:15.9750322Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/schema-markup",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T18:16:32.8849669Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/seo-audit",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T18:16:45.09222Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/site-architecture",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T18:16:56.0786147Z"
     },
     {
       "Owner": "coreyhaines31",
       "Repo": "marketingskills",
       "SkillFolder": "skills/social-content",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T18:17:15.8081359Z"
     },
     {
       "Owner": "langpingxue",
       "Repo": "atlassian-skills",
       "SkillFolder": "atlassian-readonly-skills",
-      "GroupName": "jira",
+      "GroupName": "integrate-jira",
       "ArchivedAt": "2026-04-11T18:27:36.5363371Z"
     },
     {
       "Owner": "langpingxue",
       "Repo": "atlassian-skills",
       "SkillFolder": "atlassian-skills",
-      "GroupName": "confluence",
+      "GroupName": "integrate-confluence",
       "ArchivedAt": "2026-04-11T18:27:46.9213965Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/README",
-      "GroupName": "engineer-readme",
+      "GroupName": "code-readme",
       "ArchivedAt": "2026-04-11T18:29:05.4306755Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/a11y-audit",
-      "GroupName": "designer-ui-accessibility",
+      "GroupName": "design-accessibility",
       "ArchivedAt": "2026-04-11T18:30:22.0337078Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/ab-test-setup",
-      "GroupName": "designer-ui-ab",
+      "GroupName": "design-ab-testing",
       "ArchivedAt": "2026-04-11T18:30:31.4185424Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/ad-creative",
-      "GroupName": "marketer",
+      "GroupName": "marketing-general",
       "ArchivedAt": "2026-04-11T18:30:40.0018842Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/agent-workflow-designer",
-      "GroupName": "ai-assistant-orchestration",
+      "GroupName": "agent-orchestration",
       "ArchivedAt": "2026-04-11T18:32:13.5348286Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/agile-product-owner",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T18:33:05.6396198Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/ai-seo",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T18:33:19.1802421Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/analytics-tracking",
-      "GroupName": "engineer-ui-ga",
+      "GroupName": "code-ui-analytics",
       "ArchivedAt": "2026-04-11T18:38:21.0411522Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/api-design-reviewer",
-      "GroupName": "engineer-api",
+      "GroupName": "code-api",
       "ArchivedAt": "2026-04-11T18:40:02.0216224Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/api-test-suite-builder",
-      "GroupName": "engineer-api",
+      "GroupName": "code-api",
       "ArchivedAt": "2026-04-11T18:40:13.7171051Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/atlassian-admin",
-      "GroupName": "jira",
+      "GroupName": "integrate-jira",
       "ArchivedAt": "2026-04-11T18:40:28.554319Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/atlassian-templates",
-      "GroupName": "confluence",
+      "GroupName": "integrate-confluence",
       "ArchivedAt": "2026-04-11T18:40:34.7377028Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/brand-guidelines",
-      "GroupName": "designer-branding",
+      "GroupName": "design-branding",
       "ArchivedAt": "2026-04-11T18:40:53.7202652Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/campaign-analytics",
-      "GroupName": "engineer-ui-ga",
+      "GroupName": "code-ui-analytics",
       "ArchivedAt": "2026-04-11T18:41:23.8997307Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/changelog-generator",
-      "GroupName": "engineer-changelog",
+      "GroupName": "code-changelog",
       "ArchivedAt": "2026-04-11T18:41:36.5791322Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/changelog",
-      "GroupName": "engineer-changelog",
+      "GroupName": "code-changelog",
       "ArchivedAt": "2026-04-11T18:41:39.1325844Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/churn-prevention",
-      "GroupName": "manager-humans",
+      "GroupName": "manage-people",
       "ArchivedAt": "2026-04-11T18:43:22.7248437Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/ci-cd-pipeline-builder",
-      "GroupName": "engineer-ci-cd",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T18:43:31.9876378Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/cmd-a11y-audit",
-      "GroupName": "designer-ui-accessibility",
+      "GroupName": "design-accessibility",
       "ArchivedAt": "2026-04-11T18:44:11.9723889Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/code-to-prd",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T18:44:32.2372114Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/cold-email",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T18:44:42.4285932Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/confluence-expert",
-      "GroupName": "confluence",
+      "GroupName": "integrate-confluence",
       "ArchivedAt": "2026-04-11T18:45:17.1383865Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/content-creator",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T18:45:47.2841353Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/content-humanizer",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T18:45:54.0965067Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/content-strategist",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T18:46:08.2212021Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/content-strategy",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T18:46:10.8267642Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/copy-editing",
-      "GroupName": "writer-copywriting",
+      "GroupName": "write-copywriting",
       "ArchivedAt": "2026-04-11T18:46:31.5469004Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/copywriting",
-      "GroupName": "writer-copywriting",
+      "GroupName": "write-copywriting",
       "ArchivedAt": "2026-04-11T18:46:57.0410288Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/cs-agile-product-owner",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T18:47:13.2936905Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/cs-content-creator",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T19:00:05.4950545Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/cs-demand-gen-specialist",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T19:00:22.3104218Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/cs-engineering-lead",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T19:00:30.9989857Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/cs-growth-strategist",
-      "GroupName": "marketer-landing-page",
+      "GroupName": "marketing-landing-page",
       "ArchivedAt": "2026-04-11T19:00:50.0602244Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/cs-product-analyst",
-      "GroupName": "business-analyst",
+      "GroupName": "consult-business",
       "ArchivedAt": "2026-04-11T19:01:06.2077097Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/cs-product-manager",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:01:48.3033486Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/cs-project-manager",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:01:57.3340406Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/cs-senior-engineer",
-      "GroupName": "engineer-software",
+      "GroupName": "code-general",
       "ArchivedAt": "2026-04-11T19:02:07.7360066Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/cs-ux-researcher",
-      "GroupName": "designer-ux",
+      "GroupName": "design-ux",
       "ArchivedAt": "2026-04-11T19:02:24.1513934Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/culture-architect",
-      "GroupName": "manager-humans",
+      "GroupName": "manage-people",
       "ArchivedAt": "2026-04-11T19:02:48.7688985Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/data-quality-auditor",
-      "GroupName": "engineer-data",
+      "GroupName": "data-engineering",
       "ArchivedAt": "2026-04-11T19:03:20.1401304Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/database-designer",
-      "GroupName": "engineer-database",
+      "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T19:03:24.6468925Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/database-schema-designer",
-      "GroupName": "engineer-database",
+      "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T19:03:30.0233429Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/decision-logger",
-      "GroupName": "ai-assistant-memory",
+      "GroupName": "agent-memory",
       "ArchivedAt": "2026-04-11T19:03:43.4725119Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/devops-engineer",
-      "GroupName": "engineer-ci-cd",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T19:03:51.0089078Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/email-sequence",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T19:03:56.216724Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/email-template-builder",
-      "GroupName": "designer-email",
+      "GroupName": "design-email",
       "ArchivedAt": "2026-04-11T19:04:12.327393Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/epic-design",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:04:31.0048723Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/experiment-designer",
-      "GroupName": "designer-ui-ab",
+      "GroupName": "design-ab-testing",
       "ArchivedAt": "2026-04-11T19:04:49.3959072Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/finance-lead",
-      "GroupName": "financial-analyst",
+      "GroupName": "consult-finance",
       "ArchivedAt": "2026-04-11T19:04:58.7282209Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/financial-analyst",
-      "GroupName": "financial-analyst",
+      "GroupName": "consult-finance",
       "ArchivedAt": "2026-04-11T19:05:02.1469504Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/financial-health",
-      "GroupName": "financial-analyst",
+      "GroupName": "consult-finance",
       "ArchivedAt": "2026-04-11T19:05:05.2693819Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/git-worktree-manager",
-      "GroupName": "git-worktree",
+      "GroupName": "devops-git-worktree",
       "ArchivedAt": "2026-04-11T19:06:09.9665228Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/growth-marketer",
-      "GroupName": "marketer",
+      "GroupName": "marketing-general",
       "ArchivedAt": "2026-04-11T19:06:21.6772257Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/jira-expert",
-      "GroupName": "jira",
+      "GroupName": "integrate-jira",
       "ArchivedAt": "2026-04-11T19:12:29.4854852Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/landing-page-generator",
-      "GroupName": "marketer-landing-page",
+      "GroupName": "marketing-landing-page",
       "ArchivedAt": "2026-04-11T19:12:41.6803637Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/marketing-ideas",
-      "GroupName": "marketer",
+      "GroupName": "marketing-general",
       "ArchivedAt": "2026-04-11T19:14:38.2811202Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/marketing-ops",
-      "GroupName": "marketer",
+      "GroupName": "marketing-general",
       "ArchivedAt": "2026-04-11T19:14:42.0440287Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/marketing-psychology",
-      "GroupName": "marketer-landing-page",
+      "GroupName": "marketing-landing-page",
       "ArchivedAt": "2026-04-11T19:14:47.2759833Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/meeting-analyzer",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:15:52.5200649Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/okr",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:16:20.5992444Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/pr-review-expert",
-      "GroupName": "git-pr",
+      "GroupName": "devops-git-pr",
       "ArchivedAt": "2026-04-11T19:18:25.8878161Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/prd",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:18:34.7367322Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/product-analytics",
-      "GroupName": "data-scientist",
+      "GroupName": "data-science",
       "ArchivedAt": "2026-04-11T19:18:57.6492927Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/product-manager",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:19:10.7940757Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/programmatic-seo",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T19:19:23.1041677Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/project-health",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:19:49.9880399Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/rag-architect",
-      "GroupName": "engineer-rag",
+      "GroupName": "code-rag",
       "ArchivedAt": "2026-04-11T19:20:44.3850812Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/roadmap-communicator",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:21:12.8709504Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/sales-engineer",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T19:21:35.817758Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/schema-markup",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T19:21:52.4318163Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/scrum-master",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:22:06.6439331Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/security-pen-testing",
-      "GroupName": "reviewer-security-web",
+      "GroupName": "secure-web",
       "ArchivedAt": "2026-04-11T19:22:16.1620043Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/senior-architect",
-      "GroupName": "architect-software",
+      "GroupName": "architecture-software",
       "ArchivedAt": "2026-04-11T19:22:24.5441824Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/senior-backend",
-      "GroupName": "engineer-database",
+      "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T19:22:35.463437Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/senior-data-engineer",
-      "GroupName": "engineer-data",
+      "GroupName": "data-engineering",
       "ArchivedAt": "2026-04-11T19:23:12.4309776Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/senior-data-scientist",
-      "GroupName": "data-scientist",
+      "GroupName": "data-science",
       "ArchivedAt": "2026-04-11T19:23:15.6023732Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/senior-devops",
-      "GroupName": "engineer-ci-cd",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T19:23:25.5112844Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/senior-frontend",
-      "GroupName": "engineer-software-frontend",
+      "GroupName": "code-frontend",
       "ArchivedAt": "2026-04-11T19:24:13.5435877Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/senior-ml-engineer",
-      "GroupName": "engineer-ml",
+      "GroupName": "data-ml",
       "ArchivedAt": "2026-04-11T19:24:25.4691017Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/senior-pm",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:24:35.3509192Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/senior-qa",
-      "GroupName": "engineer-qa",
+      "GroupName": "review-qa",
       "ArchivedAt": "2026-04-11T19:24:53.1960458Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/senior-secops",
-      "GroupName": "reviewer-security-web",
+      "GroupName": "secure-web",
       "ArchivedAt": "2026-04-11T19:25:06.6178531Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/senior-security",
-      "GroupName": "reviewer-security-web",
+      "GroupName": "secure-web",
       "ArchivedAt": "2026-04-11T19:25:18.2504493Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/seo-audit",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T19:25:25.0146679Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/seo-auditor",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T19:25:29.3661544Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/skill-tester",
-      "GroupName": "engineer-qa",
+      "GroupName": "review-qa",
       "ArchivedAt": "2026-04-11T19:26:18.6575868Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/spec-driven-workflow",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:26:46.2496963Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/spec-to-repo",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:26:56.9629278Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/sprint-plan",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:27:07.418461Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/sql-database-assistant",
-      "GroupName": "engineer-database",
+      "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T19:27:24.8067177Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/statistical-analyst",
-      "GroupName": "data-scientist",
+      "GroupName": "data-science",
       "ArchivedAt": "2026-04-11T19:27:37.7238161Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/stripe-integration-expert",
-      "GroupName": "stripe",
+      "GroupName": "integrate-stripe",
       "ArchivedAt": "2026-04-11T19:27:46.5933241Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/team-communications",
-      "GroupName": "writer-communication-internal",
+      "GroupName": "write-internal-comms",
       "ArchivedAt": "2026-04-11T19:28:03.326073Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/tech-debt-tracker",
-      "GroupName": "engineer-janitor",
+      "GroupName": "code-cleanup",
       "ArchivedAt": "2026-04-11T19:28:32.7568341Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/tech-debt",
-      "GroupName": "engineer-janitor",
+      "GroupName": "code-cleanup",
       "ArchivedAt": "2026-04-11T19:28:43.3943673Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/tech-stack-evaluator",
-      "GroupName": "architect-software",
+      "GroupName": "architecture-software",
       "ArchivedAt": "2026-04-11T19:28:51.7528453Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/ui-design-system",
-      "GroupName": "designer-ui",
+      "GroupName": "design-ui",
       "ArchivedAt": "2026-04-11T19:29:01.2493129Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/user-story",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:29:10.3844067Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/ux-researcher-designer",
-      "GroupName": "designer-ux",
+      "GroupName": "design-ux",
       "ArchivedAt": "2026-04-11T19:29:46.0708607Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/x-twitter-growth",
-      "GroupName": "x",
+      "GroupName": "integrate-x",
       "ArchivedAt": "2026-04-11T19:30:06.0923899Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "business-growth/sales-engineer",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T19:30:28.5908928Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "c-level-advisor/change-management",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:30:48.0658927Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "c-level-advisor/executive-mentor/skills/postmortem",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:31:28.8990832Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering-team/a11y-audit",
-      "GroupName": "designer-ui-accessibility",
+      "GroupName": "design-accessibility",
       "ArchivedAt": "2026-04-11T19:32:34.5622378Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering-team/email-template-builder",
-      "GroupName": "designer-email",
+      "GroupName": "design-email",
       "ArchivedAt": "2026-04-11T19:32:57.3544132Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering-team/epic-design",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:33:07.2413211Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering-team/senior-data-engineer",
-      "GroupName": "engineer-data",
+      "GroupName": "data-engineering",
       "ArchivedAt": "2026-04-11T19:33:43.3327012Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering-team/senior-data-scientist",
-      "GroupName": "data-scientist",
+      "GroupName": "data-science",
       "ArchivedAt": "2026-04-11T19:33:51.5014525Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering-team/senior-devops",
-      "GroupName": "engineer-ci-cd",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T19:34:34.8339031Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering-team/senior-frontend",
-      "GroupName": "engineer-software-frontend",
+      "GroupName": "code-frontend",
       "ArchivedAt": "2026-04-11T19:34:39.7608775Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering-team/senior-ml-engineer",
-      "GroupName": "engineer-ml",
+      "GroupName": "data-ml",
       "ArchivedAt": "2026-04-11T19:34:45.8109811Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering-team/senior-qa",
-      "GroupName": "engineer-qa",
+      "GroupName": "review-qa",
       "ArchivedAt": "2026-04-11T19:34:51.7014782Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering-team/stripe-integration-expert",
-      "GroupName": "stripe",
+      "GroupName": "integrate-stripe",
       "ArchivedAt": "2026-04-11T19:35:01.4334777Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering/api-design-reviewer",
-      "GroupName": "engineer-api",
+      "GroupName": "code-api",
       "ArchivedAt": "2026-04-11T19:35:42.8085628Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering/changelog-generator",
-      "GroupName": "engineer-changelog",
+      "GroupName": "code-changelog",
       "ArchivedAt": "2026-04-11T19:36:00.3227293Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering/ci-cd-pipeline-builder",
-      "GroupName": "engineer-ci-cd",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T19:36:08.4334288Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering/data-quality-auditor",
-      "GroupName": "engineer-data",
+      "GroupName": "data-engineering",
       "ArchivedAt": "2026-04-11T19:36:31.9668569Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering/database-designer",
-      "GroupName": "engineer-database",
+      "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T19:36:38.4276277Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering/database-schema-designer",
-      "GroupName": "architect-database",
+      "GroupName": "architecture-database",
       "ArchivedAt": "2026-04-11T19:36:51.7363819Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering/git-worktree-manager",
-      "GroupName": "git-worktree",
+      "GroupName": "devops-git-worktree",
       "ArchivedAt": "2026-04-11T19:37:03.8101Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering/pr-review-expert",
-      "GroupName": "git-pr",
+      "GroupName": "devops-git-pr",
       "ArchivedAt": "2026-04-11T19:37:26.1656578Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering/rag-architect",
-      "GroupName": "engineer-rag",
+      "GroupName": "code-rag",
       "ArchivedAt": "2026-04-11T19:37:39.1540632Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering/release-manager",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:37:55.3626945Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering/spec-driven-workflow",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:38:43.4059927Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "engineering/statistical-analyst",
-      "GroupName": "financial-analyst",
+      "GroupName": "consult-finance",
       "ArchivedAt": "2026-04-11T19:38:51.5199976Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "finance",
-      "GroupName": "financial-analyst",
+      "GroupName": "consult-finance",
       "ArchivedAt": "2026-04-11T19:39:04.9415854Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "finance/financial-analyst",
-      "GroupName": "financial-analyst",
+      "GroupName": "consult-finance",
       "ArchivedAt": "2026-04-11T19:39:12.0496857Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "marketing-skill",
-      "GroupName": "marketer",
+      "GroupName": "marketing-general",
       "ArchivedAt": "2026-04-11T19:39:53.4513274Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "marketing-skill/ab-test-setup",
-      "GroupName": "designer-ui-ab",
+      "GroupName": "design-ab-testing",
       "ArchivedAt": "2026-04-11T19:40:01.0363734Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "marketing-skill/ad-creative",
-      "GroupName": "stripe",
+      "GroupName": "integrate-stripe",
       "ArchivedAt": "2026-04-11T19:40:07.756347Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "marketing-skill/ai-seo",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T19:40:13.1654501Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "marketing-skill/analytics-tracking",
-      "GroupName": "engineer-ui-ga",
+      "GroupName": "code-ui-analytics",
       "ArchivedAt": "2026-04-11T19:40:27.5336672Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "marketing-skill/brand-guidelines",
-      "GroupName": "designer-branding",
+      "GroupName": "design-branding",
       "ArchivedAt": "2026-04-11T19:40:45.6365965Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "marketing-skill/cold-email",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T19:40:52.4436844Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "marketing-skill/content-strategy",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T19:41:08.394536Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "marketing-skill/copy-editing",
-      "GroupName": "writer-copywriting",
+      "GroupName": "write-copywriting",
       "ArchivedAt": "2026-04-11T19:41:11.6229024Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "marketing-skill/copywriting",
-      "GroupName": "writer-copywriting",
+      "GroupName": "write-copywriting",
       "ArchivedAt": "2026-04-11T19:41:14.951272Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "marketing-skill/email-sequence",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T19:41:26.3372584Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "marketing-skill/programmatic-seo",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T19:41:51.1713935Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "marketing-skill/seo-audit",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T19:42:02.8744091Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "product-team/experiment-designer",
-      "GroupName": "designer-ui-ab",
+      "GroupName": "design-ab-testing",
       "ArchivedAt": "2026-04-11T19:42:42.4797946Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "product-team/landing-page-generator",
-      "GroupName": "marketer-landing-page",
+      "GroupName": "marketing-landing-page",
       "ArchivedAt": "2026-04-11T19:42:45.9633148Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "product-team/product-analytics",
-      "GroupName": "business-analyst",
+      "GroupName": "consult-business",
       "ArchivedAt": "2026-04-11T19:42:51.0058249Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "product-team/roadmap-communicator",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:43:14.9843039Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "product-team/spec-to-repo",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:43:29.0645026Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "product-team/ui-design-system",
-      "GroupName": "designer-ui",
+      "GroupName": "design-ui",
       "ArchivedAt": "2026-04-11T19:43:33.8735956Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "product-team/ux-researcher-designer",
-      "GroupName": "designer-ux",
+      "GroupName": "design-ux",
       "ArchivedAt": "2026-04-11T19:43:38.7945693Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "project-management",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:44:22.3620127Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "project-management/atlassian-admin",
-      "GroupName": "confluence",
+      "GroupName": "integrate-confluence",
       "ArchivedAt": "2026-04-11T19:44:32.5500351Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "project-management/atlassian-templates",
-      "GroupName": "jira",
+      "GroupName": "integrate-jira",
       "ArchivedAt": "2026-04-11T19:44:37.953032Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "project-management/confluence-expert",
-      "GroupName": "confluence",
+      "GroupName": "integrate-confluence",
       "ArchivedAt": "2026-04-11T19:44:41.7733206Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "project-management/jira-expert",
-      "GroupName": "jira",
+      "GroupName": "integrate-jira",
       "ArchivedAt": "2026-04-11T19:44:44.7219248Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "project-management/meeting-analyzer",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:44:55.3932561Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "project-management/scrum-master",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:45:03.9602522Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "project-management/senior-pm",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:45:12.8644888Z"
     },
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
       "SkillFolder": "project-management/team-communications",
-      "GroupName": "writer-communication-internal",
+      "GroupName": "write-internal-comms",
       "ArchivedAt": "2026-04-11T19:45:17.2580688Z"
     },
     {
       "Owner": "cblecker",
       "Repo": "superpowers",
       "SkillFolder": "skills/brainstorming",
-      "GroupName": "brainstorming",
+      "GroupName": "plan-brainstorm",
       "ArchivedAt": "2026-04-11T19:47:00.5779572Z"
     },
     {
       "Owner": "cblecker",
       "Repo": "superpowers",
       "SkillFolder": "skills/dispatching-parallel-agents",
-      "GroupName": "ai-assistant-workflow",
+      "GroupName": "agent-workflow",
       "ArchivedAt": "2026-04-11T19:47:52.8839297Z"
     },
     {
       "Owner": "cblecker",
       "Repo": "superpowers",
       "SkillFolder": "skills/executing-plans",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:48:04.1578559Z"
     },
     {
       "Owner": "cblecker",
       "Repo": "superpowers",
       "SkillFolder": "skills/finishing-a-development-branch",
-      "GroupName": "git-pr",
+      "GroupName": "devops-git-pr",
       "ArchivedAt": "2026-04-11T19:48:21.7357798Z"
     },
     {
       "Owner": "cblecker",
       "Repo": "superpowers",
       "SkillFolder": "skills/requesting-code-review",
-      "GroupName": "git-pr",
+      "GroupName": "devops-git-pr",
       "ArchivedAt": "2026-04-11T19:48:31.1941667Z"
     },
     {
       "Owner": "cblecker",
       "Repo": "superpowers",
       "SkillFolder": "skills/subagent-driven-development",
-      "GroupName": "ai-assistant-workflow",
+      "GroupName": "agent-workflow",
       "ArchivedAt": "2026-04-11T19:48:45.7545337Z"
     },
     {
       "Owner": "cblecker",
       "Repo": "superpowers",
       "SkillFolder": "skills/test-driven-development",
-      "GroupName": "csharp-test-driven-development",
+      "GroupName": "code-csharp-tdd",
       "ArchivedAt": "2026-04-11T19:49:15.2771938Z"
     },
     {
       "Owner": "cblecker",
       "Repo": "superpowers",
       "SkillFolder": "skills/using-git-worktrees",
-      "GroupName": "git-worktree",
+      "GroupName": "devops-git-worktree",
       "ArchivedAt": "2026-04-11T19:49:19.1792155Z"
     },
     {
       "Owner": "cblecker",
       "Repo": "superpowers",
       "SkillFolder": "skills/verification-before-completion",
-      "GroupName": "verification-before-completion",
+      "GroupName": "plan-verification",
       "ArchivedAt": "2026-04-11T19:49:27.8546405Z"
     },
     {
       "Owner": "cblecker",
       "Repo": "superpowers",
       "SkillFolder": "skills/writing-plans",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:49:43.9412697Z"
     },
     {
       "Owner": "cblecker",
       "Repo": "superpowers",
       "SkillFolder": "skills/writing-skills",
-      "GroupName": "writer",
+      "GroupName": "write-general",
       "ArchivedAt": "2026-04-11T19:49:50.6856825Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/bmm-skills/1-analysis/bmad-agent-tech-writer",
-      "GroupName": "writer-technical",
+      "GroupName": "write-technical",
       "ArchivedAt": "2026-04-11T19:51:06.1296461Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/bmm-skills/1-analysis/bmad-document-project",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T19:51:20.144051Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/bmm-skills/1-analysis/bmad-product-brief",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T19:51:30.8221075Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/bmm-skills/2-plan-workflows/bmad-agent-ux-designer",
-      "GroupName": "designer-ux",
+      "GroupName": "design-ux",
       "ArchivedAt": "2026-04-11T19:51:49.9938058Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/bmm-skills/2-plan-workflows/bmad-create-prd",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T19:51:59.6317207Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/bmm-skills/2-plan-workflows/bmad-create-ux-design",
-      "GroupName": "designer-ux",
+      "GroupName": "design-ux",
       "ArchivedAt": "2026-04-11T19:52:09.8478999Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/bmm-skills/2-plan-workflows/bmad-edit-prd",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T19:52:22.4406786Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/bmm-skills/3-solutioning/bmad-create-architecture",
-      "GroupName": "doc-architecture",
+      "GroupName": "architecture-documentation",
       "ArchivedAt": "2026-04-11T19:53:05.1747738Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/bmm-skills/3-solutioning/bmad-create-epics-and-stories",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:53:41.0621301Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/bmm-skills/4-implementation/bmad-create-story",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:54:16.3179194Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/bmm-skills/4-implementation/bmad-dev-story",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:54:30.1597693Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/bmm-skills/4-implementation/bmad-retrospective",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:54:45.7782221Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/bmm-skills/4-implementation/bmad-sprint-planning",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:55:10.0440367Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/bmm-skills/4-implementation/bmad-sprint-status",
-      "GroupName": "architect-database",
+      "GroupName": "architecture-database",
       "ArchivedAt": "2026-04-11T19:55:25.086642Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/core-skills/bmad-brainstorming",
-      "GroupName": "brainstorming",
+      "GroupName": "plan-brainstorm",
       "ArchivedAt": "2026-04-11T19:55:36.5367432Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/core-skills/bmad-distillator",
-      "GroupName": "ai-assistant-orchestration",
+      "GroupName": "agent-orchestration",
       "ArchivedAt": "2026-04-11T19:55:47.5524125Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/core-skills/bmad-editorial-review-prose",
-      "GroupName": "writer",
+      "GroupName": "write-general",
       "ArchivedAt": "2026-04-11T19:55:55.1691563Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/core-skills/bmad-editorial-review-structure",
-      "GroupName": "writer",
+      "GroupName": "write-general",
       "ArchivedAt": "2026-04-11T19:56:01.440233Z"
     },
     {
       "Owner": "bmad-code-org",
       "Repo": "BMAD-METHOD",
       "SkillFolder": "src/core-skills/bmad-index-docs",
-      "GroupName": "builder-markdown-index",
+      "GroupName": "build-markdown-index",
       "ArchivedAt": "2026-04-11T19:56:51.5849688Z"
     },
     {
       "Owner": "automazeio",
       "Repo": "ccpm",
       "SkillFolder": "skill/ccpm",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T20:00:03.4962322Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "repository-starter-kit",
       "SkillFolder": "github/instructions/coding-style-csharp.instructions.md",
-      "GroupName": "engineer-software-csharp",
+      "GroupName": "code-csharp",
       "ArchivedAt": "2026-04-11T21:01:24.994464Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "repository-starter-kit",
       "SkillFolder": "github/instructions/coding-style-project.instructions.md",
-      "GroupName": "engineer-software",
+      "GroupName": "code-general",
       "ArchivedAt": "2026-04-11T21:02:39.1362869Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "repository-starter-kit",
       "SkillFolder": "github/instructions/coding-style-solution.instructions.md",
-      "GroupName": "engineer-software",
+      "GroupName": "code-general",
       "ArchivedAt": "2026-04-11T21:03:16.4547474Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "repository-starter-kit",
       "SkillFolder": "github/instructions/conventional-commits.instructions.md",
-      "GroupName": "git-commit",
+      "GroupName": "devops-git-commit",
       "ArchivedAt": "2026-04-11T21:03:19.5123742Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "repository-starter-kit",
       "SkillFolder": "github/instructions/domain-driven-design.instructions.md",
-      "GroupName": "csharp-domain-driven-design",
+      "GroupName": "code-csharp-ddd",
       "ArchivedAt": "2026-04-11T21:03:23.4226132Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "repository-starter-kit",
       "SkillFolder": "github/instructions/follow-up-question.instructions.md",
-      "GroupName": "ask-questions-if-underspecified",
+      "GroupName": "plan-requirements",
       "ArchivedAt": "2026-04-11T21:03:28.3784508Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "repository-starter-kit",
       "SkillFolder": "github/instructions/object-calisthenics.instructions.md",
-      "GroupName": "engineer-software-oo",
+      "GroupName": "code-oo-design",
       "ArchivedAt": "2026-04-11T21:04:13.1523122Z"
     },
     {
       "Owner": "mattnebr",
       "Repo": "repository-starter-kit",
       "SkillFolder": "github/instructions/unit-and-integration-tests.instructions.md",
-      "GroupName": "csharp-mstest",
+      "GroupName": "code-csharp-mstest",
       "ArchivedAt": "2026-04-11T21:04:35.0389081Z"
     },
     {
       "Owner": "chadboyda",
       "Repo": "agent-gtm-skills",
       "SkillFolder": "skills/ai-cold-outreach",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T21:22:13.916428Z"
     },
     {
       "Owner": "chadboyda",
       "Repo": "agent-gtm-skills",
       "SkillFolder": "skills/ai-seo",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T21:22:59.2023527Z"
     },
     {
       "Owner": "chadboyda",
       "Repo": "agent-gtm-skills",
       "SkillFolder": "skills/content-to-pipeline",
-      "GroupName": "planner-content-strategy",
+      "GroupName": "plan-content-strategy",
       "ArchivedAt": "2026-04-11T21:23:10.5520713Z"
     },
     {
       "Owner": "chadboyda",
       "Repo": "agent-gtm-skills",
       "SkillFolder": "skills/expansion-retention",
-      "GroupName": "marketer",
+      "GroupName": "marketing-general",
       "ArchivedAt": "2026-04-11T21:23:24.767272Z"
     },
     {
       "Owner": "chadboyda",
       "Repo": "agent-gtm-skills",
       "SkillFolder": "skills/gtm-engineering",
-      "GroupName": "engineer-ui-ga",
+      "GroupName": "code-ui-analytics",
       "ArchivedAt": "2026-04-11T21:23:38.5505335Z"
     },
     {
       "Owner": "chadboyda",
       "Repo": "agent-gtm-skills",
       "SkillFolder": "skills/gtm-metrics",
-      "GroupName": "engineer-ui-ga",
+      "GroupName": "code-ui-analytics",
       "ArchivedAt": "2026-04-11T21:23:53.6194889Z"
     },
     {
       "Owner": "chadboyda",
       "Repo": "agent-gtm-skills",
       "SkillFolder": "skills/lead-enrichment",
-      "GroupName": "engineer-data",
+      "GroupName": "data-engineering",
       "ArchivedAt": "2026-04-11T21:24:09.7663689Z"
     },
     {
       "Owner": "ComposioHQ",
       "Repo": "awesome-claude-skills",
       "SkillFolder": "brand-guidelines",
-      "GroupName": "designer-branding",
+      "GroupName": "design-branding",
       "ArchivedAt": "2026-04-11T21:26:27.6678091Z"
     },
     {
       "Owner": "ComposioHQ",
       "Repo": "awesome-claude-skills",
       "SkillFolder": "changelog-generator",
-      "GroupName": "engineer-changelog",
+      "GroupName": "code-changelog",
       "ArchivedAt": "2026-04-11T21:26:33.175297Z"
     },
     {
       "Owner": "ComposioHQ",
       "Repo": "awesome-claude-skills",
       "SkillFolder": "composio-skills/atlassian-automation",
-      "GroupName": "jira",
+      "GroupName": "integrate-jira",
       "ArchivedAt": "2026-04-11T21:28:40.347957Z"
     },
     {
       "Owner": "K-Dense-AI",
       "Repo": "scientific-agent-skills",
       "SkillFolder": "scientific-skills/database-lookup",
-      "GroupName": "data-scientist",
+      "GroupName": "data-science",
       "ArchivedAt": "2026-04-11T21:36:26.6220205Z"
     },
     {
       "Owner": "K-Dense-AI",
       "Repo": "scientific-agent-skills",
       "SkillFolder": "scientific-skills/markdown-mermaid-writing",
-      "GroupName": "engineer-markdown",
+      "GroupName": "code-markdown",
       "ArchivedAt": "2026-04-11T21:37:21.9029564Z"
     },
     {
       "Owner": "K-Dense-AI",
       "Repo": "scientific-agent-skills",
       "SkillFolder": "scientific-skills/pptx-posters",
-      "GroupName": "builder-slide-presentation",
+      "GroupName": "build-pptx",
       "ArchivedAt": "2026-04-11T21:38:38.1836027Z"
     },
     {
       "Owner": "K-Dense-AI",
       "Repo": "scientific-agent-skills",
       "SkillFolder": "scientific-skills/pptx",
-      "GroupName": "builder-slide-presentation",
+      "GroupName": "build-pptx",
       "ArchivedAt": "2026-04-11T21:38:47.4098146Z"
     },
     {
       "Owner": "K-Dense-AI",
       "Repo": "scientific-agent-skills",
       "SkillFolder": "scientific-skills/scientific-critical-thinking",
-      "GroupName": "brainstorming",
+      "GroupName": "plan-brainstorm",
       "ArchivedAt": "2026-04-11T21:39:29.468462Z"
     },
     {
       "Owner": "K-Dense-AI",
       "Repo": "scientific-agent-skills",
       "SkillFolder": "scientific-skills/scientific-writing",
-      "GroupName": "writer-technical",
+      "GroupName": "write-technical",
       "ArchivedAt": "2026-04-11T21:39:43.393745Z"
     },
     {
       "Owner": "K-Dense-AI",
       "Repo": "scientific-agent-skills",
       "SkillFolder": "scientific-skills/xlsx",
-      "GroupName": "builder-spreadsheet",
+      "GroupName": "build-xlsx",
       "ArchivedAt": "2026-04-11T21:40:19.3904871Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/code-review/skills/review-local-changes",
-      "GroupName": "git-pr",
+      "GroupName": "devops-git-pr",
       "ArchivedAt": "2026-04-11T21:42:02.7324272Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/code-review/skills/review-pr",
-      "GroupName": "git-pr",
+      "GroupName": "devops-git-pr",
       "ArchivedAt": "2026-04-11T21:42:08.1609787Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/customaize-agent/skills/apply-anthropic-skill-best-practices",
-      "GroupName": "ai-assistant-skill-maker",
+      "GroupName": "agent-skill-maker",
       "ArchivedAt": "2026-04-11T21:42:17.0766235Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/customaize-agent/skills/create-hook",
-      "GroupName": "ai-assistant-hooks",
+      "GroupName": "agent-hooks",
       "ArchivedAt": "2026-04-11T21:43:25.0543313Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/customaize-agent/skills/create-skill",
-      "GroupName": "ai-assistant-skill-maker",
+      "GroupName": "agent-skill-maker",
       "ArchivedAt": "2026-04-11T21:43:33.0361369Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/customaize-agent/skills/create-workflow-command",
-      "GroupName": "ai-assistant-workflow",
+      "GroupName": "agent-workflow",
       "ArchivedAt": "2026-04-11T21:43:38.0250353Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/customaize-agent/skills/thought-based-reasoning",
-      "GroupName": "brainstorming",
+      "GroupName": "plan-brainstorm",
       "ArchivedAt": "2026-04-11T21:43:51.3590136Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/ddd/skills/setup-code-formating",
-      "GroupName": "engineer-software",
+      "GroupName": "code-general",
       "ArchivedAt": "2026-04-11T21:44:13.9388779Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/docs/skills/update-docs",
-      "GroupName": "engineer-readme",
+      "GroupName": "code-readme",
       "ArchivedAt": "2026-04-11T21:44:31.7095704Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/docs/skills/write-concisely",
-      "GroupName": "writer-technical",
+      "GroupName": "write-technical",
       "ArchivedAt": "2026-04-11T21:44:38.4818698Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/git/skills/attach-review-to-pr",
-      "GroupName": "git-pr",
+      "GroupName": "devops-git-pr",
       "ArchivedAt": "2026-04-11T21:45:16.9408016Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/git/skills/commit",
-      "GroupName": "git-commit",
+      "GroupName": "devops-git-commit",
       "ArchivedAt": "2026-04-11T21:45:19.5192186Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/git/skills/compare-worktrees",
-      "GroupName": "git-worktree",
+      "GroupName": "devops-git-worktree",
       "ArchivedAt": "2026-04-11T21:45:23.2434235Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/git/skills/create-pr",
-      "GroupName": "git-pr",
+      "GroupName": "devops-git-pr",
       "ArchivedAt": "2026-04-11T21:45:26.153921Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/git/skills/create-worktree",
-      "GroupName": "git-worktree",
+      "GroupName": "devops-git-worktree",
       "ArchivedAt": "2026-04-11T21:45:29.4038256Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/git/skills/merge-worktree",
-      "GroupName": "git-worktree",
+      "GroupName": "devops-git-worktree",
       "ArchivedAt": "2026-04-11T21:45:43.1772826Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/git/skills/worktrees",
-      "GroupName": "git-worktree",
+      "GroupName": "devops-git-worktree",
       "ArchivedAt": "2026-04-11T21:45:46.556442Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/kaizen/skills/kaizen",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T21:46:45.8099636Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/kaizen/skills/plan-do-check-act",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T21:46:59.7595447Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/kaizen/skills/root-cause-tracing",
-      "GroupName": "engineer-software-debug",
+      "GroupName": "code-debug",
       "ArchivedAt": "2026-04-11T21:47:24.8009161Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/reflexion/skills/memorize",
-      "GroupName": "ai-assistant-memory",
+      "GroupName": "agent-memory",
       "ArchivedAt": "2026-04-11T21:47:42.9099587Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/sadd/skills/multi-agent-patterns",
-      "GroupName": "ai-assistant-orchestration",
+      "GroupName": "agent-orchestration",
       "ArchivedAt": "2026-04-11T21:48:27.3972924Z"
     },
     {
@@ -4386,602 +4386,602 @@
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/sadd/skills/tree-of-thoughts",
-      "GroupName": "brainstorming",
+      "GroupName": "plan-brainstorm",
       "ArchivedAt": "2026-04-11T21:48:52.9341845Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/sdd/skills/brainstorm",
-      "GroupName": "brainstorming",
+      "GroupName": "plan-brainstorm",
       "ArchivedAt": "2026-04-11T21:49:03.2888492Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/sdd/skills/create-ideas",
-      "GroupName": "brainstorming",
+      "GroupName": "plan-brainstorm",
       "ArchivedAt": "2026-04-11T21:49:10.1273859Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/tdd/skills/test-driven-development",
-      "GroupName": "csharp-test-driven-development",
+      "GroupName": "code-csharp-tdd",
       "ArchivedAt": "2026-04-11T21:49:19.4270186Z"
     },
     {
       "Owner": "NeoLabHQ",
       "Repo": "context-engineering-kit",
       "SkillFolder": "plugins/tech-stack/skills/add-typescript-best-practices",
-      "GroupName": "engineer-software-typescript",
+      "GroupName": "code-typescript",
       "ArchivedAt": "2026-04-11T21:49:28.7524619Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/accounting",
-      "GroupName": "financial-analyst",
+      "GroupName": "consult-finance",
       "ArchivedAt": "2026-04-11T21:53:03.5590812Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/analytics",
-      "GroupName": "data-scientist",
+      "GroupName": "data-science",
       "ArchivedAt": "2026-04-11T21:53:17.732295Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/brand-identity-generator",
-      "GroupName": "designer-branding",
+      "GroupName": "design-branding",
       "ArchivedAt": "2026-04-11T21:53:39.7105192Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/copywriting",
-      "GroupName": "writer-copywriting",
+      "GroupName": "write-copywriting",
       "ArchivedAt": "2026-04-11T21:53:50.3490837Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/database",
-      "GroupName": "engineer-database",
+      "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T21:54:00.8970398Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/debug",
-      "GroupName": "engineer-software-debug",
+      "GroupName": "code-debug",
       "ArchivedAt": "2026-04-11T21:54:04.8482972Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/deploy",
-      "GroupName": "engineer-ci-cd",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T21:54:22.0802315Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/design-review",
-      "GroupName": "designer-ui",
+      "GroupName": "design-ui",
       "ArchivedAt": "2026-04-11T21:54:29.7355871Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/dry",
-      "GroupName": "csharp-dry",
+      "GroupName": "code-csharp-dry",
       "ArchivedAt": "2026-04-11T21:54:44.1571317Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/email",
-      "GroupName": "designer-email",
+      "GroupName": "design-email",
       "ArchivedAt": "2026-04-11T21:55:00.0318298Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/finances",
-      "GroupName": "financial-analyst",
+      "GroupName": "consult-finance",
       "ArchivedAt": "2026-04-11T21:55:04.5873382Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/growth",
-      "GroupName": "marketer",
+      "GroupName": "marketing-general",
       "ArchivedAt": "2026-04-11T21:55:15.6935364Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/hiring",
-      "GroupName": "manager-humans",
+      "GroupName": "manage-people",
       "ArchivedAt": "2026-04-11T21:55:22.7803592Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/journey",
-      "GroupName": "designer-ux",
+      "GroupName": "design-ux",
       "ArchivedAt": "2026-04-11T21:55:43.9926245Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/landing-page",
-      "GroupName": "marketer-landing-page",
+      "GroupName": "marketing-landing-page",
       "ArchivedAt": "2026-04-11T21:55:46.8866495Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/legal",
-      "GroupName": "legal-advisor",
+      "GroupName": "consult-legal",
       "ArchivedAt": "2026-04-11T21:55:53.2739257Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/plan",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T21:56:15.1648051Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/prioritize",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T21:56:27.2227091Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/retention",
-      "GroupName": "manager-humans",
+      "GroupName": "manage-people",
       "ArchivedAt": "2026-04-11T21:56:40.1739268Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/sales",
-      "GroupName": "sales-email",
+      "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T21:56:42.7648298Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/seo-audit",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T21:56:52.4265192Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/seo-content",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T21:57:01.7881843Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/seo",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T21:57:09.973824Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/technical-seo",
-      "GroupName": "reviewer-seo",
+      "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T21:57:16.7078683Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/test",
-      "GroupName": "engineer-qa",
+      "GroupName": "review-qa",
       "ArchivedAt": "2026-04-11T21:57:55.043675Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/ui-patterns",
-      "GroupName": "designer-ui",
+      "GroupName": "design-ui",
       "ArchivedAt": "2026-04-11T21:58:13.1198166Z"
     },
     {
       "Owner": "whawkinsiv",
       "Repo": "solo-founder-superpowers",
       "SkillFolder": "skills/ux-design",
-      "GroupName": "designer-ux",
+      "GroupName": "design-ux",
       "ArchivedAt": "2026-04-11T21:58:20.1395789Z"
     },
     {
       "Owner": "obra",
       "Repo": "superpowers",
       "SkillFolder": "skills/brainstorming",
-      "GroupName": "brainstorming",
+      "GroupName": "plan-brainstorm",
       "ArchivedAt": "2026-04-11T21:59:24.1261037Z"
     },
     {
       "Owner": "obra",
       "Repo": "superpowers",
       "SkillFolder": "skills/dispatching-parallel-agents",
-      "GroupName": "ai-assistant-orchestration",
+      "GroupName": "agent-orchestration",
       "ArchivedAt": "2026-04-11T21:59:37.8068677Z"
     },
     {
       "Owner": "obra",
       "Repo": "superpowers",
       "SkillFolder": "skills/executing-plans",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T21:59:46.589939Z"
     },
     {
       "Owner": "obra",
       "Repo": "superpowers",
       "SkillFolder": "skills/finishing-a-development-branch",
-      "GroupName": "git-branch",
+      "GroupName": "devops-git-branch",
       "ArchivedAt": "2026-04-11T21:59:54.1258435Z"
     },
     {
       "Owner": "obra",
       "Repo": "superpowers",
       "SkillFolder": "skills/receiving-code-review",
-      "GroupName": "reviewer-code",
+      "GroupName": "review-code",
       "ArchivedAt": "2026-04-11T22:00:04.0714574Z"
     },
     {
       "Owner": "obra",
       "Repo": "superpowers",
       "SkillFolder": "skills/requesting-code-review",
-      "GroupName": "git-pr",
+      "GroupName": "devops-git-pr",
       "ArchivedAt": "2026-04-11T22:00:21.4191855Z"
     },
     {
       "Owner": "obra",
       "Repo": "superpowers",
       "SkillFolder": "skills/subagent-driven-development",
-      "GroupName": "ai-assistant-orchestration",
+      "GroupName": "agent-orchestration",
       "ArchivedAt": "2026-04-11T22:01:01.9161179Z"
     },
     {
       "Owner": "obra",
       "Repo": "superpowers",
       "SkillFolder": "skills/systematic-debugging",
-      "GroupName": "engineer-software-debug",
+      "GroupName": "code-debug",
       "ArchivedAt": "2026-04-11T22:01:09.645936Z"
     },
     {
       "Owner": "obra",
       "Repo": "superpowers",
       "SkillFolder": "skills/test-driven-development",
-      "GroupName": "csharp-test-driven-development",
+      "GroupName": "code-csharp-tdd",
       "ArchivedAt": "2026-04-11T22:01:14.5746791Z"
     },
     {
       "Owner": "obra",
       "Repo": "superpowers",
       "SkillFolder": "skills/using-git-worktrees",
-      "GroupName": "git-worktree",
+      "GroupName": "devops-git-worktree",
       "ArchivedAt": "2026-04-11T22:01:17.3597549Z"
     },
     {
       "Owner": "obra",
       "Repo": "superpowers",
       "SkillFolder": "skills/verification-before-completion",
-      "GroupName": "git-commit",
+      "GroupName": "devops-git-commit",
       "ArchivedAt": "2026-04-11T22:01:31.8602982Z"
     },
     {
       "Owner": "obra",
       "Repo": "superpowers",
       "SkillFolder": "skills/writing-plans",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T22:01:46.718862Z"
     },
     {
       "Owner": "obra",
       "Repo": "superpowers",
       "SkillFolder": "skills/writing-skills",
-      "GroupName": "writer",
+      "GroupName": "write-general",
       "ArchivedAt": "2026-04-11T22:01:50.8269729Z"
     },
     {
       "Owner": "zarazhangrui",
       "Repo": "frontend-slides",
       "SkillFolder": "plugins/frontend-slides/skills/frontend-slides",
-      "GroupName": "builder-slide-presentation",
+      "GroupName": "build-pptx",
       "ArchivedAt": "2026-04-11T22:02:55.1661082Z"
     },
     {
       "Owner": "SuperClaude-Org",
       "Repo": "SuperClaude_Framework",
       "SkillFolder": ".claude/skills/confidence-check",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T22:04:01.9810774Z"
     },
     {
       "Owner": "SuperClaude-Org",
       "Repo": "SuperClaude_Framework",
       "SkillFolder": "plugins/superclaude/skills/brainstorm",
-      "GroupName": "brainstorming",
+      "GroupName": "plan-brainstorm",
       "ArchivedAt": "2026-04-11T22:04:05.0628818Z"
     },
     {
       "Owner": "SuperClaude-Org",
       "Repo": "SuperClaude_Framework",
       "SkillFolder": "plugins/superclaude/skills/confidence-check",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T22:04:18.1318098Z"
     },
     {
       "Owner": "SuperClaude-Org",
       "Repo": "SuperClaude_Framework",
       "SkillFolder": "plugins/superclaude/skills/pm",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T22:04:31.5029414Z"
     },
     {
       "Owner": "mutable-state-inc",
       "Repo": "ensue-skill",
       "SkillFolder": "skills/ensue-memory",
-      "GroupName": "ai-assistant-memory",
+      "GroupName": "agent-memory",
       "ArchivedAt": "2026-04-11T22:05:29.2732621Z"
     },
     {
       "Owner": "sanjay3290",
       "Repo": "ai-skills",
       "SkillFolder": "skills/atlassian",
-      "GroupName": "jira",
+      "GroupName": "integrate-jira",
       "ArchivedAt": "2026-04-11T22:06:35.3595954Z"
     },
     {
       "Owner": "sanjay3290",
       "Repo": "ai-skills",
       "SkillFolder": "skills/mssql",
-      "GroupName": "engineer-database",
+      "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T22:07:31.3837485Z"
     },
     {
       "Owner": "sanjay3290",
       "Repo": "ai-skills",
       "SkillFolder": "skills/mysql",
-      "GroupName": "engineer-database",
+      "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T22:07:44.1297984Z"
     },
     {
       "Owner": "sanjay3290",
       "Repo": "ai-skills",
       "SkillFolder": "skills/outline",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T22:08:47.5618716Z"
     },
     {
       "Owner": "sanjay3290",
       "Repo": "ai-skills",
       "SkillFolder": "skills/postgres",
-      "GroupName": "engineer-database",
+      "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T22:09:02.0747845Z"
     },
     {
       "Owner": "imxv",
       "Repo": "Pretty-mermaid-skills",
       "SkillFolder": ".",
-      "GroupName": "engineer-mermaid",
+      "GroupName": "code-mermaid",
       "ArchivedAt": "2026-04-11T22:15:32.7002941Z"
     },
     {
       "Owner": "feiskyer",
       "Repo": "claude-code-settings",
       "SkillFolder": "plugins/spec-kit-skill/skills/spec-kit-skill",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T22:17:58.0193086Z"
     },
     {
       "Owner": "feiskyer",
       "Repo": "claude-code-settings",
       "SkillFolder": "skills/github-review-pr",
-      "GroupName": "git-pr",
+      "GroupName": "devops-git-pr",
       "ArchivedAt": "2026-04-11T22:18:22.2768266Z"
     },
     {
       "Owner": "feiskyer",
       "Repo": "claude-code-settings",
       "SkillFolder": "skills/skill-creator",
-      "GroupName": "ai-assistant-skill-maker",
+      "GroupName": "agent-skill-maker",
       "ArchivedAt": "2026-04-11T22:18:33.059817Z"
     },
     {
       "Owner": "feiskyer",
       "Repo": "claude-code-settings",
       "SkillFolder": "skills/spec-kit-skill",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T22:18:48.0213759Z"
     },
     {
       "Owner": "jefflester",
       "Repo": "claude-skills-supercharged",
       "SkillFolder": ".claude/skills/api-security",
-      "GroupName": "engineer-api",
+      "GroupName": "code-api",
       "ArchivedAt": "2026-04-11T22:21:01.4494604Z"
     },
     {
       "Owner": "jefflester",
       "Repo": "claude-skills-supercharged",
       "SkillFolder": ".claude/skills/git-workflow",
-      "GroupName": "git-workflows",
+      "GroupName": "devops-git-workflows",
       "ArchivedAt": "2026-04-11T22:21:05.7668698Z"
     },
     {
       "Owner": "jefflester",
       "Repo": "claude-skills-supercharged",
       "SkillFolder": ".claude/skills/python-best-practices",
-      "GroupName": "engineer-python",
+      "GroupName": "code-python",
       "ArchivedAt": "2026-04-11T22:21:09.4640871Z"
     },
     {
       "Owner": "pbakaus",
       "Repo": "impeccable",
       "SkillFolder": ".agents/skills/impeccable",
-      "GroupName": "designer-ui",
+      "GroupName": "design-ui",
       "ArchivedAt": "2026-04-11T22:25:10.4544876Z"
     },
     {
       "Owner": "axiaoge2",
       "Repo": "Apple-Hig-Designer",
       "SkillFolder": ".",
-      "GroupName": "designer-ui",
+      "GroupName": "design-ui",
       "ArchivedAt": "2026-04-11T22:27:29.9356062Z"
     },
     {
       "Owner": "michalparkola",
       "Repo": "tapestry-skills",
       "SkillFolder": "scrum-sage",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T22:28:45.1169956Z"
     },
     {
       "Owner": "ramziddin",
       "Repo": "solid-skills",
       "SkillFolder": "skills/solid",
-      "GroupName": "engineer-software",
+      "GroupName": "code-general",
       "ArchivedAt": "2026-04-11T22:30:35.5668565Z"
     },
     {
       "Owner": "fr33d3m0n",
       "Repo": "threat-modeling",
       "SkillFolder": ".",
-      "GroupName": "engineer-security",
+      "GroupName": "devops-security",
       "ArchivedAt": "2026-04-11T22:32:54.8386419Z"
     },
     {
       "Owner": "omkamal",
       "Repo": "pypict-claude-skill",
       "SkillFolder": ".",
-      "GroupName": "engineer-qa",
+      "GroupName": "review-qa",
       "ArchivedAt": "2026-04-11T22:34:33.8640639Z"
     },
     {
       "Owner": "addyosmani",
       "Repo": "agent-skills",
       "SkillFolder": "skills/api-and-interface-design",
-      "GroupName": "engineer-api",
+      "GroupName": "code-api",
       "ArchivedAt": "2026-04-11T22:37:16.4953943Z"
     },
     {
       "Owner": "addyosmani",
       "Repo": "agent-skills",
       "SkillFolder": "skills/browser-testing-with-devtools",
-      "GroupName": "engineer-qa",
+      "GroupName": "review-qa",
       "ArchivedAt": "2026-04-11T22:37:27.1129977Z"
     },
     {
       "Owner": "addyosmani",
       "Repo": "agent-skills",
       "SkillFolder": "skills/ci-cd-and-automation",
-      "GroupName": "engineer-ci-cd",
+      "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T22:37:31.1150236Z"
     },
     {
       "Owner": "addyosmani",
       "Repo": "agent-skills",
       "SkillFolder": "skills/code-review-and-quality",
-      "GroupName": "git-pr",
+      "GroupName": "devops-git-pr",
       "ArchivedAt": "2026-04-11T22:37:45.1715851Z"
     },
     {
       "Owner": "addyosmani",
       "Repo": "agent-skills",
       "SkillFolder": "skills/debugging-and-error-recovery",
-      "GroupName": "engineer-software-debug",
+      "GroupName": "code-debug",
       "ArchivedAt": "2026-04-11T22:37:55.6861976Z"
     },
     {
       "Owner": "addyosmani",
       "Repo": "agent-skills",
       "SkillFolder": "skills/deprecation-and-migration",
-      "GroupName": "engineer-janitor",
+      "GroupName": "code-cleanup",
       "ArchivedAt": "2026-04-11T22:38:09.8275353Z"
     },
     {
       "Owner": "addyosmani",
       "Repo": "agent-skills",
       "SkillFolder": "skills/documentation-and-adrs",
-      "GroupName": "architecture-decision-records",
+      "GroupName": "architecture-adr",
       "ArchivedAt": "2026-04-11T22:38:43.8142459Z"
     },
     {
       "Owner": "addyosmani",
       "Repo": "agent-skills",
       "SkillFolder": "skills/frontend-ui-engineering",
-      "GroupName": "engineer-software-frontend",
+      "GroupName": "code-frontend",
       "ArchivedAt": "2026-04-11T22:38:50.8219279Z"
     },
     {
       "Owner": "addyosmani",
       "Repo": "agent-skills",
       "SkillFolder": "skills/git-workflow-and-versioning",
-      "GroupName": "git-workflows",
+      "GroupName": "devops-git-workflows",
       "ArchivedAt": "2026-04-11T22:38:57.2488978Z"
     },
     {
       "Owner": "addyosmani",
       "Repo": "agent-skills",
       "SkillFolder": "skills/idea-refine",
-      "GroupName": "brainstorming",
+      "GroupName": "plan-brainstorm",
       "ArchivedAt": "2026-04-11T22:39:08.6575866Z"
     },
     {
       "Owner": "addyosmani",
       "Repo": "agent-skills",
       "SkillFolder": "skills/incremental-implementation",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T22:39:18.8184292Z"
     },
     {
       "Owner": "addyosmani",
       "Repo": "agent-skills",
       "SkillFolder": "skills/planning-and-task-breakdown",
-      "GroupName": "manager-project",
+      "GroupName": "manage-project",
       "ArchivedAt": "2026-04-11T22:39:31.5808478Z"
     },
     {
       "Owner": "addyosmani",
       "Repo": "agent-skills",
       "SkillFolder": "skills/security-and-hardening",
-      "GroupName": "engineer-security",
+      "GroupName": "devops-security",
       "ArchivedAt": "2026-04-11T22:39:43.9921515Z"
     },
     {
       "Owner": "addyosmani",
       "Repo": "agent-skills",
       "SkillFolder": "skills/source-driven-development",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T22:40:06.7088217Z"
     },
     {
       "Owner": "addyosmani",
       "Repo": "agent-skills",
       "SkillFolder": "skills/spec-driven-development",
-      "GroupName": "manager-agile",
+      "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T22:40:12.9795396Z"
     },
     {
       "Owner": "addyosmani",
       "Repo": "agent-skills",
       "SkillFolder": "skills/test-driven-development",
-      "GroupName": "csharp-test-driven-development",
+      "GroupName": "code-csharp-tdd",
       "ArchivedAt": "2026-04-11T22:40:16.0399692Z"
     }
   ]

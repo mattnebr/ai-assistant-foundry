@@ -1,1041 +1,1035 @@
 # skill index
 
-*127 skill group(s) — 656 total variant(s)*
+*125 skill group(s) — 656 total variant(s)*
+
+## agent-email
+
+- [sickn33/agentmail](agent-email/sickn33/agentmail/SKILL.md)
+
+## agent-hooks
+
+- [NeoLabHQ/create-hook](agent-hooks/NeoLabHQ/create-hook/SKILL.md)
+
+## agent-memory
+
+- [alirezarezvani/decision-logger](agent-memory/alirezarezvani/decision-logger/SKILL.md)
+- [github/memory-merger](agent-memory/github/memory-merger/SKILL.md)
+- [github/remember](agent-memory/github/remember/SKILL.md)
+- [mutable-state-inc/ensue-memory](agent-memory/mutable-state-inc/ensue-memory/SKILL.md)
+- [NeoLabHQ/memorize](agent-memory/NeoLabHQ/memorize/SKILL.md)
+- [sickn33/agent-memory-mcp](agent-memory/sickn33/agent-memory-mcp/SKILL.md)
+- [sickn33/agent-memory-systems](agent-memory/sickn33/agent-memory-systems/SKILL.md)
+- [sickn33/conversation-memory](agent-memory/sickn33/conversation-memory/SKILL.md)
+- [sickn33/memory-systems](agent-memory/sickn33/memory-systems/SKILL.md)
 
 ## agent-orchestration
 
+- [alirezarezvani/agent-workflow-designer](agent-orchestration/alirezarezvani/agent-workflow-designer/SKILL.md)
+- [bmad-code-org/bmad-distillator](agent-orchestration/bmad-code-org/bmad-distillator/SKILL.md)
+- [NeoLabHQ/multi-agent-patterns](agent-orchestration/NeoLabHQ/multi-agent-patterns/SKILL.md)
 - [NeoLabHQ/subagent-driven-development](agent-orchestration/NeoLabHQ/subagent-driven-development/SKILL.md)
+- [obra/dispatching-parallel-agents](agent-orchestration/obra/dispatching-parallel-agents/SKILL.md)
+- [obra/subagent-driven-development](agent-orchestration/obra/subagent-driven-development/SKILL.md)
 - [sickn33/agent-orchestration-improve-agent](agent-orchestration/sickn33/agent-orchestration-improve-agent/SKILL.md)
 - [sickn33/agent-orchestration-multi-agent-optimize](agent-orchestration/sickn33/agent-orchestration-multi-agent-optimize/SKILL.md)
 - [sickn33/agent-orchestrator](agent-orchestration/sickn33/agent-orchestrator/SKILL.md)
 - [sickn33/agentflow](agent-orchestration/sickn33/agentflow/SKILL.md)
 - [sickn33/dispatching-parallel-agents](agent-orchestration/sickn33/dispatching-parallel-agents/SKILL.md)
+- [sickn33/subagent-driven-development](agent-orchestration/sickn33/subagent-driven-development/SKILL.md)
 
-## ai-assistant-email
+## agent-phone
 
-- [sickn33/agentmail](ai-assistant-email/sickn33/agentmail/SKILL.md)
+- [sickn33/agentphone](agent-phone/sickn33/agentphone/SKILL.md)
 
-## ai-assistant-hooks
-
-- [NeoLabHQ/create-hook](ai-assistant-hooks/NeoLabHQ/create-hook/SKILL.md)
-
-## ai-assistant-memory
-
-- [alirezarezvani/decision-logger](ai-assistant-memory/alirezarezvani/decision-logger/SKILL.md)
-- [github/memory-merger](ai-assistant-memory/github/memory-merger/SKILL.md)
-- [github/remember](ai-assistant-memory/github/remember/SKILL.md)
-- [mutable-state-inc/ensue-memory](ai-assistant-memory/mutable-state-inc/ensue-memory/SKILL.md)
-- [NeoLabHQ/memorize](ai-assistant-memory/NeoLabHQ/memorize/SKILL.md)
-- [sickn33/agent-memory-mcp](ai-assistant-memory/sickn33/agent-memory-mcp/SKILL.md)
-- [sickn33/agent-memory-systems](ai-assistant-memory/sickn33/agent-memory-systems/SKILL.md)
-- [sickn33/conversation-memory](ai-assistant-memory/sickn33/conversation-memory/SKILL.md)
-- [sickn33/memory-systems](ai-assistant-memory/sickn33/memory-systems/SKILL.md)
-
-## ai-assistant-orchestration
-
-- [alirezarezvani/agent-workflow-designer](ai-assistant-orchestration/alirezarezvani/agent-workflow-designer/SKILL.md)
-- [bmad-code-org/bmad-distillator](ai-assistant-orchestration/bmad-code-org/bmad-distillator/SKILL.md)
-- [NeoLabHQ/multi-agent-patterns](ai-assistant-orchestration/NeoLabHQ/multi-agent-patterns/SKILL.md)
-- [obra/dispatching-parallel-agents](ai-assistant-orchestration/obra/dispatching-parallel-agents/SKILL.md)
-- [obra/subagent-driven-development](ai-assistant-orchestration/obra/subagent-driven-development/SKILL.md)
-- [sickn33/subagent-driven-development](ai-assistant-orchestration/sickn33/subagent-driven-development/SKILL.md)
+## agent-skill-maker
 
-## ai-assistant-phone
+- [anthropics/skill-creator](agent-skill-maker/anthropics/skill-creator/SKILL.md)
+- [feiskyer/skill-creator](agent-skill-maker/feiskyer/skill-creator/SKILL.md)
+- [github/copilot-instructions-blueprint-generator](agent-skill-maker/github/copilot-instructions-blueprint-generator/SKILL.md)
+- [github/create-agentsmd](agent-skill-maker/github/create-agentsmd/SKILL.md)
+- [github/make-skill-template](agent-skill-maker/github/make-skill-template/SKILL.md)
+- [github/microsoft-skill-creator](agent-skill-maker/github/microsoft-skill-creator/SKILL.md)
+- [mattnebr/ai-assistant-skill-maker](agent-skill-maker/mattnebr/ai-assistant-skill-maker/SKILL.md)
+- [mattnebr/copilot-instruction-writer](agent-skill-maker/mattnebr/copilot-instruction-writer/SKILL.md)
+- [NeoLabHQ/apply-anthropic-skill-best-practices](agent-skill-maker/NeoLabHQ/apply-anthropic-skill-best-practices/SKILL.md)
+- [NeoLabHQ/create-skill](agent-skill-maker/NeoLabHQ/create-skill/SKILL.md)
+- [SebastienDegodez/skill-creator](agent-skill-maker/SebastienDegodez/skill-creator/SKILL.md)
 
-- [sickn33/agentphone](ai-assistant-phone/sickn33/agentphone/SKILL.md)
+## agent-workflow
 
-## ai-assistant-skill-maker
+- [cblecker/dispatching-parallel-agents](agent-workflow/cblecker/dispatching-parallel-agents/SKILL.md)
+- [cblecker/subagent-driven-development](agent-workflow/cblecker/subagent-driven-development/SKILL.md)
+- [NeoLabHQ/create-workflow-command](agent-workflow/NeoLabHQ/create-workflow-command/SKILL.md)
 
-- [anthropics/skill-creator](ai-assistant-skill-maker/anthropics/skill-creator/SKILL.md)
-- [feiskyer/skill-creator](ai-assistant-skill-maker/feiskyer/skill-creator/SKILL.md)
-- [github/copilot-instructions-blueprint-generator](ai-assistant-skill-maker/github/copilot-instructions-blueprint-generator/SKILL.md)
-- [github/create-agentsmd](ai-assistant-skill-maker/github/create-agentsmd/SKILL.md)
-- [github/make-skill-template](ai-assistant-skill-maker/github/make-skill-template/SKILL.md)
-- [github/microsoft-skill-creator](ai-assistant-skill-maker/github/microsoft-skill-creator/SKILL.md)
-- [mattnebr/ai-assistant-skill-maker](ai-assistant-skill-maker/mattnebr/ai-assistant-skill-maker/SKILL.md)
-- [mattnebr/copilot-instruction-writer](ai-assistant-skill-maker/mattnebr/copilot-instruction-writer/SKILL.md)
-- [NeoLabHQ/apply-anthropic-skill-best-practices](ai-assistant-skill-maker/NeoLabHQ/apply-anthropic-skill-best-practices/SKILL.md)
-- [NeoLabHQ/create-skill](ai-assistant-skill-maker/NeoLabHQ/create-skill/SKILL.md)
-- [SebastienDegodez/skill-creator](ai-assistant-skill-maker/SebastienDegodez/skill-creator/SKILL.md)
+## architecture-adr
 
-## ai-assistant-workflow
+- [addyosmani/documentation-and-adrs](architecture-adr/addyosmani/documentation-and-adrs/SKILL.md)
+- [github/architecture-blueprint-generator](architecture-adr/github/architecture-blueprint-generator/SKILL.md)
+- [github/create-architectural-decision-record](architecture-adr/github/create-architectural-decision-record/SKILL.md)
+- [sickn33/architecture-decision-records](architecture-adr/sickn33/architecture-decision-records/SKILL.md)
 
-- [cblecker/dispatching-parallel-agents](ai-assistant-workflow/cblecker/dispatching-parallel-agents/SKILL.md)
-- [cblecker/subagent-driven-development](ai-assistant-workflow/cblecker/subagent-driven-development/SKILL.md)
-- [NeoLabHQ/create-workflow-command](ai-assistant-workflow/NeoLabHQ/create-workflow-command/SKILL.md)
-
-## architect-database
+## architecture-codebase-analysis
 
-- [alirezarezvani/database-schema-designer](architect-database/alirezarezvani/database-schema-designer/SKILL.md)
-- [bmad-code-org/bmad-sprint-status](architect-database/bmad-code-org/bmad-sprint-status/SKILL.md)
-- [sickn33/database-architect](architect-database/sickn33/database-architect/SKILL.md)
-- [sickn33/database-design](architect-database/sickn33/database-design/SKILL.md)
-- [sickn33/database-migration](architect-database/sickn33/database-migration/SKILL.md)
-- [sickn33/privacy-by-design](architect-database/sickn33/privacy-by-design/SKILL.md)
+- [SebastienDegodez/analyzing-code](architecture-codebase-analysis/SebastienDegodez/analyzing-code/SKILL.md)
+- [SebastienDegodez/analyzing-code-structure](architecture-codebase-analysis/SebastienDegodez/analyzing-code-structure/SKILL.md)
 
-## architect-network
+## architecture-database
 
-- [sickn33/network-101](architect-network/sickn33/network-101/SKILL.md)
+- [alirezarezvani/database-schema-designer](architecture-database/alirezarezvani/database-schema-designer/SKILL.md)
+- [bmad-code-org/bmad-sprint-status](architecture-database/bmad-code-org/bmad-sprint-status/SKILL.md)
+- [sickn33/database-architect](architecture-database/sickn33/database-architect/SKILL.md)
+- [sickn33/database-design](architecture-database/sickn33/database-design/SKILL.md)
+- [sickn33/database-migration](architecture-database/sickn33/database-migration/SKILL.md)
+- [sickn33/privacy-by-design](architecture-database/sickn33/privacy-by-design/SKILL.md)
 
-## architect-software
+## architecture-documentation
 
-- [alirezarezvani/senior-architect](architect-software/alirezarezvani/senior-architect/SKILL.md)
-- [alirezarezvani/tech-stack-evaluator](architect-software/alirezarezvani/tech-stack-evaluator/SKILL.md)
-- [sickn33/architect-review](architect-software/sickn33/architect-review/SKILL.md)
-- [sickn33/architecture](architect-software/sickn33/architecture/SKILL.md)
-- [sickn33/architecture-patterns](architect-software/sickn33/architecture-patterns/SKILL.md)
-- [sickn33/cloud-architect](architect-software/sickn33/cloud-architect/SKILL.md)
-- [sickn33/domain-driven-design](architect-software/sickn33/domain-driven-design/SKILL.md)
-- [sickn33/dotnet-architect](architect-software/sickn33/dotnet-architect/SKILL.md)
-- [sickn33/dotnet-backend-patterns](architect-software/sickn33/dotnet-backend-patterns/SKILL.md)
-- [sickn33/event-sourcing-architect](architect-software/sickn33/event-sourcing-architect/SKILL.md)
-- [sickn33/event-store-design](architect-software/sickn33/event-store-design/SKILL.md)
-- [sickn33/microservices-patterns](architect-software/sickn33/microservices-patterns/SKILL.md)
-- [sickn33/monorepo-architect](architect-software/sickn33/monorepo-architect/SKILL.md)
-- [sickn33/senior-architect](architect-software/sickn33/senior-architect/SKILL.md)
-- [sickn33/software-architecture](architect-software/sickn33/software-architecture/SKILL.md)
+- [bmad-code-org/bmad-create-architecture](architecture-documentation/bmad-code-org/bmad-create-architecture/SKILL.md)
+- [SebastienDegodez/extracting-code-structure](architecture-documentation/SebastienDegodez/extracting-code-structure/SKILL.md)
+- [SebastienDegodez/modular-monolith-architecture](architecture-documentation/SebastienDegodez/modular-monolith-architecture/modular-monolith-architecture.instructions.md)
+- [SebastienDegodez/modular-monolith-communication](architecture-documentation/SebastienDegodez/modular-monolith-communication/modular-monolith-communication.instructions.md)
 
-## architecture-decision-records
+## architecture-network
 
-- [addyosmani/documentation-and-adrs](architecture-decision-records/addyosmani/documentation-and-adrs/SKILL.md)
-- [github/architecture-blueprint-generator](architecture-decision-records/github/architecture-blueprint-generator/SKILL.md)
-- [github/create-architectural-decision-record](architecture-decision-records/github/create-architectural-decision-record/SKILL.md)
-- [sickn33/architecture-decision-records](architecture-decision-records/sickn33/architecture-decision-records/SKILL.md)
+- [sickn33/network-101](architecture-network/sickn33/network-101/SKILL.md)
 
-## ask-questions-if-underspecified
+## architecture-software
 
-- [github/first-ask](ask-questions-if-underspecified/github/first-ask/SKILL.md)
-- [github/what-context-needed](ask-questions-if-underspecified/github/what-context-needed/SKILL.md)
-- [mattnebr/follow-up-question](ask-questions-if-underspecified/mattnebr/follow-up-question/follow-up-question.instructions.md)
-- [SebastienDegodez/follow-up-question](ask-questions-if-underspecified/SebastienDegodez/follow-up-question/follow-up-question.instructions.md)
-- [sickn33/ask-questions-if-underspecified](ask-questions-if-underspecified/sickn33/ask-questions-if-underspecified/SKILL.md)
+- [alirezarezvani/senior-architect](architecture-software/alirezarezvani/senior-architect/SKILL.md)
+- [alirezarezvani/tech-stack-evaluator](architecture-software/alirezarezvani/tech-stack-evaluator/SKILL.md)
+- [sickn33/architect-review](architecture-software/sickn33/architect-review/SKILL.md)
+- [sickn33/architecture](architecture-software/sickn33/architecture/SKILL.md)
+- [sickn33/architecture-patterns](architecture-software/sickn33/architecture-patterns/SKILL.md)
+- [sickn33/cloud-architect](architecture-software/sickn33/cloud-architect/SKILL.md)
+- [sickn33/domain-driven-design](architecture-software/sickn33/domain-driven-design/SKILL.md)
+- [sickn33/dotnet-architect](architecture-software/sickn33/dotnet-architect/SKILL.md)
+- [sickn33/dotnet-backend-patterns](architecture-software/sickn33/dotnet-backend-patterns/SKILL.md)
+- [sickn33/event-sourcing-architect](architecture-software/sickn33/event-sourcing-architect/SKILL.md)
+- [sickn33/event-store-design](architecture-software/sickn33/event-store-design/SKILL.md)
+- [sickn33/microservices-patterns](architecture-software/sickn33/microservices-patterns/SKILL.md)
+- [sickn33/monorepo-architect](architecture-software/sickn33/monorepo-architect/SKILL.md)
+- [sickn33/senior-architect](architecture-software/sickn33/senior-architect/SKILL.md)
+- [sickn33/software-architecture](architecture-software/sickn33/software-architecture/SKILL.md)
 
-## brainstorming
+## build-csharp-scaffold
 
-- [addyosmani/idea-refine](brainstorming/addyosmani/idea-refine/SKILL.md)
-- [bmad-code-org/bmad-brainstorming](brainstorming/bmad-code-org/bmad-brainstorming/SKILL.md)
-- [cblecker/brainstorming](brainstorming/cblecker/brainstorming/SKILL.md)
-- [github/from-the-other-side-vega](brainstorming/github/from-the-other-side-vega/SKILL.md)
-- [K-Dense-AI/scientific-critical-thinking](brainstorming/K-Dense-AI/scientific-critical-thinking/SKILL.md)
-- [NeoLabHQ/brainstorm](brainstorming/NeoLabHQ/brainstorm/SKILL.md)
-- [NeoLabHQ/create-ideas](brainstorming/NeoLabHQ/create-ideas/SKILL.md)
-- [NeoLabHQ/thought-based-reasoning](brainstorming/NeoLabHQ/thought-based-reasoning/SKILL.md)
-- [NeoLabHQ/tree-of-thoughts](brainstorming/NeoLabHQ/tree-of-thoughts/SKILL.md)
-- [obra/brainstorming](brainstorming/obra/brainstorming/SKILL.md)
-- [sickn33/brainstorming](brainstorming/sickn33/brainstorming/SKILL.md)
-- [sickn33/idea-darwin](brainstorming/sickn33/idea-darwin/SKILL.md)
-- [SuperClaude-Org/brainstorm](brainstorming/SuperClaude-Org/brainstorm/SKILL.md)
+- [mattnebr/csharp-project-scaffolding](build-csharp-scaffold/mattnebr/csharp-project-scaffolding/SKILL.md)
 
-## builder-documents
+## build-docx
 
-- [anthropics/docx](builder-documents/anthropics/docx/SKILL.md)
+- [anthropics/docx](build-docx/anthropics/docx/SKILL.md)
 
-## builder-markdown-index
+## build-markdown-index
 
-- [bmad-code-org/bmad-index-docs](builder-markdown-index/bmad-code-org/bmad-index-docs/SKILL.md)
+- [bmad-code-org/bmad-index-docs](build-markdown-index/bmad-code-org/bmad-index-docs/SKILL.md)
 
-## builder-powerbi
+## build-mcp-server
 
-- [github/powerbi-modeling](builder-powerbi/github/powerbi-modeling/SKILL.md)
+- [github/csharp-mcp-server-generator](build-mcp-server/github/csharp-mcp-server-generator/SKILL.md)
 
-## builder-slide-presentation
+## build-powerbi
 
-- [anthropics/pptx](builder-slide-presentation/anthropics/pptx/SKILL.md)
-- [K-Dense-AI/pptx](builder-slide-presentation/K-Dense-AI/pptx/SKILL.md)
-- [K-Dense-AI/pptx-posters](builder-slide-presentation/K-Dense-AI/pptx-posters/SKILL.md)
-- [sickn33/pptx-official](builder-slide-presentation/sickn33/pptx-official/SKILL.md)
-- [zarazhangrui/frontend-slides](builder-slide-presentation/zarazhangrui/frontend-slides/SKILL.md)
+- [github/powerbi-modeling](build-powerbi/github/powerbi-modeling/SKILL.md)
 
-## builder-spreadsheet
+## build-pptx
 
-- [anthropics/xlsx](builder-spreadsheet/anthropics/xlsx/SKILL.md)
-- [K-Dense-AI/xlsx](builder-spreadsheet/K-Dense-AI/xlsx/SKILL.md)
-- [sickn33/xlsx-official](builder-spreadsheet/sickn33/xlsx-official/SKILL.md)
+- [anthropics/pptx](build-pptx/anthropics/pptx/SKILL.md)
+- [K-Dense-AI/pptx](build-pptx/K-Dense-AI/pptx/SKILL.md)
+- [K-Dense-AI/pptx-posters](build-pptx/K-Dense-AI/pptx-posters/SKILL.md)
+- [sickn33/pptx-official](build-pptx/sickn33/pptx-official/SKILL.md)
+- [zarazhangrui/frontend-slides](build-pptx/zarazhangrui/frontend-slides/SKILL.md)
 
-## business-analyst
+## build-xlsx
 
-- [alirezarezvani/cs-product-analyst](business-analyst/alirezarezvani/cs-product-analyst/SKILL.md)
-- [alirezarezvani/product-analytics](business-analyst/alirezarezvani/product-analytics/SKILL.md)
-- [sickn33/acceptance-orchestrator](business-analyst/sickn33/acceptance-orchestrator/SKILL.md)
-- [sickn33/business-analyst](business-analyst/sickn33/business-analyst/SKILL.md)
-- [sickn33/ddd-context-mapping](business-analyst/sickn33/ddd-context-mapping/SKILL.md)
-- [sickn33/ddd-strategic-design](business-analyst/sickn33/ddd-strategic-design/SKILL.md)
-- [sickn33/ddd-tactical-patterns](business-analyst/sickn33/ddd-tactical-patterns/SKILL.md)
-- [sickn33/github-issue-creator](business-analyst/sickn33/github-issue-creator/SKILL.md)
-- [sickn33/jobs-to-be-done-analyst](business-analyst/sickn33/jobs-to-be-done-analyst/SKILL.md)
+- [anthropics/xlsx](build-xlsx/anthropics/xlsx/SKILL.md)
+- [K-Dense-AI/xlsx](build-xlsx/K-Dense-AI/xlsx/SKILL.md)
+- [sickn33/xlsx-official](build-xlsx/sickn33/xlsx-official/SKILL.md)
 
-## confluence
+## code-api
 
-- [alirezarezvani/atlassian-admin](confluence/alirezarezvani/atlassian-admin/SKILL.md)
-- [alirezarezvani/atlassian-templates](confluence/alirezarezvani/atlassian-templates/SKILL.md)
-- [alirezarezvani/confluence-expert](confluence/alirezarezvani/confluence-expert/SKILL.md)
-- [langpingxue/atlassian-skills](confluence/langpingxue/atlassian-skills/SKILL.md)
-- [sickn33/confluence-automation](confluence/sickn33/confluence-automation/SKILL.md)
+- [addyosmani/api-and-interface-design](code-api/addyosmani/api-and-interface-design/SKILL.md)
+- [alirezarezvani/api-design-reviewer](code-api/alirezarezvani/api-design-reviewer/SKILL.md)
+- [alirezarezvani/api-test-suite-builder](code-api/alirezarezvani/api-test-suite-builder/SKILL.md)
+- [github/aspnet-minimal-api-openapi](code-api/github/aspnet-minimal-api-openapi/SKILL.md)
+- [jefflester/api-security](code-api/jefflester/api-security/SKILL.md)
+- [sickn33/api-design-principles](code-api/sickn33/api-design-principles/SKILL.md)
+- [sickn33/api-patterns](code-api/sickn33/api-patterns/SKILL.md)
 
-## csharp-async
+## code-blazor
 
-- [github/csharp-async](csharp-async/github/csharp-async/SKILL.md)
+- [github/fluentui-blazor](code-blazor/github/fluentui-blazor/SKILL.md)
 
-## csharp-clean-architecture
+## code-changelog
 
-- [SebastienDegodez/clean-architecture](csharp-clean-architecture/SebastienDegodez/clean-architecture/clean-architecture.instructions.md)
-- [SebastienDegodez/clean-architecture-dotnet](csharp-clean-architecture/SebastienDegodez/clean-architecture-dotnet/SKILL.md)
+- [alirezarezvani/changelog](code-changelog/alirezarezvani/changelog/SKILL.md)
+- [alirezarezvani/changelog-generator](code-changelog/alirezarezvani/changelog-generator/SKILL.md)
+- [ComposioHQ/changelog-generator](code-changelog/ComposioHQ/changelog-generator/SKILL.md)
+- [sickn33/changelog-automation](code-changelog/sickn33/changelog-automation/SKILL.md)
 
-## csharp-command-cqrs
+## code-cleanup
 
-- [SebastienDegodez/command-cqrs-csharp](csharp-command-cqrs/SebastienDegodez/command-cqrs-csharp/command-cqrs-csharp.instructions.md)
-- [SebastienDegodez/query-cqrs-csharp](csharp-command-cqrs/SebastienDegodez/query-cqrs-csharp/query-cqrs-csharp.instructions.md)
-- [SebastienDegodez/specification-business-rules-csharp](csharp-command-cqrs/SebastienDegodez/specification-business-rules-csharp/specification-business-rules-csharp.instructions.md)
+- [addyosmani/deprecation-and-migration](code-cleanup/addyosmani/deprecation-and-migration/SKILL.md)
+- [alirezarezvani/tech-debt](code-cleanup/alirezarezvani/tech-debt/SKILL.md)
+- [alirezarezvani/tech-debt-tracker](code-cleanup/alirezarezvani/tech-debt-tracker/SKILL.md)
+- [github/repo-story-time](code-cleanup/github/repo-story-time/SKILL.md)
+- [sickn33/codebase-cleanup-tech-debt](code-cleanup/sickn33/codebase-cleanup-tech-debt/SKILL.md)
 
-## csharp-console-app-menu
+## code-cli
 
-- [mattnebr/csharp-console-app-menu](csharp-console-app-menu/mattnebr/csharp-console-app-menu/SKILL.md)
+- [github/mcp-cli](code-cli/github/mcp-cli/SKILL.md)
+- [github/winapp-cli](code-cli/github/winapp-cli/SKILL.md)
+- [sickn33/ai-native-cli](code-cli/sickn33/ai-native-cli/SKILL.md)
 
-## csharp-domain-driven-design
+## code-csharp
 
-- [mattnebr/domain-driven-design](csharp-domain-driven-design/mattnebr/domain-driven-design/domain-driven-design.instructions.md)
-- [SebastienDegodez/domain-driven-design](csharp-domain-driven-design/SebastienDegodez/domain-driven-design/domain-driven-design.instructions.md)
-- [SebastienDegodez/domain-driven-design-event-csharp](csharp-domain-driven-design/SebastienDegodez/domain-driven-design-event-csharp/domain-driven-design-event-csharp.instructions.md)
+- [github/dotnet-best-practices](code-csharp/github/dotnet-best-practices/SKILL.md)
+- [github/dotnet-design-pattern-review](code-csharp/github/dotnet-design-pattern-review/SKILL.md)
+- [mattnebr/coding-style-csharp](code-csharp/mattnebr/coding-style-csharp/coding-style-csharp.instructions.md)
+- [SebastienDegodez/coding-style-csharp](code-csharp/SebastienDegodez/coding-style-csharp/coding-style-csharp.instructions.md)
+- [sickn33/csharp-pro](code-csharp/sickn33/csharp-pro/SKILL.md)
 
-## csharp-dry
+## code-csharp-async
 
-- [whawkinsiv/dry](csharp-dry/whawkinsiv/dry/SKILL.md)
+- [github/csharp-async](code-csharp-async/github/csharp-async/SKILL.md)
 
-## csharp-logging-levels
+## code-csharp-clean-arch
 
-- [mattnebr/csharp-logging-levels](csharp-logging-levels/mattnebr/csharp-logging-levels/SKILL.md)
+- [SebastienDegodez/clean-architecture](code-csharp-clean-arch/SebastienDegodez/clean-architecture/clean-architecture.instructions.md)
+- [SebastienDegodez/clean-architecture-dotnet](code-csharp-clean-arch/SebastienDegodez/clean-architecture-dotnet/SKILL.md)
 
-## csharp-mcp-server-generator
+## code-csharp-console
 
-- [github/csharp-mcp-server-generator](csharp-mcp-server-generator/github/csharp-mcp-server-generator/SKILL.md)
+- [mattnebr/csharp-console-app-menu](code-csharp-console/mattnebr/csharp-console-app-menu/SKILL.md)
 
-## csharp-mstest
+## code-csharp-cqrs
 
-- [github/csharp-mstest](csharp-mstest/github/csharp-mstest/SKILL.md)
-- [mattnebr/csharp-mstest](csharp-mstest/mattnebr/csharp-mstest/SKILL.md)
-- [mattnebr/unit-and-integration-tests](csharp-mstest/mattnebr/unit-and-integration-tests/unit-and-integration-tests.instructions.md)
+- [SebastienDegodez/command-cqrs-csharp](code-csharp-cqrs/SebastienDegodez/command-cqrs-csharp/command-cqrs-csharp.instructions.md)
+- [SebastienDegodez/query-cqrs-csharp](code-csharp-cqrs/SebastienDegodez/query-cqrs-csharp/query-cqrs-csharp.instructions.md)
+- [SebastienDegodez/specification-business-rules-csharp](code-csharp-cqrs/SebastienDegodez/specification-business-rules-csharp/specification-business-rules-csharp.instructions.md)
 
-## csharp-nunit
+## code-csharp-ddd
 
-- [github/csharp-nunit](csharp-nunit/github/csharp-nunit/SKILL.md)
+- [mattnebr/domain-driven-design](code-csharp-ddd/mattnebr/domain-driven-design/domain-driven-design.instructions.md)
+- [SebastienDegodez/domain-driven-design](code-csharp-ddd/SebastienDegodez/domain-driven-design/domain-driven-design.instructions.md)
+- [SebastienDegodez/domain-driven-design-event-csharp](code-csharp-ddd/SebastienDegodez/domain-driven-design-event-csharp/domain-driven-design-event-csharp.instructions.md)
 
-## csharp-project-scaffolding
+## code-csharp-dry
 
-- [mattnebr/csharp-project-scaffolding](csharp-project-scaffolding/mattnebr/csharp-project-scaffolding/SKILL.md)
+- [whawkinsiv/dry](code-csharp-dry/whawkinsiv/dry/SKILL.md)
 
-## csharp-test-driven-development
+## code-csharp-logging
 
-- [addyosmani/test-driven-development](csharp-test-driven-development/addyosmani/test-driven-development/SKILL.md)
-- [cblecker/test-driven-development](csharp-test-driven-development/cblecker/test-driven-development/SKILL.md)
-- [NeoLabHQ/test-driven-development](csharp-test-driven-development/NeoLabHQ/test-driven-development/SKILL.md)
-- [obra/test-driven-development](csharp-test-driven-development/obra/test-driven-development/SKILL.md)
+- [mattnebr/csharp-logging-levels](code-csharp-logging/mattnebr/csharp-logging-levels/SKILL.md)
 
-## data-scientist
+## code-csharp-mstest
 
-- [alirezarezvani/product-analytics](data-scientist/alirezarezvani/product-analytics/SKILL.md)
-- [alirezarezvani/senior-data-scientist](data-scientist/alirezarezvani/senior-data-scientist/SKILL.md)
-- [alirezarezvani/statistical-analyst](data-scientist/alirezarezvani/statistical-analyst/SKILL.md)
-- [K-Dense-AI/database-lookup](data-scientist/K-Dense-AI/database-lookup/SKILL.md)
-- [sickn33/data-scientist](data-scientist/sickn33/data-scientist/SKILL.md)
-- [sickn33/data-storytelling](data-scientist/sickn33/data-storytelling/SKILL.md)
-- [sickn33/kpi-dashboard-design](data-scientist/sickn33/kpi-dashboard-design/SKILL.md)
-- [whawkinsiv/analytics](data-scientist/whawkinsiv/analytics/SKILL.md)
+- [github/csharp-mstest](code-csharp-mstest/github/csharp-mstest/SKILL.md)
+- [mattnebr/csharp-mstest](code-csharp-mstest/mattnebr/csharp-mstest/SKILL.md)
+- [mattnebr/unit-and-integration-tests](code-csharp-mstest/mattnebr/unit-and-integration-tests/unit-and-integration-tests.instructions.md)
 
-## designer-ascii
+## code-csharp-nunit
 
-- [anthropics/algorithmic-art](designer-ascii/anthropics/algorithmic-art/SKILL.md)
-- [sickn33/algorithmic-art](designer-ascii/sickn33/algorithmic-art/SKILL.md)
+- [github/csharp-nunit](code-csharp-nunit/github/csharp-nunit/SKILL.md)
 
-## designer-branding
+## code-csharp-tdd
 
-- [alirezarezvani/brand-guidelines](designer-branding/alirezarezvani/brand-guidelines/SKILL.md)
-- [anthropics/brand-guidelines](designer-branding/anthropics/brand-guidelines/SKILL.md)
-- [ComposioHQ/brand-guidelines](designer-branding/ComposioHQ/brand-guidelines/SKILL.md)
-- [sickn33/brand-guidelines](designer-branding/sickn33/brand-guidelines/SKILL.md)
-- [sickn33/brand-guidelines-anthropic](designer-branding/sickn33/brand-guidelines-anthropic/SKILL.md)
-- [sickn33/brand-perception-psychologist](designer-branding/sickn33/brand-perception-psychologist/SKILL.md)
-- [whawkinsiv/brand-identity-generator](designer-branding/whawkinsiv/brand-identity-generator/SKILL.md)
+- [addyosmani/test-driven-development](code-csharp-tdd/addyosmani/test-driven-development/SKILL.md)
+- [cblecker/test-driven-development](code-csharp-tdd/cblecker/test-driven-development/SKILL.md)
+- [NeoLabHQ/test-driven-development](code-csharp-tdd/NeoLabHQ/test-driven-development/SKILL.md)
+- [obra/test-driven-development](code-csharp-tdd/obra/test-driven-development/SKILL.md)
 
-## designer-email
+## code-debug
 
-- [alirezarezvani/email-template-builder](designer-email/alirezarezvani/email-template-builder/SKILL.md)
-- [whawkinsiv/email](designer-email/whawkinsiv/email/SKILL.md)
+- [addyosmani/debugging-and-error-recovery](code-debug/addyosmani/debugging-and-error-recovery/SKILL.md)
+- [NeoLabHQ/root-cause-tracing](code-debug/NeoLabHQ/root-cause-tracing/SKILL.md)
+- [obra/systematic-debugging](code-debug/obra/systematic-debugging/SKILL.md)
+- [whawkinsiv/debug](code-debug/whawkinsiv/debug/SKILL.md)
 
-## designer-favicon
+## code-editorconfig
 
-- [sickn33/favicon](designer-favicon/sickn33/favicon/SKILL.md)
+- [github/editorconfig](code-editorconfig/github/editorconfig/SKILL.md)
+- [github/write-coding-standards-from-file](code-editorconfig/github/write-coding-standards-from-file/SKILL.md)
 
-## designer-ui
+## code-frontend
 
-- [alirezarezvani/ui-design-system](designer-ui/alirezarezvani/ui-design-system/SKILL.md)
-- [anthropics/frontend-design](designer-ui/anthropics/frontend-design/SKILL.md)
-- [axiaoge2/Apple-Hig-Designer](designer-ui/axiaoge2/Apple-Hig-Designer/SKILL.md)
-- [github/web-design-reviewer](designer-ui/github/web-design-reviewer/SKILL.md)
-- [pbakaus/impeccable](designer-ui/pbakaus/impeccable/SKILL.md)
-- [sickn33/ui-pattern](designer-ui/sickn33/ui-pattern/SKILL.md)
-- [sickn33/ui-ux-designer](designer-ui/sickn33/ui-ux-designer/SKILL.md)
-- [sickn33/ui-ux-pro-max](designer-ui/sickn33/ui-ux-pro-max/SKILL.md)
-- [sickn33/web-design-guidelines](designer-ui/sickn33/web-design-guidelines/SKILL.md)
-- [whawkinsiv/design-review](designer-ui/whawkinsiv/design-review/SKILL.md)
-- [whawkinsiv/ui-patterns](designer-ui/whawkinsiv/ui-patterns/SKILL.md)
+- [addyosmani/frontend-ui-engineering](code-frontend/addyosmani/frontend-ui-engineering/SKILL.md)
+- [alirezarezvani/senior-frontend](code-frontend/alirezarezvani/senior-frontend/SKILL.md)
+- [sickn33/frontend-dev-guidelines](code-frontend/sickn33/frontend-dev-guidelines/SKILL.md)
+- [sickn33/frontend-developer](code-frontend/sickn33/frontend-developer/SKILL.md)
+- [sickn33/frontend-security-coder](code-frontend/sickn33/frontend-security-coder/SKILL.md)
+- [sickn33/frontend-ui-dark-ts](code-frontend/sickn33/frontend-ui-dark-ts/SKILL.md)
+- [sickn33/senior-frontend](code-frontend/sickn33/senior-frontend/SKILL.md)
+- [sickn33/web-performance-optimization](code-frontend/sickn33/web-performance-optimization/SKILL.md)
 
-## designer-ui-ab
+## code-general
 
-- [alirezarezvani/ab-test-setup](designer-ui-ab/alirezarezvani/ab-test-setup/SKILL.md)
-- [alirezarezvani/experiment-designer](designer-ui-ab/alirezarezvani/experiment-designer/SKILL.md)
+- [alirezarezvani/cs-senior-engineer](code-general/alirezarezvani/cs-senior-engineer/SKILL.md)
+- [github/microsoft-code-reference](code-general/github/microsoft-code-reference/SKILL.md)
+- [github/microsoft-docs](code-general/github/microsoft-docs/SKILL.md)
+- [mattnebr/coding-style-project](code-general/mattnebr/coding-style-project/coding-style-project.instructions.md)
+- [mattnebr/coding-style-solution](code-general/mattnebr/coding-style-solution/coding-style-solution.instructions.md)
+- [NeoLabHQ/setup-code-formating](code-general/NeoLabHQ/setup-code-formating/SKILL.md)
+- [ramziddin/solid](code-general/ramziddin/solid/SKILL.md)
+- [SebastienDegodez/unit-and-integration-tests](code-general/SebastienDegodez/unit-and-integration-tests/unit-and-integration-tests.instructions.md)
+- [sickn33/ai-engineer](code-general/sickn33/ai-engineer/SKILL.md)
+- [sickn33/development](code-general/sickn33/development/SKILL.md)
+- [sickn33/dotnet-backend](code-general/sickn33/dotnet-backend/SKILL.md)
 
-## designer-ui-accessibility
+## code-java-junit
 
-- [alirezarezvani/a11y-audit](designer-ui-accessibility/alirezarezvani/a11y-audit/SKILL.md)
-- [alirezarezvani/cmd-a11y-audit](designer-ui-accessibility/alirezarezvani/cmd-a11y-audit/SKILL.md)
-- [sickn33/accessibility-compliance-accessibility-audit](designer-ui-accessibility/sickn33/accessibility-compliance-accessibility-audit/SKILL.md)
-- [sickn33/ui-a11y](designer-ui-accessibility/sickn33/ui-a11y/SKILL.md)
-- [sickn33/wcag-audit-patterns](designer-ui-accessibility/sickn33/wcag-audit-patterns/SKILL.md)
+- [github/java-junit](code-java-junit/github/java-junit/SKILL.md)
 
-## designer-ux
+## code-javascript
 
-- [alirezarezvani/cs-ux-researcher](designer-ux/alirezarezvani/cs-ux-researcher/SKILL.md)
-- [alirezarezvani/ux-researcher-designer](designer-ux/alirezarezvani/ux-researcher-designer/SKILL.md)
-- [bmad-code-org/bmad-agent-ux-designer](designer-ux/bmad-code-org/bmad-agent-ux-designer/SKILL.md)
-- [bmad-code-org/bmad-create-ux-design](designer-ux/bmad-code-org/bmad-create-ux-design/SKILL.md)
-- [whawkinsiv/journey](designer-ux/whawkinsiv/journey/SKILL.md)
-- [whawkinsiv/ux-design](designer-ux/whawkinsiv/ux-design/SKILL.md)
+- [sickn33/javascript-mastery](code-javascript/sickn33/javascript-mastery/SKILL.md)
+- [sickn33/javascript-pro](code-javascript/sickn33/javascript-pro/SKILL.md)
 
-## doc-architecture
+## code-markdown
 
-- [bmad-code-org/bmad-create-architecture](doc-architecture/bmad-code-org/bmad-create-architecture/SKILL.md)
-- [SebastienDegodez/extracting-code-structure](doc-architecture/SebastienDegodez/extracting-code-structure/SKILL.md)
-- [SebastienDegodez/modular-monolith-architecture](doc-architecture/SebastienDegodez/modular-monolith-architecture/modular-monolith-architecture.instructions.md)
-- [SebastienDegodez/modular-monolith-communication](doc-architecture/SebastienDegodez/modular-monolith-communication/modular-monolith-communication.instructions.md)
+- [github/convert-plaintext-to-md](code-markdown/github/convert-plaintext-to-md/SKILL.md)
+- [github/markdown-to-html](code-markdown/github/markdown-to-html/SKILL.md)
+- [github/update-markdown-file-index](code-markdown/github/update-markdown-file-index/SKILL.md)
+- [K-Dense-AI/markdown-mermaid-writing](code-markdown/K-Dense-AI/markdown-mermaid-writing/SKILL.md)
+- [SebastienDegodez/marp-presentations](code-markdown/SebastienDegodez/marp-presentations/marp-presentations.instructions.md)
+- [sickn33/agents-md](code-markdown/sickn33/agents-md/SKILL.md)
+- [sickn33/ai-md](code-markdown/sickn33/ai-md/SKILL.md)
+- [sickn33/design-md](code-markdown/sickn33/design-md/SKILL.md)
 
-## document-surface
+## code-mermaid
 
-- [SebastienDegodez/analyzing-code](document-surface/SebastienDegodez/analyzing-code/SKILL.md)
-- [SebastienDegodez/analyzing-code-structure](document-surface/SebastienDegodez/analyzing-code-structure/SKILL.md)
+- [imxv/Pretty-mermaid-skills](code-mermaid/imxv/Pretty-mermaid-skills/SKILL.md)
+- [sickn33/mermaid-expert](code-mermaid/sickn33/mermaid-expert/SKILL.md)
 
-## engineer-api
+## code-nestjs
 
-- [addyosmani/api-and-interface-design](engineer-api/addyosmani/api-and-interface-design/SKILL.md)
-- [alirezarezvani/api-design-reviewer](engineer-api/alirezarezvani/api-design-reviewer/SKILL.md)
-- [alirezarezvani/api-test-suite-builder](engineer-api/alirezarezvani/api-test-suite-builder/SKILL.md)
-- [github/aspnet-minimal-api-openapi](engineer-api/github/aspnet-minimal-api-openapi/SKILL.md)
-- [jefflester/api-security](engineer-api/jefflester/api-security/SKILL.md)
-- [sickn33/api-design-principles](engineer-api/sickn33/api-design-principles/SKILL.md)
-- [sickn33/api-patterns](engineer-api/sickn33/api-patterns/SKILL.md)
+- [sickn33/nestjs-expert](code-nestjs/sickn33/nestjs-expert/SKILL.md)
 
-## engineer-changelog
+## code-nextjs
 
-- [alirezarezvani/changelog](engineer-changelog/alirezarezvani/changelog/SKILL.md)
-- [alirezarezvani/changelog-generator](engineer-changelog/alirezarezvani/changelog-generator/SKILL.md)
-- [ComposioHQ/changelog-generator](engineer-changelog/ComposioHQ/changelog-generator/SKILL.md)
-- [sickn33/changelog-automation](engineer-changelog/sickn33/changelog-automation/SKILL.md)
+- [sickn33/nextjs-app-router-patterns](code-nextjs/sickn33/nextjs-app-router-patterns/SKILL.md)
+- [sickn33/nextjs-best-practices](code-nextjs/sickn33/nextjs-best-practices/SKILL.md)
+- [sickn33/react-nextjs-development](code-nextjs/sickn33/react-nextjs-development/SKILL.md)
 
-## engineer-ci-cd
+## code-oo-design
 
-- [addyosmani/ci-cd-and-automation](engineer-ci-cd/addyosmani/ci-cd-and-automation/SKILL.md)
-- [alirezarezvani/ci-cd-pipeline-builder](engineer-ci-cd/alirezarezvani/ci-cd-pipeline-builder/SKILL.md)
-- [alirezarezvani/devops-engineer](engineer-ci-cd/alirezarezvani/devops-engineer/SKILL.md)
-- [alirezarezvani/senior-devops](engineer-ci-cd/alirezarezvani/senior-devops/SKILL.md)
-- [github/create-github-action-workflow-specification](engineer-ci-cd/github/create-github-action-workflow-specification/SKILL.md)
-- [github/dependabot](engineer-ci-cd/github/dependabot/SKILL.md)
-- [sickn33/cicd-automation-workflow-automate](engineer-ci-cd/sickn33/cicd-automation-workflow-automate/SKILL.md)
-- [sickn33/deployment-engineer](engineer-ci-cd/sickn33/deployment-engineer/SKILL.md)
-- [sickn33/deployment-pipeline-design](engineer-ci-cd/sickn33/deployment-pipeline-design/SKILL.md)
-- [sickn33/github-actions-templates](engineer-ci-cd/sickn33/github-actions-templates/SKILL.md)
-- [sickn33/github-automation](engineer-ci-cd/sickn33/github-automation/SKILL.md)
-- [whawkinsiv/deploy](engineer-ci-cd/whawkinsiv/deploy/SKILL.md)
+- [mattnebr/object-calisthenics](code-oo-design/mattnebr/object-calisthenics/object-calisthenics.instructions.md)
+- [SebastienDegodez/object-calisthenics](code-oo-design/SebastienDegodez/object-calisthenics/object-calisthenics.instructions.md)
 
-## engineer-cli
+## code-powershell
 
-- [github/mcp-cli](engineer-cli/github/mcp-cli/SKILL.md)
-- [github/winapp-cli](engineer-cli/github/winapp-cli/SKILL.md)
-- [sickn33/ai-native-cli](engineer-cli/sickn33/ai-native-cli/SKILL.md)
+- [sickn33/powershell-windows](code-powershell/sickn33/powershell-windows/SKILL.md)
 
-## engineer-data
+## code-python
 
-- [alirezarezvani/data-quality-auditor](engineer-data/alirezarezvani/data-quality-auditor/SKILL.md)
-- [alirezarezvani/senior-data-engineer](engineer-data/alirezarezvani/senior-data-engineer/SKILL.md)
-- [chadboyda/lead-enrichment](engineer-data/chadboyda/lead-enrichment/SKILL.md)
-- [sickn33/data-engineer](engineer-data/sickn33/data-engineer/SKILL.md)
-- [sickn33/data-engineering-data-driven-feature](engineer-data/sickn33/data-engineering-data-driven-feature/SKILL.md)
-- [sickn33/data-engineering-data-pipeline](engineer-data/sickn33/data-engineering-data-pipeline/SKILL.md)
-- [sickn33/data-structure-protocol](engineer-data/sickn33/data-structure-protocol/SKILL.md)
-- [sickn33/database-optimizer](engineer-data/sickn33/database-optimizer/SKILL.md)
+- [jefflester/python-best-practices](code-python/jefflester/python-best-practices/SKILL.md)
+- [sickn33/agents-v2-py](code-python/sickn33/agents-v2-py/SKILL.md)
+- [sickn33/python-patterns](code-python/sickn33/python-patterns/SKILL.md)
+- [sickn33/python-performance-optimization](code-python/sickn33/python-performance-optimization/SKILL.md)
 
-## engineer-database
+## code-rag
 
-- [alirezarezvani/database-designer](engineer-database/alirezarezvani/database-designer/SKILL.md)
-- [alirezarezvani/database-schema-designer](engineer-database/alirezarezvani/database-schema-designer/SKILL.md)
-- [alirezarezvani/senior-backend](engineer-database/alirezarezvani/senior-backend/SKILL.md)
-- [alirezarezvani/sql-database-assistant](engineer-database/alirezarezvani/sql-database-assistant/SKILL.md)
-- [github/sql-code-review](engineer-database/github/sql-code-review/SKILL.md)
-- [github/sql-optimization](engineer-database/github/sql-optimization/SKILL.md)
-- [sanjay3290/mssql](engineer-database/sanjay3290/mssql/SKILL.md)
-- [sanjay3290/mysql](engineer-database/sanjay3290/mysql/SKILL.md)
-- [sanjay3290/postgres](engineer-database/sanjay3290/postgres/SKILL.md)
-- [sickn33/sql-optimization-patterns](engineer-database/sickn33/sql-optimization-patterns/SKILL.md)
-- [sickn33/sql-pro](engineer-database/sickn33/sql-pro/SKILL.md)
-- [whawkinsiv/database](engineer-database/whawkinsiv/database/SKILL.md)
+- [alirezarezvani/rag-architect](code-rag/alirezarezvani/rag-architect/SKILL.md)
 
-## engineer-database-nosql
+## code-react
 
-- [sickn33/nosql-expert](engineer-database-nosql/sickn33/nosql-expert/SKILL.md)
+- [sickn33/react-best-practices](code-react/sickn33/react-best-practices/SKILL.md)
+- [sickn33/react-component-performance](code-react/sickn33/react-component-performance/SKILL.md)
+- [sickn33/react-flow-architect](code-react/sickn33/react-flow-architect/SKILL.md)
+- [sickn33/react-patterns](code-react/sickn33/react-patterns/SKILL.md)
+- [sickn33/react-state-management](code-react/sickn33/react-state-management/SKILL.md)
+- [sickn33/react-ui-patterns](code-react/sickn33/react-ui-patterns/SKILL.md)
 
-## engineer-database-vector
+## code-readme
 
-- [sickn33/vector-database-engineer](engineer-database-vector/sickn33/vector-database-engineer/SKILL.md)
-- [sickn33/vector-index-tuning](engineer-database-vector/sickn33/vector-index-tuning/SKILL.md)
+- [alirezarezvani/README](code-readme/alirezarezvani/README/SKILL.md)
+- [github/create-readme](code-readme/github/create-readme/SKILL.md)
+- [github/create-tldr-page](code-readme/github/create-tldr-page/SKILL.md)
+- [github/readme-blueprint-generator](code-readme/github/readme-blueprint-generator/SKILL.md)
+- [github/tldr-prompt](code-readme/github/tldr-prompt/SKILL.md)
+- [NeoLabHQ/update-docs](code-readme/NeoLabHQ/update-docs/SKILL.md)
+- [sickn33/readme](code-readme/sickn33/readme/SKILL.md)
 
-## engineer-editorconfig
+## code-sveltekit
 
-- [github/editorconfig](engineer-editorconfig/github/editorconfig/SKILL.md)
-- [github/write-coding-standards-from-file](engineer-editorconfig/github/write-coding-standards-from-file/SKILL.md)
+- [sickn33/sveltekit](code-sveltekit/sickn33/sveltekit/SKILL.md)
 
-## engineer-janitor
+## code-typescript
 
-- [addyosmani/deprecation-and-migration](engineer-janitor/addyosmani/deprecation-and-migration/SKILL.md)
-- [alirezarezvani/tech-debt](engineer-janitor/alirezarezvani/tech-debt/SKILL.md)
-- [alirezarezvani/tech-debt-tracker](engineer-janitor/alirezarezvani/tech-debt-tracker/SKILL.md)
-- [github/repo-story-time](engineer-janitor/github/repo-story-time/SKILL.md)
-- [sickn33/codebase-cleanup-tech-debt](engineer-janitor/sickn33/codebase-cleanup-tech-debt/SKILL.md)
+- [NeoLabHQ/add-typescript-best-practices](code-typescript/NeoLabHQ/add-typescript-best-practices/SKILL.md)
+- [sickn33/typescript-advanced-types](code-typescript/sickn33/typescript-advanced-types/SKILL.md)
+- [sickn33/typescript-expert](code-typescript/sickn33/typescript-expert/SKILL.md)
+- [sickn33/typescript-pro](code-typescript/sickn33/typescript-pro/SKILL.md)
 
-## engineer-markdown
+## code-ui
 
-- [github/convert-plaintext-to-md](engineer-markdown/github/convert-plaintext-to-md/SKILL.md)
-- [github/markdown-to-html](engineer-markdown/github/markdown-to-html/SKILL.md)
-- [github/update-markdown-file-index](engineer-markdown/github/update-markdown-file-index/SKILL.md)
-- [K-Dense-AI/markdown-mermaid-writing](engineer-markdown/K-Dense-AI/markdown-mermaid-writing/SKILL.md)
-- [SebastienDegodez/marp-presentations](engineer-markdown/SebastienDegodez/marp-presentations/marp-presentations.instructions.md)
-- [sickn33/agents-md](engineer-markdown/sickn33/agents-md/SKILL.md)
-- [sickn33/ai-md](engineer-markdown/sickn33/ai-md/SKILL.md)
-- [sickn33/design-md](engineer-markdown/sickn33/design-md/SKILL.md)
+- [github/premium-frontend-ui](code-ui/github/premium-frontend-ui/SKILL.md)
+- [sickn33/performance-engineer](code-ui/sickn33/performance-engineer/SKILL.md)
+- [sickn33/progressive-web-app](code-ui/sickn33/progressive-web-app/SKILL.md)
 
-## engineer-mermaid
+## code-ui-ab-testing
 
-- [imxv/Pretty-mermaid-skills](engineer-mermaid/imxv/Pretty-mermaid-skills/SKILL.md)
-- [sickn33/mermaid-expert](engineer-mermaid/sickn33/mermaid-expert/SKILL.md)
+- [coreyhaines31/ab-test-setup](code-ui-ab-testing/coreyhaines31/ab-test-setup/SKILL.md)
+- [sickn33/ab-test-setup](code-ui-ab-testing/sickn33/ab-test-setup/SKILL.md)
 
-## engineer-ml
+## code-ui-analytics
 
-- [alirezarezvani/senior-ml-engineer](engineer-ml/alirezarezvani/senior-ml-engineer/SKILL.md)
-- [github/semantic-kernel](engineer-ml/github/semantic-kernel/SKILL.md)
-- [sickn33/ai-ml](engineer-ml/sickn33/ai-ml/SKILL.md)
-- [sickn33/machine-learning-ops-ml-pipeline](engineer-ml/sickn33/machine-learning-ops-ml-pipeline/SKILL.md)
-- [sickn33/ml-engineer](engineer-ml/sickn33/ml-engineer/SKILL.md)
-- [sickn33/ml-pipeline-workflow](engineer-ml/sickn33/ml-pipeline-workflow/SKILL.md)
+- [alirezarezvani/analytics-tracking](code-ui-analytics/alirezarezvani/analytics-tracking/SKILL.md)
+- [alirezarezvani/campaign-analytics](code-ui-analytics/alirezarezvani/campaign-analytics/SKILL.md)
+- [chadboyda/gtm-engineering](code-ui-analytics/chadboyda/gtm-engineering/SKILL.md)
+- [chadboyda/gtm-metrics](code-ui-analytics/chadboyda/gtm-metrics/SKILL.md)
+- [coreyhaines31/analytics-tracking](code-ui-analytics/coreyhaines31/analytics-tracking/SKILL.md)
+- [sickn33/google-analytics-automation](code-ui-analytics/sickn33/google-analytics-automation/SKILL.md)
 
-## engineer-nestjs
+## code-ui-d3js
 
-- [sickn33/nestjs-expert](engineer-nestjs/sickn33/nestjs-expert/SKILL.md)
+- [sickn33/claude-d3js-skill](code-ui-d3js/sickn33/claude-d3js-skill/SKILL.md)
 
-## engineer-network
+## code-ui-tailwind
 
-- [sickn33/network-engineer](engineer-network/sickn33/network-engineer/SKILL.md)
+- [sickn33/tailwind-design-system](code-ui-tailwind/sickn33/tailwind-design-system/SKILL.md)
+- [sickn33/tailwind-patterns](code-ui-tailwind/sickn33/tailwind-patterns/SKILL.md)
 
-## engineer-nextjs
+## code-workflow-automation
 
-- [sickn33/nextjs-app-router-patterns](engineer-nextjs/sickn33/nextjs-app-router-patterns/SKILL.md)
-- [sickn33/nextjs-best-practices](engineer-nextjs/sickn33/nextjs-best-practices/SKILL.md)
+- [sickn33/workflow-automation](code-workflow-automation/sickn33/workflow-automation/SKILL.md)
+- [sickn33/workflow-orchestration-patterns](code-workflow-automation/sickn33/workflow-orchestration-patterns/SKILL.md)
+- [sickn33/workflow-patterns](code-workflow-automation/sickn33/workflow-patterns/SKILL.md)
 
-## engineer-python
+## consult-business
 
-- [jefflester/python-best-practices](engineer-python/jefflester/python-best-practices/SKILL.md)
-- [sickn33/agents-v2-py](engineer-python/sickn33/agents-v2-py/SKILL.md)
-- [sickn33/python-patterns](engineer-python/sickn33/python-patterns/SKILL.md)
-- [sickn33/python-performance-optimization](engineer-python/sickn33/python-performance-optimization/SKILL.md)
+- [alirezarezvani/cs-product-analyst](consult-business/alirezarezvani/cs-product-analyst/SKILL.md)
+- [alirezarezvani/product-analytics](consult-business/alirezarezvani/product-analytics/SKILL.md)
+- [sickn33/acceptance-orchestrator](consult-business/sickn33/acceptance-orchestrator/SKILL.md)
+- [sickn33/business-analyst](consult-business/sickn33/business-analyst/SKILL.md)
+- [sickn33/ddd-context-mapping](consult-business/sickn33/ddd-context-mapping/SKILL.md)
+- [sickn33/ddd-strategic-design](consult-business/sickn33/ddd-strategic-design/SKILL.md)
+- [sickn33/ddd-tactical-patterns](consult-business/sickn33/ddd-tactical-patterns/SKILL.md)
+- [sickn33/github-issue-creator](consult-business/sickn33/github-issue-creator/SKILL.md)
+- [sickn33/jobs-to-be-done-analyst](consult-business/sickn33/jobs-to-be-done-analyst/SKILL.md)
 
-## engineer-qa
+## consult-finance
 
-- [addyosmani/browser-testing-with-devtools](engineer-qa/addyosmani/browser-testing-with-devtools/SKILL.md)
-- [alirezarezvani/senior-qa](engineer-qa/alirezarezvani/senior-qa/SKILL.md)
-- [alirezarezvani/skill-tester](engineer-qa/alirezarezvani/skill-tester/SKILL.md)
-- [omkamal/pypict-claude-skill](engineer-qa/omkamal/pypict-claude-skill/SKILL.md)
-- [whawkinsiv/test](engineer-qa/whawkinsiv/test/SKILL.md)
+- [alirezarezvani/finance](consult-finance/alirezarezvani/finance/SKILL.md)
+- [alirezarezvani/finance-lead](consult-finance/alirezarezvani/finance-lead/SKILL.md)
+- [alirezarezvani/financial-analyst](consult-finance/alirezarezvani/financial-analyst/SKILL.md)
+- [alirezarezvani/financial-health](consult-finance/alirezarezvani/financial-health/SKILL.md)
+- [alirezarezvani/statistical-analyst](consult-finance/alirezarezvani/statistical-analyst/SKILL.md)
+- [sickn33/monte-carlo-monitor-creation](consult-finance/sickn33/monte-carlo-monitor-creation/SKILL.md)
+- [whawkinsiv/accounting](consult-finance/whawkinsiv/accounting/SKILL.md)
+- [whawkinsiv/finances](consult-finance/whawkinsiv/finances/SKILL.md)
 
-## engineer-rag
+## consult-legal
 
-- [alirezarezvani/rag-architect](engineer-rag/alirezarezvani/rag-architect/SKILL.md)
+- [sickn33/legal-advisor](consult-legal/sickn33/legal-advisor/SKILL.md)
+- [whawkinsiv/legal](consult-legal/whawkinsiv/legal/SKILL.md)
 
-## engineer-readme
+## consult-nutrition
 
-- [alirezarezvani/README](engineer-readme/alirezarezvani/README/SKILL.md)
-- [github/create-readme](engineer-readme/github/create-readme/SKILL.md)
-- [github/create-tldr-page](engineer-readme/github/create-tldr-page/SKILL.md)
-- [github/readme-blueprint-generator](engineer-readme/github/readme-blueprint-generator/SKILL.md)
-- [github/tldr-prompt](engineer-readme/github/tldr-prompt/SKILL.md)
-- [NeoLabHQ/update-docs](engineer-readme/NeoLabHQ/update-docs/SKILL.md)
-- [sickn33/readme](engineer-readme/sickn33/readme/SKILL.md)
+- [sickn33/food-database-query](consult-nutrition/sickn33/food-database-query/SKILL.md)
+- [sickn33/nutrition-analyzer](consult-nutrition/sickn33/nutrition-analyzer/SKILL.md)
 
-## engineer-security
+## data-database
 
-- [addyosmani/security-and-hardening](engineer-security/addyosmani/security-and-hardening/SKILL.md)
-- [fr33d3m0n/threat-modeling](engineer-security/fr33d3m0n/threat-modeling/SKILL.md)
+- [alirezarezvani/database-designer](data-database/alirezarezvani/database-designer/SKILL.md)
+- [alirezarezvani/database-schema-designer](data-database/alirezarezvani/database-schema-designer/SKILL.md)
+- [alirezarezvani/senior-backend](data-database/alirezarezvani/senior-backend/SKILL.md)
+- [alirezarezvani/sql-database-assistant](data-database/alirezarezvani/sql-database-assistant/SKILL.md)
+- [github/sql-code-review](data-database/github/sql-code-review/SKILL.md)
+- [github/sql-optimization](data-database/github/sql-optimization/SKILL.md)
+- [sanjay3290/mssql](data-database/sanjay3290/mssql/SKILL.md)
+- [sanjay3290/mysql](data-database/sanjay3290/mysql/SKILL.md)
+- [sanjay3290/postgres](data-database/sanjay3290/postgres/SKILL.md)
+- [sickn33/sql-optimization-patterns](data-database/sickn33/sql-optimization-patterns/SKILL.md)
+- [sickn33/sql-pro](data-database/sickn33/sql-pro/SKILL.md)
+- [whawkinsiv/database](data-database/whawkinsiv/database/SKILL.md)
 
-## engineer-software
+## data-engineering
 
-- [alirezarezvani/cs-senior-engineer](engineer-software/alirezarezvani/cs-senior-engineer/SKILL.md)
-- [github/microsoft-code-reference](engineer-software/github/microsoft-code-reference/SKILL.md)
-- [github/microsoft-docs](engineer-software/github/microsoft-docs/SKILL.md)
-- [mattnebr/coding-style-project](engineer-software/mattnebr/coding-style-project/coding-style-project.instructions.md)
-- [mattnebr/coding-style-solution](engineer-software/mattnebr/coding-style-solution/coding-style-solution.instructions.md)
-- [NeoLabHQ/setup-code-formating](engineer-software/NeoLabHQ/setup-code-formating/SKILL.md)
-- [ramziddin/solid](engineer-software/ramziddin/solid/SKILL.md)
-- [SebastienDegodez/unit-and-integration-tests](engineer-software/SebastienDegodez/unit-and-integration-tests/unit-and-integration-tests.instructions.md)
-- [sickn33/ai-engineer](engineer-software/sickn33/ai-engineer/SKILL.md)
-- [sickn33/development](engineer-software/sickn33/development/SKILL.md)
-- [sickn33/dotnet-backend](engineer-software/sickn33/dotnet-backend/SKILL.md)
+- [alirezarezvani/data-quality-auditor](data-engineering/alirezarezvani/data-quality-auditor/SKILL.md)
+- [alirezarezvani/senior-data-engineer](data-engineering/alirezarezvani/senior-data-engineer/SKILL.md)
+- [chadboyda/lead-enrichment](data-engineering/chadboyda/lead-enrichment/SKILL.md)
+- [sickn33/data-engineer](data-engineering/sickn33/data-engineer/SKILL.md)
+- [sickn33/data-engineering-data-driven-feature](data-engineering/sickn33/data-engineering-data-driven-feature/SKILL.md)
+- [sickn33/data-engineering-data-pipeline](data-engineering/sickn33/data-engineering-data-pipeline/SKILL.md)
+- [sickn33/data-structure-protocol](data-engineering/sickn33/data-structure-protocol/SKILL.md)
+- [sickn33/database-optimizer](data-engineering/sickn33/database-optimizer/SKILL.md)
 
-## engineer-software-blazor
+## data-ml
 
-- [github/fluentui-blazor](engineer-software-blazor/github/fluentui-blazor/SKILL.md)
+- [alirezarezvani/senior-ml-engineer](data-ml/alirezarezvani/senior-ml-engineer/SKILL.md)
+- [github/semantic-kernel](data-ml/github/semantic-kernel/SKILL.md)
+- [sickn33/ai-ml](data-ml/sickn33/ai-ml/SKILL.md)
+- [sickn33/machine-learning-ops-ml-pipeline](data-ml/sickn33/machine-learning-ops-ml-pipeline/SKILL.md)
+- [sickn33/ml-engineer](data-ml/sickn33/ml-engineer/SKILL.md)
+- [sickn33/ml-pipeline-workflow](data-ml/sickn33/ml-pipeline-workflow/SKILL.md)
 
-## engineer-software-csharp
+## data-nosql
 
-- [github/dotnet-best-practices](engineer-software-csharp/github/dotnet-best-practices/SKILL.md)
-- [github/dotnet-design-pattern-review](engineer-software-csharp/github/dotnet-design-pattern-review/SKILL.md)
-- [mattnebr/coding-style-csharp](engineer-software-csharp/mattnebr/coding-style-csharp/coding-style-csharp.instructions.md)
-- [SebastienDegodez/coding-style-csharp](engineer-software-csharp/SebastienDegodez/coding-style-csharp/coding-style-csharp.instructions.md)
-- [sickn33/csharp-pro](engineer-software-csharp/sickn33/csharp-pro/SKILL.md)
+- [sickn33/nosql-expert](data-nosql/sickn33/nosql-expert/SKILL.md)
 
-## engineer-software-debug
+## data-science
 
-- [addyosmani/debugging-and-error-recovery](engineer-software-debug/addyosmani/debugging-and-error-recovery/SKILL.md)
-- [NeoLabHQ/root-cause-tracing](engineer-software-debug/NeoLabHQ/root-cause-tracing/SKILL.md)
-- [obra/systematic-debugging](engineer-software-debug/obra/systematic-debugging/SKILL.md)
-- [whawkinsiv/debug](engineer-software-debug/whawkinsiv/debug/SKILL.md)
+- [alirezarezvani/product-analytics](data-science/alirezarezvani/product-analytics/SKILL.md)
+- [alirezarezvani/senior-data-scientist](data-science/alirezarezvani/senior-data-scientist/SKILL.md)
+- [alirezarezvani/statistical-analyst](data-science/alirezarezvani/statistical-analyst/SKILL.md)
+- [K-Dense-AI/database-lookup](data-science/K-Dense-AI/database-lookup/SKILL.md)
+- [sickn33/data-scientist](data-science/sickn33/data-scientist/SKILL.md)
+- [sickn33/data-storytelling](data-science/sickn33/data-storytelling/SKILL.md)
+- [sickn33/kpi-dashboard-design](data-science/sickn33/kpi-dashboard-design/SKILL.md)
+- [whawkinsiv/analytics](data-science/whawkinsiv/analytics/SKILL.md)
 
-## engineer-software-frontend
+## data-vector-db
 
-- [addyosmani/frontend-ui-engineering](engineer-software-frontend/addyosmani/frontend-ui-engineering/SKILL.md)
-- [alirezarezvani/senior-frontend](engineer-software-frontend/alirezarezvani/senior-frontend/SKILL.md)
-- [sickn33/frontend-dev-guidelines](engineer-software-frontend/sickn33/frontend-dev-guidelines/SKILL.md)
-- [sickn33/frontend-developer](engineer-software-frontend/sickn33/frontend-developer/SKILL.md)
-- [sickn33/frontend-security-coder](engineer-software-frontend/sickn33/frontend-security-coder/SKILL.md)
-- [sickn33/frontend-ui-dark-ts](engineer-software-frontend/sickn33/frontend-ui-dark-ts/SKILL.md)
-- [sickn33/senior-frontend](engineer-software-frontend/sickn33/senior-frontend/SKILL.md)
-- [sickn33/web-performance-optimization](engineer-software-frontend/sickn33/web-performance-optimization/SKILL.md)
+- [sickn33/vector-database-engineer](data-vector-db/sickn33/vector-database-engineer/SKILL.md)
+- [sickn33/vector-index-tuning](data-vector-db/sickn33/vector-index-tuning/SKILL.md)
 
-## engineer-software-javascript
+## design-ab-testing
 
-- [sickn33/javascript-mastery](engineer-software-javascript/sickn33/javascript-mastery/SKILL.md)
-- [sickn33/javascript-pro](engineer-software-javascript/sickn33/javascript-pro/SKILL.md)
+- [alirezarezvani/ab-test-setup](design-ab-testing/alirezarezvani/ab-test-setup/SKILL.md)
+- [alirezarezvani/experiment-designer](design-ab-testing/alirezarezvani/experiment-designer/SKILL.md)
 
-## engineer-software-nextjs
+## design-accessibility
 
-- [sickn33/react-nextjs-development](engineer-software-nextjs/sickn33/react-nextjs-development/SKILL.md)
+- [alirezarezvani/a11y-audit](design-accessibility/alirezarezvani/a11y-audit/SKILL.md)
+- [alirezarezvani/cmd-a11y-audit](design-accessibility/alirezarezvani/cmd-a11y-audit/SKILL.md)
+- [sickn33/accessibility-compliance-accessibility-audit](design-accessibility/sickn33/accessibility-compliance-accessibility-audit/SKILL.md)
+- [sickn33/ui-a11y](design-accessibility/sickn33/ui-a11y/SKILL.md)
+- [sickn33/wcag-audit-patterns](design-accessibility/sickn33/wcag-audit-patterns/SKILL.md)
 
-## engineer-software-oo
+## design-ascii
 
-- [mattnebr/object-calisthenics](engineer-software-oo/mattnebr/object-calisthenics/object-calisthenics.instructions.md)
-- [SebastienDegodez/object-calisthenics](engineer-software-oo/SebastienDegodez/object-calisthenics/object-calisthenics.instructions.md)
+- [anthropics/algorithmic-art](design-ascii/anthropics/algorithmic-art/SKILL.md)
+- [sickn33/algorithmic-art](design-ascii/sickn33/algorithmic-art/SKILL.md)
 
-## engineer-software-powershell
+## design-branding
 
-- [sickn33/powershell-windows](engineer-software-powershell/sickn33/powershell-windows/SKILL.md)
+- [alirezarezvani/brand-guidelines](design-branding/alirezarezvani/brand-guidelines/SKILL.md)
+- [anthropics/brand-guidelines](design-branding/anthropics/brand-guidelines/SKILL.md)
+- [ComposioHQ/brand-guidelines](design-branding/ComposioHQ/brand-guidelines/SKILL.md)
+- [sickn33/brand-guidelines](design-branding/sickn33/brand-guidelines/SKILL.md)
+- [sickn33/brand-guidelines-anthropic](design-branding/sickn33/brand-guidelines-anthropic/SKILL.md)
+- [sickn33/brand-perception-psychologist](design-branding/sickn33/brand-perception-psychologist/SKILL.md)
+- [whawkinsiv/brand-identity-generator](design-branding/whawkinsiv/brand-identity-generator/SKILL.md)
 
-## engineer-software-react
+## design-email
 
-- [sickn33/react-best-practices](engineer-software-react/sickn33/react-best-practices/SKILL.md)
-- [sickn33/react-component-performance](engineer-software-react/sickn33/react-component-performance/SKILL.md)
-- [sickn33/react-flow-architect](engineer-software-react/sickn33/react-flow-architect/SKILL.md)
-- [sickn33/react-patterns](engineer-software-react/sickn33/react-patterns/SKILL.md)
-- [sickn33/react-state-management](engineer-software-react/sickn33/react-state-management/SKILL.md)
-- [sickn33/react-ui-patterns](engineer-software-react/sickn33/react-ui-patterns/SKILL.md)
+- [alirezarezvani/email-template-builder](design-email/alirezarezvani/email-template-builder/SKILL.md)
+- [whawkinsiv/email](design-email/whawkinsiv/email/SKILL.md)
 
-## engineer-software-sveltekit
+## design-favicon
 
-- [sickn33/sveltekit](engineer-software-sveltekit/sickn33/sveltekit/SKILL.md)
+- [sickn33/favicon](design-favicon/sickn33/favicon/SKILL.md)
 
-## engineer-software-typescript
+## design-product
 
-- [NeoLabHQ/add-typescript-best-practices](engineer-software-typescript/NeoLabHQ/add-typescript-best-practices/SKILL.md)
-- [sickn33/typescript-advanced-types](engineer-software-typescript/sickn33/typescript-advanced-types/SKILL.md)
-- [sickn33/typescript-expert](engineer-software-typescript/sickn33/typescript-expert/SKILL.md)
-- [sickn33/typescript-pro](engineer-software-typescript/sickn33/typescript-pro/SKILL.md)
+- [sickn33/product-design](design-product/sickn33/product-design/SKILL.md)
+- [sickn33/product-manager](design-product/sickn33/product-manager/SKILL.md)
+- [sickn33/product-manager-toolkit](design-product/sickn33/product-manager-toolkit/SKILL.md)
 
-## engineer-ui
+## design-ui
 
-- [github/premium-frontend-ui](engineer-ui/github/premium-frontend-ui/SKILL.md)
-- [sickn33/performance-engineer](engineer-ui/sickn33/performance-engineer/SKILL.md)
-- [sickn33/progressive-web-app](engineer-ui/sickn33/progressive-web-app/SKILL.md)
+- [alirezarezvani/ui-design-system](design-ui/alirezarezvani/ui-design-system/SKILL.md)
+- [anthropics/frontend-design](design-ui/anthropics/frontend-design/SKILL.md)
+- [axiaoge2/Apple-Hig-Designer](design-ui/axiaoge2/Apple-Hig-Designer/SKILL.md)
+- [github/web-design-reviewer](design-ui/github/web-design-reviewer/SKILL.md)
+- [pbakaus/impeccable](design-ui/pbakaus/impeccable/SKILL.md)
+- [sickn33/ui-pattern](design-ui/sickn33/ui-pattern/SKILL.md)
+- [sickn33/ui-ux-designer](design-ui/sickn33/ui-ux-designer/SKILL.md)
+- [sickn33/ui-ux-pro-max](design-ui/sickn33/ui-ux-pro-max/SKILL.md)
+- [sickn33/web-design-guidelines](design-ui/sickn33/web-design-guidelines/SKILL.md)
+- [whawkinsiv/design-review](design-ui/whawkinsiv/design-review/SKILL.md)
+- [whawkinsiv/ui-patterns](design-ui/whawkinsiv/ui-patterns/SKILL.md)
 
-## engineer-ui-ab
+## design-ux
 
-- [coreyhaines31/ab-test-setup](engineer-ui-ab/coreyhaines31/ab-test-setup/SKILL.md)
-- [sickn33/ab-test-setup](engineer-ui-ab/sickn33/ab-test-setup/SKILL.md)
+- [alirezarezvani/cs-ux-researcher](design-ux/alirezarezvani/cs-ux-researcher/SKILL.md)
+- [alirezarezvani/ux-researcher-designer](design-ux/alirezarezvani/ux-researcher-designer/SKILL.md)
+- [bmad-code-org/bmad-agent-ux-designer](design-ux/bmad-code-org/bmad-agent-ux-designer/SKILL.md)
+- [bmad-code-org/bmad-create-ux-design](design-ux/bmad-code-org/bmad-create-ux-design/SKILL.md)
+- [whawkinsiv/journey](design-ux/whawkinsiv/journey/SKILL.md)
+- [whawkinsiv/ux-design](design-ux/whawkinsiv/ux-design/SKILL.md)
 
-## engineer-ui-d3js
+## devops-cicd
 
-- [sickn33/claude-d3js-skill](engineer-ui-d3js/sickn33/claude-d3js-skill/SKILL.md)
+- [addyosmani/ci-cd-and-automation](devops-cicd/addyosmani/ci-cd-and-automation/SKILL.md)
+- [alirezarezvani/ci-cd-pipeline-builder](devops-cicd/alirezarezvani/ci-cd-pipeline-builder/SKILL.md)
+- [alirezarezvani/devops-engineer](devops-cicd/alirezarezvani/devops-engineer/SKILL.md)
+- [alirezarezvani/senior-devops](devops-cicd/alirezarezvani/senior-devops/SKILL.md)
+- [github/create-github-action-workflow-specification](devops-cicd/github/create-github-action-workflow-specification/SKILL.md)
+- [github/dependabot](devops-cicd/github/dependabot/SKILL.md)
+- [sickn33/cicd-automation-workflow-automate](devops-cicd/sickn33/cicd-automation-workflow-automate/SKILL.md)
+- [sickn33/deployment-engineer](devops-cicd/sickn33/deployment-engineer/SKILL.md)
+- [sickn33/deployment-pipeline-design](devops-cicd/sickn33/deployment-pipeline-design/SKILL.md)
+- [sickn33/github-actions-templates](devops-cicd/sickn33/github-actions-templates/SKILL.md)
+- [sickn33/github-automation](devops-cicd/sickn33/github-automation/SKILL.md)
+- [whawkinsiv/deploy](devops-cicd/whawkinsiv/deploy/SKILL.md)
 
-## engineer-ui-ga
+## devops-git-branch
 
-- [alirezarezvani/analytics-tracking](engineer-ui-ga/alirezarezvani/analytics-tracking/SKILL.md)
-- [alirezarezvani/campaign-analytics](engineer-ui-ga/alirezarezvani/campaign-analytics/SKILL.md)
-- [chadboyda/gtm-engineering](engineer-ui-ga/chadboyda/gtm-engineering/SKILL.md)
-- [chadboyda/gtm-metrics](engineer-ui-ga/chadboyda/gtm-metrics/SKILL.md)
-- [coreyhaines31/analytics-tracking](engineer-ui-ga/coreyhaines31/analytics-tracking/SKILL.md)
-- [sickn33/google-analytics-automation](engineer-ui-ga/sickn33/google-analytics-automation/SKILL.md)
+- [github/git-flow-branch-creator](devops-git-branch/github/git-flow-branch-creator/SKILL.md)
+- [mattnebr/git-creating-branches](devops-git-branch/mattnebr/git-creating-branches/SKILL.md)
+- [obra/finishing-a-development-branch](devops-git-branch/obra/finishing-a-development-branch/SKILL.md)
+- [sickn33/create-branch](devops-git-branch/sickn33/create-branch/SKILL.md)
 
-## engineer-ui-tailwind
+## devops-git-commit
 
-- [sickn33/tailwind-design-system](engineer-ui-tailwind/sickn33/tailwind-design-system/SKILL.md)
-- [sickn33/tailwind-patterns](engineer-ui-tailwind/sickn33/tailwind-patterns/SKILL.md)
+- [github/git-commit](devops-git-commit/github/git-commit/SKILL.md)
+- [mattnebr/commit-message](devops-git-commit/mattnebr/commit-message/SKILL.md)
+- [mattnebr/conventional-commits](devops-git-commit/mattnebr/conventional-commits/conventional-commits.instructions.md)
+- [NeoLabHQ/commit](devops-git-commit/NeoLabHQ/commit/SKILL.md)
+- [obra/verification-before-completion](devops-git-commit/obra/verification-before-completion/SKILL.md)
+- [SebastienDegodez/conventional-commits](devops-git-commit/SebastienDegodez/conventional-commits/conventional-commits.instructions.md)
+- [sickn33/accessibility-compliance-accessibility-audit](devops-git-commit/sickn33/accessibility-compliance-accessibility-audit/SKILL.md)
+- [sickn33/commit](devops-git-commit/sickn33/commit/SKILL.md)
 
-## engineer-workflow
+## devops-git-pr
 
-- [sickn33/workflow-automation](engineer-workflow/sickn33/workflow-automation/SKILL.md)
-- [sickn33/workflow-orchestration-patterns](engineer-workflow/sickn33/workflow-orchestration-patterns/SKILL.md)
-- [sickn33/workflow-patterns](engineer-workflow/sickn33/workflow-patterns/SKILL.md)
+- [addyosmani/code-review-and-quality](devops-git-pr/addyosmani/code-review-and-quality/SKILL.md)
+- [alirezarezvani/pr-review-expert](devops-git-pr/alirezarezvani/pr-review-expert/SKILL.md)
+- [cblecker/finishing-a-development-branch](devops-git-pr/cblecker/finishing-a-development-branch/SKILL.md)
+- [cblecker/requesting-code-review](devops-git-pr/cblecker/requesting-code-review/SKILL.md)
+- [feiskyer/github-review-pr](devops-git-pr/feiskyer/github-review-pr/SKILL.md)
+- [github/my-pull-requests](devops-git-pr/github/my-pull-requests/SKILL.md)
+- [NeoLabHQ/attach-review-to-pr](devops-git-pr/NeoLabHQ/attach-review-to-pr/SKILL.md)
+- [NeoLabHQ/create-pr](devops-git-pr/NeoLabHQ/create-pr/SKILL.md)
+- [NeoLabHQ/review-local-changes](devops-git-pr/NeoLabHQ/review-local-changes/SKILL.md)
+- [NeoLabHQ/review-pr](devops-git-pr/NeoLabHQ/review-pr/SKILL.md)
+- [obra/requesting-code-review](devops-git-pr/obra/requesting-code-review/SKILL.md)
+- [sickn33/create-pr](devops-git-pr/sickn33/create-pr/SKILL.md)
 
-## financial-analyst
+## devops-git-workflows
 
-- [alirezarezvani/finance](financial-analyst/alirezarezvani/finance/SKILL.md)
-- [alirezarezvani/finance-lead](financial-analyst/alirezarezvani/finance-lead/SKILL.md)
-- [alirezarezvani/financial-analyst](financial-analyst/alirezarezvani/financial-analyst/SKILL.md)
-- [alirezarezvani/financial-health](financial-analyst/alirezarezvani/financial-health/SKILL.md)
-- [alirezarezvani/statistical-analyst](financial-analyst/alirezarezvani/statistical-analyst/SKILL.md)
-- [sickn33/monte-carlo-monitor-creation](financial-analyst/sickn33/monte-carlo-monitor-creation/SKILL.md)
-- [whawkinsiv/accounting](financial-analyst/whawkinsiv/accounting/SKILL.md)
-- [whawkinsiv/finances](financial-analyst/whawkinsiv/finances/SKILL.md)
+- [addyosmani/git-workflow-and-versioning](devops-git-workflows/addyosmani/git-workflow-and-versioning/SKILL.md)
+- [jefflester/git-workflow](devops-git-workflows/jefflester/git-workflow/SKILL.md)
+- [mattnebr/git-no-pull-requests](devops-git-workflows/mattnebr/git-no-pull-requests/SKILL.md)
+- [sickn33/git-advanced-workflows](devops-git-workflows/sickn33/git-advanced-workflows/SKILL.md)
+- [sickn33/git-hooks-automation](devops-git-workflows/sickn33/git-hooks-automation/SKILL.md)
+- [sickn33/git-pr-workflows-git-workflow](devops-git-workflows/sickn33/git-pr-workflows-git-workflow/SKILL.md)
+- [sickn33/github](devops-git-workflows/sickn33/github/SKILL.md)
+- [sickn33/github-workflow-automation](devops-git-workflows/sickn33/github-workflow-automation/SKILL.md)
 
-## git-branch
+## devops-git-worktree
 
-- [github/git-flow-branch-creator](git-branch/github/git-flow-branch-creator/SKILL.md)
-- [mattnebr/git-creating-branches](git-branch/mattnebr/git-creating-branches/SKILL.md)
-- [obra/finishing-a-development-branch](git-branch/obra/finishing-a-development-branch/SKILL.md)
-- [sickn33/create-branch](git-branch/sickn33/create-branch/SKILL.md)
+- [alirezarezvani/git-worktree-manager](devops-git-worktree/alirezarezvani/git-worktree-manager/SKILL.md)
+- [cblecker/using-git-worktrees](devops-git-worktree/cblecker/using-git-worktrees/SKILL.md)
+- [NeoLabHQ/compare-worktrees](devops-git-worktree/NeoLabHQ/compare-worktrees/SKILL.md)
+- [NeoLabHQ/create-worktree](devops-git-worktree/NeoLabHQ/create-worktree/SKILL.md)
+- [NeoLabHQ/merge-worktree](devops-git-worktree/NeoLabHQ/merge-worktree/SKILL.md)
+- [NeoLabHQ/worktrees](devops-git-worktree/NeoLabHQ/worktrees/SKILL.md)
+- [obra/using-git-worktrees](devops-git-worktree/obra/using-git-worktrees/SKILL.md)
 
-## git-commit
+## devops-network
 
-- [github/git-commit](git-commit/github/git-commit/SKILL.md)
-- [mattnebr/commit-message](git-commit/mattnebr/commit-message/SKILL.md)
-- [mattnebr/conventional-commits](git-commit/mattnebr/conventional-commits/conventional-commits.instructions.md)
-- [NeoLabHQ/commit](git-commit/NeoLabHQ/commit/SKILL.md)
-- [obra/verification-before-completion](git-commit/obra/verification-before-completion/SKILL.md)
-- [SebastienDegodez/conventional-commits](git-commit/SebastienDegodez/conventional-commits/conventional-commits.instructions.md)
-- [sickn33/accessibility-compliance-accessibility-audit](git-commit/sickn33/accessibility-compliance-accessibility-audit/SKILL.md)
-- [sickn33/commit](git-commit/sickn33/commit/SKILL.md)
+- [sickn33/network-engineer](devops-network/sickn33/network-engineer/SKILL.md)
 
-## git-pr
+## devops-security
 
-- [addyosmani/code-review-and-quality](git-pr/addyosmani/code-review-and-quality/SKILL.md)
-- [alirezarezvani/pr-review-expert](git-pr/alirezarezvani/pr-review-expert/SKILL.md)
-- [cblecker/finishing-a-development-branch](git-pr/cblecker/finishing-a-development-branch/SKILL.md)
-- [cblecker/requesting-code-review](git-pr/cblecker/requesting-code-review/SKILL.md)
-- [feiskyer/github-review-pr](git-pr/feiskyer/github-review-pr/SKILL.md)
-- [github/my-pull-requests](git-pr/github/my-pull-requests/SKILL.md)
-- [NeoLabHQ/attach-review-to-pr](git-pr/NeoLabHQ/attach-review-to-pr/SKILL.md)
-- [NeoLabHQ/create-pr](git-pr/NeoLabHQ/create-pr/SKILL.md)
-- [NeoLabHQ/review-local-changes](git-pr/NeoLabHQ/review-local-changes/SKILL.md)
-- [NeoLabHQ/review-pr](git-pr/NeoLabHQ/review-pr/SKILL.md)
-- [obra/requesting-code-review](git-pr/obra/requesting-code-review/SKILL.md)
-- [sickn33/create-pr](git-pr/sickn33/create-pr/SKILL.md)
+- [addyosmani/security-and-hardening](devops-security/addyosmani/security-and-hardening/SKILL.md)
+- [fr33d3m0n/threat-modeling](devops-security/fr33d3m0n/threat-modeling/SKILL.md)
 
-## git-workflows
+## integrate-confluence
 
-- [addyosmani/git-workflow-and-versioning](git-workflows/addyosmani/git-workflow-and-versioning/SKILL.md)
-- [jefflester/git-workflow](git-workflows/jefflester/git-workflow/SKILL.md)
-- [mattnebr/git-no-pull-requests](git-workflows/mattnebr/git-no-pull-requests/SKILL.md)
-- [sickn33/git-advanced-workflows](git-workflows/sickn33/git-advanced-workflows/SKILL.md)
-- [sickn33/git-hooks-automation](git-workflows/sickn33/git-hooks-automation/SKILL.md)
-- [sickn33/git-pr-workflows-git-workflow](git-workflows/sickn33/git-pr-workflows-git-workflow/SKILL.md)
-- [sickn33/github](git-workflows/sickn33/github/SKILL.md)
-- [sickn33/github-workflow-automation](git-workflows/sickn33/github-workflow-automation/SKILL.md)
+- [alirezarezvani/atlassian-admin](integrate-confluence/alirezarezvani/atlassian-admin/SKILL.md)
+- [alirezarezvani/atlassian-templates](integrate-confluence/alirezarezvani/atlassian-templates/SKILL.md)
+- [alirezarezvani/confluence-expert](integrate-confluence/alirezarezvani/confluence-expert/SKILL.md)
+- [langpingxue/atlassian-skills](integrate-confluence/langpingxue/atlassian-skills/SKILL.md)
+- [sickn33/confluence-automation](integrate-confluence/sickn33/confluence-automation/SKILL.md)
 
-## git-worktree
+## integrate-jira
 
-- [alirezarezvani/git-worktree-manager](git-worktree/alirezarezvani/git-worktree-manager/SKILL.md)
-- [cblecker/using-git-worktrees](git-worktree/cblecker/using-git-worktrees/SKILL.md)
-- [NeoLabHQ/compare-worktrees](git-worktree/NeoLabHQ/compare-worktrees/SKILL.md)
-- [NeoLabHQ/create-worktree](git-worktree/NeoLabHQ/create-worktree/SKILL.md)
-- [NeoLabHQ/merge-worktree](git-worktree/NeoLabHQ/merge-worktree/SKILL.md)
-- [NeoLabHQ/worktrees](git-worktree/NeoLabHQ/worktrees/SKILL.md)
-- [obra/using-git-worktrees](git-worktree/obra/using-git-worktrees/SKILL.md)
+- [alirezarezvani/atlassian-admin](integrate-jira/alirezarezvani/atlassian-admin/SKILL.md)
+- [alirezarezvani/atlassian-templates](integrate-jira/alirezarezvani/atlassian-templates/SKILL.md)
+- [alirezarezvani/jira-expert](integrate-jira/alirezarezvani/jira-expert/SKILL.md)
+- [ComposioHQ/atlassian-automation](integrate-jira/ComposioHQ/atlassian-automation/SKILL.md)
+- [langpingxue/atlassian-readonly-skills](integrate-jira/langpingxue/atlassian-readonly-skills/SKILL.md)
+- [sanjay3290/atlassian](integrate-jira/sanjay3290/atlassian/SKILL.md)
+- [sickn33/jira-automation](integrate-jira/sickn33/jira-automation/SKILL.md)
 
-## java-junit
+## integrate-notion
 
-- [github/java-junit](java-junit/github/java-junit/SKILL.md)
+- [sickn33/notion-automation](integrate-notion/sickn33/notion-automation/SKILL.md)
+- [sickn33/notion-template-business](integrate-notion/sickn33/notion-template-business/SKILL.md)
 
-## jira
+## integrate-obsidian
 
-- [alirezarezvani/atlassian-admin](jira/alirezarezvani/atlassian-admin/SKILL.md)
-- [alirezarezvani/atlassian-templates](jira/alirezarezvani/atlassian-templates/SKILL.md)
-- [alirezarezvani/jira-expert](jira/alirezarezvani/jira-expert/SKILL.md)
-- [ComposioHQ/atlassian-automation](jira/ComposioHQ/atlassian-automation/SKILL.md)
-- [langpingxue/atlassian-readonly-skills](jira/langpingxue/atlassian-readonly-skills/SKILL.md)
-- [sanjay3290/atlassian](jira/sanjay3290/atlassian/SKILL.md)
-- [sickn33/jira-automation](jira/sickn33/jira-automation/SKILL.md)
+- [sickn33/obsidian-bases](integrate-obsidian/sickn33/obsidian-bases/SKILL.md)
+- [sickn33/obsidian-cli](integrate-obsidian/sickn33/obsidian-cli/SKILL.md)
+- [sickn33/obsidian-clipper-template-creator](integrate-obsidian/sickn33/obsidian-clipper-template-creator/SKILL.md)
+- [sickn33/obsidian-markdown](integrate-obsidian/sickn33/obsidian-markdown/SKILL.md)
 
-## legal-advisor
+## integrate-slack
 
-- [sickn33/legal-advisor](legal-advisor/sickn33/legal-advisor/SKILL.md)
-- [whawkinsiv/legal](legal-advisor/whawkinsiv/legal/SKILL.md)
-
-## manager-agile
+- [sickn33/slack-automation](integrate-slack/sickn33/slack-automation/SKILL.md)
+- [sickn33/slack-bot-builder](integrate-slack/sickn33/slack-bot-builder/SKILL.md)
 
-- [addyosmani/incremental-implementation](manager-agile/addyosmani/incremental-implementation/SKILL.md)
-- [addyosmani/source-driven-development](manager-agile/addyosmani/source-driven-development/SKILL.md)
-- [addyosmani/spec-driven-development](manager-agile/addyosmani/spec-driven-development/SKILL.md)
-- [alirezarezvani/agile-product-owner](manager-agile/alirezarezvani/agile-product-owner/SKILL.md)
-- [alirezarezvani/change-management](manager-agile/alirezarezvani/change-management/SKILL.md)
-- [alirezarezvani/code-to-prd](manager-agile/alirezarezvani/code-to-prd/SKILL.md)
-- [alirezarezvani/cs-agile-product-owner](manager-agile/alirezarezvani/cs-agile-product-owner/SKILL.md)
-- [alirezarezvani/cs-product-manager](manager-agile/alirezarezvani/cs-product-manager/SKILL.md)
-- [alirezarezvani/cs-project-manager](manager-agile/alirezarezvani/cs-project-manager/SKILL.md)
-- [alirezarezvani/epic-design](manager-agile/alirezarezvani/epic-design/SKILL.md)
-- [alirezarezvani/meeting-analyzer](manager-agile/alirezarezvani/meeting-analyzer/SKILL.md)
-- [alirezarezvani/okr](manager-agile/alirezarezvani/okr/SKILL.md)
-- [alirezarezvani/postmortem](manager-agile/alirezarezvani/postmortem/SKILL.md)
-- [alirezarezvani/prd](manager-agile/alirezarezvani/prd/SKILL.md)
-- [alirezarezvani/product-manager](manager-agile/alirezarezvani/product-manager/SKILL.md)
-- [alirezarezvani/project-health](manager-agile/alirezarezvani/project-health/SKILL.md)
-- [alirezarezvani/project-management](manager-agile/alirezarezvani/project-management/SKILL.md)
-- [alirezarezvani/release-manager](manager-agile/alirezarezvani/release-manager/SKILL.md)
-- [alirezarezvani/roadmap-communicator](manager-agile/alirezarezvani/roadmap-communicator/SKILL.md)
-- [alirezarezvani/scrum-master](manager-agile/alirezarezvani/scrum-master/SKILL.md)
-- [alirezarezvani/senior-pm](manager-agile/alirezarezvani/senior-pm/SKILL.md)
-- [alirezarezvani/spec-driven-workflow](manager-agile/alirezarezvani/spec-driven-workflow/SKILL.md)
-- [alirezarezvani/spec-to-repo](manager-agile/alirezarezvani/spec-to-repo/SKILL.md)
-- [alirezarezvani/sprint-plan](manager-agile/alirezarezvani/sprint-plan/SKILL.md)
-- [alirezarezvani/user-story](manager-agile/alirezarezvani/user-story/SKILL.md)
-- [bmad-code-org/bmad-create-epics-and-stories](manager-agile/bmad-code-org/bmad-create-epics-and-stories/SKILL.md)
-- [bmad-code-org/bmad-create-story](manager-agile/bmad-code-org/bmad-create-story/SKILL.md)
-- [bmad-code-org/bmad-dev-story](manager-agile/bmad-code-org/bmad-dev-story/SKILL.md)
-- [bmad-code-org/bmad-retrospective](manager-agile/bmad-code-org/bmad-retrospective/SKILL.md)
-- [bmad-code-org/bmad-sprint-planning](manager-agile/bmad-code-org/bmad-sprint-planning/SKILL.md)
-- [cblecker/executing-plans](manager-agile/cblecker/executing-plans/SKILL.md)
-- [cblecker/writing-plans](manager-agile/cblecker/writing-plans/SKILL.md)
-- [github/breakdown-epic-arch](manager-agile/github/breakdown-epic-arch/SKILL.md)
-- [github/breakdown-epic-pm](manager-agile/github/breakdown-epic-pm/SKILL.md)
-- [github/breakdown-feature-implementation](manager-agile/github/breakdown-feature-implementation/SKILL.md)
-- [github/breakdown-feature-prd](manager-agile/github/breakdown-feature-prd/SKILL.md)
-- [github/create-implementation-plan](manager-agile/github/create-implementation-plan/SKILL.md)
-- [github/create-specification](manager-agile/github/create-specification/SKILL.md)
-- [github/create-technical-spike](manager-agile/github/create-technical-spike/SKILL.md)
-- [github/eval-driven-dev](manager-agile/github/eval-driven-dev/SKILL.md)
-- [github/gen-specs-as-issues](manager-agile/github/gen-specs-as-issues/SKILL.md)
-- [github/meeting-minutes](manager-agile/github/meeting-minutes/SKILL.md)
-- [github/prd](manager-agile/github/prd/SKILL.md)
-- [github/update-implementation-plan](manager-agile/github/update-implementation-plan/SKILL.md)
-- [michalparkola/scrum-sage](manager-agile/michalparkola/scrum-sage/SKILL.md)
-- [NeoLabHQ/kaizen](manager-agile/NeoLabHQ/kaizen/SKILL.md)
-- [SebastienDegodez/gherkin-gate](manager-agile/SebastienDegodez/gherkin-gate/SKILL.md)
-- [sickn33/team-collaboration-standup-notes](manager-agile/sickn33/team-collaboration-standup-notes/SKILL.md)
-- [sickn33/todoist-automation](manager-agile/sickn33/todoist-automation/SKILL.md)
-- [sickn33/writing-plans](manager-agile/sickn33/writing-plans/SKILL.md)
-- [SuperClaude-Org/confidence-check](manager-agile/SuperClaude-Org/confidence-check/SKILL.md)
-- [whawkinsiv/plan](manager-agile/whawkinsiv/plan/SKILL.md)
+## integrate-stripe
 
-## manager-humans
-
-- [alirezarezvani/churn-prevention](manager-humans/alirezarezvani/churn-prevention/SKILL.md)
-- [alirezarezvani/culture-architect](manager-humans/alirezarezvani/culture-architect/SKILL.md)
-- [github/mentoring-juniors](manager-humans/github/mentoring-juniors/SKILL.md)
-- [sickn33/churn-prevention](manager-humans/sickn33/churn-prevention/SKILL.md)
-- [sickn33/employment-contract-templates](manager-humans/sickn33/employment-contract-templates/SKILL.md)
-- [sickn33/goal-analyzer](manager-humans/sickn33/goal-analyzer/SKILL.md)
-- [sickn33/on-call-handoff-patterns](manager-humans/sickn33/on-call-handoff-patterns/SKILL.md)
-- [whawkinsiv/hiring](manager-humans/whawkinsiv/hiring/SKILL.md)
-- [whawkinsiv/retention](manager-humans/whawkinsiv/retention/SKILL.md)
-
-## manager-project
-
-- [addyosmani/planning-and-task-breakdown](manager-project/addyosmani/planning-and-task-breakdown/SKILL.md)
-- [automazeio/ccpm](manager-project/automazeio/ccpm/SKILL.md)
-- [bmad-code-org/bmad-create-prd](manager-project/bmad-code-org/bmad-create-prd/SKILL.md)
-- [bmad-code-org/bmad-document-project](manager-project/bmad-code-org/bmad-document-project/SKILL.md)
-- [bmad-code-org/bmad-edit-prd](manager-project/bmad-code-org/bmad-edit-prd/SKILL.md)
-- [bmad-code-org/bmad-product-brief](manager-project/bmad-code-org/bmad-product-brief/SKILL.md)
-- [feiskyer/spec-kit-skill](manager-project/feiskyer/spec-kit-skill/SKILL.md)
-- [NeoLabHQ/plan-do-check-act](manager-project/NeoLabHQ/plan-do-check-act/SKILL.md)
-- [obra/executing-plans](manager-project/obra/executing-plans/SKILL.md)
-- [obra/writing-plans](manager-project/obra/writing-plans/SKILL.md)
-- [sanjay3290/outline](manager-project/sanjay3290/outline/SKILL.md)
-- [sickn33/progressive-estimation](manager-project/sickn33/progressive-estimation/SKILL.md)
-- [sickn33/project-development](manager-project/sickn33/project-development/SKILL.md)
-- [sickn33/projection-patterns](manager-project/sickn33/projection-patterns/SKILL.md)
-- [SuperClaude-Org/pm](manager-project/SuperClaude-Org/pm/SKILL.md)
-- [whawkinsiv/prioritize](manager-project/whawkinsiv/prioritize/SKILL.md)
-
-## marketer
-
-- [alirezarezvani/ad-creative](marketer/alirezarezvani/ad-creative/SKILL.md)
-- [alirezarezvani/growth-marketer](marketer/alirezarezvani/growth-marketer/SKILL.md)
-- [alirezarezvani/marketing-ideas](marketer/alirezarezvani/marketing-ideas/SKILL.md)
-- [alirezarezvani/marketing-ops](marketer/alirezarezvani/marketing-ops/SKILL.md)
-- [alirezarezvani/marketing-skill](marketer/alirezarezvani/marketing-skill/SKILL.md)
-- [chadboyda/expansion-retention](marketer/chadboyda/expansion-retention/SKILL.md)
-- [coreyhaines31/ad-creative](marketer/coreyhaines31/ad-creative/SKILL.md)
-- [coreyhaines31/marketing-ideas](marketer/coreyhaines31/marketing-ideas/SKILL.md)
-- [sickn33/marketing-ideas](marketer/sickn33/marketing-ideas/SKILL.md)
-- [sickn33/marketing-psychology](marketer/sickn33/marketing-psychology/SKILL.md)
-- [whawkinsiv/growth](marketer/whawkinsiv/growth/SKILL.md)
-
-## marketer-instagram
-
-- [sickn33/instagram](marketer-instagram/sickn33/instagram/SKILL.md)
-- [sickn33/instagram-automation](marketer-instagram/sickn33/instagram-automation/SKILL.md)
-
-## marketer-landing-page
-
-- [alirezarezvani/cs-growth-strategist](marketer-landing-page/alirezarezvani/cs-growth-strategist/SKILL.md)
-- [alirezarezvani/landing-page-generator](marketer-landing-page/alirezarezvani/landing-page-generator/SKILL.md)
-- [alirezarezvani/marketing-psychology](marketer-landing-page/alirezarezvani/marketing-psychology/SKILL.md)
-- [coreyhaines31/lead-magnets](marketer-landing-page/coreyhaines31/lead-magnets/SKILL.md)
-- [coreyhaines31/page-cro](marketer-landing-page/coreyhaines31/page-cro/SKILL.md)
-- [coreyhaines31/product-marketing-context](marketer-landing-page/coreyhaines31/product-marketing-context/SKILL.md)
-- [sickn33/landing-page-generator](marketer-landing-page/sickn33/landing-page-generator/SKILL.md)
-- [sickn33/lead-magnets](marketer-landing-page/sickn33/lead-magnets/SKILL.md)
-- [sickn33/seo-aeo-landing-page-writer](marketer-landing-page/sickn33/seo-aeo-landing-page-writer/SKILL.md)
-- [sickn33/seo-aeo-meta-description-generator](marketer-landing-page/sickn33/seo-aeo-meta-description-generator/SKILL.md)
-- [whawkinsiv/landing-page](marketer-landing-page/whawkinsiv/landing-page/SKILL.md)
+- [alirezarezvani/ad-creative](integrate-stripe/alirezarezvani/ad-creative/SKILL.md)
+- [alirezarezvani/stripe-integration-expert](integrate-stripe/alirezarezvani/stripe-integration-expert/SKILL.md)
+- [sickn33/stripe-automation](integrate-stripe/sickn33/stripe-automation/SKILL.md)
+- [sickn33/stripe-integration](integrate-stripe/sickn33/stripe-integration/SKILL.md)
 
-## marketer-linkedin
-
-- [sickn33/linkedin-automation](marketer-linkedin/sickn33/linkedin-automation/SKILL.md)
-- [sickn33/linkedin-cli](marketer-linkedin/sickn33/linkedin-cli/SKILL.md)
-
-## notion
-
-- [sickn33/notion-automation](notion/sickn33/notion-automation/SKILL.md)
-- [sickn33/notion-template-business](notion/sickn33/notion-template-business/SKILL.md)
-
-## nutritionist
-
-- [sickn33/food-database-query](nutritionist/sickn33/food-database-query/SKILL.md)
-- [sickn33/nutrition-analyzer](nutritionist/sickn33/nutrition-analyzer/SKILL.md)
-
-## obsidian
-
-- [sickn33/obsidian-bases](obsidian/sickn33/obsidian-bases/SKILL.md)
-- [sickn33/obsidian-cli](obsidian/sickn33/obsidian-cli/SKILL.md)
-- [sickn33/obsidian-clipper-template-creator](obsidian/sickn33/obsidian-clipper-template-creator/SKILL.md)
-- [sickn33/obsidian-markdown](obsidian/sickn33/obsidian-markdown/SKILL.md)
-
-## planner-content-strategy
-
-- [alirezarezvani/content-creator](planner-content-strategy/alirezarezvani/content-creator/SKILL.md)
-- [alirezarezvani/content-humanizer](planner-content-strategy/alirezarezvani/content-humanizer/SKILL.md)
-- [alirezarezvani/content-strategist](planner-content-strategy/alirezarezvani/content-strategist/SKILL.md)
-- [alirezarezvani/content-strategy](planner-content-strategy/alirezarezvani/content-strategy/SKILL.md)
-- [alirezarezvani/cs-content-creator](planner-content-strategy/alirezarezvani/cs-content-creator/SKILL.md)
-- [chadboyda/content-to-pipeline](planner-content-strategy/chadboyda/content-to-pipeline/SKILL.md)
-- [coreyhaines31/content-strategy](planner-content-strategy/coreyhaines31/content-strategy/SKILL.md)
-- [coreyhaines31/site-architecture](planner-content-strategy/coreyhaines31/site-architecture/SKILL.md)
-- [coreyhaines31/social-content](planner-content-strategy/coreyhaines31/social-content/SKILL.md)
-- [github/folder-structure-blueprint-generator](planner-content-strategy/github/folder-structure-blueprint-generator/SKILL.md)
-- [sickn33/content-strategy](planner-content-strategy/sickn33/content-strategy/SKILL.md)
-- [sickn33/growth-engine](planner-content-strategy/sickn33/growth-engine/SKILL.md)
-- [sickn33/seo-content](planner-content-strategy/sickn33/seo-content/SKILL.md)
-- [sickn33/seo-content-auditor](planner-content-strategy/sickn33/seo-content-auditor/SKILL.md)
-- [sickn33/seo-content-planner](planner-content-strategy/sickn33/seo-content-planner/SKILL.md)
-- [sickn33/seo-content-refresher](planner-content-strategy/sickn33/seo-content-refresher/SKILL.md)
-- [sickn33/seo-content-writer](planner-content-strategy/sickn33/seo-content-writer/SKILL.md)
-- [sickn33/seo-keyword-strategist](planner-content-strategy/sickn33/seo-keyword-strategist/SKILL.md)
-- [sickn33/seo-plan](planner-content-strategy/sickn33/seo-plan/SKILL.md)
-- [sickn33/seo-structure-architect](planner-content-strategy/sickn33/seo-structure-architect/SKILL.md)
-- [sickn33/site-architecture](planner-content-strategy/sickn33/site-architecture/SKILL.md)
-- [sickn33/wiki-architect](planner-content-strategy/sickn33/wiki-architect/SKILL.md)
-
-## planner-software
-
-- [github/automate-this](planner-software/github/automate-this/SKILL.md)
-- [github/refactor-plan](planner-software/github/refactor-plan/SKILL.md)
-- [sickn33/concise-planning](planner-software/sickn33/concise-planning/SKILL.md)
-- [sickn33/plan-writing](planner-software/sickn33/plan-writing/SKILL.md)
-- [sickn33/planning-with-files](planner-software/sickn33/planning-with-files/SKILL.md)
-
-## product-design
-
-- [sickn33/product-design](product-design/sickn33/product-design/SKILL.md)
-- [sickn33/product-manager](product-design/sickn33/product-manager/SKILL.md)
-- [sickn33/product-manager-toolkit](product-design/sickn33/product-manager-toolkit/SKILL.md)
-
-## reviewer-accessibility
-
-- [sickn33/fixing-accessibility](reviewer-accessibility/sickn33/fixing-accessibility/SKILL.md)
-
-## reviewer-code
-
-- [obra/receiving-code-review](reviewer-code/obra/receiving-code-review/SKILL.md)
-- [sickn33/clean-code](reviewer-code/sickn33/clean-code/SKILL.md)
-- [sickn33/code-review-checklist](reviewer-code/sickn33/code-review-checklist/SKILL.md)
-- [sickn33/code-review-excellence](reviewer-code/sickn33/code-review-excellence/SKILL.md)
-- [sickn33/code-reviewer](reviewer-code/sickn33/code-reviewer/SKILL.md)
-- [sickn33/code-simplifier](reviewer-code/sickn33/code-simplifier/SKILL.md)
-
-## reviewer-security
-
-- [github/threat-model-analyst](reviewer-security/github/threat-model-analyst/SKILL.md)
-- [sickn33/cloud-penetration-testing](reviewer-security/sickn33/cloud-penetration-testing/SKILL.md)
-- [sickn33/pentest-checklist](reviewer-security/sickn33/pentest-checklist/SKILL.md)
-- [sickn33/sql-injection-testing](reviewer-security/sickn33/sql-injection-testing/SKILL.md)
-- [sickn33/threat-mitigation-mapping](reviewer-security/sickn33/threat-mitigation-mapping/SKILL.md)
-- [sickn33/threat-modeling-expert](reviewer-security/sickn33/threat-modeling-expert/SKILL.md)
-- [sickn33/top-web-vulnerabilities](reviewer-security/sickn33/top-web-vulnerabilities/SKILL.md)
-
-## reviewer-security-api
-
-- [sickn33/api-fuzzing-bug-bounty](reviewer-security-api/sickn33/api-fuzzing-bug-bounty/SKILL.md)
-- [sickn33/api-security-best-practices](reviewer-security-api/sickn33/api-security-best-practices/SKILL.md)
-- [sickn33/api-security-testing](reviewer-security-api/sickn33/api-security-testing/SKILL.md)
-
-## reviewer-security-web
-
-- [alirezarezvani/security-pen-testing](reviewer-security-web/alirezarezvani/security-pen-testing/SKILL.md)
-- [alirezarezvani/senior-secops](reviewer-security-web/alirezarezvani/senior-secops/SKILL.md)
-- [alirezarezvani/senior-security](reviewer-security-web/alirezarezvani/senior-security/SKILL.md)
-- [sickn33/html-injection-testing](reviewer-security-web/sickn33/html-injection-testing/SKILL.md)
-
-## reviewer-seo
-
-- [alirezarezvani/ai-seo](reviewer-seo/alirezarezvani/ai-seo/SKILL.md)
-- [alirezarezvani/programmatic-seo](reviewer-seo/alirezarezvani/programmatic-seo/SKILL.md)
-- [alirezarezvani/schema-markup](reviewer-seo/alirezarezvani/schema-markup/SKILL.md)
-- [alirezarezvani/seo-audit](reviewer-seo/alirezarezvani/seo-audit/SKILL.md)
-- [alirezarezvani/seo-auditor](reviewer-seo/alirezarezvani/seo-auditor/SKILL.md)
-- [chadboyda/ai-seo](reviewer-seo/chadboyda/ai-seo/SKILL.md)
-- [coreyhaines31/ai-seo](reviewer-seo/coreyhaines31/ai-seo/SKILL.md)
-- [coreyhaines31/programmatic-seo](reviewer-seo/coreyhaines31/programmatic-seo/SKILL.md)
-- [coreyhaines31/schema-markup](reviewer-seo/coreyhaines31/schema-markup/SKILL.md)
-- [coreyhaines31/seo-audit](reviewer-seo/coreyhaines31/seo-audit/SKILL.md)
-- [sickn33/ai-seo](reviewer-seo/sickn33/ai-seo/SKILL.md)
-- [sickn33/keyword-extractor](reviewer-seo/sickn33/keyword-extractor/SKILL.md)
-- [sickn33/programmatic-seo](reviewer-seo/sickn33/programmatic-seo/SKILL.md)
-- [sickn33/seo-aeo-content-cluster](reviewer-seo/sickn33/seo-aeo-content-cluster/SKILL.md)
-- [sickn33/seo-aeo-content-quality-auditor](reviewer-seo/sickn33/seo-aeo-content-quality-auditor/SKILL.md)
-- [sickn33/seo-aeo-internal-linking](reviewer-seo/sickn33/seo-aeo-internal-linking/SKILL.md)
-- [sickn33/seo-aeo-keyword-research](reviewer-seo/sickn33/seo-aeo-keyword-research/SKILL.md)
-- [sickn33/seo-aeo-schema-generator](reviewer-seo/sickn33/seo-aeo-schema-generator/SKILL.md)
-- [sickn33/seo-audit](reviewer-seo/sickn33/seo-audit/SKILL.md)
-- [sickn33/seo-authority-builder](reviewer-seo/sickn33/seo-authority-builder/SKILL.md)
-- [sickn33/seo-cannibalization-detector](reviewer-seo/sickn33/seo-cannibalization-detector/SKILL.md)
-- [sickn33/seo-meta-optimizer](reviewer-seo/sickn33/seo-meta-optimizer/SKILL.md)
-- [sickn33/seo-page](reviewer-seo/sickn33/seo-page/SKILL.md)
-- [sickn33/seo-programmatic](reviewer-seo/sickn33/seo-programmatic/SKILL.md)
-- [sickn33/seo-schema](reviewer-seo/sickn33/seo-schema/SKILL.md)
-- [sickn33/seo-sitemap](reviewer-seo/sickn33/seo-sitemap/SKILL.md)
-- [sickn33/seo-technical](reviewer-seo/sickn33/seo-technical/SKILL.md)
-- [whawkinsiv/seo](reviewer-seo/whawkinsiv/seo/SKILL.md)
-- [whawkinsiv/seo-audit](reviewer-seo/whawkinsiv/seo-audit/SKILL.md)
-- [whawkinsiv/seo-content](reviewer-seo/whawkinsiv/seo-content/SKILL.md)
-- [whawkinsiv/technical-seo](reviewer-seo/whawkinsiv/technical-seo/SKILL.md)
-
-## reviewer-software-pci
-
-- [sickn33/pci-compliance](reviewer-software-pci/sickn33/pci-compliance/SKILL.md)
-
-## sales-email
-
-- [alirezarezvani/cold-email](sales-email/alirezarezvani/cold-email/SKILL.md)
-- [alirezarezvani/cs-demand-gen-specialist](sales-email/alirezarezvani/cs-demand-gen-specialist/SKILL.md)
-- [alirezarezvani/cs-engineering-lead](sales-email/alirezarezvani/cs-engineering-lead/SKILL.md)
-- [alirezarezvani/email-sequence](sales-email/alirezarezvani/email-sequence/SKILL.md)
-- [alirezarezvani/sales-engineer](sales-email/alirezarezvani/sales-engineer/SKILL.md)
-- [chadboyda/ai-cold-outreach](sales-email/chadboyda/ai-cold-outreach/SKILL.md)
-- [coreyhaines31/churn-prevention](sales-email/coreyhaines31/churn-prevention/SKILL.md)
-- [coreyhaines31/cold-email](sales-email/coreyhaines31/cold-email/SKILL.md)
-- [coreyhaines31/email-sequence](sales-email/coreyhaines31/email-sequence/SKILL.md)
-- [coreyhaines31/sales-enablement](sales-email/coreyhaines31/sales-enablement/SKILL.md)
-- [github/email-drafter](sales-email/github/email-drafter/SKILL.md)
-- [sickn33/cold-email](sales-email/sickn33/cold-email/SKILL.md)
-- [sickn33/email-sequence](sales-email/sickn33/email-sequence/SKILL.md)
-- [sickn33/sales-automator](sales-email/sickn33/sales-automator/SKILL.md)
-- [sickn33/sales-enablement](sales-email/sickn33/sales-enablement/SKILL.md)
-- [sickn33/subject-line-psychologist](sales-email/sickn33/subject-line-psychologist/SKILL.md)
-- [whawkinsiv/sales](sales-email/whawkinsiv/sales/SKILL.md)
-
-## security-auditor
-
-- [sickn33/active-directory-attacks](security-auditor/sickn33/active-directory-attacks/SKILL.md)
-- [sickn33/security-audit](security-auditor/sickn33/security-audit/SKILL.md)
-- [sickn33/security-auditor](security-auditor/sickn33/security-auditor/SKILL.md)
-
-## slack
-
-- [sickn33/slack-automation](slack/sickn33/slack-automation/SKILL.md)
-- [sickn33/slack-bot-builder](slack/sickn33/slack-bot-builder/SKILL.md)
-
-## stripe
-
-- [alirezarezvani/ad-creative](stripe/alirezarezvani/ad-creative/SKILL.md)
-- [alirezarezvani/stripe-integration-expert](stripe/alirezarezvani/stripe-integration-expert/SKILL.md)
-- [sickn33/stripe-automation](stripe/sickn33/stripe-automation/SKILL.md)
-- [sickn33/stripe-integration](stripe/sickn33/stripe-integration/SKILL.md)
-
-## telegram
-
-- [sickn33/telegram](telegram/sickn33/telegram/SKILL.md)
-- [sickn33/telegram-automation](telegram/sickn33/telegram-automation/SKILL.md)
-- [sickn33/telegram-bot-builder](telegram/sickn33/telegram-bot-builder/SKILL.md)
-- [sickn33/telegram-mini-app](telegram/sickn33/telegram-mini-app/SKILL.md)
-
-## vercel
-
-- [sickn33/vercel-ai-sdk-expert](vercel/sickn33/vercel-ai-sdk-expert/SKILL.md)
-- [sickn33/vercel-automation](vercel/sickn33/vercel-automation/SKILL.md)
-- [sickn33/vercel-deployment](vercel/sickn33/vercel-deployment/SKILL.md)
-
-## verification-before-completion
-
-- [cblecker/verification-before-completion](verification-before-completion/cblecker/verification-before-completion/SKILL.md)
-- [github/doublecheck](verification-before-completion/github/doublecheck/SKILL.md)
-- [sickn33/verification-before-completion](verification-before-completion/sickn33/verification-before-completion/SKILL.md)
-
-## writer
-
-- [bmad-code-org/bmad-editorial-review-prose](writer/bmad-code-org/bmad-editorial-review-prose/SKILL.md)
-- [bmad-code-org/bmad-editorial-review-structure](writer/bmad-code-org/bmad-editorial-review-structure/SKILL.md)
-- [cblecker/writing-skills](writer/cblecker/writing-skills/SKILL.md)
-- [obra/writing-skills](writer/obra/writing-skills/SKILL.md)
-- [sickn33/writing-skills](writer/sickn33/writing-skills/SKILL.md)
-
-## writer-blog
-
-- [sickn33/seo-aeo-blog-writer](writer-blog/sickn33/seo-aeo-blog-writer/SKILL.md)
-
-## writer-communication-internal
-
-- [alirezarezvani/team-communications](writer-communication-internal/alirezarezvani/team-communications/SKILL.md)
-- [anthropics/internal-comms](writer-communication-internal/anthropics/internal-comms/SKILL.md)
-- [sickn33/internal-comms](writer-communication-internal/sickn33/internal-comms/SKILL.md)
-- [sickn33/internal-comms-anthropic](writer-communication-internal/sickn33/internal-comms-anthropic/SKILL.md)
-- [sickn33/internal-comms-community](writer-communication-internal/sickn33/internal-comms-community/SKILL.md)
-
-## writer-copywriting
-
-- [alirezarezvani/copy-editing](writer-copywriting/alirezarezvani/copy-editing/SKILL.md)
-- [alirezarezvani/copywriting](writer-copywriting/alirezarezvani/copywriting/SKILL.md)
-- [coreyhaines31/copy-editing](writer-copywriting/coreyhaines31/copy-editing/SKILL.md)
-- [coreyhaines31/copywriting](writer-copywriting/coreyhaines31/copywriting/SKILL.md)
-- [sickn33/copy-editing](writer-copywriting/sickn33/copy-editing/SKILL.md)
-- [sickn33/copywriting](writer-copywriting/sickn33/copywriting/SKILL.md)
-- [sickn33/copywriting-psychologist](writer-copywriting/sickn33/copywriting-psychologist/SKILL.md)
-- [whawkinsiv/copywriting](writer-copywriting/whawkinsiv/copywriting/SKILL.md)
-
-## writer-marketing
-
-- [coreyhaines31/marketing-psychology](writer-marketing/coreyhaines31/marketing-psychology/SKILL.md)
-- [sickn33/ad-creative](writer-marketing/sickn33/ad-creative/SKILL.md)
-- [sickn33/content-creator](writer-marketing/sickn33/content-creator/SKILL.md)
-- [sickn33/content-marketer](writer-marketing/sickn33/content-marketer/SKILL.md)
-
-## writer-technical
-
-- [bmad-code-org/bmad-agent-tech-writer](writer-technical/bmad-code-org/bmad-agent-tech-writer/SKILL.md)
-- [github/documentation-writer](writer-technical/github/documentation-writer/SKILL.md)
-- [K-Dense-AI/scientific-writing](writer-technical/K-Dense-AI/scientific-writing/SKILL.md)
-- [mattnebr/technical-writing-style](writer-technical/mattnebr/technical-writing-style/SKILL.md)
-- [NeoLabHQ/write-concisely](writer-technical/NeoLabHQ/write-concisely/SKILL.md)
-
-## x
-
-- [alirezarezvani/x-twitter-growth](x/alirezarezvani/x-twitter-growth/SKILL.md)
-- [sickn33/x-article-publisher-skill](x/sickn33/x-article-publisher-skill/SKILL.md)
-- [sickn33/x-twitter-scraper](x/sickn33/x-twitter-scraper/SKILL.md)
-
-## zoom
-
-- [sickn33/zoom-automation](zoom/sickn33/zoom-automation/SKILL.md)
+## integrate-telegram
+
+- [sickn33/telegram](integrate-telegram/sickn33/telegram/SKILL.md)
+- [sickn33/telegram-automation](integrate-telegram/sickn33/telegram-automation/SKILL.md)
+- [sickn33/telegram-bot-builder](integrate-telegram/sickn33/telegram-bot-builder/SKILL.md)
+- [sickn33/telegram-mini-app](integrate-telegram/sickn33/telegram-mini-app/SKILL.md)
+
+## integrate-vercel
+
+- [sickn33/vercel-ai-sdk-expert](integrate-vercel/sickn33/vercel-ai-sdk-expert/SKILL.md)
+- [sickn33/vercel-automation](integrate-vercel/sickn33/vercel-automation/SKILL.md)
+- [sickn33/vercel-deployment](integrate-vercel/sickn33/vercel-deployment/SKILL.md)
+
+## integrate-x
+
+- [alirezarezvani/x-twitter-growth](integrate-x/alirezarezvani/x-twitter-growth/SKILL.md)
+- [sickn33/x-article-publisher-skill](integrate-x/sickn33/x-article-publisher-skill/SKILL.md)
+- [sickn33/x-twitter-scraper](integrate-x/sickn33/x-twitter-scraper/SKILL.md)
+
+## integrate-zoom
+
+- [sickn33/zoom-automation](integrate-zoom/sickn33/zoom-automation/SKILL.md)
+
+## manage-agile
+
+- [addyosmani/incremental-implementation](manage-agile/addyosmani/incremental-implementation/SKILL.md)
+- [addyosmani/source-driven-development](manage-agile/addyosmani/source-driven-development/SKILL.md)
+- [addyosmani/spec-driven-development](manage-agile/addyosmani/spec-driven-development/SKILL.md)
+- [alirezarezvani/agile-product-owner](manage-agile/alirezarezvani/agile-product-owner/SKILL.md)
+- [alirezarezvani/change-management](manage-agile/alirezarezvani/change-management/SKILL.md)
+- [alirezarezvani/code-to-prd](manage-agile/alirezarezvani/code-to-prd/SKILL.md)
+- [alirezarezvani/cs-agile-product-owner](manage-agile/alirezarezvani/cs-agile-product-owner/SKILL.md)
+- [alirezarezvani/cs-product-manager](manage-agile/alirezarezvani/cs-product-manager/SKILL.md)
+- [alirezarezvani/cs-project-manager](manage-agile/alirezarezvani/cs-project-manager/SKILL.md)
+- [alirezarezvani/epic-design](manage-agile/alirezarezvani/epic-design/SKILL.md)
+- [alirezarezvani/meeting-analyzer](manage-agile/alirezarezvani/meeting-analyzer/SKILL.md)
+- [alirezarezvani/okr](manage-agile/alirezarezvani/okr/SKILL.md)
+- [alirezarezvani/postmortem](manage-agile/alirezarezvani/postmortem/SKILL.md)
+- [alirezarezvani/prd](manage-agile/alirezarezvani/prd/SKILL.md)
+- [alirezarezvani/product-manager](manage-agile/alirezarezvani/product-manager/SKILL.md)
+- [alirezarezvani/project-health](manage-agile/alirezarezvani/project-health/SKILL.md)
+- [alirezarezvani/project-management](manage-agile/alirezarezvani/project-management/SKILL.md)
+- [alirezarezvani/release-manager](manage-agile/alirezarezvani/release-manager/SKILL.md)
+- [alirezarezvani/roadmap-communicator](manage-agile/alirezarezvani/roadmap-communicator/SKILL.md)
+- [alirezarezvani/scrum-master](manage-agile/alirezarezvani/scrum-master/SKILL.md)
+- [alirezarezvani/senior-pm](manage-agile/alirezarezvani/senior-pm/SKILL.md)
+- [alirezarezvani/spec-driven-workflow](manage-agile/alirezarezvani/spec-driven-workflow/SKILL.md)
+- [alirezarezvani/spec-to-repo](manage-agile/alirezarezvani/spec-to-repo/SKILL.md)
+- [alirezarezvani/sprint-plan](manage-agile/alirezarezvani/sprint-plan/SKILL.md)
+- [alirezarezvani/user-story](manage-agile/alirezarezvani/user-story/SKILL.md)
+- [bmad-code-org/bmad-create-epics-and-stories](manage-agile/bmad-code-org/bmad-create-epics-and-stories/SKILL.md)
+- [bmad-code-org/bmad-create-story](manage-agile/bmad-code-org/bmad-create-story/SKILL.md)
+- [bmad-code-org/bmad-dev-story](manage-agile/bmad-code-org/bmad-dev-story/SKILL.md)
+- [bmad-code-org/bmad-retrospective](manage-agile/bmad-code-org/bmad-retrospective/SKILL.md)
+- [bmad-code-org/bmad-sprint-planning](manage-agile/bmad-code-org/bmad-sprint-planning/SKILL.md)
+- [cblecker/executing-plans](manage-agile/cblecker/executing-plans/SKILL.md)
+- [cblecker/writing-plans](manage-agile/cblecker/writing-plans/SKILL.md)
+- [github/breakdown-epic-arch](manage-agile/github/breakdown-epic-arch/SKILL.md)
+- [github/breakdown-epic-pm](manage-agile/github/breakdown-epic-pm/SKILL.md)
+- [github/breakdown-feature-implementation](manage-agile/github/breakdown-feature-implementation/SKILL.md)
+- [github/breakdown-feature-prd](manage-agile/github/breakdown-feature-prd/SKILL.md)
+- [github/create-implementation-plan](manage-agile/github/create-implementation-plan/SKILL.md)
+- [github/create-specification](manage-agile/github/create-specification/SKILL.md)
+- [github/create-technical-spike](manage-agile/github/create-technical-spike/SKILL.md)
+- [github/eval-driven-dev](manage-agile/github/eval-driven-dev/SKILL.md)
+- [github/gen-specs-as-issues](manage-agile/github/gen-specs-as-issues/SKILL.md)
+- [github/meeting-minutes](manage-agile/github/meeting-minutes/SKILL.md)
+- [github/prd](manage-agile/github/prd/SKILL.md)
+- [github/update-implementation-plan](manage-agile/github/update-implementation-plan/SKILL.md)
+- [michalparkola/scrum-sage](manage-agile/michalparkola/scrum-sage/SKILL.md)
+- [NeoLabHQ/kaizen](manage-agile/NeoLabHQ/kaizen/SKILL.md)
+- [SebastienDegodez/gherkin-gate](manage-agile/SebastienDegodez/gherkin-gate/SKILL.md)
+- [sickn33/team-collaboration-standup-notes](manage-agile/sickn33/team-collaboration-standup-notes/SKILL.md)
+- [sickn33/todoist-automation](manage-agile/sickn33/todoist-automation/SKILL.md)
+- [sickn33/writing-plans](manage-agile/sickn33/writing-plans/SKILL.md)
+- [SuperClaude-Org/confidence-check](manage-agile/SuperClaude-Org/confidence-check/SKILL.md)
+- [whawkinsiv/plan](manage-agile/whawkinsiv/plan/SKILL.md)
+
+## manage-people
+
+- [alirezarezvani/churn-prevention](manage-people/alirezarezvani/churn-prevention/SKILL.md)
+- [alirezarezvani/culture-architect](manage-people/alirezarezvani/culture-architect/SKILL.md)
+- [github/mentoring-juniors](manage-people/github/mentoring-juniors/SKILL.md)
+- [sickn33/churn-prevention](manage-people/sickn33/churn-prevention/SKILL.md)
+- [sickn33/employment-contract-templates](manage-people/sickn33/employment-contract-templates/SKILL.md)
+- [sickn33/goal-analyzer](manage-people/sickn33/goal-analyzer/SKILL.md)
+- [sickn33/on-call-handoff-patterns](manage-people/sickn33/on-call-handoff-patterns/SKILL.md)
+- [whawkinsiv/hiring](manage-people/whawkinsiv/hiring/SKILL.md)
+- [whawkinsiv/retention](manage-people/whawkinsiv/retention/SKILL.md)
+
+## manage-project
+
+- [addyosmani/planning-and-task-breakdown](manage-project/addyosmani/planning-and-task-breakdown/SKILL.md)
+- [automazeio/ccpm](manage-project/automazeio/ccpm/SKILL.md)
+- [bmad-code-org/bmad-create-prd](manage-project/bmad-code-org/bmad-create-prd/SKILL.md)
+- [bmad-code-org/bmad-document-project](manage-project/bmad-code-org/bmad-document-project/SKILL.md)
+- [bmad-code-org/bmad-edit-prd](manage-project/bmad-code-org/bmad-edit-prd/SKILL.md)
+- [bmad-code-org/bmad-product-brief](manage-project/bmad-code-org/bmad-product-brief/SKILL.md)
+- [feiskyer/spec-kit-skill](manage-project/feiskyer/spec-kit-skill/SKILL.md)
+- [NeoLabHQ/plan-do-check-act](manage-project/NeoLabHQ/plan-do-check-act/SKILL.md)
+- [obra/executing-plans](manage-project/obra/executing-plans/SKILL.md)
+- [obra/writing-plans](manage-project/obra/writing-plans/SKILL.md)
+- [sanjay3290/outline](manage-project/sanjay3290/outline/SKILL.md)
+- [sickn33/progressive-estimation](manage-project/sickn33/progressive-estimation/SKILL.md)
+- [sickn33/project-development](manage-project/sickn33/project-development/SKILL.md)
+- [sickn33/projection-patterns](manage-project/sickn33/projection-patterns/SKILL.md)
+- [SuperClaude-Org/pm](manage-project/SuperClaude-Org/pm/SKILL.md)
+- [whawkinsiv/prioritize](manage-project/whawkinsiv/prioritize/SKILL.md)
+
+## marketing-content
+
+- [coreyhaines31/marketing-psychology](marketing-content/coreyhaines31/marketing-psychology/SKILL.md)
+- [sickn33/ad-creative](marketing-content/sickn33/ad-creative/SKILL.md)
+- [sickn33/content-creator](marketing-content/sickn33/content-creator/SKILL.md)
+- [sickn33/content-marketer](marketing-content/sickn33/content-marketer/SKILL.md)
+
+## marketing-general
+
+- [alirezarezvani/ad-creative](marketing-general/alirezarezvani/ad-creative/SKILL.md)
+- [alirezarezvani/growth-marketer](marketing-general/alirezarezvani/growth-marketer/SKILL.md)
+- [alirezarezvani/marketing-ideas](marketing-general/alirezarezvani/marketing-ideas/SKILL.md)
+- [alirezarezvani/marketing-ops](marketing-general/alirezarezvani/marketing-ops/SKILL.md)
+- [alirezarezvani/marketing-skill](marketing-general/alirezarezvani/marketing-skill/SKILL.md)
+- [chadboyda/expansion-retention](marketing-general/chadboyda/expansion-retention/SKILL.md)
+- [coreyhaines31/ad-creative](marketing-general/coreyhaines31/ad-creative/SKILL.md)
+- [coreyhaines31/marketing-ideas](marketing-general/coreyhaines31/marketing-ideas/SKILL.md)
+- [sickn33/marketing-ideas](marketing-general/sickn33/marketing-ideas/SKILL.md)
+- [sickn33/marketing-psychology](marketing-general/sickn33/marketing-psychology/SKILL.md)
+- [whawkinsiv/growth](marketing-general/whawkinsiv/growth/SKILL.md)
+
+## marketing-instagram
+
+- [sickn33/instagram](marketing-instagram/sickn33/instagram/SKILL.md)
+- [sickn33/instagram-automation](marketing-instagram/sickn33/instagram-automation/SKILL.md)
+
+## marketing-landing-page
+
+- [alirezarezvani/cs-growth-strategist](marketing-landing-page/alirezarezvani/cs-growth-strategist/SKILL.md)
+- [alirezarezvani/landing-page-generator](marketing-landing-page/alirezarezvani/landing-page-generator/SKILL.md)
+- [alirezarezvani/marketing-psychology](marketing-landing-page/alirezarezvani/marketing-psychology/SKILL.md)
+- [coreyhaines31/lead-magnets](marketing-landing-page/coreyhaines31/lead-magnets/SKILL.md)
+- [coreyhaines31/page-cro](marketing-landing-page/coreyhaines31/page-cro/SKILL.md)
+- [coreyhaines31/product-marketing-context](marketing-landing-page/coreyhaines31/product-marketing-context/SKILL.md)
+- [sickn33/landing-page-generator](marketing-landing-page/sickn33/landing-page-generator/SKILL.md)
+- [sickn33/lead-magnets](marketing-landing-page/sickn33/lead-magnets/SKILL.md)
+- [sickn33/seo-aeo-landing-page-writer](marketing-landing-page/sickn33/seo-aeo-landing-page-writer/SKILL.md)
+- [sickn33/seo-aeo-meta-description-generator](marketing-landing-page/sickn33/seo-aeo-meta-description-generator/SKILL.md)
+- [whawkinsiv/landing-page](marketing-landing-page/whawkinsiv/landing-page/SKILL.md)
+
+## marketing-linkedin
+
+- [sickn33/linkedin-automation](marketing-linkedin/sickn33/linkedin-automation/SKILL.md)
+- [sickn33/linkedin-cli](marketing-linkedin/sickn33/linkedin-cli/SKILL.md)
+
+## marketing-sales-email
+
+- [alirezarezvani/cold-email](marketing-sales-email/alirezarezvani/cold-email/SKILL.md)
+- [alirezarezvani/cs-demand-gen-specialist](marketing-sales-email/alirezarezvani/cs-demand-gen-specialist/SKILL.md)
+- [alirezarezvani/cs-engineering-lead](marketing-sales-email/alirezarezvani/cs-engineering-lead/SKILL.md)
+- [alirezarezvani/email-sequence](marketing-sales-email/alirezarezvani/email-sequence/SKILL.md)
+- [alirezarezvani/sales-engineer](marketing-sales-email/alirezarezvani/sales-engineer/SKILL.md)
+- [chadboyda/ai-cold-outreach](marketing-sales-email/chadboyda/ai-cold-outreach/SKILL.md)
+- [coreyhaines31/churn-prevention](marketing-sales-email/coreyhaines31/churn-prevention/SKILL.md)
+- [coreyhaines31/cold-email](marketing-sales-email/coreyhaines31/cold-email/SKILL.md)
+- [coreyhaines31/email-sequence](marketing-sales-email/coreyhaines31/email-sequence/SKILL.md)
+- [coreyhaines31/sales-enablement](marketing-sales-email/coreyhaines31/sales-enablement/SKILL.md)
+- [github/email-drafter](marketing-sales-email/github/email-drafter/SKILL.md)
+- [sickn33/cold-email](marketing-sales-email/sickn33/cold-email/SKILL.md)
+- [sickn33/email-sequence](marketing-sales-email/sickn33/email-sequence/SKILL.md)
+- [sickn33/sales-automator](marketing-sales-email/sickn33/sales-automator/SKILL.md)
+- [sickn33/sales-enablement](marketing-sales-email/sickn33/sales-enablement/SKILL.md)
+- [sickn33/subject-line-psychologist](marketing-sales-email/sickn33/subject-line-psychologist/SKILL.md)
+- [whawkinsiv/sales](marketing-sales-email/whawkinsiv/sales/SKILL.md)
+
+## plan-brainstorm
+
+- [addyosmani/idea-refine](plan-brainstorm/addyosmani/idea-refine/SKILL.md)
+- [bmad-code-org/bmad-brainstorming](plan-brainstorm/bmad-code-org/bmad-brainstorming/SKILL.md)
+- [cblecker/brainstorming](plan-brainstorm/cblecker/brainstorming/SKILL.md)
+- [github/from-the-other-side-vega](plan-brainstorm/github/from-the-other-side-vega/SKILL.md)
+- [K-Dense-AI/scientific-critical-thinking](plan-brainstorm/K-Dense-AI/scientific-critical-thinking/SKILL.md)
+- [NeoLabHQ/brainstorm](plan-brainstorm/NeoLabHQ/brainstorm/SKILL.md)
+- [NeoLabHQ/create-ideas](plan-brainstorm/NeoLabHQ/create-ideas/SKILL.md)
+- [NeoLabHQ/thought-based-reasoning](plan-brainstorm/NeoLabHQ/thought-based-reasoning/SKILL.md)
+- [NeoLabHQ/tree-of-thoughts](plan-brainstorm/NeoLabHQ/tree-of-thoughts/SKILL.md)
+- [obra/brainstorming](plan-brainstorm/obra/brainstorming/SKILL.md)
+- [sickn33/brainstorming](plan-brainstorm/sickn33/brainstorming/SKILL.md)
+- [sickn33/idea-darwin](plan-brainstorm/sickn33/idea-darwin/SKILL.md)
+- [SuperClaude-Org/brainstorm](plan-brainstorm/SuperClaude-Org/brainstorm/SKILL.md)
+
+## plan-content-strategy
+
+- [alirezarezvani/content-creator](plan-content-strategy/alirezarezvani/content-creator/SKILL.md)
+- [alirezarezvani/content-humanizer](plan-content-strategy/alirezarezvani/content-humanizer/SKILL.md)
+- [alirezarezvani/content-strategist](plan-content-strategy/alirezarezvani/content-strategist/SKILL.md)
+- [alirezarezvani/content-strategy](plan-content-strategy/alirezarezvani/content-strategy/SKILL.md)
+- [alirezarezvani/cs-content-creator](plan-content-strategy/alirezarezvani/cs-content-creator/SKILL.md)
+- [chadboyda/content-to-pipeline](plan-content-strategy/chadboyda/content-to-pipeline/SKILL.md)
+- [coreyhaines31/content-strategy](plan-content-strategy/coreyhaines31/content-strategy/SKILL.md)
+- [coreyhaines31/site-architecture](plan-content-strategy/coreyhaines31/site-architecture/SKILL.md)
+- [coreyhaines31/social-content](plan-content-strategy/coreyhaines31/social-content/SKILL.md)
+- [github/folder-structure-blueprint-generator](plan-content-strategy/github/folder-structure-blueprint-generator/SKILL.md)
+- [sickn33/content-strategy](plan-content-strategy/sickn33/content-strategy/SKILL.md)
+- [sickn33/growth-engine](plan-content-strategy/sickn33/growth-engine/SKILL.md)
+- [sickn33/seo-content](plan-content-strategy/sickn33/seo-content/SKILL.md)
+- [sickn33/seo-content-auditor](plan-content-strategy/sickn33/seo-content-auditor/SKILL.md)
+- [sickn33/seo-content-planner](plan-content-strategy/sickn33/seo-content-planner/SKILL.md)
+- [sickn33/seo-content-refresher](plan-content-strategy/sickn33/seo-content-refresher/SKILL.md)
+- [sickn33/seo-content-writer](plan-content-strategy/sickn33/seo-content-writer/SKILL.md)
+- [sickn33/seo-keyword-strategist](plan-content-strategy/sickn33/seo-keyword-strategist/SKILL.md)
+- [sickn33/seo-plan](plan-content-strategy/sickn33/seo-plan/SKILL.md)
+- [sickn33/seo-structure-architect](plan-content-strategy/sickn33/seo-structure-architect/SKILL.md)
+- [sickn33/site-architecture](plan-content-strategy/sickn33/site-architecture/SKILL.md)
+- [sickn33/wiki-architect](plan-content-strategy/sickn33/wiki-architect/SKILL.md)
+
+## plan-requirements
+
+- [github/first-ask](plan-requirements/github/first-ask/SKILL.md)
+- [github/what-context-needed](plan-requirements/github/what-context-needed/SKILL.md)
+- [mattnebr/follow-up-question](plan-requirements/mattnebr/follow-up-question/follow-up-question.instructions.md)
+- [SebastienDegodez/follow-up-question](plan-requirements/SebastienDegodez/follow-up-question/follow-up-question.instructions.md)
+- [sickn33/ask-questions-if-underspecified](plan-requirements/sickn33/ask-questions-if-underspecified/SKILL.md)
+
+## plan-software
+
+- [github/automate-this](plan-software/github/automate-this/SKILL.md)
+- [github/refactor-plan](plan-software/github/refactor-plan/SKILL.md)
+- [sickn33/concise-planning](plan-software/sickn33/concise-planning/SKILL.md)
+- [sickn33/plan-writing](plan-software/sickn33/plan-writing/SKILL.md)
+- [sickn33/planning-with-files](plan-software/sickn33/planning-with-files/SKILL.md)
+
+## plan-verification
+
+- [cblecker/verification-before-completion](plan-verification/cblecker/verification-before-completion/SKILL.md)
+- [github/doublecheck](plan-verification/github/doublecheck/SKILL.md)
+- [sickn33/verification-before-completion](plan-verification/sickn33/verification-before-completion/SKILL.md)
+
+## review-accessibility
+
+- [sickn33/fixing-accessibility](review-accessibility/sickn33/fixing-accessibility/SKILL.md)
+
+## review-code
+
+- [obra/receiving-code-review](review-code/obra/receiving-code-review/SKILL.md)
+- [sickn33/clean-code](review-code/sickn33/clean-code/SKILL.md)
+- [sickn33/code-review-checklist](review-code/sickn33/code-review-checklist/SKILL.md)
+- [sickn33/code-review-excellence](review-code/sickn33/code-review-excellence/SKILL.md)
+- [sickn33/code-reviewer](review-code/sickn33/code-reviewer/SKILL.md)
+- [sickn33/code-simplifier](review-code/sickn33/code-simplifier/SKILL.md)
+
+## review-pci-compliance
+
+- [sickn33/pci-compliance](review-pci-compliance/sickn33/pci-compliance/SKILL.md)
+
+## review-qa
+
+- [addyosmani/browser-testing-with-devtools](review-qa/addyosmani/browser-testing-with-devtools/SKILL.md)
+- [alirezarezvani/senior-qa](review-qa/alirezarezvani/senior-qa/SKILL.md)
+- [alirezarezvani/skill-tester](review-qa/alirezarezvani/skill-tester/SKILL.md)
+- [omkamal/pypict-claude-skill](review-qa/omkamal/pypict-claude-skill/SKILL.md)
+- [whawkinsiv/test](review-qa/whawkinsiv/test/SKILL.md)
+
+## review-seo
+
+- [alirezarezvani/ai-seo](review-seo/alirezarezvani/ai-seo/SKILL.md)
+- [alirezarezvani/programmatic-seo](review-seo/alirezarezvani/programmatic-seo/SKILL.md)
+- [alirezarezvani/schema-markup](review-seo/alirezarezvani/schema-markup/SKILL.md)
+- [alirezarezvani/seo-audit](review-seo/alirezarezvani/seo-audit/SKILL.md)
+- [alirezarezvani/seo-auditor](review-seo/alirezarezvani/seo-auditor/SKILL.md)
+- [chadboyda/ai-seo](review-seo/chadboyda/ai-seo/SKILL.md)
+- [coreyhaines31/ai-seo](review-seo/coreyhaines31/ai-seo/SKILL.md)
+- [coreyhaines31/programmatic-seo](review-seo/coreyhaines31/programmatic-seo/SKILL.md)
+- [coreyhaines31/schema-markup](review-seo/coreyhaines31/schema-markup/SKILL.md)
+- [coreyhaines31/seo-audit](review-seo/coreyhaines31/seo-audit/SKILL.md)
+- [sickn33/ai-seo](review-seo/sickn33/ai-seo/SKILL.md)
+- [sickn33/keyword-extractor](review-seo/sickn33/keyword-extractor/SKILL.md)
+- [sickn33/programmatic-seo](review-seo/sickn33/programmatic-seo/SKILL.md)
+- [sickn33/seo-aeo-content-cluster](review-seo/sickn33/seo-aeo-content-cluster/SKILL.md)
+- [sickn33/seo-aeo-content-quality-auditor](review-seo/sickn33/seo-aeo-content-quality-auditor/SKILL.md)
+- [sickn33/seo-aeo-internal-linking](review-seo/sickn33/seo-aeo-internal-linking/SKILL.md)
+- [sickn33/seo-aeo-keyword-research](review-seo/sickn33/seo-aeo-keyword-research/SKILL.md)
+- [sickn33/seo-aeo-schema-generator](review-seo/sickn33/seo-aeo-schema-generator/SKILL.md)
+- [sickn33/seo-audit](review-seo/sickn33/seo-audit/SKILL.md)
+- [sickn33/seo-authority-builder](review-seo/sickn33/seo-authority-builder/SKILL.md)
+- [sickn33/seo-cannibalization-detector](review-seo/sickn33/seo-cannibalization-detector/SKILL.md)
+- [sickn33/seo-meta-optimizer](review-seo/sickn33/seo-meta-optimizer/SKILL.md)
+- [sickn33/seo-page](review-seo/sickn33/seo-page/SKILL.md)
+- [sickn33/seo-programmatic](review-seo/sickn33/seo-programmatic/SKILL.md)
+- [sickn33/seo-schema](review-seo/sickn33/seo-schema/SKILL.md)
+- [sickn33/seo-sitemap](review-seo/sickn33/seo-sitemap/SKILL.md)
+- [sickn33/seo-technical](review-seo/sickn33/seo-technical/SKILL.md)
+- [whawkinsiv/seo](review-seo/whawkinsiv/seo/SKILL.md)
+- [whawkinsiv/seo-audit](review-seo/whawkinsiv/seo-audit/SKILL.md)
+- [whawkinsiv/seo-content](review-seo/whawkinsiv/seo-content/SKILL.md)
+- [whawkinsiv/technical-seo](review-seo/whawkinsiv/technical-seo/SKILL.md)
+
+## secure-api
+
+- [sickn33/api-fuzzing-bug-bounty](secure-api/sickn33/api-fuzzing-bug-bounty/SKILL.md)
+- [sickn33/api-security-best-practices](secure-api/sickn33/api-security-best-practices/SKILL.md)
+- [sickn33/api-security-testing](secure-api/sickn33/api-security-testing/SKILL.md)
+
+## secure-audit
+
+- [sickn33/active-directory-attacks](secure-audit/sickn33/active-directory-attacks/SKILL.md)
+- [sickn33/security-audit](secure-audit/sickn33/security-audit/SKILL.md)
+- [sickn33/security-auditor](secure-audit/sickn33/security-auditor/SKILL.md)
+
+## secure-general
+
+- [github/threat-model-analyst](secure-general/github/threat-model-analyst/SKILL.md)
+- [sickn33/cloud-penetration-testing](secure-general/sickn33/cloud-penetration-testing/SKILL.md)
+- [sickn33/pentest-checklist](secure-general/sickn33/pentest-checklist/SKILL.md)
+- [sickn33/sql-injection-testing](secure-general/sickn33/sql-injection-testing/SKILL.md)
+- [sickn33/threat-mitigation-mapping](secure-general/sickn33/threat-mitigation-mapping/SKILL.md)
+- [sickn33/threat-modeling-expert](secure-general/sickn33/threat-modeling-expert/SKILL.md)
+- [sickn33/top-web-vulnerabilities](secure-general/sickn33/top-web-vulnerabilities/SKILL.md)
+
+## secure-web
+
+- [alirezarezvani/security-pen-testing](secure-web/alirezarezvani/security-pen-testing/SKILL.md)
+- [alirezarezvani/senior-secops](secure-web/alirezarezvani/senior-secops/SKILL.md)
+- [alirezarezvani/senior-security](secure-web/alirezarezvani/senior-security/SKILL.md)
+- [sickn33/html-injection-testing](secure-web/sickn33/html-injection-testing/SKILL.md)
+
+## write-blog
+
+- [sickn33/seo-aeo-blog-writer](write-blog/sickn33/seo-aeo-blog-writer/SKILL.md)
+
+## write-copywriting
+
+- [alirezarezvani/copy-editing](write-copywriting/alirezarezvani/copy-editing/SKILL.md)
+- [alirezarezvani/copywriting](write-copywriting/alirezarezvani/copywriting/SKILL.md)
+- [coreyhaines31/copy-editing](write-copywriting/coreyhaines31/copy-editing/SKILL.md)
+- [coreyhaines31/copywriting](write-copywriting/coreyhaines31/copywriting/SKILL.md)
+- [sickn33/copy-editing](write-copywriting/sickn33/copy-editing/SKILL.md)
+- [sickn33/copywriting](write-copywriting/sickn33/copywriting/SKILL.md)
+- [sickn33/copywriting-psychologist](write-copywriting/sickn33/copywriting-psychologist/SKILL.md)
+- [whawkinsiv/copywriting](write-copywriting/whawkinsiv/copywriting/SKILL.md)
+
+## write-general
+
+- [bmad-code-org/bmad-editorial-review-prose](write-general/bmad-code-org/bmad-editorial-review-prose/SKILL.md)
+- [bmad-code-org/bmad-editorial-review-structure](write-general/bmad-code-org/bmad-editorial-review-structure/SKILL.md)
+- [cblecker/writing-skills](write-general/cblecker/writing-skills/SKILL.md)
+- [obra/writing-skills](write-general/obra/writing-skills/SKILL.md)
+- [sickn33/writing-skills](write-general/sickn33/writing-skills/SKILL.md)
+
+## write-internal-comms
+
+- [alirezarezvani/team-communications](write-internal-comms/alirezarezvani/team-communications/SKILL.md)
+- [anthropics/internal-comms](write-internal-comms/anthropics/internal-comms/SKILL.md)
+- [sickn33/internal-comms](write-internal-comms/sickn33/internal-comms/SKILL.md)
+- [sickn33/internal-comms-anthropic](write-internal-comms/sickn33/internal-comms-anthropic/SKILL.md)
+- [sickn33/internal-comms-community](write-internal-comms/sickn33/internal-comms-community/SKILL.md)
+
+## write-technical
+
+- [bmad-code-org/bmad-agent-tech-writer](write-technical/bmad-code-org/bmad-agent-tech-writer/SKILL.md)
+- [github/documentation-writer](write-technical/github/documentation-writer/SKILL.md)
+- [K-Dense-AI/scientific-writing](write-technical/K-Dense-AI/scientific-writing/SKILL.md)
+- [mattnebr/technical-writing-style](write-technical/mattnebr/technical-writing-style/SKILL.md)
+- [NeoLabHQ/write-concisely](write-technical/NeoLabHQ/write-concisely/SKILL.md)
 

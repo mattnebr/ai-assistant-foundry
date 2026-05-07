@@ -7,11 +7,10 @@ description: "Skills for planning content strategy, topic clusters, editorial ca
 
 <!-- AUTO-GENERATED -->
 
-10 skill variant(s).
+9 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
-| alirezarezvani | content-strategist | [SKILL.md](alirezarezvani/content-strategist/SKILL.md) |
 | alirezarezvani | content-strategy | [SKILL.md](alirezarezvani/content-strategy/SKILL.md) |
 | coreyhaines31 | content-strategy | [SKILL.md](coreyhaines31/content-strategy/SKILL.md) |
 | coreyhaines31 | site-architecture | [SKILL.md](coreyhaines31/site-architecture/SKILL.md) |

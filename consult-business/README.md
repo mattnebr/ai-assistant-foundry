@@ -7,11 +7,10 @@ description: "Business analysis skills covering KPI frameworks, jobs-to-be-done 
 
 <!-- AUTO-GENERATED -->
 
-6 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
-| alirezarezvani | cs-product-analyst | [SKILL.md](alirezarezvani/cs-product-analyst/SKILL.md) |
 | alirezarezvani | product-analytics | [SKILL.md](alirezarezvani/product-analytics/SKILL.md) |
 | K-Dense-AI | scientific-critical-thinking | [SKILL.md](K-Dense-AI/scientific-critical-thinking/SKILL.md) |
 | sickn33 | business-analyst | [SKILL.md](sickn33/business-analyst/SKILL.md) |

@@ -7,11 +7,10 @@ description: "Skills for mentoring developers, building team culture, and hiring
 
 <!-- AUTO-GENERATED -->
 
-3 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
-| alirezarezvani | culture-architect | [SKILL.md](alirezarezvani/culture-architect/SKILL.md) |
 | github | mentoring-juniors | [SKILL.md](github/mentoring-juniors/SKILL.md) |
 | whawkinsiv | hiring | [SKILL.md](whawkinsiv/hiring/SKILL.md) |
 

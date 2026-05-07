@@ -7,14 +7,12 @@ description: "Financial analysis skills including ratio analysis, DCF valuation,
 
 <!-- AUTO-GENERATED -->
 
-6 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | finance | [SKILL.md](alirezarezvani/finance/SKILL.md) |
-| alirezarezvani | finance-lead | [SKILL.md](alirezarezvani/finance-lead/SKILL.md) |
 | alirezarezvani | financial-analyst | [SKILL.md](alirezarezvani/financial-analyst/SKILL.md) |
-| alirezarezvani | financial-health | [SKILL.md](alirezarezvani/financial-health/SKILL.md) |
 | whawkinsiv | accounting | [SKILL.md](whawkinsiv/accounting/SKILL.md) |
 | whawkinsiv | finances | [SKILL.md](whawkinsiv/finances/SKILL.md) |
 

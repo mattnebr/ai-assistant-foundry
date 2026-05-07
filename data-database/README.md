@@ -7,13 +7,11 @@ description: "Skills for SQL query writing and optimization, database schema des
 
 <!-- AUTO-GENERATED -->
 
-13 skill variant(s).
+11 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | database-designer | [SKILL.md](alirezarezvani/database-designer/SKILL.md) |
-| alirezarezvani | database-schema-designer | [SKILL.md](alirezarezvani/database-schema-designer/SKILL.md) |
-| alirezarezvani | sql-database-assistant | [SKILL.md](alirezarezvani/sql-database-assistant/SKILL.md) |
 | github | powerbi-modeling | [SKILL.md](github/powerbi-modeling/SKILL.md) |
 | github | sql-code-review | [SKILL.md](github/sql-code-review/SKILL.md) |
 | github | sql-optimization | [SKILL.md](github/sql-optimization/SKILL.md) |

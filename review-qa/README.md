@@ -7,12 +7,11 @@ description: "Skills for QA testing including manual test checklists, pairwise t
 
 <!-- AUTO-GENERATED -->
 
-7 skill variant(s).
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | browser-testing-with-devtools | [SKILL.md](addyosmani/browser-testing-with-devtools/SKILL.md) |
-| alirezarezvani | skill-tester | [SKILL.md](alirezarezvani/skill-tester/SKILL.md) |
 | github | doublecheck | [SKILL.md](github/doublecheck/SKILL.md) |
 | obra | verification-before-completion | [SKILL.md](obra/verification-before-completion/SKILL.md) |
 | omkamal | pypict-claude-skill | [SKILL.md](omkamal/pypict-claude-skill/SKILL.md) |

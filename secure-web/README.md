@@ -7,13 +7,10 @@ description: "Skills for web application security including XSS prevention, HTML
 
 <!-- AUTO-GENERATED -->
 
-5 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
-| alirezarezvani | security-pen-testing | [SKILL.md](alirezarezvani/security-pen-testing/SKILL.md) |
-| alirezarezvani | senior-secops | [SKILL.md](alirezarezvani/senior-secops/SKILL.md) |
-| alirezarezvani | senior-security | [SKILL.md](alirezarezvani/senior-security/SKILL.md) |
 | sickn33 | frontend-security-coder | [SKILL.md](sickn33/frontend-security-coder/SKILL.md) |
 | sickn33 | html-injection-testing | [SKILL.md](sickn33/html-injection-testing/SKILL.md) |
 

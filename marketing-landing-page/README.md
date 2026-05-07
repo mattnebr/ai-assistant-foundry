@@ -7,12 +7,10 @@ description: "Skills for creating and optimizing landing pages, lead magnets, CR
 
 <!-- AUTO-GENERATED -->
 
-9 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
-| alirezarezvani | cs-growth-strategist | [SKILL.md](alirezarezvani/cs-growth-strategist/SKILL.md) |
-| alirezarezvani | marketing-psychology | [SKILL.md](alirezarezvani/marketing-psychology/SKILL.md) |
 | coreyhaines31 | lead-magnets | [SKILL.md](coreyhaines31/lead-magnets/SKILL.md) |
 | coreyhaines31 | page-cro | [SKILL.md](coreyhaines31/page-cro/SKILL.md) |
 | coreyhaines31 | product-marketing-context | [SKILL.md](coreyhaines31/product-marketing-context/SKILL.md) |

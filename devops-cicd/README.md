@@ -7,15 +7,13 @@ description: "Skills for CI/CD pipeline automation, GitHub Actions workflows, de
 
 <!-- AUTO-GENERATED -->
 
-20 skill variant(s).
+18 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | ci-cd-and-automation | [SKILL.md](addyosmani/ci-cd-and-automation/SKILL.md) |
-| alirezarezvani | changelog | [SKILL.md](alirezarezvani/changelog/SKILL.md) |
 | alirezarezvani | changelog-generator | [SKILL.md](alirezarezvani/changelog-generator/SKILL.md) |
 | alirezarezvani | ci-cd-pipeline-builder | [SKILL.md](alirezarezvani/ci-cd-pipeline-builder/SKILL.md) |
-| alirezarezvani | devops-engineer | [SKILL.md](alirezarezvani/devops-engineer/SKILL.md) |
 | alirezarezvani | release-manager | [SKILL.md](alirezarezvani/release-manager/SKILL.md) |
 | alirezarezvani | senior-devops | [SKILL.md](alirezarezvani/senior-devops/SKILL.md) |
 | ComposioHQ | changelog-generator | [SKILL.md](ComposioHQ/changelog-generator/SKILL.md) |

@@ -7,14 +7,12 @@ description: "Cross-language coding standards covering SOLID principles, increme
 
 <!-- AUTO-GENERATED -->
 
-13 skill variant(s).
+11 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | incremental-implementation | [SKILL.md](addyosmani/incremental-implementation/SKILL.md) |
 | addyosmani | source-driven-development | [SKILL.md](addyosmani/source-driven-development/SKILL.md) |
-| alirezarezvani | cs-senior-engineer | [SKILL.md](alirezarezvani/cs-senior-engineer/SKILL.md) |
-| alirezarezvani | senior-backend | [SKILL.md](alirezarezvani/senior-backend/SKILL.md) |
 | github | microsoft-code-reference | [SKILL.md](github/microsoft-code-reference/SKILL.md) |
 | github | microsoft-docs | [SKILL.md](github/microsoft-docs/SKILL.md) |
 | mattnebr | coding-style-project | [coding-style-project.instructions.md](mattnebr/coding-style-project/coding-style-project.instructions.md) |

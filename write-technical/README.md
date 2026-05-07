@@ -7,11 +7,10 @@ description: "Skills for writing technical documentation, READMEs, API docs, and
 
 <!-- AUTO-GENERATED -->
 
-14 skill variant(s).
+13 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
-| alirezarezvani | README | [SKILL.md](alirezarezvani/README/SKILL.md) |
 | alirezarezvani | roadmap-communicator | [SKILL.md](alirezarezvani/roadmap-communicator/SKILL.md) |
 | bmad-code-org | bmad-agent-tech-writer | [SKILL.md](bmad-code-org/bmad-agent-tech-writer/SKILL.md) |
 | github | create-readme | [SKILL.md](github/create-readme/SKILL.md) |

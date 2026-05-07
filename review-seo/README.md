@@ -7,15 +7,13 @@ description: "Skills for SEO auditing, technical SEO analysis, schema markup, ke
 
 <!-- AUTO-GENERATED -->
 
-34 skill variant(s).
+32 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | ai-seo | [SKILL.md](alirezarezvani/ai-seo/SKILL.md) |
 | alirezarezvani | programmatic-seo | [SKILL.md](alirezarezvani/programmatic-seo/SKILL.md) |
-| alirezarezvani | schema-markup | [SKILL.md](alirezarezvani/schema-markup/SKILL.md) |
 | alirezarezvani | seo-audit | [SKILL.md](alirezarezvani/seo-audit/SKILL.md) |
-| alirezarezvani | seo-auditor | [SKILL.md](alirezarezvani/seo-auditor/SKILL.md) |
 | alirezarezvani | site-architecture | [SKILL.md](alirezarezvani/site-architecture/SKILL.md) |
 | chadboyda | ai-seo | [SKILL.md](chadboyda/ai-seo/SKILL.md) |
 | coreyhaines31 | ai-seo | [SKILL.md](coreyhaines31/ai-seo/SKILL.md) |

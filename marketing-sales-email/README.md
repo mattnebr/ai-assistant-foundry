@@ -7,12 +7,11 @@ description: "Skills for writing cold outreach emails, follow-up sequences, sale
 
 <!-- AUTO-GENERATED -->
 
-17 skill variant(s).
+16 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | cold-email | [SKILL.md](alirezarezvani/cold-email/SKILL.md) |
-| alirezarezvani | cs-demand-gen-specialist | [SKILL.md](alirezarezvani/cs-demand-gen-specialist/SKILL.md) |
 | alirezarezvani | email-sequence | [SKILL.md](alirezarezvani/email-sequence/SKILL.md) |
 | alirezarezvani | sales-engineer | [SKILL.md](alirezarezvani/sales-engineer/SKILL.md) |
 | chadboyda | ai-cold-outreach | [SKILL.md](chadboyda/ai-cold-outreach/SKILL.md) |

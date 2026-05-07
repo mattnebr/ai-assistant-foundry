@@ -7,13 +7,12 @@ description: "Skills for advanced analytics, statistical modeling, predictive an
 
 <!-- AUTO-GENERATED -->
 
-11 skill variant(s).
+10 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | ab-test-setup | [SKILL.md](alirezarezvani/ab-test-setup/SKILL.md) |
 | alirezarezvani | experiment-designer | [SKILL.md](alirezarezvani/experiment-designer/SKILL.md) |
-| alirezarezvani | product-analytics | [SKILL.md](alirezarezvani/product-analytics/SKILL.md) |
 | alirezarezvani | senior-data-scientist | [SKILL.md](alirezarezvani/senior-data-scientist/SKILL.md) |
 | alirezarezvani | statistical-analyst | [SKILL.md](alirezarezvani/statistical-analyst/SKILL.md) |
 | K-Dense-AI | database-lookup | [SKILL.md](K-Dense-AI/database-lookup/SKILL.md) |

@@ -7,11 +7,10 @@ description: "Coordinate multi-agent workflows with skill discovery, parallel di
 
 <!-- AUTO-GENERATED -->
 
-16 skill variant(s).
+15 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
-| alirezarezvani | agent-workflow-designer | [SKILL.md](alirezarezvani/agent-workflow-designer/SKILL.md) |
 | bmad-code-org | bmad-distillator | [SKILL.md](bmad-code-org/bmad-distillator/SKILL.md) |
 | github | from-the-other-side-vega | [SKILL.md](github/from-the-other-side-vega/SKILL.md) |
 | github | semantic-kernel | [SKILL.md](github/semantic-kernel/SKILL.md) |

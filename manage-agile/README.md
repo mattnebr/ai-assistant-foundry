@@ -7,29 +7,18 @@ description: "Agile methodology skills including sprint planning, scrum masterin
 
 <!-- AUTO-GENERATED -->
 
-43 skill variant(s).
+32 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | spec-driven-development | [SKILL.md](addyosmani/spec-driven-development/SKILL.md) |
-| alirezarezvani | agile-product-owner | [SKILL.md](alirezarezvani/agile-product-owner/SKILL.md) |
 | alirezarezvani | change-management | [SKILL.md](alirezarezvani/change-management/SKILL.md) |
-| alirezarezvani | code-to-prd | [SKILL.md](alirezarezvani/code-to-prd/SKILL.md) |
-| alirezarezvani | cs-agile-product-owner | [SKILL.md](alirezarezvani/cs-agile-product-owner/SKILL.md) |
-| alirezarezvani | cs-product-manager | [SKILL.md](alirezarezvani/cs-product-manager/SKILL.md) |
-| alirezarezvani | cs-project-manager | [SKILL.md](alirezarezvani/cs-project-manager/SKILL.md) |
 | alirezarezvani | meeting-analyzer | [SKILL.md](alirezarezvani/meeting-analyzer/SKILL.md) |
-| alirezarezvani | okr | [SKILL.md](alirezarezvani/okr/SKILL.md) |
 | alirezarezvani | postmortem | [SKILL.md](alirezarezvani/postmortem/SKILL.md) |
-| alirezarezvani | prd | [SKILL.md](alirezarezvani/prd/SKILL.md) |
-| alirezarezvani | product-manager | [SKILL.md](alirezarezvani/product-manager/SKILL.md) |
-| alirezarezvani | project-health | [SKILL.md](alirezarezvani/project-health/SKILL.md) |
 | alirezarezvani | project-management | [SKILL.md](alirezarezvani/project-management/SKILL.md) |
 | alirezarezvani | scrum-master | [SKILL.md](alirezarezvani/scrum-master/SKILL.md) |
 | alirezarezvani | senior-pm | [SKILL.md](alirezarezvani/senior-pm/SKILL.md) |
 | alirezarezvani | spec-driven-workflow | [SKILL.md](alirezarezvani/spec-driven-workflow/SKILL.md) |
-| alirezarezvani | sprint-plan | [SKILL.md](alirezarezvani/sprint-plan/SKILL.md) |
-| alirezarezvani | user-story | [SKILL.md](alirezarezvani/user-story/SKILL.md) |
 | bmad-code-org | bmad-create-epics-and-stories | [SKILL.md](bmad-code-org/bmad-create-epics-and-stories/SKILL.md) |
 | bmad-code-org | bmad-create-story | [SKILL.md](bmad-code-org/bmad-create-story/SKILL.md) |
 | bmad-code-org | bmad-dev-story | [SKILL.md](bmad-code-org/bmad-dev-story/SKILL.md) |

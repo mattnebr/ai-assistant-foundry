@@ -7,11 +7,10 @@ description: "Skills for automating Jira workflows including issue management, s
 
 <!-- AUTO-GENERATED -->
 
-8 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
-| alirezarezvani | atlassian-admin | [SKILL.md](alirezarezvani/atlassian-admin/SKILL.md) |
 | alirezarezvani | atlassian-templates | [SKILL.md](alirezarezvani/atlassian-templates/SKILL.md) |
 | alirezarezvani | jira-expert | [SKILL.md](alirezarezvani/jira-expert/SKILL.md) |
 | ComposioHQ | atlassian-automation | [SKILL.md](ComposioHQ/atlassian-automation/SKILL.md) |

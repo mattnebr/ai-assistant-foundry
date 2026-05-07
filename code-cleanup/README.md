@@ -7,13 +7,11 @@ description: "Identify, quantify, and remediate technical debt through codebase 
 
 <!-- AUTO-GENERATED -->
 
-4 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | deprecation-and-migration | [SKILL.md](addyosmani/deprecation-and-migration/SKILL.md) |
-| alirezarezvani | tech-debt | [SKILL.md](alirezarezvani/tech-debt/SKILL.md) |
-| alirezarezvani | tech-debt-tracker | [SKILL.md](alirezarezvani/tech-debt-tracker/SKILL.md) |
 | sickn33 | codebase-cleanup-tech-debt | [SKILL.md](sickn33/codebase-cleanup-tech-debt/SKILL.md) |
 
 ---

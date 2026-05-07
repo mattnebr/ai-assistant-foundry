@@ -7,11 +7,10 @@ description: "Design and implement agent memory systems including short-term con
 
 <!-- AUTO-GENERATED -->
 
-10 skill variant(s).
+9 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
-| alirezarezvani | decision-logger | [SKILL.md](alirezarezvani/decision-logger/SKILL.md) |
 | github | memory-merger | [SKILL.md](github/memory-merger/SKILL.md) |
 | github | remember | [SKILL.md](github/remember/SKILL.md) |
 | mutable-state-inc | ensue-memory | [SKILL.md](mutable-state-inc/ensue-memory/SKILL.md) |

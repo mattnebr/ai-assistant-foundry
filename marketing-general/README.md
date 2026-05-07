@@ -7,18 +7,11 @@ description: "Broad marketing skills spanning growth strategy, campaign analytic
 
 <!-- AUTO-GENERATED -->
 
-21 skill variant(s).
+14 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
-| alirezarezvani | ad-creative | [SKILL.md](alirezarezvani/ad-creative/SKILL.md) |
-| alirezarezvani | campaign-analytics | [SKILL.md](alirezarezvani/campaign-analytics/SKILL.md) |
-| alirezarezvani | churn-prevention | [SKILL.md](alirezarezvani/churn-prevention/SKILL.md) |
-| alirezarezvani | growth-marketer | [SKILL.md](alirezarezvani/growth-marketer/SKILL.md) |
-| alirezarezvani | marketing-ideas | [SKILL.md](alirezarezvani/marketing-ideas/SKILL.md) |
-| alirezarezvani | marketing-ops | [SKILL.md](alirezarezvani/marketing-ops/SKILL.md) |
 | alirezarezvani | marketing-skill | [SKILL.md](alirezarezvani/marketing-skill/SKILL.md) |
-| alirezarezvani | x-twitter-growth | [SKILL.md](alirezarezvani/x-twitter-growth/SKILL.md) |
 | chadboyda | expansion-retention | [SKILL.md](chadboyda/expansion-retention/SKILL.md) |
 | chadboyda | gtm-engineering | [SKILL.md](chadboyda/gtm-engineering/SKILL.md) |
 | chadboyda | gtm-metrics | [SKILL.md](chadboyda/gtm-metrics/SKILL.md) |

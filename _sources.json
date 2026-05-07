@@ -2740,13 +2740,6 @@
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/README",
-      "GroupName": "write-technical",
-      "ArchivedAt": "2026-04-11T18:29:05.4306755Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/a11y-audit",
       "GroupName": "design-accessibility",
       "ArchivedAt": "2026-04-11T18:30:22.0337078Z"
@@ -2757,27 +2750,6 @@
       "SkillFolder": ".gemini/skills/ab-test-setup",
       "GroupName": "data-science",
       "ArchivedAt": "2026-04-11T18:30:31.4185424Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/ad-creative",
-      "GroupName": "marketing-general",
-      "ArchivedAt": "2026-04-11T18:30:40.0018842Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/agent-workflow-designer",
-      "GroupName": "agent-orchestration",
-      "ArchivedAt": "2026-04-11T18:32:13.5348286Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/agile-product-owner",
-      "GroupName": "manage-agile",
-      "ArchivedAt": "2026-04-11T18:33:05.6396198Z"
     },
     {
       "Owner": "alirezarezvani",
@@ -2803,37 +2775,9 @@
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/api-test-suite-builder",
-      "GroupName": "code-api",
-      "ArchivedAt": "2026-04-11T18:40:13.7171051Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/atlassian-admin",
-      "GroupName": "integrate-jira",
-      "ArchivedAt": "2026-04-11T18:40:28.554319Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/atlassian-templates",
-      "GroupName": "integrate-confluence",
-      "ArchivedAt": "2026-04-11T18:40:34.7377028Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/brand-guidelines",
       "GroupName": "design-branding",
       "ArchivedAt": "2026-04-11T18:40:53.7202652Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/campaign-analytics",
-      "GroupName": "code-ui-analytics",
-      "ArchivedAt": "2026-04-11T18:41:23.8997307Z"
     },
     {
       "Owner": "alirezarezvani",
@@ -2845,37 +2789,9 @@
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/changelog",
-      "GroupName": "devops-cicd",
-      "ArchivedAt": "2026-04-11T18:41:39.1325844Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/churn-prevention",
-      "GroupName": "manage-people",
-      "ArchivedAt": "2026-04-11T18:43:22.7248437Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/ci-cd-pipeline-builder",
       "GroupName": "devops-cicd",
       "ArchivedAt": "2026-04-11T18:43:31.9876378Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/cmd-a11y-audit",
-      "GroupName": "design-accessibility",
-      "ArchivedAt": "2026-04-11T18:44:11.9723889Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/code-to-prd",
-      "GroupName": "manage-agile",
-      "ArchivedAt": "2026-04-11T18:44:32.2372114Z"
     },
     {
       "Owner": "alirezarezvani",
@@ -2890,27 +2806,6 @@
       "SkillFolder": ".gemini/skills/confluence-expert",
       "GroupName": "integrate-confluence",
       "ArchivedAt": "2026-04-11T18:45:17.1383865Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/content-creator",
-      "GroupName": "plan-content-strategy",
-      "ArchivedAt": "2026-04-11T18:45:47.2841353Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/content-humanizer",
-      "GroupName": "plan-content-strategy",
-      "ArchivedAt": "2026-04-11T18:45:54.0965067Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/content-strategist",
-      "GroupName": "plan-content-strategy",
-      "ArchivedAt": "2026-04-11T18:46:08.2212021Z"
     },
     {
       "Owner": "alirezarezvani",
@@ -2936,79 +2831,9 @@
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/cs-agile-product-owner",
-      "GroupName": "manage-agile",
-      "ArchivedAt": "2026-04-11T18:47:13.2936905Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/cs-content-creator",
-      "GroupName": "plan-content-strategy",
-      "ArchivedAt": "2026-04-11T19:00:05.4950545Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/cs-demand-gen-specialist",
-      "GroupName": "marketing-sales-email",
-      "ArchivedAt": "2026-04-11T19:00:22.3104218Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/cs-engineering-lead",
       "GroupName": "marketing-sales-email",
       "ArchivedAt": "2026-04-11T19:00:30.9989857Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/cs-growth-strategist",
-      "GroupName": "marketing-landing-page",
-      "ArchivedAt": "2026-04-11T19:00:50.0602244Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/cs-product-analyst",
-      "GroupName": "consult-business",
-      "ArchivedAt": "2026-04-11T19:01:06.2077097Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/cs-product-manager",
-      "GroupName": "manage-agile",
-      "ArchivedAt": "2026-04-11T19:01:48.3033486Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/cs-project-manager",
-      "GroupName": "manage-agile",
-      "ArchivedAt": "2026-04-11T19:01:57.3340406Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/cs-senior-engineer",
-      "GroupName": "code-general",
-      "ArchivedAt": "2026-04-11T19:02:07.7360066Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/cs-ux-researcher",
-      "GroupName": "design-ux",
-      "ArchivedAt": "2026-04-11T19:02:24.1513934Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/culture-architect",
-      "GroupName": "manage-people",
-      "ArchivedAt": "2026-04-11T19:02:48.7688985Z"
     },
     {
       "Owner": "alirezarezvani",
@@ -3023,27 +2848,6 @@
       "SkillFolder": ".gemini/skills/database-designer",
       "GroupName": "data-database",
       "ArchivedAt": "2026-04-11T19:03:24.6468925Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/database-schema-designer",
-      "GroupName": "data-database",
-      "ArchivedAt": "2026-04-11T19:03:30.0233429Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/decision-logger",
-      "GroupName": "agent-memory",
-      "ArchivedAt": "2026-04-11T19:03:43.4725119Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/devops-engineer",
-      "GroupName": "devops-cicd",
-      "ArchivedAt": "2026-04-11T19:03:51.0089078Z"
     },
     {
       "Owner": "alirezarezvani",
@@ -3076,13 +2880,6 @@
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/finance-lead",
-      "GroupName": "consult-finance",
-      "ArchivedAt": "2026-04-11T19:04:58.7282209Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/financial-analyst",
       "GroupName": "consult-finance",
       "ArchivedAt": "2026-04-11T19:05:02.1469504Z"
@@ -3090,23 +2887,9 @@
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/financial-health",
-      "GroupName": "consult-finance",
-      "ArchivedAt": "2026-04-11T19:05:05.2693819Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/git-worktree-manager",
       "GroupName": "devops-git-worktree",
       "ArchivedAt": "2026-04-11T19:06:09.9665228Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/growth-marketer",
-      "GroupName": "marketing-general",
-      "ArchivedAt": "2026-04-11T19:06:21.6772257Z"
     },
     {
       "Owner": "alirezarezvani",
@@ -3125,37 +2908,9 @@
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/marketing-ideas",
-      "GroupName": "marketing-general",
-      "ArchivedAt": "2026-04-11T19:14:38.2811202Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/marketing-ops",
-      "GroupName": "marketing-general",
-      "ArchivedAt": "2026-04-11T19:14:42.0440287Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/marketing-psychology",
-      "GroupName": "marketing-landing-page",
-      "ArchivedAt": "2026-04-11T19:14:47.2759833Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/meeting-analyzer",
       "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:15:52.5200649Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/okr",
-      "GroupName": "manage-agile",
-      "ArchivedAt": "2026-04-11T19:16:20.5992444Z"
     },
     {
       "Owner": "alirezarezvani",
@@ -3167,37 +2922,9 @@
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/prd",
-      "GroupName": "manage-agile",
-      "ArchivedAt": "2026-04-11T19:18:34.7367322Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/product-analytics",
-      "GroupName": "data-science",
-      "ArchivedAt": "2026-04-11T19:18:57.6492927Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/product-manager",
-      "GroupName": "manage-agile",
-      "ArchivedAt": "2026-04-11T19:19:10.7940757Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/programmatic-seo",
       "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T19:19:23.1041677Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/project-health",
-      "GroupName": "manage-agile",
-      "ArchivedAt": "2026-04-11T19:19:49.9880399Z"
     },
     {
       "Owner": "alirezarezvani",
@@ -3223,37 +2950,9 @@
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/schema-markup",
-      "GroupName": "review-seo",
-      "ArchivedAt": "2026-04-11T19:21:52.4318163Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/scrum-master",
       "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:22:06.6439331Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/security-pen-testing",
-      "GroupName": "secure-web",
-      "ArchivedAt": "2026-04-11T19:22:16.1620043Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/senior-architect",
-      "GroupName": "architecture-software",
-      "ArchivedAt": "2026-04-11T19:22:24.5441824Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/senior-backend",
-      "GroupName": "data-database",
-      "ArchivedAt": "2026-04-11T19:22:35.463437Z"
     },
     {
       "Owner": "alirezarezvani",
@@ -3307,37 +3006,9 @@
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/senior-secops",
-      "GroupName": "secure-web",
-      "ArchivedAt": "2026-04-11T19:25:06.6178531Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/senior-security",
-      "GroupName": "secure-web",
-      "ArchivedAt": "2026-04-11T19:25:18.2504493Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/seo-audit",
       "GroupName": "review-seo",
       "ArchivedAt": "2026-04-11T19:25:25.0146679Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/seo-auditor",
-      "GroupName": "review-seo",
-      "ArchivedAt": "2026-04-11T19:25:29.3661544Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/skill-tester",
-      "GroupName": "review-qa",
-      "ArchivedAt": "2026-04-11T19:26:18.6575868Z"
     },
     {
       "Owner": "alirezarezvani",
@@ -3352,20 +3023,6 @@
       "SkillFolder": ".gemini/skills/spec-to-repo",
       "GroupName": "manage-agile",
       "ArchivedAt": "2026-04-11T19:26:56.9629278Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/sprint-plan",
-      "GroupName": "manage-agile",
-      "ArchivedAt": "2026-04-11T19:27:07.418461Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/sql-database-assistant",
-      "GroupName": "data-database",
-      "ArchivedAt": "2026-04-11T19:27:24.8067177Z"
     },
     {
       "Owner": "alirezarezvani",
@@ -3391,27 +3048,6 @@
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/tech-debt-tracker",
-      "GroupName": "code-cleanup",
-      "ArchivedAt": "2026-04-11T19:28:32.7568341Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/tech-debt",
-      "GroupName": "code-cleanup",
-      "ArchivedAt": "2026-04-11T19:28:43.3943673Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/tech-stack-evaluator",
-      "GroupName": "architecture-software",
-      "ArchivedAt": "2026-04-11T19:28:51.7528453Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/ui-design-system",
       "GroupName": "design-ui",
       "ArchivedAt": "2026-04-11T19:29:01.2493129Z"
@@ -3419,23 +3055,9 @@
     {
       "Owner": "alirezarezvani",
       "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/user-story",
-      "GroupName": "manage-agile",
-      "ArchivedAt": "2026-04-11T19:29:10.3844067Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
       "SkillFolder": ".gemini/skills/ux-researcher-designer",
       "GroupName": "design-ux",
       "ArchivedAt": "2026-04-11T19:29:46.0708607Z"
-    },
-    {
-      "Owner": "alirezarezvani",
-      "Repo": "claude-skills",
-      "SkillFolder": ".gemini/skills/x-twitter-growth",
-      "GroupName": "integrate-x",
-      "ArchivedAt": "2026-04-11T19:30:06.0923899Z"
     },
     {
       "Owner": "alirezarezvani",
@@ -4696,13 +4318,6 @@
       "SkillFolder": "skills/writing-skills",
       "GroupName": "write-general",
       "ArchivedAt": "2026-04-11T22:01:50.8269729Z"
-    },
-    {
-      "Owner": "zarazhangrui",
-      "Repo": "frontend-slides",
-      "SkillFolder": "plugins/frontend-slides/skills/frontend-slides",
-      "GroupName": "build-pptx",
-      "ArchivedAt": "2026-04-11T22:02:55.1661082Z"
     },
     {
       "Owner": "SuperClaude-Org",

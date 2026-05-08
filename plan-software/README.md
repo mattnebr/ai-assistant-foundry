@@ -7,10 +7,11 @@ description: "Skills for planning software projects including refactoring plans,
 
 <!-- AUTO-GENERATED -->
 
-5 skill variant(s).
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | shipping-and-launch | [SKILL.md](addyosmani/shipping-and-launch/SKILL.md) |
 | github | automate-this | [SKILL.md](github/automate-this/SKILL.md) |
 | github | refactor-plan | [SKILL.md](github/refactor-plan/SKILL.md) |
 | sickn33 | concise-planning | [SKILL.md](sickn33/concise-planning/SKILL.md) |

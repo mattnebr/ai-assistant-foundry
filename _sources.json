@@ -4675,6 +4675,41 @@
       "SkillFolder": "docs/zh-CN/skills/java-coding-standards",
       "GroupName": "code-java",
       "ArchivedAt": "2026-04-12T01:37:39.4426989Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/code-simplification",
+      "GroupName": "review-code",
+      "ArchivedAt": "2026-05-07T23:59:54.5417121Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/context-engineering",
+      "GroupName": "agent-skill-maker",
+      "ArchivedAt": "2026-05-08T00:00:51.3518396Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/performance-optimization",
+      "GroupName": "plan-requirements",
+      "ArchivedAt": "2026-05-08T00:01:32.8433985Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/shipping-and-launch",
+      "GroupName": "plan-software",
+      "ArchivedAt": "2026-05-08T00:02:16.3949591Z"
+    },
+    {
+      "Owner": "addyosmani",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/using-agent-skills",
+      "GroupName": "agent-orchestration",
+      "ArchivedAt": "2026-05-08T00:03:37.3240717Z"
     }
   ]
 }

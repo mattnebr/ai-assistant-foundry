@@ -7,10 +7,11 @@ description: "Skills for clarifying and refining requirements through targeted q
 
 <!-- AUTO-GENERATED -->
 
-5 skill variant(s).
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | performance-optimization | [SKILL.md](addyosmani/performance-optimization/SKILL.md) |
 | github | first-ask | [SKILL.md](github/first-ask/SKILL.md) |
 | github | what-context-needed | [SKILL.md](github/what-context-needed/SKILL.md) |
 | mattnebr | follow-up-question | [follow-up-question.instructions.md](mattnebr/follow-up-question/follow-up-question.instructions.md) |

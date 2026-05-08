@@ -7,10 +7,11 @@ description: "Author, scaffold, and refine SKILL.md files and .instructions.md f
 
 <!-- AUTO-GENERATED -->
 
-14 skill variant(s).
+15 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| addyosmani | context-engineering | [SKILL.md](addyosmani/context-engineering/SKILL.md) |
 | anthropics | skill-creator | [SKILL.md](anthropics/skill-creator/SKILL.md) |
 | cblecker | writing-skills | [SKILL.md](cblecker/writing-skills/SKILL.md) |
 | feiskyer | skill-creator | [SKILL.md](feiskyer/skill-creator/SKILL.md) |

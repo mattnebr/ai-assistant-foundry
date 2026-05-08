@@ -1,6 +1,6 @@
 # skill index
 
-*117 skill group(s) — 608 total variant(s)*
+*117 skill group(s) — 613 total variant(s)*
 
 ## agent-email
 
@@ -24,6 +24,7 @@
 
 ## agent-orchestration
 
+- [addyosmani/using-agent-skills](agent-orchestration/addyosmani/using-agent-skills/SKILL.md)
 - [bmad-code-org/bmad-distillator](agent-orchestration/bmad-code-org/bmad-distillator/SKILL.md)
 - [github/from-the-other-side-vega](agent-orchestration/github/from-the-other-side-vega/SKILL.md)
 - [github/semantic-kernel](agent-orchestration/github/semantic-kernel/SKILL.md)
@@ -46,6 +47,7 @@
 
 ## agent-skill-maker
 
+- [addyosmani/context-engineering](agent-skill-maker/addyosmani/context-engineering/SKILL.md)
 - [anthropics/skill-creator](agent-skill-maker/anthropics/skill-creator/SKILL.md)
 - [cblecker/writing-skills](agent-skill-maker/cblecker/writing-skills/SKILL.md)
 - [feiskyer/skill-creator](agent-skill-maker/feiskyer/skill-creator/SKILL.md)
@@ -803,6 +805,7 @@
 
 ## plan-requirements
 
+- [addyosmani/performance-optimization](plan-requirements/addyosmani/performance-optimization/SKILL.md)
 - [github/first-ask](plan-requirements/github/first-ask/SKILL.md)
 - [github/what-context-needed](plan-requirements/github/what-context-needed/SKILL.md)
 - [mattnebr/follow-up-question](plan-requirements/mattnebr/follow-up-question/follow-up-question.instructions.md)
@@ -811,6 +814,7 @@
 
 ## plan-software
 
+- [addyosmani/shipping-and-launch](plan-software/addyosmani/shipping-and-launch/SKILL.md)
 - [github/automate-this](plan-software/github/automate-this/SKILL.md)
 - [github/refactor-plan](plan-software/github/refactor-plan/SKILL.md)
 - [sickn33/concise-planning](plan-software/sickn33/concise-planning/SKILL.md)
@@ -825,6 +829,7 @@
 ## review-code
 
 - [addyosmani/code-review-and-quality](review-code/addyosmani/code-review-and-quality/SKILL.md)
+- [addyosmani/code-simplification](review-code/addyosmani/code-simplification/SKILL.md)
 - [alirezarezvani/api-design-reviewer](review-code/alirezarezvani/api-design-reviewer/SKILL.md)
 - [alirezarezvani/pr-review-expert](review-code/alirezarezvani/pr-review-expert/SKILL.md)
 - [feiskyer/github-review-pr](review-code/feiskyer/github-review-pr/SKILL.md)

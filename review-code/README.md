@@ -7,11 +7,12 @@ description: "Skills for code review, architecture review, PR review, and clean 
 
 <!-- AUTO-GENERATED -->
 
-13 skill variant(s).
+14 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | code-review-and-quality | [SKILL.md](addyosmani/code-review-and-quality/SKILL.md) |
+| addyosmani | code-simplification | [SKILL.md](addyosmani/code-simplification/SKILL.md) |
 | alirezarezvani | api-design-reviewer | [SKILL.md](alirezarezvani/api-design-reviewer/SKILL.md) |
 | alirezarezvani | pr-review-expert | [SKILL.md](alirezarezvani/pr-review-expert/SKILL.md) |
 | feiskyer | github-review-pr | [SKILL.md](feiskyer/github-review-pr/SKILL.md) |

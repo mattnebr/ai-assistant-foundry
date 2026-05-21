@@ -7,13 +7,15 @@ description: "Skills for structured brainstorming, idea generation, and explorin
 
 <!-- AUTO-GENERATED -->
 
-10 skill variant(s).
+12 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | idea-refine | [SKILL.md](addyosmani/idea-refine/SKILL.md) |
 | bmad-code-org | bmad-brainstorming | [SKILL.md](bmad-code-org/bmad-brainstorming/SKILL.md) |
 | cblecker | brainstorming | [SKILL.md](cblecker/brainstorming/SKILL.md) |
+| mattpocock | grill-with-docs | [SKILL.md](mattpocock/grill-with-docs/SKILL.md) |
+| mattpocock | zoom-out | [SKILL.md](mattpocock/zoom-out/SKILL.md) |
 | NeoLabHQ | brainstorm | [SKILL.md](NeoLabHQ/brainstorm/SKILL.md) |
 | NeoLabHQ | create-ideas | [SKILL.md](NeoLabHQ/create-ideas/SKILL.md) |
 | NeoLabHQ | tree-of-thoughts | [SKILL.md](NeoLabHQ/tree-of-thoughts/SKILL.md) |

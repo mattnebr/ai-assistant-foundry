@@ -7,7 +7,7 @@ description: "Skills for writing technical documentation, READMEs, API docs, and
 
 <!-- AUTO-GENERATED -->
 
-13 skill variant(s).
+14 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -20,6 +20,7 @@ description: "Skills for writing technical documentation, READMEs, API docs, and
 | github | tldr-prompt | [SKILL.md](github/tldr-prompt/SKILL.md) |
 | K-Dense-AI | scientific-writing | [SKILL.md](K-Dense-AI/scientific-writing/SKILL.md) |
 | mattnebr | technical-writing-style | [SKILL.md](mattnebr/technical-writing-style/SKILL.md) |
+| mattpocock | ubiquitous-language | [SKILL.md](mattpocock/ubiquitous-language/SKILL.md) |
 | NeoLabHQ | update-docs | [SKILL.md](NeoLabHQ/update-docs/SKILL.md) |
 | NeoLabHQ | write-concisely | [SKILL.md](NeoLabHQ/write-concisely/SKILL.md) |
 | sickn33 | readme | [SKILL.md](sickn33/readme/SKILL.md) |

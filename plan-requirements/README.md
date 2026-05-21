@@ -7,7 +7,7 @@ description: "Skills for clarifying and refining requirements through targeted q
 
 <!-- AUTO-GENERATED -->
 
-6 skill variant(s).
+8 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -15,6 +15,8 @@ description: "Skills for clarifying and refining requirements through targeted q
 | github | first-ask | [SKILL.md](github/first-ask/SKILL.md) |
 | github | what-context-needed | [SKILL.md](github/what-context-needed/SKILL.md) |
 | mattnebr | follow-up-question | [follow-up-question.instructions.md](mattnebr/follow-up-question/follow-up-question.instructions.md) |
+| mattpocock | to-issues | [SKILL.md](mattpocock/to-issues/SKILL.md) |
+| mattpocock | to-prd | [SKILL.md](mattpocock/to-prd/SKILL.md) |
 | SebastienDegodez | follow-up-question | [follow-up-question.instructions.md](SebastienDegodez/follow-up-question/follow-up-question.instructions.md) |
 | sickn33 | ask-questions-if-underspecified | [SKILL.md](sickn33/ask-questions-if-underspecified/SKILL.md) |
 

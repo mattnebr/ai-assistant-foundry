@@ -7,7 +7,7 @@ description: "Author, scaffold, and refine SKILL.md files and .instructions.md f
 
 <!-- AUTO-GENERATED -->
 
-15 skill variant(s).
+16 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -21,6 +21,7 @@ description: "Author, scaffold, and refine SKILL.md files and .instructions.md f
 | github | microsoft-skill-creator | [SKILL.md](github/microsoft-skill-creator/SKILL.md) |
 | mattnebr | ai-assistant-skill-maker | [SKILL.md](mattnebr/ai-assistant-skill-maker/SKILL.md) |
 | mattnebr | copilot-instruction-writer | [SKILL.md](mattnebr/copilot-instruction-writer/SKILL.md) |
+| mattpocock | write-a-skill | [SKILL.md](mattpocock/write-a-skill/SKILL.md) |
 | NeoLabHQ | apply-anthropic-skill-best-practices | [SKILL.md](NeoLabHQ/apply-anthropic-skill-best-practices/SKILL.md) |
 | NeoLabHQ | create-skill | [SKILL.md](NeoLabHQ/create-skill/SKILL.md) |
 | obra | writing-skills | [SKILL.md](obra/writing-skills/SKILL.md) |

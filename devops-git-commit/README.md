@@ -7,13 +7,14 @@ description: "Skills for writing structured commit messages following convention
 
 <!-- AUTO-GENERATED -->
 
-6 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | github | git-commit | [SKILL.md](github/git-commit/SKILL.md) |
 | mattnebr | commit-message | [SKILL.md](mattnebr/commit-message/SKILL.md) |
 | mattnebr | conventional-commits | [conventional-commits.instructions.md](mattnebr/conventional-commits/conventional-commits.instructions.md) |
+| mattpocock | setup-pre-commit | [SKILL.md](mattpocock/setup-pre-commit/SKILL.md) |
 | NeoLabHQ | commit | [SKILL.md](NeoLabHQ/commit/SKILL.md) |
 | SebastienDegodez | conventional-commits | [conventional-commits.instructions.md](SebastienDegodez/conventional-commits/conventional-commits.instructions.md) |
 | sickn33 | commit | [SKILL.md](sickn33/commit/SKILL.md) |

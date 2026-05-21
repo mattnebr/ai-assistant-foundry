@@ -7,13 +7,15 @@ description: "Skills for advanced Git workflows including branching strategies, 
 
 <!-- AUTO-GENERATED -->
 
-8 skill variant(s).
+10 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | git-workflow-and-versioning | [SKILL.md](addyosmani/git-workflow-and-versioning/SKILL.md) |
 | jefflester | git-workflow | [SKILL.md](jefflester/git-workflow/SKILL.md) |
 | mattnebr | git-no-pull-requests | [SKILL.md](mattnebr/git-no-pull-requests/SKILL.md) |
+| mattpocock | git-guardrails-claude-code | [SKILL.md](mattpocock/git-guardrails-claude-code/SKILL.md) |
+| mattpocock | scaffold-exercises | [SKILL.md](mattpocock/scaffold-exercises/SKILL.md) |
 | sickn33 | git-advanced-workflows | [SKILL.md](sickn33/git-advanced-workflows/SKILL.md) |
 | sickn33 | git-hooks-automation | [SKILL.md](sickn33/git-hooks-automation/SKILL.md) |
 | sickn33 | git-pr-workflows-git-workflow | [SKILL.md](sickn33/git-pr-workflows-git-workflow/SKILL.md) |

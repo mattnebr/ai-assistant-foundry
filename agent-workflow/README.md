@@ -7,12 +7,15 @@ description: "Define and implement multi-step agent workflows, command dispatchi
 
 <!-- AUTO-GENERATED -->
 
-7 skill variant(s).
+10 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | cblecker | dispatching-parallel-agents | [SKILL.md](cblecker/dispatching-parallel-agents/SKILL.md) |
 | cblecker | subagent-driven-development | [SKILL.md](cblecker/subagent-driven-development/SKILL.md) |
+| mattpocock | caveman | [SKILL.md](mattpocock/caveman/SKILL.md) |
+| mattpocock | grill-me | [SKILL.md](mattpocock/grill-me/SKILL.md) |
+| mattpocock | handoff | [SKILL.md](mattpocock/handoff/SKILL.md) |
 | NeoLabHQ | create-workflow-command | [SKILL.md](NeoLabHQ/create-workflow-command/SKILL.md) |
 | sickn33 | agents-md | [SKILL.md](sickn33/agents-md/SKILL.md) |
 | sickn33 | agents-v2-py | [SKILL.md](sickn33/agents-v2-py/SKILL.md) |

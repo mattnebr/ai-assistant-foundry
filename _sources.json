@@ -4710,6 +4710,195 @@
       "SkillFolder": "skills/using-agent-skills",
       "GroupName": "agent-orchestration",
       "ArchivedAt": "2026-05-08T00:03:37.3240717Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/deprecated/design-an-interface",
+      "GroupName": "design-ui",
+      "ArchivedAt": "2026-05-21T00:20:48.5719334Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/deprecated/qa",
+      "GroupName": "review-qa",
+      "ArchivedAt": "2026-05-21T00:21:06.1045031Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/deprecated/request-refactor-plan",
+      "GroupName": "plan-software",
+      "ArchivedAt": "2026-05-21T00:21:13.452032Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/deprecated/ubiquitous-language",
+      "GroupName": "write-technical",
+      "ArchivedAt": "2026-05-21T00:23:33.6878561Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/engineering/diagnose",
+      "GroupName": "code-debug",
+      "ArchivedAt": "2026-05-21T00:24:23.3171686Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/engineering/grill-with-docs",
+      "GroupName": "plan-brainstorm",
+      "ArchivedAt": "2026-05-21T00:25:26.5405308Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/engineering/improve-codebase-architecture",
+      "GroupName": "architecture-software",
+      "ArchivedAt": "2026-05-21T00:25:35.7152058Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/engineering/prototype",
+      "GroupName": "code-prototype",
+      "ArchivedAt": "2026-05-21T00:26:13.9472944Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/engineering/setup-matt-pocock-skills",
+      "GroupName": "agent-skills-install",
+      "ArchivedAt": "2026-05-21T00:26:47.8634209Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/engineering/tdd",
+      "GroupName": "code-csharp-tdd",
+      "ArchivedAt": "2026-05-21T00:27:01.0865299Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/engineering/to-issues",
+      "GroupName": "plan-requirements",
+      "ArchivedAt": "2026-05-21T00:28:25.5531622Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/engineering/to-prd",
+      "GroupName": "plan-requirements",
+      "ArchivedAt": "2026-05-21T00:28:42.2355765Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/engineering/triage",
+      "GroupName": "code-troubleshooting",
+      "ArchivedAt": "2026-05-21T00:29:45.9051458Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/engineering/zoom-out",
+      "GroupName": "plan-brainstorm",
+      "ArchivedAt": "2026-05-21T00:29:53.2703415Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/in-progress/review",
+      "GroupName": "review-code",
+      "ArchivedAt": "2026-05-21T00:30:54.4938407Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/in-progress/writing-beats",
+      "GroupName": "write-blog",
+      "ArchivedAt": "2026-05-21T00:31:43.3706312Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/in-progress/writing-fragments",
+      "GroupName": "write-general",
+      "ArchivedAt": "2026-05-21T00:32:19.7532267Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/in-progress/writing-shape",
+      "GroupName": "write-blog",
+      "ArchivedAt": "2026-05-21T00:32:38.0200994Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/misc/git-guardrails-claude-code",
+      "GroupName": "devops-git-workflows",
+      "ArchivedAt": "2026-05-21T00:32:58.0104379Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/misc/scaffold-exercises",
+      "GroupName": "devops-git-workflows",
+      "ArchivedAt": "2026-05-21T00:35:30.7431545Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/misc/setup-pre-commit",
+      "GroupName": "devops-git-commit",
+      "ArchivedAt": "2026-05-21T00:35:43.7454267Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/personal/edit-article",
+      "GroupName": "write-blog",
+      "ArchivedAt": "2026-05-21T00:36:08.7805702Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/personal/obsidian-vault",
+      "GroupName": "build-markdown-index",
+      "ArchivedAt": "2026-05-21T00:36:38.5070685Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/productivity/caveman",
+      "GroupName": "agent-workflow",
+      "ArchivedAt": "2026-05-21T00:37:19.1047079Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/productivity/grill-me",
+      "GroupName": "agent-workflow",
+      "ArchivedAt": "2026-05-21T00:37:24.0846067Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/productivity/handoff",
+      "GroupName": "agent-workflow",
+      "ArchivedAt": "2026-05-21T00:37:30.0291371Z"
+    },
+    {
+      "Owner": "mattpocock",
+      "Repo": "skills",
+      "SkillFolder": "skills/productivity/write-a-skill",
+      "GroupName": "agent-skill-maker",
+      "ArchivedAt": "2026-05-21T00:37:35.8051046Z"
     }
   ]
 }

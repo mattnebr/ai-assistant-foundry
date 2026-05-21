@@ -1,6 +1,6 @@
 # skill index
 
-*117 skill group(s) — 613 total variant(s)*
+*120 skill group(s) — 640 total variant(s)*
 
 ## agent-email
 
@@ -57,16 +57,24 @@
 - [github/microsoft-skill-creator](agent-skill-maker/github/microsoft-skill-creator/SKILL.md)
 - [mattnebr/ai-assistant-skill-maker](agent-skill-maker/mattnebr/ai-assistant-skill-maker/SKILL.md)
 - [mattnebr/copilot-instruction-writer](agent-skill-maker/mattnebr/copilot-instruction-writer/SKILL.md)
+- [mattpocock/write-a-skill](agent-skill-maker/mattpocock/write-a-skill/SKILL.md)
 - [NeoLabHQ/apply-anthropic-skill-best-practices](agent-skill-maker/NeoLabHQ/apply-anthropic-skill-best-practices/SKILL.md)
 - [NeoLabHQ/create-skill](agent-skill-maker/NeoLabHQ/create-skill/SKILL.md)
 - [obra/writing-skills](agent-skill-maker/obra/writing-skills/SKILL.md)
 - [SebastienDegodez/skill-creator](agent-skill-maker/SebastienDegodez/skill-creator/SKILL.md)
 - [sickn33/writing-skills](agent-skill-maker/sickn33/writing-skills/SKILL.md)
 
+## agent-skills-install
+
+- [mattpocock/setup-matt-pocock-skills](agent-skills-install/mattpocock/setup-matt-pocock-skills/SKILL.md)
+
 ## agent-workflow
 
 - [cblecker/dispatching-parallel-agents](agent-workflow/cblecker/dispatching-parallel-agents/SKILL.md)
 - [cblecker/subagent-driven-development](agent-workflow/cblecker/subagent-driven-development/SKILL.md)
+- [mattpocock/caveman](agent-workflow/mattpocock/caveman/SKILL.md)
+- [mattpocock/grill-me](agent-workflow/mattpocock/grill-me/SKILL.md)
+- [mattpocock/handoff](agent-workflow/mattpocock/handoff/SKILL.md)
 - [NeoLabHQ/create-workflow-command](agent-workflow/NeoLabHQ/create-workflow-command/SKILL.md)
 - [sickn33/agents-md](agent-workflow/sickn33/agents-md/SKILL.md)
 - [sickn33/agents-v2-py](agent-workflow/sickn33/agents-v2-py/SKILL.md)
@@ -106,6 +114,7 @@
 ## architecture-software
 
 - [github/folder-structure-blueprint-generator](architecture-software/github/folder-structure-blueprint-generator/SKILL.md)
+- [mattpocock/improve-codebase-architecture](architecture-software/mattpocock/improve-codebase-architecture/SKILL.md)
 - [SebastienDegodez/modular-monolith-architecture](architecture-software/SebastienDegodez/modular-monolith-architecture/modular-monolith-architecture.instructions.md)
 - [SebastienDegodez/modular-monolith-communication](architecture-software/SebastienDegodez/modular-monolith-communication/modular-monolith-communication.instructions.md)
 - [sickn33/architecture](architecture-software/sickn33/architecture/SKILL.md)
@@ -135,6 +144,7 @@
 ## build-markdown-index
 
 - [bmad-code-org/bmad-index-docs](build-markdown-index/bmad-code-org/bmad-index-docs/SKILL.md)
+- [mattpocock/obsidian-vault](build-markdown-index/mattpocock/obsidian-vault/SKILL.md)
 
 ## build-mcp-server
 
@@ -239,6 +249,7 @@
 - [addyosmani/test-driven-development](code-csharp-tdd/addyosmani/test-driven-development/SKILL.md)
 - [cblecker/test-driven-development](code-csharp-tdd/cblecker/test-driven-development/SKILL.md)
 - [github/eval-driven-dev](code-csharp-tdd/github/eval-driven-dev/SKILL.md)
+- [mattpocock/tdd](code-csharp-tdd/mattpocock/tdd/SKILL.md)
 - [NeoLabHQ/test-driven-development](code-csharp-tdd/NeoLabHQ/test-driven-development/SKILL.md)
 - [obra/test-driven-development](code-csharp-tdd/obra/test-driven-development/SKILL.md)
 - [SebastienDegodez/gherkin-gate](code-csharp-tdd/SebastienDegodez/gherkin-gate/SKILL.md)
@@ -246,6 +257,7 @@
 ## code-debug
 
 - [addyosmani/debugging-and-error-recovery](code-debug/addyosmani/debugging-and-error-recovery/SKILL.md)
+- [mattpocock/diagnose](code-debug/mattpocock/diagnose/SKILL.md)
 - [NeoLabHQ/root-cause-tracing](code-debug/NeoLabHQ/root-cause-tracing/SKILL.md)
 - [obra/systematic-debugging](code-debug/obra/systematic-debugging/SKILL.md)
 - [whawkinsiv/debug](code-debug/whawkinsiv/debug/SKILL.md)
@@ -330,6 +342,10 @@
 
 - [sickn33/powershell-windows](code-powershell/sickn33/powershell-windows/SKILL.md)
 
+## code-prototype
+
+- [mattpocock/prototype](code-prototype/mattpocock/prototype/SKILL.md)
+
 ## code-python
 
 - [affaan-m/python-patterns](code-python/affaan-m/python-patterns/SKILL.md)
@@ -349,6 +365,10 @@
 ## code-sveltekit
 
 - [sickn33/sveltekit](code-sveltekit/sickn33/sveltekit/SKILL.md)
+
+## code-troubleshooting
+
+- [mattpocock/triage](code-troubleshooting/mattpocock/triage/SKILL.md)
 
 ## code-typescript
 
@@ -507,6 +527,7 @@
 - [anthropics/frontend-design](design-ui/anthropics/frontend-design/SKILL.md)
 - [axiaoge2/Apple-Hig-Designer](design-ui/axiaoge2/Apple-Hig-Designer/SKILL.md)
 - [github/web-design-reviewer](design-ui/github/web-design-reviewer/SKILL.md)
+- [mattpocock/design-an-interface](design-ui/mattpocock/design-an-interface/SKILL.md)
 - [pbakaus/impeccable](design-ui/pbakaus/impeccable/SKILL.md)
 - [sickn33/ui-pattern](design-ui/sickn33/ui-pattern/SKILL.md)
 - [sickn33/ui-ux-designer](design-ui/sickn33/ui-ux-designer/SKILL.md)
@@ -556,6 +577,7 @@
 - [github/git-commit](devops-git-commit/github/git-commit/SKILL.md)
 - [mattnebr/commit-message](devops-git-commit/mattnebr/commit-message/SKILL.md)
 - [mattnebr/conventional-commits](devops-git-commit/mattnebr/conventional-commits/conventional-commits.instructions.md)
+- [mattpocock/setup-pre-commit](devops-git-commit/mattpocock/setup-pre-commit/SKILL.md)
 - [NeoLabHQ/commit](devops-git-commit/NeoLabHQ/commit/SKILL.md)
 - [SebastienDegodez/conventional-commits](devops-git-commit/SebastienDegodez/conventional-commits/conventional-commits.instructions.md)
 - [sickn33/commit](devops-git-commit/sickn33/commit/SKILL.md)
@@ -575,6 +597,8 @@
 - [addyosmani/git-workflow-and-versioning](devops-git-workflows/addyosmani/git-workflow-and-versioning/SKILL.md)
 - [jefflester/git-workflow](devops-git-workflows/jefflester/git-workflow/SKILL.md)
 - [mattnebr/git-no-pull-requests](devops-git-workflows/mattnebr/git-no-pull-requests/SKILL.md)
+- [mattpocock/git-guardrails-claude-code](devops-git-workflows/mattpocock/git-guardrails-claude-code/SKILL.md)
+- [mattpocock/scaffold-exercises](devops-git-workflows/mattpocock/scaffold-exercises/SKILL.md)
 - [sickn33/git-advanced-workflows](devops-git-workflows/sickn33/git-advanced-workflows/SKILL.md)
 - [sickn33/git-hooks-automation](devops-git-workflows/sickn33/git-hooks-automation/SKILL.md)
 - [sickn33/git-pr-workflows-git-workflow](devops-git-workflows/sickn33/git-pr-workflows-git-workflow/SKILL.md)
@@ -783,6 +807,8 @@
 - [addyosmani/idea-refine](plan-brainstorm/addyosmani/idea-refine/SKILL.md)
 - [bmad-code-org/bmad-brainstorming](plan-brainstorm/bmad-code-org/bmad-brainstorming/SKILL.md)
 - [cblecker/brainstorming](plan-brainstorm/cblecker/brainstorming/SKILL.md)
+- [mattpocock/grill-with-docs](plan-brainstorm/mattpocock/grill-with-docs/SKILL.md)
+- [mattpocock/zoom-out](plan-brainstorm/mattpocock/zoom-out/SKILL.md)
 - [NeoLabHQ/brainstorm](plan-brainstorm/NeoLabHQ/brainstorm/SKILL.md)
 - [NeoLabHQ/create-ideas](plan-brainstorm/NeoLabHQ/create-ideas/SKILL.md)
 - [NeoLabHQ/tree-of-thoughts](plan-brainstorm/NeoLabHQ/tree-of-thoughts/SKILL.md)
@@ -809,6 +835,8 @@
 - [github/first-ask](plan-requirements/github/first-ask/SKILL.md)
 - [github/what-context-needed](plan-requirements/github/what-context-needed/SKILL.md)
 - [mattnebr/follow-up-question](plan-requirements/mattnebr/follow-up-question/follow-up-question.instructions.md)
+- [mattpocock/to-issues](plan-requirements/mattpocock/to-issues/SKILL.md)
+- [mattpocock/to-prd](plan-requirements/mattpocock/to-prd/SKILL.md)
 - [SebastienDegodez/follow-up-question](plan-requirements/SebastienDegodez/follow-up-question/follow-up-question.instructions.md)
 - [sickn33/ask-questions-if-underspecified](plan-requirements/sickn33/ask-questions-if-underspecified/SKILL.md)
 
@@ -817,6 +845,7 @@
 - [addyosmani/shipping-and-launch](plan-software/addyosmani/shipping-and-launch/SKILL.md)
 - [github/automate-this](plan-software/github/automate-this/SKILL.md)
 - [github/refactor-plan](plan-software/github/refactor-plan/SKILL.md)
+- [mattpocock/request-refactor-plan](plan-software/mattpocock/request-refactor-plan/SKILL.md)
 - [sickn33/concise-planning](plan-software/sickn33/concise-planning/SKILL.md)
 - [sickn33/plan-writing](plan-software/sickn33/plan-writing/SKILL.md)
 - [sickn33/planning-with-files](plan-software/sickn33/planning-with-files/SKILL.md)
@@ -833,6 +862,7 @@
 - [alirezarezvani/api-design-reviewer](review-code/alirezarezvani/api-design-reviewer/SKILL.md)
 - [alirezarezvani/pr-review-expert](review-code/alirezarezvani/pr-review-expert/SKILL.md)
 - [feiskyer/github-review-pr](review-code/feiskyer/github-review-pr/SKILL.md)
+- [mattpocock/review](review-code/mattpocock/review/SKILL.md)
 - [NeoLabHQ/review-local-changes](review-code/NeoLabHQ/review-local-changes/SKILL.md)
 - [NeoLabHQ/review-pr](review-code/NeoLabHQ/review-pr/SKILL.md)
 - [obra/receiving-code-review](review-code/obra/receiving-code-review/SKILL.md)
@@ -847,6 +877,7 @@
 
 - [addyosmani/browser-testing-with-devtools](review-qa/addyosmani/browser-testing-with-devtools/SKILL.md)
 - [github/doublecheck](review-qa/github/doublecheck/SKILL.md)
+- [mattpocock/qa](review-qa/mattpocock/qa/SKILL.md)
 - [obra/verification-before-completion](review-qa/obra/verification-before-completion/SKILL.md)
 - [omkamal/pypict-claude-skill](review-qa/omkamal/pypict-claude-skill/SKILL.md)
 - [sickn33/performance-engineer](review-qa/sickn33/performance-engineer/SKILL.md)
@@ -922,6 +953,9 @@
 ## write-blog
 
 - [affaan-m/article-writing](write-blog/affaan-m/article-writing/SKILL.md)
+- [mattpocock/edit-article](write-blog/mattpocock/edit-article/SKILL.md)
+- [mattpocock/writing-beats](write-blog/mattpocock/writing-beats/SKILL.md)
+- [mattpocock/writing-shape](write-blog/mattpocock/writing-shape/SKILL.md)
 - [sickn33/seo-aeo-blog-writer](write-blog/sickn33/seo-aeo-blog-writer/SKILL.md)
 - [sickn33/seo-content-writer](write-blog/sickn33/seo-content-writer/SKILL.md)
 - [whawkinsiv/seo-content](write-blog/whawkinsiv/seo-content/SKILL.md)
@@ -941,6 +975,7 @@
 
 - [bmad-code-org/bmad-editorial-review-prose](write-general/bmad-code-org/bmad-editorial-review-prose/SKILL.md)
 - [bmad-code-org/bmad-editorial-review-structure](write-general/bmad-code-org/bmad-editorial-review-structure/SKILL.md)
+- [mattpocock/writing-fragments](write-general/mattpocock/writing-fragments/SKILL.md)
 
 ## write-internal-comms
 
@@ -961,6 +996,7 @@
 - [github/tldr-prompt](write-technical/github/tldr-prompt/SKILL.md)
 - [K-Dense-AI/scientific-writing](write-technical/K-Dense-AI/scientific-writing/SKILL.md)
 - [mattnebr/technical-writing-style](write-technical/mattnebr/technical-writing-style/SKILL.md)
+- [mattpocock/ubiquitous-language](write-technical/mattpocock/ubiquitous-language/SKILL.md)
 - [NeoLabHQ/update-docs](write-technical/NeoLabHQ/update-docs/SKILL.md)
 - [NeoLabHQ/write-concisely](write-technical/NeoLabHQ/write-concisely/SKILL.md)
 - [sickn33/readme](write-technical/sickn33/readme/SKILL.md)

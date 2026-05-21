@@ -7,11 +7,12 @@ description: "Apply backend architecture patterns like Clean Architecture, DDD, 
 
 <!-- AUTO-GENERATED -->
 
-17 skill variant(s).
+18 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | github | folder-structure-blueprint-generator | [SKILL.md](github/folder-structure-blueprint-generator/SKILL.md) |
+| mattpocock | improve-codebase-architecture | [SKILL.md](mattpocock/improve-codebase-architecture/SKILL.md) |
 | SebastienDegodez | modular-monolith-architecture | [modular-monolith-architecture.instructions.md](SebastienDegodez/modular-monolith-architecture/modular-monolith-architecture.instructions.md) |
 | SebastienDegodez | modular-monolith-communication | [modular-monolith-communication.instructions.md](SebastienDegodez/modular-monolith-communication/modular-monolith-communication.instructions.md) |
 | sickn33 | architecture | [SKILL.md](sickn33/architecture/SKILL.md) |

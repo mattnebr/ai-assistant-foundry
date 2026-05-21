@@ -7,13 +7,14 @@ description: "Skills for test-driven development in C# -- write failing tests fi
 
 <!-- AUTO-GENERATED -->
 
-6 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | test-driven-development | [SKILL.md](addyosmani/test-driven-development/SKILL.md) |
 | cblecker | test-driven-development | [SKILL.md](cblecker/test-driven-development/SKILL.md) |
 | github | eval-driven-dev | [SKILL.md](github/eval-driven-dev/SKILL.md) |
+| mattpocock | tdd | [SKILL.md](mattpocock/tdd/SKILL.md) |
 | NeoLabHQ | test-driven-development | [SKILL.md](NeoLabHQ/test-driven-development/SKILL.md) |
 | obra | test-driven-development | [SKILL.md](obra/test-driven-development/SKILL.md) |
 | SebastienDegodez | gherkin-gate | [SKILL.md](SebastienDegodez/gherkin-gate/SKILL.md) |

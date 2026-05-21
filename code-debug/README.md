@@ -7,11 +7,12 @@ description: "Systematic debugging and root-cause analysis skills for diagnosing
 
 <!-- AUTO-GENERATED -->
 
-4 skill variant(s).
+5 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | debugging-and-error-recovery | [SKILL.md](addyosmani/debugging-and-error-recovery/SKILL.md) |
+| mattpocock | diagnose | [SKILL.md](mattpocock/diagnose/SKILL.md) |
 | NeoLabHQ | root-cause-tracing | [SKILL.md](NeoLabHQ/root-cause-tracing/SKILL.md) |
 | obra | systematic-debugging | [SKILL.md](obra/systematic-debugging/SKILL.md) |
 | whawkinsiv | debug | [SKILL.md](whawkinsiv/debug/SKILL.md) |

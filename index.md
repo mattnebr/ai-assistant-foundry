@@ -1,6 +1,6 @@
 # skill index
 
-*120 skill group(s) — 640 total variant(s)*
+*122 skill group(s) — 644 total variant(s)*
 
 ## agent-email
 
@@ -512,9 +512,17 @@
 - [sickn33/brand-perception-psychologist](design-branding/sickn33/brand-perception-psychologist/SKILL.md)
 - [whawkinsiv/brand-identity-generator](design-branding/whawkinsiv/brand-identity-generator/SKILL.md)
 
+## design-canvas
+
+- [anthropics/canvas-design](design-canvas/anthropics/canvas-design/SKILL.md)
+
 ## design-favicon
 
 - [sickn33/favicon](design-favicon/sickn33/favicon/SKILL.md)
+
+## design-gif
+
+- [anthropics/slack-gif-creator](design-gif/anthropics/slack-gif-creator/SKILL.md)
 
 ## design-product
 
@@ -525,6 +533,7 @@
 
 - [alirezarezvani/ui-design-system](design-ui/alirezarezvani/ui-design-system/SKILL.md)
 - [anthropics/frontend-design](design-ui/anthropics/frontend-design/SKILL.md)
+- [anthropics/theme-factory](design-ui/anthropics/theme-factory/SKILL.md)
 - [axiaoge2/Apple-Hig-Designer](design-ui/axiaoge2/Apple-Hig-Designer/SKILL.md)
 - [github/web-design-reviewer](design-ui/github/web-design-reviewer/SKILL.md)
 - [mattpocock/design-an-interface](design-ui/mattpocock/design-an-interface/SKILL.md)
@@ -876,6 +885,7 @@
 ## review-qa
 
 - [addyosmani/browser-testing-with-devtools](review-qa/addyosmani/browser-testing-with-devtools/SKILL.md)
+- [anthropics/webapp-testing](review-qa/anthropics/webapp-testing/SKILL.md)
 - [github/doublecheck](review-qa/github/doublecheck/SKILL.md)
 - [mattpocock/qa](review-qa/mattpocock/qa/SKILL.md)
 - [obra/verification-before-completion](review-qa/obra/verification-before-completion/SKILL.md)

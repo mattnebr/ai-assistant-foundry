@@ -4899,6 +4899,34 @@
       "SkillFolder": "skills/productivity/write-a-skill",
       "GroupName": "agent-skill-maker",
       "ArchivedAt": "2026-05-21T00:37:35.8051046Z"
+    },
+    {
+      "Owner": "anthropics",
+      "Repo": "skills",
+      "SkillFolder": "skills/canvas-design",
+      "GroupName": "design-canvas",
+      "ArchivedAt": "2026-05-23T19:11:40.9394955Z"
+    },
+    {
+      "Owner": "anthropics",
+      "Repo": "skills",
+      "SkillFolder": "skills/slack-gif-creator",
+      "GroupName": "design-gif",
+      "ArchivedAt": "2026-05-23T19:12:30.3033742Z"
+    },
+    {
+      "Owner": "anthropics",
+      "Repo": "skills",
+      "SkillFolder": "skills/theme-factory",
+      "GroupName": "design-ui",
+      "ArchivedAt": "2026-05-23T19:12:51.829298Z"
+    },
+    {
+      "Owner": "anthropics",
+      "Repo": "skills",
+      "SkillFolder": "skills/webapp-testing",
+      "GroupName": "review-qa",
+      "ArchivedAt": "2026-05-23T19:13:49.7223154Z"
     }
   ]
 }

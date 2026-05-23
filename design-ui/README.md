@@ -7,12 +7,13 @@ description: "Skills for UI design including wireframes, design systems, interfa
 
 <!-- AUTO-GENERATED -->
 
-12 skill variant(s).
+13 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | ui-design-system | [SKILL.md](alirezarezvani/ui-design-system/SKILL.md) |
 | anthropics | frontend-design | [SKILL.md](anthropics/frontend-design/SKILL.md) |
+| anthropics | theme-factory | [SKILL.md](anthropics/theme-factory/SKILL.md) |
 | axiaoge2 | Apple-Hig-Designer | [SKILL.md](axiaoge2/Apple-Hig-Designer/SKILL.md) |
 | github | web-design-reviewer | [SKILL.md](github/web-design-reviewer/SKILL.md) |
 | mattpocock | design-an-interface | [SKILL.md](mattpocock/design-an-interface/SKILL.md) |

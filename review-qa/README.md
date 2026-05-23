@@ -7,11 +7,12 @@ description: "Skills for QA testing including manual test checklists, pairwise t
 
 <!-- AUTO-GENERATED -->
 
-7 skill variant(s).
+8 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | addyosmani | browser-testing-with-devtools | [SKILL.md](addyosmani/browser-testing-with-devtools/SKILL.md) |
+| anthropics | webapp-testing | [SKILL.md](anthropics/webapp-testing/SKILL.md) |
 | github | doublecheck | [SKILL.md](github/doublecheck/SKILL.md) |
 | mattpocock | qa | [SKILL.md](mattpocock/qa/SKILL.md) |
 | obra | verification-before-completion | [SKILL.md](obra/verification-before-completion/SKILL.md) |

@@ -4927,6 +4927,41 @@
       "SkillFolder": "skills/webapp-testing",
       "GroupName": "review-qa",
       "ArchivedAt": "2026-05-23T19:13:49.7223154Z"
+    },
+    {
+      "Owner": "vercel-labs",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/composition-patterns",
+      "GroupName": "code-react",
+      "ArchivedAt": "2026-05-28T23:08:35.7674431Z"
+    },
+    {
+      "Owner": "vercel-labs",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/react-best-practices",
+      "GroupName": "code-react",
+      "ArchivedAt": "2026-05-28T23:08:58.6774371Z"
+    },
+    {
+      "Owner": "vercel-labs",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/react-native-skills",
+      "GroupName": "code-react",
+      "ArchivedAt": "2026-05-28T23:09:12.2810556Z"
+    },
+    {
+      "Owner": "vercel-labs",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/react-view-transitions",
+      "GroupName": "code-react",
+      "ArchivedAt": "2026-05-28T23:09:18.5743064Z"
+    },
+    {
+      "Owner": "vercel-labs",
+      "Repo": "agent-skills",
+      "SkillFolder": "skills/web-design-guidelines",
+      "GroupName": "design-ui",
+      "ArchivedAt": "2026-05-28T23:09:51.2318919Z"
     }
   ]
 }

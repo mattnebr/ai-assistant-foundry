@@ -1,6 +1,6 @@
 # skill index
 
-*122 skill group(s) — 644 total variant(s)*
+*122 skill group(s) — 649 total variant(s)*
 
 ## agent-email
 
@@ -361,6 +361,10 @@
 - [sickn33/react-patterns](code-react/sickn33/react-patterns/SKILL.md)
 - [sickn33/react-state-management](code-react/sickn33/react-state-management/SKILL.md)
 - [sickn33/react-ui-patterns](code-react/sickn33/react-ui-patterns/SKILL.md)
+- [vercel-labs/composition-patterns](code-react/vercel-labs/composition-patterns/SKILL.md)
+- [vercel-labs/react-best-practices](code-react/vercel-labs/react-best-practices/SKILL.md)
+- [vercel-labs/react-native-skills](code-react/vercel-labs/react-native-skills/SKILL.md)
+- [vercel-labs/react-view-transitions](code-react/vercel-labs/react-view-transitions/SKILL.md)
 
 ## code-sveltekit
 
@@ -542,6 +546,7 @@
 - [sickn33/ui-ux-designer](design-ui/sickn33/ui-ux-designer/SKILL.md)
 - [sickn33/ui-ux-pro-max](design-ui/sickn33/ui-ux-pro-max/SKILL.md)
 - [sickn33/web-design-guidelines](design-ui/sickn33/web-design-guidelines/SKILL.md)
+- [vercel-labs/web-design-guidelines](design-ui/vercel-labs/web-design-guidelines/SKILL.md)
 - [whawkinsiv/design-review](design-ui/whawkinsiv/design-review/SKILL.md)
 - [whawkinsiv/ui-patterns](design-ui/whawkinsiv/ui-patterns/SKILL.md)
 

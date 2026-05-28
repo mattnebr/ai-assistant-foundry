@@ -7,7 +7,7 @@ description: "Skills for UI design including wireframes, design systems, interfa
 
 <!-- AUTO-GENERATED -->
 
-13 skill variant(s).
+14 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -22,6 +22,7 @@ description: "Skills for UI design including wireframes, design systems, interfa
 | sickn33 | ui-ux-designer | [SKILL.md](sickn33/ui-ux-designer/SKILL.md) |
 | sickn33 | ui-ux-pro-max | [SKILL.md](sickn33/ui-ux-pro-max/SKILL.md) |
 | sickn33 | web-design-guidelines | [SKILL.md](sickn33/web-design-guidelines/SKILL.md) |
+| vercel-labs | web-design-guidelines | [SKILL.md](vercel-labs/web-design-guidelines/SKILL.md) |
 | whawkinsiv | design-review | [SKILL.md](whawkinsiv/design-review/SKILL.md) |
 | whawkinsiv | ui-patterns | [SKILL.md](whawkinsiv/ui-patterns/SKILL.md) |
 

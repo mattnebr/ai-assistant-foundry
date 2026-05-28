@@ -4962,6 +4962,55 @@
       "SkillFolder": "skills/web-design-guidelines",
       "GroupName": "design-ui",
       "ArchivedAt": "2026-05-28T23:09:51.2318919Z"
+    },
+    {
+      "Owner": "nextlevelbuilder",
+      "Repo": "ui-ux-pro-max-skill",
+      "SkillFolder": ".claude/skills/banner-design",
+      "GroupName": "design-ui",
+      "ArchivedAt": "2026-05-28T23:10:51.7226025Z"
+    },
+    {
+      "Owner": "nextlevelbuilder",
+      "Repo": "ui-ux-pro-max-skill",
+      "SkillFolder": ".claude/skills/brand",
+      "GroupName": "design-branding",
+      "ArchivedAt": "2026-05-28T23:10:58.3419412Z"
+    },
+    {
+      "Owner": "nextlevelbuilder",
+      "Repo": "ui-ux-pro-max-skill",
+      "SkillFolder": ".claude/skills/design-system",
+      "GroupName": "design-ui",
+      "ArchivedAt": "2026-05-28T23:11:07.0748334Z"
+    },
+    {
+      "Owner": "nextlevelbuilder",
+      "Repo": "ui-ux-pro-max-skill",
+      "SkillFolder": ".claude/skills/design",
+      "GroupName": "design-ui",
+      "ArchivedAt": "2026-05-28T23:12:28.5469871Z"
+    },
+    {
+      "Owner": "nextlevelbuilder",
+      "Repo": "ui-ux-pro-max-skill",
+      "SkillFolder": ".claude/skills/slides",
+      "GroupName": "build-pptx",
+      "ArchivedAt": "2026-05-28T23:12:43.0582181Z"
+    },
+    {
+      "Owner": "nextlevelbuilder",
+      "Repo": "ui-ux-pro-max-skill",
+      "SkillFolder": ".claude/skills/ui-styling",
+      "GroupName": "design-ui",
+      "ArchivedAt": "2026-05-28T23:12:56.0915512Z"
+    },
+    {
+      "Owner": "nextlevelbuilder",
+      "Repo": "ui-ux-pro-max-skill",
+      "SkillFolder": ".claude/skills/ui-ux-pro-max",
+      "GroupName": "design-ux",
+      "ArchivedAt": "2026-05-28T23:13:32.3815633Z"
     }
   ]
 }

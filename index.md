@@ -1,6 +1,6 @@
 # skill index
 
-*122 skill group(s) — 649 total variant(s)*
+*122 skill group(s) — 656 total variant(s)*
 
 ## agent-email
 
@@ -156,6 +156,7 @@
 - [anthropics/pptx](build-pptx/anthropics/pptx/SKILL.md)
 - [K-Dense-AI/pptx](build-pptx/K-Dense-AI/pptx/SKILL.md)
 - [K-Dense-AI/pptx-posters](build-pptx/K-Dense-AI/pptx-posters/SKILL.md)
+- [nextlevelbuilder/slides](build-pptx/nextlevelbuilder/slides/SKILL.md)
 - [SebastienDegodez/marp-presentations](build-pptx/SebastienDegodez/marp-presentations/marp-presentations.instructions.md)
 - [sickn33/pptx-official](build-pptx/sickn33/pptx-official/SKILL.md)
 
@@ -511,6 +512,7 @@
 - [alirezarezvani/brand-guidelines](design-branding/alirezarezvani/brand-guidelines/SKILL.md)
 - [anthropics/brand-guidelines](design-branding/anthropics/brand-guidelines/SKILL.md)
 - [ComposioHQ/brand-guidelines](design-branding/ComposioHQ/brand-guidelines/SKILL.md)
+- [nextlevelbuilder/brand](design-branding/nextlevelbuilder/brand/SKILL.md)
 - [sickn33/brand-guidelines](design-branding/sickn33/brand-guidelines/SKILL.md)
 - [sickn33/brand-guidelines-anthropic](design-branding/sickn33/brand-guidelines-anthropic/SKILL.md)
 - [sickn33/brand-perception-psychologist](design-branding/sickn33/brand-perception-psychologist/SKILL.md)
@@ -541,6 +543,10 @@
 - [axiaoge2/Apple-Hig-Designer](design-ui/axiaoge2/Apple-Hig-Designer/SKILL.md)
 - [github/web-design-reviewer](design-ui/github/web-design-reviewer/SKILL.md)
 - [mattpocock/design-an-interface](design-ui/mattpocock/design-an-interface/SKILL.md)
+- [nextlevelbuilder/banner-design](design-ui/nextlevelbuilder/banner-design/SKILL.md)
+- [nextlevelbuilder/design](design-ui/nextlevelbuilder/design/SKILL.md)
+- [nextlevelbuilder/design-system](design-ui/nextlevelbuilder/design-system/SKILL.md)
+- [nextlevelbuilder/ui-styling](design-ui/nextlevelbuilder/ui-styling/SKILL.md)
 - [pbakaus/impeccable](design-ui/pbakaus/impeccable/SKILL.md)
 - [sickn33/ui-pattern](design-ui/sickn33/ui-pattern/SKILL.md)
 - [sickn33/ui-ux-designer](design-ui/sickn33/ui-ux-designer/SKILL.md)
@@ -555,6 +561,7 @@
 - [alirezarezvani/ux-researcher-designer](design-ux/alirezarezvani/ux-researcher-designer/SKILL.md)
 - [bmad-code-org/bmad-agent-ux-designer](design-ux/bmad-code-org/bmad-agent-ux-designer/SKILL.md)
 - [bmad-code-org/bmad-create-ux-design](design-ux/bmad-code-org/bmad-create-ux-design/SKILL.md)
+- [nextlevelbuilder/ui-ux-pro-max](design-ux/nextlevelbuilder/ui-ux-pro-max/SKILL.md)
 - [whawkinsiv/journey](design-ux/whawkinsiv/journey/SKILL.md)
 - [whawkinsiv/ux-design](design-ux/whawkinsiv/ux-design/SKILL.md)
 

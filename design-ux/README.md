@@ -7,13 +7,14 @@ description: "Skills for UX research and design including persona generation, jo
 
 <!-- AUTO-GENERATED -->
 
-5 skill variant(s).
+6 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | ux-researcher-designer | [SKILL.md](alirezarezvani/ux-researcher-designer/SKILL.md) |
 | bmad-code-org | bmad-agent-ux-designer | [SKILL.md](bmad-code-org/bmad-agent-ux-designer/SKILL.md) |
 | bmad-code-org | bmad-create-ux-design | [SKILL.md](bmad-code-org/bmad-create-ux-design/SKILL.md) |
+| nextlevelbuilder | ui-ux-pro-max | [SKILL.md](nextlevelbuilder/ui-ux-pro-max/SKILL.md) |
 | whawkinsiv | journey | [SKILL.md](whawkinsiv/journey/SKILL.md) |
 | whawkinsiv | ux-design | [SKILL.md](whawkinsiv/ux-design/SKILL.md) |
 

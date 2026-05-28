@@ -7,7 +7,7 @@ description: "Create, read, edit, and manipulate PowerPoint (.pptx) presentation
 
 <!-- AUTO-GENERATED -->
 
-6 skill variant(s).
+7 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -15,6 +15,7 @@ description: "Create, read, edit, and manipulate PowerPoint (.pptx) presentation
 | anthropics | pptx | [SKILL.md](anthropics/pptx/SKILL.md) |
 | K-Dense-AI | pptx | [SKILL.md](K-Dense-AI/pptx/SKILL.md) |
 | K-Dense-AI | pptx-posters | [SKILL.md](K-Dense-AI/pptx-posters/SKILL.md) |
+| nextlevelbuilder | slides | [SKILL.md](nextlevelbuilder/slides/SKILL.md) |
 | SebastienDegodez | marp-presentations | [marp-presentations.instructions.md](SebastienDegodez/marp-presentations/marp-presentations.instructions.md) |
 | sickn33 | pptx-official | [SKILL.md](sickn33/pptx-official/SKILL.md) |
 

@@ -7,13 +7,14 @@ description: "Skills for creating and applying brand guidelines, defining brand 
 
 <!-- AUTO-GENERATED -->
 
-7 skill variant(s).
+8 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | brand-guidelines | [SKILL.md](alirezarezvani/brand-guidelines/SKILL.md) |
 | anthropics | brand-guidelines | [SKILL.md](anthropics/brand-guidelines/SKILL.md) |
 | ComposioHQ | brand-guidelines | [SKILL.md](ComposioHQ/brand-guidelines/SKILL.md) |
+| nextlevelbuilder | brand | [SKILL.md](nextlevelbuilder/brand/SKILL.md) |
 | sickn33 | brand-guidelines | [SKILL.md](sickn33/brand-guidelines/SKILL.md) |
 | sickn33 | brand-guidelines-anthropic | [SKILL.md](sickn33/brand-guidelines-anthropic/SKILL.md) |
 | sickn33 | brand-perception-psychologist | [SKILL.md](sickn33/brand-perception-psychologist/SKILL.md) |

@@ -7,13 +7,14 @@ description: "Skills for planning content strategy, topic clusters, editorial ca
 
 <!-- AUTO-GENERATED -->
 
-9 skill variant(s).
+10 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | content-strategy | [SKILL.md](alirezarezvani/content-strategy/SKILL.md) |
 | coreyhaines31 | content-strategy | [SKILL.md](coreyhaines31/content-strategy/SKILL.md) |
 | coreyhaines31 | site-architecture | [SKILL.md](coreyhaines31/site-architecture/SKILL.md) |
+| julianoczkowski | information-architecture | [SKILL.md](julianoczkowski/information-architecture/SKILL.md) |
 | sickn33 | content-strategy | [SKILL.md](sickn33/content-strategy/SKILL.md) |
 | sickn33 | seo-aeo-content-cluster | [SKILL.md](sickn33/seo-aeo-content-cluster/SKILL.md) |
 | sickn33 | seo-aeo-keyword-research | [SKILL.md](sickn33/seo-aeo-keyword-research/SKILL.md) |

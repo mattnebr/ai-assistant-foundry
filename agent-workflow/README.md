@@ -7,12 +7,13 @@ description: "Define and implement multi-step agent workflows, command dispatchi
 
 <!-- AUTO-GENERATED -->
 
-10 skill variant(s).
+11 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | cblecker | dispatching-parallel-agents | [SKILL.md](cblecker/dispatching-parallel-agents/SKILL.md) |
 | cblecker | subagent-driven-development | [SKILL.md](cblecker/subagent-driven-development/SKILL.md) |
+| julianoczkowski | grill-me | [SKILL.md](julianoczkowski/grill-me/SKILL.md) |
 | mattpocock | caveman | [SKILL.md](mattpocock/caveman/SKILL.md) |
 | mattpocock | grill-me | [SKILL.md](mattpocock/grill-me/SKILL.md) |
 | mattpocock | handoff | [SKILL.md](mattpocock/handoff/SKILL.md) |

@@ -1,6 +1,6 @@
 # skill index
 
-*128 skill group(s) — 694 total variant(s)*
+*129 skill group(s) — 702 total variant(s)*
 
 ## agent-email
 
@@ -74,6 +74,7 @@
 
 - [cblecker/dispatching-parallel-agents](agent-workflow/cblecker/dispatching-parallel-agents/SKILL.md)
 - [cblecker/subagent-driven-development](agent-workflow/cblecker/subagent-driven-development/SKILL.md)
+- [julianoczkowski/grill-me](agent-workflow/julianoczkowski/grill-me/SKILL.md)
 - [mattpocock/caveman](agent-workflow/mattpocock/caveman/SKILL.md)
 - [mattpocock/grill-me](agent-workflow/mattpocock/grill-me/SKILL.md)
 - [mattpocock/handoff](agent-workflow/mattpocock/handoff/SKILL.md)
@@ -560,6 +561,9 @@
 - [anthropics/theme-factory](design-ui/anthropics/theme-factory/SKILL.md)
 - [axiaoge2/Apple-Hig-Designer](design-ui/axiaoge2/Apple-Hig-Designer/SKILL.md)
 - [github/web-design-reviewer](design-ui/github/web-design-reviewer/SKILL.md)
+- [julianoczkowski/design-brief](design-ui/julianoczkowski/design-brief/SKILL.md)
+- [julianoczkowski/design-tokens](design-ui/julianoczkowski/design-tokens/SKILL.md)
+- [julianoczkowski/frontend-design](design-ui/julianoczkowski/frontend-design/SKILL.md)
 - [mattpocock/design-an-interface](design-ui/mattpocock/design-an-interface/SKILL.md)
 - [nextlevelbuilder/banner-design](design-ui/nextlevelbuilder/banner-design/SKILL.md)
 - [nextlevelbuilder/design](design-ui/nextlevelbuilder/design/SKILL.md)
@@ -580,6 +584,7 @@
 - [alirezarezvani/ux-researcher-designer](design-ux/alirezarezvani/ux-researcher-designer/SKILL.md)
 - [bmad-code-org/bmad-agent-ux-designer](design-ux/bmad-code-org/bmad-agent-ux-designer/SKILL.md)
 - [bmad-code-org/bmad-create-ux-design](design-ux/bmad-code-org/bmad-create-ux-design/SKILL.md)
+- [julianoczkowski/design-flow](design-ux/julianoczkowski/design-flow/SKILL.md)
 - [nextlevelbuilder/ui-ux-pro-max](design-ux/nextlevelbuilder/ui-ux-pro-max/SKILL.md)
 - [whawkinsiv/journey](design-ux/whawkinsiv/journey/SKILL.md)
 - [whawkinsiv/ux-design](design-ux/whawkinsiv/ux-design/SKILL.md)
@@ -880,6 +885,7 @@
 - [alirezarezvani/content-strategy](plan-content-strategy/alirezarezvani/content-strategy/SKILL.md)
 - [coreyhaines31/content-strategy](plan-content-strategy/coreyhaines31/content-strategy/SKILL.md)
 - [coreyhaines31/site-architecture](plan-content-strategy/coreyhaines31/site-architecture/SKILL.md)
+- [julianoczkowski/information-architecture](plan-content-strategy/julianoczkowski/information-architecture/SKILL.md)
 - [sickn33/content-strategy](plan-content-strategy/sickn33/content-strategy/SKILL.md)
 - [sickn33/seo-aeo-content-cluster](plan-content-strategy/sickn33/seo-aeo-content-cluster/SKILL.md)
 - [sickn33/seo-aeo-keyword-research](plan-content-strategy/sickn33/seo-aeo-keyword-research/SKILL.md)
@@ -905,6 +911,7 @@
 - [addyosmani/shipping-and-launch](plan-software/addyosmani/shipping-and-launch/SKILL.md)
 - [github/automate-this](plan-software/github/automate-this/SKILL.md)
 - [github/refactor-plan](plan-software/github/refactor-plan/SKILL.md)
+- [julianoczkowski/brief-to-tasks](plan-software/julianoczkowski/brief-to-tasks/SKILL.md)
 - [mattpocock/request-refactor-plan](plan-software/mattpocock/request-refactor-plan/SKILL.md)
 - [sickn33/concise-planning](plan-software/sickn33/concise-planning/SKILL.md)
 - [sickn33/plan-writing](plan-software/sickn33/plan-writing/SKILL.md)
@@ -939,6 +946,10 @@
 ## review-dependency
 
 - [softaworks/dependency-updater](review-dependency/softaworks/dependency-updater/SKILL.md)
+
+## review-design
+
+- [julianoczkowski/design-review](review-design/julianoczkowski/design-review/SKILL.md)
 
 ## review-markdown
 

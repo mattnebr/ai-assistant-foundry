@@ -7,7 +7,7 @@ description: "Skills for UI design including wireframes, design systems, interfa
 
 <!-- AUTO-GENERATED -->
 
-19 skill variant(s).
+22 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -16,6 +16,9 @@ description: "Skills for UI design including wireframes, design systems, interfa
 | anthropics | theme-factory | [SKILL.md](anthropics/theme-factory/SKILL.md) |
 | axiaoge2 | Apple-Hig-Designer | [SKILL.md](axiaoge2/Apple-Hig-Designer/SKILL.md) |
 | github | web-design-reviewer | [SKILL.md](github/web-design-reviewer/SKILL.md) |
+| julianoczkowski | design-brief | [SKILL.md](julianoczkowski/design-brief/SKILL.md) |
+| julianoczkowski | design-tokens | [SKILL.md](julianoczkowski/design-tokens/SKILL.md) |
+| julianoczkowski | frontend-design | [SKILL.md](julianoczkowski/frontend-design/SKILL.md) |
 | mattpocock | design-an-interface | [SKILL.md](mattpocock/design-an-interface/SKILL.md) |
 | nextlevelbuilder | banner-design | [SKILL.md](nextlevelbuilder/banner-design/SKILL.md) |
 | nextlevelbuilder | design | [SKILL.md](nextlevelbuilder/design/SKILL.md) |

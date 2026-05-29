@@ -7,12 +7,13 @@ description: "Skills for writing and editing conversion-focused marketing copy f
 
 <!-- AUTO-GENERATED -->
 
-9 skill variant(s).
+10 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | copy-editing | [SKILL.md](alirezarezvani/copy-editing/SKILL.md) |
 | alirezarezvani | copywriting | [SKILL.md](alirezarezvani/copywriting/SKILL.md) |
+| bencium | bencium-aeo | [SKILL.md](bencium/bencium-aeo/SKILL.md) |
 | coreyhaines31 | copy-editing | [SKILL.md](coreyhaines31/copy-editing/SKILL.md) |
 | coreyhaines31 | copywriting | [SKILL.md](coreyhaines31/copywriting/SKILL.md) |
 | sickn33 | copy-editing | [SKILL.md](sickn33/copy-editing/SKILL.md) |

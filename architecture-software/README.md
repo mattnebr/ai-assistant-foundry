@@ -7,10 +7,11 @@ description: "Apply backend architecture patterns like Clean Architecture, DDD, 
 
 <!-- AUTO-GENERATED -->
 
-19 skill variant(s).
+20 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| bencium | negentropy-lens | [SKILL.md](bencium/negentropy-lens/SKILL.md) |
 | github | folder-structure-blueprint-generator | [SKILL.md](github/folder-structure-blueprint-generator/SKILL.md) |
 | mattpocock | improve-codebase-architecture | [SKILL.md](mattpocock/improve-codebase-architecture/SKILL.md) |
 | SebastienDegodez | modular-monolith-architecture | [modular-monolith-architecture.instructions.md](SebastienDegodez/modular-monolith-architecture/modular-monolith-architecture.instructions.md) |

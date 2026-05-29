@@ -6,10 +6,11 @@ aliases: []
 
 <!-- AUTO-GENERATED -->
 
-1 skill variant(s).
+2 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| bencium | design-audit | [SKILL.md](bencium/design-audit/SKILL.md) |
 | julianoczkowski | design-review | [SKILL.md](julianoczkowski/design-review/SKILL.md) |
 
 ---

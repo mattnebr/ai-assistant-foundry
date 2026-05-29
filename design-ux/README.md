@@ -7,11 +7,17 @@ description: "Skills for UX research and design including persona generation, jo
 
 <!-- AUTO-GENERATED -->
 
-7 skill variant(s).
+13 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | ux-researcher-designer | [SKILL.md](alirezarezvani/ux-researcher-designer/SKILL.md) |
+| bencium | bencium-controlled-ux-designer | [SKILL.md](bencium/bencium-controlled-ux-designer/SKILL.md) |
+| bencium | bencium-impact-designer | [SKILL.md](bencium/bencium-impact-designer/SKILL.md) |
+| bencium | bencium-innovative-ux-designer | [SKILL.md](bencium/bencium-innovative-ux-designer/SKILL.md) |
+| bencium | relationship-design | [SKILL.md](bencium/relationship-design/SKILL.md) |
+| bencium | renaissance-architecture | [SKILL.md](bencium/renaissance-architecture/SKILL.md) |
+| bencium | typography | [SKILL.md](bencium/typography/SKILL.md) |
 | bmad-code-org | bmad-agent-ux-designer | [SKILL.md](bmad-code-org/bmad-agent-ux-designer/SKILL.md) |
 | bmad-code-org | bmad-create-ux-design | [SKILL.md](bmad-code-org/bmad-create-ux-design/SKILL.md) |
 | julianoczkowski | design-flow | [SKILL.md](julianoczkowski/design-flow/SKILL.md) |

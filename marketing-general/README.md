@@ -7,11 +7,12 @@ description: "Broad marketing skills spanning growth strategy, campaign analytic
 
 <!-- AUTO-GENERATED -->
 
-14 skill variant(s).
+15 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | alirezarezvani | marketing-skill | [SKILL.md](alirezarezvani/marketing-skill/SKILL.md) |
+| bencium | organic-first-campaign | [SKILL.md](bencium/organic-first-campaign/SKILL.md) |
 | chadboyda | expansion-retention | [SKILL.md](chadboyda/expansion-retention/SKILL.md) |
 | chadboyda | gtm-engineering | [SKILL.md](chadboyda/gtm-engineering/SKILL.md) |
 | chadboyda | gtm-metrics | [SKILL.md](chadboyda/gtm-metrics/SKILL.md) |

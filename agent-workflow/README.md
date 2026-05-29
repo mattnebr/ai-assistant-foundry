@@ -7,10 +7,11 @@ description: "Define and implement multi-step agent workflows, command dispatchi
 
 <!-- AUTO-GENERATED -->
 
-11 skill variant(s).
+12 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| bencium | human-architect-mindset | [SKILL.md](bencium/human-architect-mindset/SKILL.md) |
 | cblecker | dispatching-parallel-agents | [SKILL.md](cblecker/dispatching-parallel-agents/SKILL.md) |
 | cblecker | subagent-driven-development | [SKILL.md](cblecker/subagent-driven-development/SKILL.md) |
 | julianoczkowski | grill-me | [SKILL.md](julianoczkowski/grill-me/SKILL.md) |

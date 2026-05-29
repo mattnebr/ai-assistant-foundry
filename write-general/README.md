@@ -7,10 +7,11 @@ description: "Skills for editorial review of prose quality and document structur
 
 <!-- AUTO-GENERATED -->
 
-3 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
+| bencium | adaptive-communication | [SKILL.md](bencium/adaptive-communication/SKILL.md) |
 | bmad-code-org | bmad-editorial-review-prose | [SKILL.md](bmad-code-org/bmad-editorial-review-prose/SKILL.md) |
 | bmad-code-org | bmad-editorial-review-structure | [SKILL.md](bmad-code-org/bmad-editorial-review-structure/SKILL.md) |
 | mattpocock | writing-fragments | [SKILL.md](mattpocock/writing-fragments/SKILL.md) |

@@ -7,7 +7,7 @@ description: "Skills for code review, architecture review, PR review, and clean 
 
 <!-- AUTO-GENERATED -->
 
-17 skill variant(s).
+18 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -15,6 +15,7 @@ description: "Skills for code review, architecture review, PR review, and clean 
 | addyosmani | code-simplification | [SKILL.md](addyosmani/code-simplification/SKILL.md) |
 | alirezarezvani | api-design-reviewer | [SKILL.md](alirezarezvani/api-design-reviewer/SKILL.md) |
 | alirezarezvani | pr-review-expert | [SKILL.md](alirezarezvani/pr-review-expert/SKILL.md) |
+| bencium | vanity-engineering-review | [SKILL.md](bencium/vanity-engineering-review/SKILL.md) |
 | feiskyer | github-review-pr | [SKILL.md](feiskyer/github-review-pr/SKILL.md) |
 | mattpocock | review | [SKILL.md](mattpocock/review/SKILL.md) |
 | NeoLabHQ | review-local-changes | [SKILL.md](NeoLabHQ/review-local-changes/SKILL.md) |

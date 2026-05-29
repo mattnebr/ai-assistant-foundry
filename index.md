@@ -1,6 +1,6 @@
 # skill index
 
-*129 skill group(s) — 702 total variant(s)*
+*129 skill group(s) — 716 total variant(s)*
 
 ## agent-email
 
@@ -72,6 +72,7 @@
 
 ## agent-workflow
 
+- [bencium/human-architect-mindset](agent-workflow/bencium/human-architect-mindset/SKILL.md)
 - [cblecker/dispatching-parallel-agents](agent-workflow/cblecker/dispatching-parallel-agents/SKILL.md)
 - [cblecker/subagent-driven-development](agent-workflow/cblecker/subagent-driven-development/SKILL.md)
 - [julianoczkowski/grill-me](agent-workflow/julianoczkowski/grill-me/SKILL.md)
@@ -116,6 +117,7 @@
 
 ## architecture-software
 
+- [bencium/negentropy-lens](architecture-software/bencium/negentropy-lens/SKILL.md)
 - [github/folder-structure-blueprint-generator](architecture-software/github/folder-structure-blueprint-generator/SKILL.md)
 - [mattpocock/improve-codebase-architecture](architecture-software/mattpocock/improve-codebase-architecture/SKILL.md)
 - [SebastienDegodez/modular-monolith-architecture](architecture-software/SebastienDegodez/modular-monolith-architecture/modular-monolith-architecture.instructions.md)
@@ -339,6 +341,7 @@
 ## code-nextjs
 
 - [affaan-m/nextjs-turbopack](code-nextjs/affaan-m/nextjs-turbopack/SKILL.md)
+- [bencium/bencium-code-conventions](code-nextjs/bencium/bencium-code-conventions/SKILL.md)
 - [sickn33/nextjs-app-router-patterns](code-nextjs/sickn33/nextjs-app-router-patterns/SKILL.md)
 - [sickn33/nextjs-best-practices](code-nextjs/sickn33/nextjs-best-practices/SKILL.md)
 - [sickn33/react-nextjs-development](code-nextjs/sickn33/react-nextjs-development/SKILL.md)
@@ -582,6 +585,12 @@
 ## design-ux
 
 - [alirezarezvani/ux-researcher-designer](design-ux/alirezarezvani/ux-researcher-designer/SKILL.md)
+- [bencium/bencium-controlled-ux-designer](design-ux/bencium/bencium-controlled-ux-designer/SKILL.md)
+- [bencium/bencium-impact-designer](design-ux/bencium/bencium-impact-designer/SKILL.md)
+- [bencium/bencium-innovative-ux-designer](design-ux/bencium/bencium-innovative-ux-designer/SKILL.md)
+- [bencium/relationship-design](design-ux/bencium/relationship-design/SKILL.md)
+- [bencium/renaissance-architecture](design-ux/bencium/renaissance-architecture/SKILL.md)
+- [bencium/typography](design-ux/bencium/typography/SKILL.md)
 - [bmad-code-org/bmad-agent-ux-designer](design-ux/bmad-code-org/bmad-agent-ux-designer/SKILL.md)
 - [bmad-code-org/bmad-create-ux-design](design-ux/bmad-code-org/bmad-create-ux-design/SKILL.md)
 - [julianoczkowski/design-flow](design-ux/julianoczkowski/design-flow/SKILL.md)
@@ -812,6 +821,7 @@
 ## marketing-general
 
 - [alirezarezvani/marketing-skill](marketing-general/alirezarezvani/marketing-skill/SKILL.md)
+- [bencium/organic-first-campaign](marketing-general/bencium/organic-first-campaign/SKILL.md)
 - [chadboyda/expansion-retention](marketing-general/chadboyda/expansion-retention/SKILL.md)
 - [chadboyda/gtm-engineering](marketing-general/chadboyda/gtm-engineering/SKILL.md)
 - [chadboyda/gtm-metrics](marketing-general/chadboyda/gtm-metrics/SKILL.md)
@@ -929,6 +939,7 @@
 - [addyosmani/code-simplification](review-code/addyosmani/code-simplification/SKILL.md)
 - [alirezarezvani/api-design-reviewer](review-code/alirezarezvani/api-design-reviewer/SKILL.md)
 - [alirezarezvani/pr-review-expert](review-code/alirezarezvani/pr-review-expert/SKILL.md)
+- [bencium/vanity-engineering-review](review-code/bencium/vanity-engineering-review/SKILL.md)
 - [feiskyer/github-review-pr](review-code/feiskyer/github-review-pr/SKILL.md)
 - [mattpocock/review](review-code/mattpocock/review/SKILL.md)
 - [NeoLabHQ/review-local-changes](review-code/NeoLabHQ/review-local-changes/SKILL.md)
@@ -949,6 +960,7 @@
 
 ## review-design
 
+- [bencium/design-audit](review-design/bencium/design-audit/SKILL.md)
 - [julianoczkowski/design-review](review-design/julianoczkowski/design-review/SKILL.md)
 
 ## review-markdown
@@ -1048,6 +1060,7 @@
 
 - [alirezarezvani/copy-editing](write-copywriting/alirezarezvani/copy-editing/SKILL.md)
 - [alirezarezvani/copywriting](write-copywriting/alirezarezvani/copywriting/SKILL.md)
+- [bencium/bencium-aeo](write-copywriting/bencium/bencium-aeo/SKILL.md)
 - [coreyhaines31/copy-editing](write-copywriting/coreyhaines31/copy-editing/SKILL.md)
 - [coreyhaines31/copywriting](write-copywriting/coreyhaines31/copywriting/SKILL.md)
 - [sickn33/copy-editing](write-copywriting/sickn33/copy-editing/SKILL.md)
@@ -1058,6 +1071,7 @@
 
 ## write-general
 
+- [bencium/adaptive-communication](write-general/bencium/adaptive-communication/SKILL.md)
 - [bmad-code-org/bmad-editorial-review-prose](write-general/bmad-code-org/bmad-editorial-review-prose/SKILL.md)
 - [bmad-code-org/bmad-editorial-review-structure](write-general/bmad-code-org/bmad-editorial-review-structure/SKILL.md)
 - [mattpocock/writing-fragments](write-general/mattpocock/writing-fragments/SKILL.md)

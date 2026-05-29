@@ -7,7 +7,7 @@ description: "Skills for SQL query writing and optimization, database schema des
 
 <!-- AUTO-GENERATED -->
 
-11 skill variant(s).
+12 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -21,6 +21,7 @@ description: "Skills for SQL query writing and optimization, database schema des
 | sickn33 | database-optimizer | [SKILL.md](sickn33/database-optimizer/SKILL.md) |
 | sickn33 | sql-optimization-patterns | [SKILL.md](sickn33/sql-optimization-patterns/SKILL.md) |
 | sickn33 | sql-pro | [SKILL.md](sickn33/sql-pro/SKILL.md) |
+| softaworks | database-schema-designer | [SKILL.md](softaworks/database-schema-designer/SKILL.md) |
 | whawkinsiv | database | [SKILL.md](whawkinsiv/database/SKILL.md) |
 
 ---

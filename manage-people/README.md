@@ -7,11 +7,13 @@ description: "Skills for mentoring developers, building team culture, and hiring
 
 <!-- AUTO-GENERATED -->
 
-2 skill variant(s).
+4 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
 | github | mentoring-juniors | [SKILL.md](github/mentoring-juniors/SKILL.md) |
+| softaworks | difficult-workplace-conversations | [SKILL.md](softaworks/difficult-workplace-conversations/SKILL.md) |
+| softaworks | feedback-mastery | [SKILL.md](softaworks/feedback-mastery/SKILL.md) |
 | whawkinsiv | hiring | [SKILL.md](whawkinsiv/hiring/SKILL.md) |
 
 ---

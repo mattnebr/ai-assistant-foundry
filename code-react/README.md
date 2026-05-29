@@ -7,7 +7,7 @@ description: "React component best practices covering performance optimization, 
 
 <!-- AUTO-GENERATED -->
 
-10 skill variant(s).
+12 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -17,6 +17,8 @@ description: "React component best practices covering performance optimization, 
 | sickn33 | react-patterns | [SKILL.md](sickn33/react-patterns/SKILL.md) |
 | sickn33 | react-state-management | [SKILL.md](sickn33/react-state-management/SKILL.md) |
 | sickn33 | react-ui-patterns | [SKILL.md](sickn33/react-ui-patterns/SKILL.md) |
+| softaworks | react-dev | [SKILL.md](softaworks/react-dev/SKILL.md) |
+| softaworks | react-useeffect | [SKILL.md](softaworks/react-useeffect/SKILL.md) |
 | vercel-labs | composition-patterns | [SKILL.md](vercel-labs/composition-patterns/SKILL.md) |
 | vercel-labs | react-best-practices | [SKILL.md](vercel-labs/react-best-practices/SKILL.md) |
 | vercel-labs | react-native-skills | [SKILL.md](vercel-labs/react-native-skills/SKILL.md) |

@@ -7,7 +7,7 @@ description: "Skills for writing and editing conversion-focused marketing copy f
 
 <!-- AUTO-GENERATED -->
 
-8 skill variant(s).
+9 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -18,6 +18,7 @@ description: "Skills for writing and editing conversion-focused marketing copy f
 | sickn33 | copy-editing | [SKILL.md](sickn33/copy-editing/SKILL.md) |
 | sickn33 | copywriting | [SKILL.md](sickn33/copywriting/SKILL.md) |
 | sickn33 | copywriting-psychologist | [SKILL.md](sickn33/copywriting-psychologist/SKILL.md) |
+| softaworks | humanizer | [SKILL.md](softaworks/humanizer/SKILL.md) |
 | whawkinsiv | copywriting | [SKILL.md](whawkinsiv/copywriting/SKILL.md) |
 
 ---

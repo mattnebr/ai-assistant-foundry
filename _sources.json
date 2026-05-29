@@ -5011,6 +5011,279 @@
       "SkillFolder": ".claude/skills/ui-ux-pro-max",
       "GroupName": "design-ux",
       "ArchivedAt": "2026-05-28T23:13:32.3815633Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/agent-md-refactor/skills/agent-md-refactor",
+      "GroupName": "review-markdown",
+      "ArchivedAt": "2026-05-28T23:15:26.0212379Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/backend-to-frontend-handoff-docs/skills/backend-to-frontend-handoff-docs",
+      "GroupName": "plan-software",
+      "ArchivedAt": "2026-05-28T23:16:33.8892412Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/c4-architecture/skills/c4-architecture",
+      "GroupName": "code-mermaid",
+      "ArchivedAt": "2026-05-28T23:17:22.0646431Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/command-creator/skills/command-creator",
+      "GroupName": "agent-skill-maker",
+      "ArchivedAt": "2026-05-28T23:18:57.9005515Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/commit-work/skills/commit-work",
+      "GroupName": "devops-git-commit",
+      "ArchivedAt": "2026-05-28T23:19:03.8399553Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/crafting-effective-readmes/skills/crafting-effective-readmes",
+      "GroupName": "write-technical",
+      "ArchivedAt": "2026-05-28T23:19:57.651816Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/daily-meeting-update/skills/daily-meeting-update",
+      "GroupName": "write-internal-comms",
+      "ArchivedAt": "2026-05-28T23:20:42.4713683Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/database-schema-designer/skills/database-schema-designer",
+      "GroupName": "data-database",
+      "ArchivedAt": "2026-05-28T23:21:16.0098112Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/datadog-cli/skills/datadog-cli",
+      "GroupName": "code-cli",
+      "ArchivedAt": "2026-05-28T23:21:29.6791785Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/dependency-updater/skills/dependency-updater",
+      "GroupName": "review-dependency",
+      "ArchivedAt": "2026-05-28T23:22:06.6335315Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/design-system-starter/skills/design-system-starter",
+      "GroupName": "design-ui",
+      "ArchivedAt": "2026-05-28T23:22:18.8816848Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/difficult-workplace-conversations/skills/difficult-workplace-conversations",
+      "GroupName": "manage-people",
+      "ArchivedAt": "2026-05-28T23:22:49.8503205Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/domain-name-brainstormer/skills/domain-name-brainstormer",
+      "GroupName": "design-product-name",
+      "ArchivedAt": "2026-05-28T23:23:56.0015561Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/draw-io/skills/draw-io",
+      "GroupName": "integrate-draw-io",
+      "ArchivedAt": "2026-05-28T23:24:27.402712Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/excalidraw/skills/excalidraw",
+      "GroupName": "integrate-excalidraw",
+      "ArchivedAt": "2026-05-28T23:24:59.4784571Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/feedback-mastery/skills/feedback-mastery",
+      "GroupName": "manage-people",
+      "ArchivedAt": "2026-05-28T23:25:25.3325232Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/frontend-to-backend-requirements/skills/frontend-to-backend-requirements",
+      "GroupName": "plan-requirements",
+      "ArchivedAt": "2026-05-28T23:25:51.2637409Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/game-changing-features/skills/game-changing-features",
+      "GroupName": "design-product",
+      "ArchivedAt": "2026-05-28T23:26:34.3986113Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/gemini/skills/gemini",
+      "GroupName": "integrate-gemini",
+      "ArchivedAt": "2026-05-28T23:26:56.8526375Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/humanizer/skills/humanizer",
+      "GroupName": "write-copywriting",
+      "ArchivedAt": "2026-05-28T23:27:47.9220899Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/jira/skills/jira",
+      "GroupName": "integrate-jira",
+      "ArchivedAt": "2026-05-28T23:28:04.21942Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/lesson-learned/skills/lesson-learned",
+      "GroupName": "manage-agile",
+      "ArchivedAt": "2026-05-29T00:24:56.0623685Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/marp-slide/skills/marp-slide",
+      "GroupName": "build-pptx",
+      "ArchivedAt": "2026-05-29T00:25:06.8559283Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/meme-factory/skills/meme-factory",
+      "GroupName": "design-canvas",
+      "ArchivedAt": "2026-05-29T00:25:42.4385845Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/mermaid-diagrams/skills/mermaid-diagrams",
+      "GroupName": "code-mermaid",
+      "ArchivedAt": "2026-05-29T00:25:48.2474713Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/naming-analyzer/skills/naming-analyzer",
+      "GroupName": "review-code",
+      "ArchivedAt": "2026-05-29T00:26:45.5604894Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/openapi-to-typescript/skills/openapi-to-typescript",
+      "GroupName": "code-typescript",
+      "ArchivedAt": "2026-05-29T00:26:59.1915727Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/professional-communication/skills/professional-communication",
+      "GroupName": "write-internal-comms",
+      "ArchivedAt": "2026-05-29T00:27:28.5758096Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/qa-test-planner/skills/qa-test-planner",
+      "GroupName": "review-qa",
+      "ArchivedAt": "2026-05-29T00:27:40.6610592Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/react-dev/skills/react-dev",
+      "GroupName": "code-react",
+      "ArchivedAt": "2026-05-29T00:27:45.3250715Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/react-useeffect/skills/react-useeffect",
+      "GroupName": "code-react",
+      "ArchivedAt": "2026-05-29T00:27:49.8423296Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/reducing-entropy/skills/reducing-entropy",
+      "GroupName": "architecture-software",
+      "ArchivedAt": "2026-05-29T00:28:11.6169283Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/requirements-clarity/skills/requirements-clarity",
+      "GroupName": "plan-requirements",
+      "ArchivedAt": "2026-05-29T00:28:15.6307495Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/session-handoff/skills/session-handoff",
+      "GroupName": "agent-orchestration",
+      "ArchivedAt": "2026-05-29T00:28:27.1062202Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/ship-learn-next/skills/ship-learn-next",
+      "GroupName": "manage-agile",
+      "ArchivedAt": "2026-05-29T00:28:56.3215617Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/skill-judge/skills/skill-judge",
+      "GroupName": "review-code",
+      "ArchivedAt": "2026-05-29T00:29:04.4858183Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/web-to-markdown/skills/web-to-markdown",
+      "GroupName": "code-markdown",
+      "ArchivedAt": "2026-05-29T00:29:10.0920421Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "dist/plugins/writing-clearly-and-concisely/skills/writing-clearly-and-concisely",
+      "GroupName": "write-technical",
+      "ArchivedAt": "2026-05-29T00:29:22.237717Z"
+    },
+    {
+      "Owner": "softaworks",
+      "Repo": "agent-toolkit",
+      "SkillFolder": "skills/agent-md-refactor",
+      "GroupName": "review-markdown",
+      "ArchivedAt": "2026-05-29T00:29:49.0849032Z"
     }
   ]
 }

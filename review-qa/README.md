@@ -7,7 +7,7 @@ description: "Skills for QA testing including manual test checklists, pairwise t
 
 <!-- AUTO-GENERATED -->
 
-8 skill variant(s).
+9 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -18,6 +18,7 @@ description: "Skills for QA testing including manual test checklists, pairwise t
 | obra | verification-before-completion | [SKILL.md](obra/verification-before-completion/SKILL.md) |
 | omkamal | pypict-claude-skill | [SKILL.md](omkamal/pypict-claude-skill/SKILL.md) |
 | sickn33 | performance-engineer | [SKILL.md](sickn33/performance-engineer/SKILL.md) |
+| softaworks | qa-test-planner | [SKILL.md](softaworks/qa-test-planner/SKILL.md) |
 | whawkinsiv | test | [SKILL.md](whawkinsiv/test/SKILL.md) |
 
 ---

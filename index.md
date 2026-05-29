@@ -1,6 +1,6 @@
 # skill index
 
-*122 skill group(s) — 656 total variant(s)*
+*128 skill group(s) — 694 total variant(s)*
 
 ## agent-email
 
@@ -40,6 +40,7 @@
 - [sickn33/agentflow](agent-orchestration/sickn33/agentflow/SKILL.md)
 - [sickn33/dispatching-parallel-agents](agent-orchestration/sickn33/dispatching-parallel-agents/SKILL.md)
 - [sickn33/subagent-driven-development](agent-orchestration/sickn33/subagent-driven-development/SKILL.md)
+- [softaworks/session-handoff](agent-orchestration/softaworks/session-handoff/SKILL.md)
 
 ## agent-phone
 
@@ -63,6 +64,7 @@
 - [obra/writing-skills](agent-skill-maker/obra/writing-skills/SKILL.md)
 - [SebastienDegodez/skill-creator](agent-skill-maker/SebastienDegodez/skill-creator/SKILL.md)
 - [sickn33/writing-skills](agent-skill-maker/sickn33/writing-skills/SKILL.md)
+- [softaworks/command-creator](agent-skill-maker/softaworks/command-creator/SKILL.md)
 
 ## agent-skills-install
 
@@ -131,6 +133,7 @@
 - [sickn33/projection-patterns](architecture-software/sickn33/projection-patterns/SKILL.md)
 - [sickn33/senior-architect](architecture-software/sickn33/senior-architect/SKILL.md)
 - [sickn33/software-architecture](architecture-software/sickn33/software-architecture/SKILL.md)
+- [softaworks/reducing-entropy](architecture-software/softaworks/reducing-entropy/SKILL.md)
 
 ## build-csharp-scaffold
 
@@ -159,6 +162,7 @@
 - [nextlevelbuilder/slides](build-pptx/nextlevelbuilder/slides/SKILL.md)
 - [SebastienDegodez/marp-presentations](build-pptx/SebastienDegodez/marp-presentations/marp-presentations.instructions.md)
 - [sickn33/pptx-official](build-pptx/sickn33/pptx-official/SKILL.md)
+- [softaworks/marp-slide](build-pptx/softaworks/marp-slide/SKILL.md)
 
 ## build-xlsx
 
@@ -189,6 +193,7 @@
 - [github/mcp-cli](code-cli/github/mcp-cli/SKILL.md)
 - [github/winapp-cli](code-cli/github/winapp-cli/SKILL.md)
 - [sickn33/ai-native-cli](code-cli/sickn33/ai-native-cli/SKILL.md)
+- [softaworks/datadog-cli](code-cli/softaworks/datadog-cli/SKILL.md)
 
 ## code-csharp
 
@@ -317,11 +322,14 @@
 - [github/update-markdown-file-index](code-markdown/github/update-markdown-file-index/SKILL.md)
 - [K-Dense-AI/markdown-mermaid-writing](code-markdown/K-Dense-AI/markdown-mermaid-writing/SKILL.md)
 - [sickn33/obsidian-markdown](code-markdown/sickn33/obsidian-markdown/SKILL.md)
+- [softaworks/web-to-markdown](code-markdown/softaworks/web-to-markdown/SKILL.md)
 
 ## code-mermaid
 
 - [imxv/Pretty-mermaid-skills](code-mermaid/imxv/Pretty-mermaid-skills/SKILL.md)
 - [sickn33/mermaid-expert](code-mermaid/sickn33/mermaid-expert/SKILL.md)
+- [softaworks/c4-architecture](code-mermaid/softaworks/c4-architecture/SKILL.md)
+- [softaworks/mermaid-diagrams](code-mermaid/softaworks/mermaid-diagrams/SKILL.md)
 
 ## code-nestjs
 
@@ -362,6 +370,8 @@
 - [sickn33/react-patterns](code-react/sickn33/react-patterns/SKILL.md)
 - [sickn33/react-state-management](code-react/sickn33/react-state-management/SKILL.md)
 - [sickn33/react-ui-patterns](code-react/sickn33/react-ui-patterns/SKILL.md)
+- [softaworks/react-dev](code-react/softaworks/react-dev/SKILL.md)
+- [softaworks/react-useeffect](code-react/softaworks/react-useeffect/SKILL.md)
 - [vercel-labs/composition-patterns](code-react/vercel-labs/composition-patterns/SKILL.md)
 - [vercel-labs/react-best-practices](code-react/vercel-labs/react-best-practices/SKILL.md)
 - [vercel-labs/react-native-skills](code-react/vercel-labs/react-native-skills/SKILL.md)
@@ -381,6 +391,7 @@
 - [sickn33/typescript-advanced-types](code-typescript/sickn33/typescript-advanced-types/SKILL.md)
 - [sickn33/typescript-expert](code-typescript/sickn33/typescript-expert/SKILL.md)
 - [sickn33/typescript-pro](code-typescript/sickn33/typescript-pro/SKILL.md)
+- [softaworks/openapi-to-typescript](code-typescript/softaworks/openapi-to-typescript/SKILL.md)
 
 ## code-ui
 
@@ -451,6 +462,7 @@
 - [sickn33/database-optimizer](data-database/sickn33/database-optimizer/SKILL.md)
 - [sickn33/sql-optimization-patterns](data-database/sickn33/sql-optimization-patterns/SKILL.md)
 - [sickn33/sql-pro](data-database/sickn33/sql-pro/SKILL.md)
+- [softaworks/database-schema-designer](data-database/softaworks/database-schema-designer/SKILL.md)
 - [whawkinsiv/database](data-database/whawkinsiv/database/SKILL.md)
 
 ## data-engineering
@@ -521,6 +533,7 @@
 ## design-canvas
 
 - [anthropics/canvas-design](design-canvas/anthropics/canvas-design/SKILL.md)
+- [softaworks/meme-factory](design-canvas/softaworks/meme-factory/SKILL.md)
 
 ## design-favicon
 
@@ -534,6 +547,11 @@
 
 - [sickn33/design-md](design-product/sickn33/design-md/SKILL.md)
 - [sickn33/product-design](design-product/sickn33/product-design/SKILL.md)
+- [softaworks/game-changing-features](design-product/softaworks/game-changing-features/SKILL.md)
+
+## design-product-name
+
+- [softaworks/domain-name-brainstormer](design-product-name/softaworks/domain-name-brainstormer/SKILL.md)
 
 ## design-ui
 
@@ -552,6 +570,7 @@
 - [sickn33/ui-ux-designer](design-ui/sickn33/ui-ux-designer/SKILL.md)
 - [sickn33/ui-ux-pro-max](design-ui/sickn33/ui-ux-pro-max/SKILL.md)
 - [sickn33/web-design-guidelines](design-ui/sickn33/web-design-guidelines/SKILL.md)
+- [softaworks/design-system-starter](design-ui/softaworks/design-system-starter/SKILL.md)
 - [vercel-labs/web-design-guidelines](design-ui/vercel-labs/web-design-guidelines/SKILL.md)
 - [whawkinsiv/design-review](design-ui/whawkinsiv/design-review/SKILL.md)
 - [whawkinsiv/ui-patterns](design-ui/whawkinsiv/ui-patterns/SKILL.md)
@@ -602,6 +621,7 @@
 - [NeoLabHQ/commit](devops-git-commit/NeoLabHQ/commit/SKILL.md)
 - [SebastienDegodez/conventional-commits](devops-git-commit/SebastienDegodez/conventional-commits/conventional-commits.instructions.md)
 - [sickn33/commit](devops-git-commit/sickn33/commit/SKILL.md)
+- [softaworks/commit-work](devops-git-commit/softaworks/commit-work/SKILL.md)
 
 ## devops-git-pr
 
@@ -647,6 +667,18 @@
 - [langpingxue/atlassian-skills](integrate-confluence/langpingxue/atlassian-skills/SKILL.md)
 - [sickn33/confluence-automation](integrate-confluence/sickn33/confluence-automation/SKILL.md)
 
+## integrate-draw-io
+
+- [softaworks/draw-io](integrate-draw-io/softaworks/draw-io/SKILL.md)
+
+## integrate-excalidraw
+
+- [softaworks/excalidraw](integrate-excalidraw/softaworks/excalidraw/SKILL.md)
+
+## integrate-gemini
+
+- [softaworks/gemini](integrate-gemini/softaworks/gemini/SKILL.md)
+
 ## integrate-jira
 
 - [alirezarezvani/atlassian-templates](integrate-jira/alirezarezvani/atlassian-templates/SKILL.md)
@@ -656,6 +688,7 @@
 - [sanjay3290/atlassian](integrate-jira/sanjay3290/atlassian/SKILL.md)
 - [sickn33/jira-automation](integrate-jira/sickn33/jira-automation/SKILL.md)
 - [sickn33/todoist-automation](integrate-jira/sickn33/todoist-automation/SKILL.md)
+- [softaworks/jira](integrate-jira/softaworks/jira/SKILL.md)
 
 ## integrate-notion
 
@@ -731,12 +764,16 @@
 - [NeoLabHQ/kaizen](manage-agile/NeoLabHQ/kaizen/SKILL.md)
 - [sickn33/team-collaboration-standup-notes](manage-agile/sickn33/team-collaboration-standup-notes/SKILL.md)
 - [sickn33/writing-plans](manage-agile/sickn33/writing-plans/SKILL.md)
+- [softaworks/lesson-learned](manage-agile/softaworks/lesson-learned/SKILL.md)
+- [softaworks/ship-learn-next](manage-agile/softaworks/ship-learn-next/SKILL.md)
 - [SuperClaude-Org/confidence-check](manage-agile/SuperClaude-Org/confidence-check/SKILL.md)
 - [whawkinsiv/plan](manage-agile/whawkinsiv/plan/SKILL.md)
 
 ## manage-people
 
 - [github/mentoring-juniors](manage-people/github/mentoring-juniors/SKILL.md)
+- [softaworks/difficult-workplace-conversations](manage-people/softaworks/difficult-workplace-conversations/SKILL.md)
+- [softaworks/feedback-mastery](manage-people/softaworks/feedback-mastery/SKILL.md)
 - [whawkinsiv/hiring](manage-people/whawkinsiv/hiring/SKILL.md)
 
 ## manage-project
@@ -860,6 +897,8 @@
 - [mattpocock/to-prd](plan-requirements/mattpocock/to-prd/SKILL.md)
 - [SebastienDegodez/follow-up-question](plan-requirements/SebastienDegodez/follow-up-question/follow-up-question.instructions.md)
 - [sickn33/ask-questions-if-underspecified](plan-requirements/sickn33/ask-questions-if-underspecified/SKILL.md)
+- [softaworks/frontend-to-backend-requirements](plan-requirements/softaworks/frontend-to-backend-requirements/SKILL.md)
+- [softaworks/requirements-clarity](plan-requirements/softaworks/requirements-clarity/SKILL.md)
 
 ## plan-software
 
@@ -870,6 +909,7 @@
 - [sickn33/concise-planning](plan-software/sickn33/concise-planning/SKILL.md)
 - [sickn33/plan-writing](plan-software/sickn33/plan-writing/SKILL.md)
 - [sickn33/planning-with-files](plan-software/sickn33/planning-with-files/SKILL.md)
+- [softaworks/backend-to-frontend-handoff-docs](plan-software/softaworks/backend-to-frontend-handoff-docs/SKILL.md)
 
 ## plan-verification
 
@@ -893,6 +933,16 @@
 - [sickn33/code-review-excellence](review-code/sickn33/code-review-excellence/SKILL.md)
 - [sickn33/code-reviewer](review-code/sickn33/code-reviewer/SKILL.md)
 - [sickn33/code-simplifier](review-code/sickn33/code-simplifier/SKILL.md)
+- [softaworks/naming-analyzer](review-code/softaworks/naming-analyzer/SKILL.md)
+- [softaworks/skill-judge](review-code/softaworks/skill-judge/SKILL.md)
+
+## review-dependency
+
+- [softaworks/dependency-updater](review-dependency/softaworks/dependency-updater/SKILL.md)
+
+## review-markdown
+
+- [softaworks/agent-md-refactor](review-markdown/softaworks/agent-md-refactor/SKILL.md)
 
 ## review-qa
 
@@ -903,6 +953,7 @@
 - [obra/verification-before-completion](review-qa/obra/verification-before-completion/SKILL.md)
 - [omkamal/pypict-claude-skill](review-qa/omkamal/pypict-claude-skill/SKILL.md)
 - [sickn33/performance-engineer](review-qa/sickn33/performance-engineer/SKILL.md)
+- [softaworks/qa-test-planner](review-qa/softaworks/qa-test-planner/SKILL.md)
 - [whawkinsiv/test](review-qa/whawkinsiv/test/SKILL.md)
 
 ## review-seo
@@ -991,6 +1042,7 @@
 - [sickn33/copy-editing](write-copywriting/sickn33/copy-editing/SKILL.md)
 - [sickn33/copywriting](write-copywriting/sickn33/copywriting/SKILL.md)
 - [sickn33/copywriting-psychologist](write-copywriting/sickn33/copywriting-psychologist/SKILL.md)
+- [softaworks/humanizer](write-copywriting/softaworks/humanizer/SKILL.md)
 - [whawkinsiv/copywriting](write-copywriting/whawkinsiv/copywriting/SKILL.md)
 
 ## write-general
@@ -1006,6 +1058,8 @@
 - [sickn33/internal-comms](write-internal-comms/sickn33/internal-comms/SKILL.md)
 - [sickn33/internal-comms-anthropic](write-internal-comms/sickn33/internal-comms-anthropic/SKILL.md)
 - [sickn33/internal-comms-community](write-internal-comms/sickn33/internal-comms-community/SKILL.md)
+- [softaworks/daily-meeting-update](write-internal-comms/softaworks/daily-meeting-update/SKILL.md)
+- [softaworks/professional-communication](write-internal-comms/softaworks/professional-communication/SKILL.md)
 
 ## write-technical
 
@@ -1023,4 +1077,6 @@
 - [NeoLabHQ/write-concisely](write-technical/NeoLabHQ/write-concisely/SKILL.md)
 - [sickn33/readme](write-technical/sickn33/readme/SKILL.md)
 - [sickn33/wiki-architect](write-technical/sickn33/wiki-architect/SKILL.md)
+- [softaworks/crafting-effective-readmes](write-technical/softaworks/crafting-effective-readmes/SKILL.md)
+- [softaworks/writing-clearly-and-concisely](write-technical/softaworks/writing-clearly-and-concisely/SKILL.md)
 

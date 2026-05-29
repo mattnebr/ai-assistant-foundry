@@ -7,7 +7,7 @@ description: "Agile methodology skills including sprint planning, scrum masterin
 
 <!-- AUTO-GENERATED -->
 
-32 skill variant(s).
+34 skill variant(s).
 
 | Source | Skill Folder | Skill |
 |---|---|---|
@@ -41,6 +41,8 @@ description: "Agile methodology skills including sprint planning, scrum masterin
 | NeoLabHQ | kaizen | [SKILL.md](NeoLabHQ/kaizen/SKILL.md) |
 | sickn33 | team-collaboration-standup-notes | [SKILL.md](sickn33/team-collaboration-standup-notes/SKILL.md) |
 | sickn33 | writing-plans | [SKILL.md](sickn33/writing-plans/SKILL.md) |
+| softaworks | lesson-learned | [SKILL.md](softaworks/lesson-learned/SKILL.md) |
+| softaworks | ship-learn-next | [SKILL.md](softaworks/ship-learn-next/SKILL.md) |
 | SuperClaude-Org | confidence-check | [SKILL.md](SuperClaude-Org/confidence-check/SKILL.md) |
 | whawkinsiv | plan | [SKILL.md](whawkinsiv/plan/SKILL.md) |
 
